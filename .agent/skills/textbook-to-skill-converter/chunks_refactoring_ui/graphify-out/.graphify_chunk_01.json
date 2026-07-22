@@ -1,0 +1,119 @@
+{
+  "nodes": [
+    {
+      "id": "chunks_refactoring_ui_chapter_06_hierarchy_is_everything_hierarchy_is_everything",
+      "label": "Hierarchy is Everything",
+      "file_type": "concept",
+      "source_file": "chunks_refactoring_ui/chapter_06_Hierarchy_is_Everything.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_07_size_isn_t_everything_size_isnt_everything",
+      "label": "Size isn't everything",
+      "file_type": "concept",
+      "source_file": "chunks_refactoring_ui/chapter_07_Size_isn_t_everything.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_08_don_t_use_grey_text_on_colored_backgrounds_dont_use_grey_text",
+      "label": "Don't use grey text on colored backgrounds",
+      "file_type": "rationale",
+      "source_file": "chunks_refactoring_ui/chapter_08_Don_t_use_grey_text_on_colored_backgrounds.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_15_establish_a_spacing_and_sizing_system_spacing_and_sizing_system",
+      "label": "Spacing and sizing system",
+      "file_type": "concept",
+      "source_file": "chunks_refactoring_ui/chapter_15_Establish_a_spacing_and_sizing_system.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_17_grids_are_overrated_grids_are_overrated",
+      "label": "Grids are overrated",
+      "file_type": "rationale",
+      "source_file": "chunks_refactoring_ui/chapter_17_Grids_are_overrated.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_05_limit_your_choices_limit_your_choices",
+      "label": "Limit your choices",
+      "file_type": "rationale",
+      "source_file": "chunks_refactoring_ui/chapter_05_Limit_your_choices.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "chunks_refactoring_ui_chapter_07_size_isn_t_everything_size_isnt_everything",
+      "target": "chunks_refactoring_ui_chapter_06_hierarchy_is_everything_hierarchy_is_everything",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "chunks_refactoring_ui/chapter_07_Size_isn_t_everything.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_08_don_t_use_grey_text_on_colored_backgrounds_dont_use_grey_text",
+      "target": "chunks_refactoring_ui_chapter_06_hierarchy_is_everything_hierarchy_is_everything",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "chunks_refactoring_ui/chapter_08_Don_t_use_grey_text_on_colored_backgrounds.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_15_establish_a_spacing_and_sizing_system_spacing_and_sizing_system",
+      "target": "chunks_refactoring_ui_chapter_05_limit_your_choices_limit_your_choices",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "chunks_refactoring_ui/chapter_15_Establish_a_spacing_and_sizing_system.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "visual_hierarchy_concepts",
+      "label": "Visual Hierarchy Concepts",
+      "nodes": [
+        "chunks_refactoring_ui_chapter_06_hierarchy_is_everything_hierarchy_is_everything",
+        "chunks_refactoring_ui_chapter_07_size_isn_t_everything_size_isnt_everything",
+        "chunks_refactoring_ui_chapter_08_don_t_use_grey_text_on_colored_backgrounds_dont_use_grey_text"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "chunks_refactoring_ui/chapter_06_Hierarchy_is_Everything.md"
+    }
+  ],
+  "input_tokens": 1500,
+  "output_tokens": 300
+}

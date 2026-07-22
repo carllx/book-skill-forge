@@ -1,0 +1,7 @@
+{
+  "nodes": [
+    { "id": "ext_c1", "label": "Escaping Flatland Node", "type": "Concept" },
+    { "id": "ext_c3", "label": "Layering and Separation Entity", "type": "Concept" }
+  ],
+  "edges": []
+}

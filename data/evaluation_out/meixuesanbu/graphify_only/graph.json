@@ -1,0 +1,2647 @@
+{
+  "nodes": [
+    {
+      "id": "《美学散步》",
+      "label": "《美学散步》",
+      "type": "Work"
+    },
+    {
+      "id": "宗白华",
+      "type": "Person",
+      "label": "宗白华"
+    },
+    {
+      "id": "亚里士多德",
+      "label": "Person",
+      "properties": {
+        "description": "柏拉图弟子，提出艺术模仿自然论，悲剧净化说，以及中庸之道"
+      }
+    },
+    {
+      "id": "散步学派",
+      "type": "School",
+      "label": "散步学派"
+    },
+    {
+      "id": "庄子",
+      "type": "Person",
+      "attributes": {
+        "role": "philosopher"
+      }
+    },
+    {
+      "id": "达·芬奇",
+      "label": "Person",
+      "properties": {
+        "description": "Leonardo da Vinci"
+      }
+    },
+    {
+      "id": "王维",
+      "type": "Person",
+      "properties": {
+        "description": "唐代大诗人、画家，其诗画境界被评为静远空灵，诗中有画，画中有诗"
+      }
+    },
+    {
+      "id": "《蓝田烟雨图》",
+      "type": "Artwork",
+      "label": "《蓝田烟雨图》"
+    },
+    {
+      "id": "苏东坡",
+      "type": "Person",
+      "attributes": {
+        "role": "calligrapher"
+      }
+    },
+    {
+      "id": "莱辛",
+      "type": "Person",
+      "label": "莱辛"
+    },
+    {
+      "id": "《拉奥孔或论画和诗的分界》",
+      "type": "Book",
+      "label": "《拉奥孔或论画和诗的分界》"
+    },
+    {
+      "id": "拉奥孔",
+      "type": "Entity",
+      "label": "拉奥孔"
+    },
+    {
+      "id": "温克尔曼",
+      "type": "Person",
+      "label": "温克尔曼"
+    },
+    {
+      "id": "荷马",
+      "type": "Person",
+      "label": "荷马"
+    },
+    {
+      "id": "《伊利亚特》",
+      "type": "Book",
+      "label": "《伊利亚特》"
+    },
+    {
+      "id": "王国维",
+      "type": "Person",
+      "label": "王国维"
+    },
+    {
+      "id": "《人间词话》",
+      "type": "Book",
+      "label": "《人间词话》"
+    },
+    {
+      "id": "王昌龄",
+      "label": "王昌龄",
+      "type": "Person"
+    },
+    {
+      "id": "《初日》",
+      "type": "Poem",
+      "label": "《初日》"
+    },
+    {
+      "id": "门采尔",
+      "type": "Person",
+      "label": "门采尔"
+    },
+    {
+      "id": "罗大经",
+      "type": "Person",
+      "label": "罗大经"
+    },
+    {
+      "id": "《鹤林玉露》",
+      "type": "Book",
+      "label": "《鹤林玉露》"
+    },
+    {
+      "id": "王羲之",
+      "type": "Person",
+      "attributes": {
+        "role": "calligrapher"
+      }
+    },
+    {
+      "id": "《兰亭序》",
+      "type": "Work",
+      "attributes": {
+        "type": "Calligraphy"
+      }
+    },
+    {
+      "id": "伯牙",
+      "type": "Person",
+      "label": "伯牙"
+    },
+    {
+      "id": "成连",
+      "type": "Person",
+      "label": "成连"
+    },
+    {
+      "id": "方子春",
+      "type": "Person",
+      "label": "方子春"
+    },
+    {
+      "id": "栗卜斯",
+      "type": "Person",
+      "label": "栗卜斯"
+    },
+    {
+      "id": "郭六芳",
+      "type": "Person",
+      "label": "郭六芳"
+    },
+    {
+      "id": "《舟还长沙》",
+      "type": "Poem",
+      "label": "《舟还长沙》"
+    },
+    {
+      "id": "陈简斋",
+      "type": "Person",
+      "label": "陈简斋"
+    },
+    {
+      "id": "艾里略",
+      "type": "Person",
+      "label": "艾里略 (T.S. Eliot)"
+    },
+    {
+      "id": "里尔克",
+      "type": "Person",
+      "label": "里尔克"
+    },
+    {
+      "id": "《柏列格的随笔》",
+      "type": "Book",
+      "label": "《柏列格的随笔》"
+    },
+    {
+      "id": "张大复",
+      "type": "Person",
+      "label": "张大复"
+    },
+    {
+      "id": "《梅花草堂笔谈》",
+      "type": "Book",
+      "label": "《梅花草堂笔谈》"
+    },
+    {
+      "id": "培根",
+      "type": "Person",
+      "label": "培根"
+    },
+    {
+      "id": "周济",
+      "type": "Person",
+      "label": "周济"
+    },
+    {
+      "id": "《宋四家词选》",
+      "type": "Book",
+      "label": "《宋四家词选》"
+    },
+    {
+      "id": "孟子",
+      "type": "Person",
+      "attributes": {
+        "role": "philosopher"
+      }
+    },
+    {
+      "id": "宗炳",
+      "type": "Person",
+      "properties": {
+        "description": "六朝刘宋画家，主张“身所盘桓，目所绸缪”的空间观照法"
+      }
+    },
+    {
+      "id": "王微",
+      "type": "Person",
+      "description": "中国六朝刘宋时画家，中国山水画的开创人与理论建设者。"
+    },
+    {
+      "id": "中国山水画",
+      "type": "Concept",
+      "description": "中国绘画的重要流派，强调气韵生动与空间意识。"
+    },
+    {
+      "id": "透视法",
+      "label": "Concept",
+      "properties": {
+        "description": "Perspective"
+      }
+    },
+    {
+      "id": "画山水序",
+      "type": "Work",
+      "description": "宗炳关于山水画理论的著作。"
+    },
+    {
+      "id": "叙画",
+      "type": "Work",
+      "description": "王微关于山水画理论的著作。"
+    },
+    {
+      "id": "中国画学全史",
+      "type": "Work",
+      "description": "郑午昌编写的综述中国绘画与画学历史的专著。"
+    },
+    {
+      "id": "郑午昌",
+      "type": "Person",
+      "description": "《中国画学全史》的作者。"
+    },
+    {
+      "id": "山水画法类丛",
+      "type": "Work",
+      "description": "黄憩园编写的专门探讨山水画法的著作。"
+    },
+    {
+      "id": "黄憩园",
+      "type": "Person",
+      "description": "《山水画法类丛》的作者。"
+    },
+    {
+      "id": "敦煌艺术",
+      "type": "Concept",
+      "description": "中国丰富的宗教艺术，包含壁画与雕塑。"
+    },
+    {
+      "id": "张图",
+      "type": "Person",
+      "description": "五代时画家，擅画佛道鬼神。"
+    },
+    {
+      "id": "跋异",
+      "type": "Person",
+      "description": "五代时画家，号为绝笔，参与壁画创作。"
+    },
+    {
+      "id": "中国书法",
+      "type": "Concept",
+      "attributes": {
+        "domain": "Art"
+      }
+    },
+    {
+      "id": "孙过庭",
+      "type": "Person",
+      "description": "唐代书家，著有《书谱》。"
+    },
+    {
+      "id": "书谱",
+      "type": "Work",
+      "description": "孙过庭的书法理论著作。"
+    },
+    {
+      "id": "兰亭序",
+      "type": "Work",
+      "description": "王羲之的书法名作，受唐太宗极度推崇。"
+    },
+    {
+      "id": "张旭",
+      "type": "Person",
+      "description": "唐代善草书的书法大家，将自然界形象与情感融入书法。"
+    },
+    {
+      "id": "蔡邕",
+      "type": "Person",
+      "description": "后汉大书家，提出结字应象形。"
+    },
+    {
+      "id": "赵子昂",
+      "type": "Person",
+      "description": "元代书家，字结构融入飞鸟、鼠形等物象。"
+    },
+    {
+      "id": "丰坊",
+      "type": "Person",
+      "description": "明代人，著有《笔诀》。"
+    },
+    {
+      "id": "笔诀",
+      "type": "Work",
+      "description": "探讨书法中筋骨血肉关系的理论著作。"
+    },
+    {
+      "id": "中国美学史",
+      "type": "Concept",
+      "description": "中国美学思想的历史"
+    },
+    {
+      "id": "错采镂金",
+      "type": "Concept",
+      "description": "代表雕饰满眼、华丽繁富的美的理想"
+    },
+    {
+      "id": "芙蓉出水",
+      "type": "Concept",
+      "description": "代表初发芙蓉、自然可爱、平淡素净的美的理想"
+    },
+    {
+      "id": "虚实结合",
+      "type": "Concept",
+      "description": "中国艺术的重要特点，以虚带实，以实带虚"
+    },
+    {
+      "id": "化景物为情思",
+      "type": "Concept",
+      "description": "艺术中主观和客观相结合，创造美的形象"
+    },
+    {
+      "id": "易经",
+      "type": "Book",
+      "description": "包含丰富美学思想的儒家经典"
+    },
+    {
+      "id": "贲卦",
+      "type": "Concept",
+      "description": "《易经》中的卦象，涉及文与质的关系"
+    },
+    {
+      "id": "白贲",
+      "type": "Concept",
+      "description": "本色的美，绚烂之极归于平淡"
+    },
+    {
+      "id": "离卦",
+      "type": "Concept",
+      "description": "《易经》中的卦象，代表附丽之美、通透之美、并俪之美"
+    },
+    {
+      "id": "谢赫",
+      "type": "Person",
+      "attributes": {
+        "role": "art critic"
+      }
+    },
+    {
+      "id": "绘画六法",
+      "type": "Concept",
+      "description": "谢赫提出的绘画思想指导原理"
+    },
+    {
+      "id": "气韵生动",
+      "label": "Concept",
+      "properties": {
+        "description": "Rhythmic Vitality / Vividness of Spirit"
+      }
+    },
+    {
+      "id": "顾恺之",
+      "type": "Person"
+    },
+    {
+      "id": "迁想妙得",
+      "type": "Concept",
+      "description": "顾恺之提出的艺术想象方法，即形象思维"
+    },
+    {
+      "id": "骨法用笔",
+      "label": "Concept",
+      "properties": {
+        "description": "Bone Method in Brushwork"
+      }
+    },
+    {
+      "id": "风骨",
+      "type": "Concept",
+      "description": "中国古典美学理论，'骨'指思想表现，'风'指情感表现"
+    },
+    {
+      "id": "以大观小",
+      "type": "Concept",
+      "properties": {
+        "description": "中国山水画的空间法则，不局限于固定透视焦点，而是用心灵俯仰宇宙、笼罩全景的观照方法"
+      }
+    },
+    {
+      "id": "沈括",
+      "type": "Person",
+      "properties": {
+        "description": "宋代博学家，在《梦溪笔谈》中主张中国山水画的“以大观小”之法"
+      }
+    },
+    {
+      "id": "乐记",
+      "type": "Book",
+      "description": "先秦关于音乐美学的总结性著作"
+    },
+    {
+      "id": "《乐记》",
+      "type": "Work",
+      "attributes": {
+        "type": "Book"
+      }
+    },
+    {
+      "id": "礼",
+      "type": "Concept"
+    },
+    {
+      "id": "乐",
+      "type": "Concept"
+    },
+    {
+      "id": "逻辑语言",
+      "type": "Concept"
+    },
+    {
+      "id": "音乐语言",
+      "type": "Concept"
+    },
+    {
+      "id": "舞蹈",
+      "label": "Art Form",
+      "properties": {
+        "description": "Dance"
+      }
+    },
+    {
+      "id": "字",
+      "type": "Concept"
+    },
+    {
+      "id": "声",
+      "type": "Concept"
+    },
+    {
+      "id": "声中无字，字中有声",
+      "type": "Concept"
+    },
+    {
+      "id": "真与美",
+      "type": "Concept"
+    },
+    {
+      "id": "梅兰芳",
+      "type": "Person"
+    },
+    {
+      "id": "务头",
+      "type": "Concept"
+    },
+    {
+      "id": "戏曲歌唱",
+      "type": "ArtForm"
+    },
+    {
+      "id": "中国园林建筑",
+      "type": "Concept"
+    },
+    {
+      "id": "飞动之美",
+      "type": "Concept"
+    },
+    {
+      "id": "空间美感",
+      "type": "Concept"
+    },
+    {
+      "id": "窗子",
+      "type": "Element"
+    },
+    {
+      "id": "借景",
+      "type": "Technique"
+    },
+    {
+      "id": "分景",
+      "type": "Technique"
+    },
+    {
+      "id": "隔景",
+      "type": "Technique"
+    },
+    {
+      "id": "艺术境界",
+      "type": "Concept"
+    },
+    {
+      "id": "意境",
+      "type": "Concept"
+    },
+    {
+      "id": "情",
+      "type": "Concept"
+    },
+    {
+      "id": "景",
+      "type": "Concept"
+    },
+    {
+      "id": "禅境",
+      "type": "Concept"
+    },
+    {
+      "id": "道",
+      "type": "Concept"
+    },
+    {
+      "id": "艺",
+      "type": "Concept"
+    },
+    {
+      "id": "舞",
+      "type": "Concept"
+    },
+    {
+      "id": "空白",
+      "type": "Concept"
+    },
+    {
+      "id": "王船山",
+      "type": "Person"
+    },
+    {
+      "id": "邵元冲",
+      "label": "邵元冲",
+      "type": "Person"
+    },
+    {
+      "id": "《如何建设中国文化》",
+      "label": "《如何建设中国文化》",
+      "type": "Work"
+    },
+    {
+      "id": "民族自信力",
+      "label": "民族自信力",
+      "type": "Concept"
+    },
+    {
+      "id": "唐代诗歌",
+      "label": "唐代诗歌",
+      "type": "Concept"
+    },
+    {
+      "id": "初唐时期",
+      "label": "初唐时期",
+      "type": "TimePeriod"
+    },
+    {
+      "id": "盛唐时期",
+      "label": "盛唐时期",
+      "type": "TimePeriod"
+    },
+    {
+      "id": "晚唐时期",
+      "label": "晚唐时期",
+      "type": "TimePeriod"
+    },
+    {
+      "id": "魏征",
+      "label": "魏征",
+      "type": "Person"
+    },
+    {
+      "id": "陈子昂",
+      "label": "陈子昂",
+      "type": "Person"
+    },
+    {
+      "id": "骆宾王",
+      "label": "骆宾王",
+      "type": "Person"
+    },
+    {
+      "id": "杨炯",
+      "label": "杨炯",
+      "type": "Person"
+    },
+    {
+      "id": "刘希夷",
+      "label": "刘希夷",
+      "type": "Person"
+    },
+    {
+      "id": "卢照邻",
+      "label": "卢照邻",
+      "type": "Person"
+    },
+    {
+      "id": "祖咏",
+      "label": "祖咏",
+      "type": "Person"
+    },
+    {
+      "id": "杜少陵",
+      "label": "杜少陵",
+      "type": "Person"
+    },
+    {
+      "id": "李太白",
+      "label": "李太白",
+      "type": "Person"
+    },
+    {
+      "id": "王摩诘",
+      "label": "王摩诘",
+      "type": "Person"
+    },
+    {
+      "id": "岑参",
+      "label": "岑参",
+      "type": "Person"
+    },
+    {
+      "id": "李益",
+      "label": "李益",
+      "type": "Person"
+    },
+    {
+      "id": "张祜",
+      "label": "张祜",
+      "type": "Person"
+    },
+    {
+      "id": "出塞曲",
+      "label": "出塞曲",
+      "type": "Concept"
+    },
+    {
+      "id": "李商隐",
+      "label": "李商隐",
+      "type": "Person"
+    },
+    {
+      "id": "温庭筠",
+      "label": "温庭筠",
+      "type": "Person"
+    },
+    {
+      "id": "杜牧",
+      "label": "杜牧",
+      "type": "Person"
+    },
+    {
+      "id": "韦庄",
+      "label": "韦庄",
+      "type": "Person"
+    },
+    {
+      "id": "林同华",
+      "label": "林同华",
+      "type": "Person"
+    },
+    {
+      "id": "Kant",
+      "label": "康德",
+      "type": "Person",
+      "properties": {
+        "description": "德国哲学家，提出纯粹美感、形式主义和壮美的概念。"
+      }
+    },
+    {
+      "id": "PureAesthetic",
+      "label": "纯粹美感",
+      "type": "Concept",
+      "properties": {
+        "description": "康德认为在纯粹美感中不应渗进任何愿望、需要或意志活动，是无私和静观的。"
+      }
+    },
+    {
+      "id": "Formalism",
+      "label": "形式主义",
+      "type": "Concept",
+      "properties": {
+        "description": "康德美学的一种倾向，认为纯粹美只存在于单纯形式里，如花纹图案。"
+      }
+    },
+    {
+      "id": "Sublime",
+      "label": "壮美/崇高",
+      "type": "Concept",
+      "properties": {
+        "description": "康德提出的美学范畴，分为数学的壮美和力学的壮美，超越了感性界限。"
+      }
+    },
+    {
+      "id": "FreeBeauty",
+      "label": "自由的美",
+      "type": "Concept",
+      "properties": {
+        "description": "不先行肯定概念，纯粹欣赏形式里的表现。"
+      }
+    },
+    {
+      "id": "DependentBeauty",
+      "label": "挂上的美",
+      "type": "Concept",
+      "properties": {
+        "description": "在形式美上挂上了其他价值（如真和善），是依照概念的完满性。"
+      }
+    },
+    {
+      "id": "Burke",
+      "label": "布尔克",
+      "type": "Person",
+      "properties": {
+        "description": "英国美学家，主张感觉主义。"
+      }
+    },
+    {
+      "id": "Baumgarten",
+      "label": "鲍姆加登",
+      "type": "Person",
+      "properties": {
+        "description": "唯理主义思想家，将美等同于感性里完满的认识（真或善）。"
+      }
+    },
+    {
+      "id": "Schiller",
+      "label": "席勒",
+      "type": "Person",
+      "properties": {
+        "description": "大诗人、美学家，继承并发展了康德的美学思想。"
+      }
+    },
+    {
+      "id": "Rodin",
+      "label": "罗丹",
+      "type": "Person",
+      "properties": {
+        "description": "法国雕刻家，主张艺术在于表现自然生命的“动象”和内在精神。"
+      }
+    },
+    {
+      "id": "GreekSculpture",
+      "label": "希腊雕刻",
+      "type": "Concept",
+      "properties": {
+        "description": "注重形式美和理性的表现，被称为“自然的几何学”。"
+      }
+    },
+    {
+      "id": "ZongBaihua",
+      "label": "宗白华",
+      "type": "Person",
+      "properties": {
+        "description": "作者，中国美学家、诗人。"
+      }
+    },
+    {
+      "id": "AfterSeeingRodin",
+      "label": "《看了罗丹雕刻以后》",
+      "type": "Article",
+      "properties": {
+        "description": "宗白华在参观罗丹博物馆后撰写的文章，探讨自然与艺术的本质。"
+      }
+    },
+    {
+      "id": "WanderingClouds",
+      "label": "《流云小诗》",
+      "type": "Poetry",
+      "properties": {
+        "description": "宗白华创作的小诗集，反映其内心的神秘节奏与诗意感悟。"
+      }
+    },
+    {
+      "id": "GuoMoruo",
+      "label": "郭沫若",
+      "type": "Person",
+      "properties": {
+        "description": "中国诗人、文学家，与宗白华探讨诗的创作。"
+      }
+    },
+    {
+      "id": "KangBaiqing",
+      "label": "康白情",
+      "type": "Person",
+      "properties": {
+        "description": "与宗白华探讨新诗问题的文学人物。"
+      }
+    },
+    {
+      "id": "PoetryForm",
+      "label": "诗的“形”",
+      "type": "Concept",
+      "properties": {
+        "description": "诗中的音节和词句的构造。"
+      }
+    },
+    {
+      "id": "PoetrySubstance",
+      "label": "诗的“质”",
+      "type": "Concept",
+      "properties": {
+        "description": "诗人的感想情绪和所表写的意境。"
+      }
+    },
+    {
+      "id": "中国画",
+      "label": "Concept",
+      "properties": {
+        "description": "Chinese Painting"
+      }
+    },
+    {
+      "id": "西洋画",
+      "label": "Concept",
+      "properties": {
+        "description": "Western Painting"
+      }
+    },
+    {
+      "id": "空间意识",
+      "label": "Concept",
+      "properties": {
+        "description": "Spatial Consciousness"
+      }
+    },
+    {
+      "id": "笔法",
+      "label": "Concept",
+      "properties": {
+        "description": "Brushwork"
+      }
+    },
+    {
+      "id": "光影",
+      "label": "Concept",
+      "properties": {
+        "description": "Light and Shadow"
+      }
+    },
+    {
+      "id": "几何学透视法",
+      "label": "Concept",
+      "properties": {
+        "description": "Geometric Perspective"
+      }
+    },
+    {
+      "id": "书法",
+      "label": "Art Form",
+      "properties": {
+        "description": "Calligraphy"
+      }
+    },
+    {
+      "id": "音乐",
+      "type": "Concept",
+      "attributes": {
+        "domain": "Art"
+      }
+    },
+    {
+      "id": "雕刻",
+      "label": "Art Form",
+      "properties": {
+        "description": "Sculpture"
+      }
+    },
+    {
+      "id": "建筑",
+      "type": "Concept",
+      "attributes": {
+        "domain": "Art"
+      }
+    },
+    {
+      "id": "希腊艺术",
+      "label": "Concept",
+      "properties": {
+        "description": "Greek Art"
+      }
+    },
+    {
+      "id": "文艺复兴",
+      "label": "Historical Period",
+      "properties": {
+        "description": "Renaissance"
+      }
+    },
+    {
+      "id": "邹一桂",
+      "type": "Person",
+      "properties": {
+        "description": "清代画家，批评西洋透视画法“虽工亦匠，不入画品”"
+      }
+    },
+    {
+      "id": "柏拉图",
+      "label": "Person",
+      "properties": {
+        "description": "希腊哲学家，用座谈对话体裁写出哲学思想，推崇原始美"
+      }
+    },
+    {
+      "id": "形式美",
+      "label": "Concept",
+      "properties": {
+        "description": "Formal Beauty"
+      }
+    },
+    {
+      "id": "模仿自然",
+      "label": "Concept",
+      "properties": {
+        "description": "Imitating Nature"
+      }
+    },
+    {
+      "id": "六法",
+      "label": "Concept",
+      "properties": {
+        "description": "Six Principles of Chinese Painting"
+      }
+    },
+    {
+      "id": "傅毅",
+      "type": "Person"
+    },
+    {
+      "id": "《舞赋》",
+      "type": "Work"
+    },
+    {
+      "id": "陶渊明",
+      "type": "Person"
+    },
+    {
+      "id": "《世说新语》",
+      "label": "Book",
+      "properties": {
+        "description": "记载魏晋清谈辩难名理的著作"
+      }
+    },
+    {
+      "id": "刘义庆",
+      "type": "Person"
+    },
+    {
+      "id": "谢安",
+      "label": "Person",
+      "properties": {
+        "description": "晋代名流，在清谈上表现出领袖群伦的气度"
+      }
+    },
+    {
+      "id": "桓温",
+      "type": "Person"
+    },
+    {
+      "id": "阮籍",
+      "type": "Person"
+    },
+    {
+      "id": "嵇康",
+      "type": "Person"
+    },
+    {
+      "id": "孔子",
+      "label": "Person",
+      "properties": {
+        "description": "中国古代哲学家，其真实人格和思想表现在《论语》里"
+      }
+    },
+    {
+      "id": "老子",
+      "type": "Person"
+    },
+    {
+      "id": "魏晋时代",
+      "type": "Era"
+    },
+    {
+      "id": "杜甫",
+      "type": "Person",
+      "properties": {
+        "description": "唐代大诗人，其诗境具有高、大、深、沉着的热情等特点"
+      }
+    },
+    {
+      "id": "李白",
+      "type": "Person",
+      "properties": {
+        "description": "唐代大诗人，其诗境偏向于宇宙境象的大和高"
+      }
+    },
+    {
+      "id": "荀子",
+      "type": "Person",
+      "attributes": {
+        "role": "philosopher"
+      }
+    },
+    {
+      "id": "赵执信",
+      "type": "Person",
+      "properties": {
+        "description": "清初文人，著有《谈艺录》，用画龙的一鳞一爪比喻艺术中虚与实的辩证统一"
+      }
+    },
+    {
+      "id": "王渔洋",
+      "type": "Person",
+      "properties": {
+        "description": "清代提倡诗中神韵说者，与洪昉思讨论诗的整体与局部"
+      }
+    },
+    {
+      "id": "洪昉思",
+      "type": "Person",
+      "properties": {
+        "description": "即洪升，《长生殿》作者，论诗重视“全”而忽略“粹”"
+      }
+    },
+    {
+      "id": "李成",
+      "type": "Person",
+      "properties": {
+        "description": "宋代画家，其“仰画飞檐”被沈括批评为不符合“以大观小”的空间法则"
+      }
+    },
+    {
+      "id": "郭熙",
+      "type": "Person",
+      "properties": {
+        "description": "宋代画家，在《林泉高致》中提出山水画的“三远”（高远、深远、平远）"
+      }
+    },
+    {
+      "id": "华琳",
+      "type": "Person",
+      "properties": {
+        "description": "清代画论家，在《南宗抉秘》中用“推法”和“似离而合”来解释“三远”的空间节奏生成"
+      }
+    },
+    {
+      "id": "斯宾格勒",
+      "type": "Person",
+      "properties": {
+        "description": "现代德国哲学家，著有《西方之衰落》，阐明每种独立文化有其基本空间象征物"
+      }
+    },
+    {
+      "id": "重光",
+      "type": "Person",
+      "properties": {
+        "description": "清初画家，在《画筌》中提出“虚实相生，无画处皆成妙境”"
+      }
+    },
+    {
+      "id": "全与粹",
+      "type": "Concept",
+      "properties": {
+        "description": "“全”指全面表现生活，“粹”指去粗存精。两者辩证统一构成真正的典型化与艺术美"
+      }
+    },
+    {
+      "id": "虚实相生",
+      "type": "Concept",
+      "properties": {
+        "description": "中国艺术的最高成就表现之一，通过空白、洗练的动作等“虚”来突出“实”，贯穿于绘画、戏曲等"
+      }
+    },
+    {
+      "id": "三远法",
+      "type": "Concept",
+      "properties": {
+        "description": "高远、深远、平远，构成中国画中视线流动、转折和具有音乐节奏感的空间结构"
+      }
+    },
+    {
+      "id": "推法",
+      "type": "Concept",
+      "properties": {
+        "description": "化空间为生命境界，通过力线律动的趋势引发空间深度感，其神髓为“似离而合”"
+      }
+    },
+    {
+      "id": "中国艺术的空间意识",
+      "type": "Concept",
+      "properties": {
+        "description": "是时间率领空间的时空合一体，表现为一阴一阳、回旋往复、俯仰自得的音乐化空间境界"
+      }
+    },
+    {
+      "id": "钟繇",
+      "type": "Person",
+      "attributes": {
+        "role": "calligrapher"
+      }
+    },
+    {
+      "id": "罗丹",
+      "type": "Person",
+      "attributes": {
+        "role": "sculptor"
+      }
+    },
+    {
+      "id": "石涛",
+      "type": "Person",
+      "attributes": {
+        "role": "painter"
+      }
+    },
+    {
+      "id": "崔瑗",
+      "type": "Person",
+      "attributes": {
+        "role": "calligrapher"
+      }
+    },
+    {
+      "id": "张芝",
+      "type": "Person",
+      "attributes": {
+        "role": "calligrapher"
+      }
+    },
+    {
+      "id": "智永",
+      "type": "Person",
+      "attributes": {
+        "role": "calligrapher"
+      }
+    },
+    {
+      "id": "姜白石",
+      "type": "Person",
+      "attributes": {
+        "role": "scholar"
+      }
+    },
+    {
+      "id": "卫夫人",
+      "type": "Person",
+      "attributes": {
+        "role": "calligrapher"
+      }
+    },
+    {
+      "id": "邓石如",
+      "type": "Person",
+      "attributes": {
+        "role": "calligrapher"
+      }
+    },
+    {
+      "id": "欧阳询",
+      "type": "Person",
+      "attributes": {
+        "role": "calligrapher"
+      }
+    },
+    {
+      "id": "戈守智",
+      "type": "Person",
+      "attributes": {
+        "role": "scholar"
+      }
+    },
+    {
+      "id": "陈绎曾",
+      "type": "Person",
+      "attributes": {
+        "role": "scholar"
+      }
+    },
+    {
+      "id": "李斯",
+      "type": "Person",
+      "attributes": {
+        "role": "calligrapher"
+      }
+    },
+    {
+      "id": "索靖",
+      "type": "Person",
+      "attributes": {
+        "role": "calligrapher"
+      }
+    },
+    {
+      "id": "赵孟頫",
+      "type": "Person",
+      "attributes": {
+        "role": "calligrapher"
+      }
+    },
+    {
+      "id": "徐渭",
+      "type": "Person",
+      "attributes": {
+        "role": "calligrapher"
+      }
+    },
+    {
+      "id": "莫云卿",
+      "type": "Person",
+      "attributes": {
+        "role": "scholar"
+      }
+    },
+    {
+      "id": "项穆",
+      "type": "Person",
+      "attributes": {
+        "role": "scholar"
+      }
+    },
+    {
+      "id": "李淳",
+      "type": "Person",
+      "attributes": {
+        "role": "scholar"
+      }
+    },
+    {
+      "id": "米芾",
+      "type": "Person",
+      "attributes": {
+        "role": "calligrapher"
+      }
+    },
+    {
+      "id": "张绅",
+      "type": "Person",
+      "attributes": {
+        "role": "scholar"
+      }
+    },
+    {
+      "id": "解缙",
+      "type": "Person",
+      "attributes": {
+        "role": "scholar"
+      }
+    },
+    {
+      "id": "薛绍彭",
+      "type": "Person",
+      "attributes": {
+        "role": "calligrapher"
+      }
+    },
+    {
+      "id": "郭宝钧",
+      "type": "Person",
+      "attributes": {
+        "role": "scholar"
+      }
+    },
+    {
+      "id": "毕达哥拉斯",
+      "label": "Person",
+      "properties": {
+        "description": "古希腊哲学家，以数与数量比例为宇宙和美学的原理"
+      }
+    },
+    {
+      "id": "歌德",
+      "type": "Person",
+      "attributes": {
+        "role": "writer"
+      }
+    },
+    {
+      "id": "谢林",
+      "type": "Person",
+      "attributes": {
+        "role": "philosopher"
+      }
+    },
+    {
+      "id": "姆尼兹·豪普德曼",
+      "type": "Person",
+      "attributes": {
+        "role": "music theorist"
+      }
+    },
+    {
+      "id": "梵乐希",
+      "type": "Person",
+      "attributes": {
+        "role": "poet"
+      }
+    },
+    {
+      "id": "永字八法",
+      "type": "Concept",
+      "attributes": {
+        "domain": "Calligraphy"
+      }
+    },
+    {
+      "id": "结字三十六法",
+      "type": "Concept",
+      "attributes": {
+        "domain": "Calligraphy"
+      }
+    },
+    {
+      "id": "章法",
+      "type": "Concept",
+      "attributes": {
+        "domain": "Calligraphy"
+      }
+    },
+    {
+      "id": "《画品录》",
+      "type": "Work",
+      "attributes": {
+        "type": "Book"
+      }
+    },
+    {
+      "id": "《续书谱》",
+      "type": "Work",
+      "attributes": {
+        "type": "Book"
+      }
+    },
+    {
+      "id": "《笔阵图》",
+      "type": "Work",
+      "attributes": {
+        "type": "Book"
+      }
+    },
+    {
+      "id": "《汉溪书法通解》",
+      "type": "Work",
+      "attributes": {
+        "type": "Book"
+      }
+    },
+    {
+      "id": "甲骨文",
+      "type": "Concept",
+      "attributes": {
+        "domain": "History"
+      }
+    },
+    {
+      "id": "铜器铭文",
+      "type": "Concept",
+      "attributes": {
+        "domain": "History"
+      }
+    },
+    {
+      "id": "《论语》",
+      "label": "Book",
+      "properties": {
+        "description": "记录孔子思想的作品"
+      }
+    },
+    {
+      "id": "韶乐",
+      "type": "Concept",
+      "attributes": {
+        "domain": "Music"
+      }
+    },
+    {
+      "id": "空间感",
+      "type": "Concept",
+      "attributes": {
+        "domain": "Aesthetics"
+      }
+    },
+    {
+      "id": "苏格拉底",
+      "label": "Person",
+      "properties": {
+        "description": "希腊哲学家，将哲学带到街头，重视艺术的精神内涵"
+      }
+    },
+    {
+      "id": "魏晋思想家",
+      "label": "Group",
+      "properties": {
+        "description": "在清谈辩难中显出活泼飞跃的析理兴趣"
+      }
+    },
+    {
+      "id": "王弼",
+      "label": "Person",
+      "properties": {
+        "description": "魏晋名士，曾与何晏辩论名理"
+      }
+    },
+    {
+      "id": "何晏",
+      "label": "Person",
+      "properties": {
+        "description": "魏晋名士，吏部尚书"
+      }
+    },
+    {
+      "id": "支道林",
+      "label": "Person",
+      "properties": {
+        "description": "晋代高僧，参与清谈辩难（求理中之谈）"
+      }
+    },
+    {
+      "id": "许询",
+      "label": "Person",
+      "properties": {
+        "description": "晋代名士，与支道林、王羲之等人共谈析理"
+      }
+    },
+    {
+      "id": "乐广",
+      "label": "Person",
+      "properties": {
+        "description": "晋代名士，以辞约而旨达著称"
+      }
+    },
+    {
+      "id": "克山罗风",
+      "label": "Person",
+      "properties": {
+        "description": "古希腊作家，在回忆录中记述苏格拉底的谈话"
+      }
+    },
+    {
+      "id": "波里克勒",
+      "label": "Person",
+      "properties": {
+        "description": "古希腊大雕刻家（克莱东）"
+      }
+    },
+    {
+      "id": "普罗亭诺斯",
+      "label": "Person",
+      "properties": {
+        "description": "希腊末期哲学家，发现神灵的势力于艺术创造之中"
+      }
+    },
+    {
+      "id": "康德",
+      "label": "Person",
+      "properties": {
+        "description": "德国古典唯心主义哲学的代表，奠基了德国唯心主义美学体系"
+      }
+    },
+    {
+      "id": "莱布尼茨",
+      "label": "Person",
+      "properties": {
+        "description": "德国唯理主义哲学家"
+      }
+    },
+    {
+      "id": "沃尔夫",
+      "label": "Person",
+      "properties": {
+        "description": "德国哲学家，莱布尼茨的继承者，鲍姆加登的老师"
+      }
+    },
+    {
+      "id": "鲍姆加登",
+      "label": "Person",
+      "properties": {
+        "description": "第一次将关于感性认识的理论系统化并命名为Asthetik（美学）"
+      }
+    },
+    {
+      "id": "布尔克",
+      "label": "Person",
+      "properties": {
+        "description": "英国经验主义思想家，著有《关于我们壮美及优美观念来源的哲学研究》"
+      }
+    },
+    {
+      "id": "荷姆",
+      "label": "Person",
+      "properties": {
+        "description": "英国苏格兰思想家，著有《批评的原则》，发展了美感的心理分析"
+      }
+    },
+    {
+      "id": "《纯粹理性批判》",
+      "label": "Book",
+      "properties": {
+        "description": "康德关于知识分析的著作"
+      }
+    },
+    {
+      "id": "《实践理性批判》",
+      "label": "Book",
+      "properties": {
+        "description": "康德关于道德研究的著作"
+      }
+    },
+    {
+      "id": "《判断力批判》",
+      "label": "Book",
+      "properties": {
+        "description": "康德关于审美判断分析的著作"
+      }
+    },
+    {
+      "id": "美学（Asthetik）",
+      "label": "Concept",
+      "properties": {
+        "description": "关于感性认识的科学，由鲍姆加登创立命名"
+      }
+    },
+    {
+      "id": "艺术模仿自然",
+      "label": "Concept",
+      "properties": {
+        "description": "亚里士多德等人提出的艺术理论"
+      }
+    },
+    {
+      "id": "审美判断",
+      "label": "Concept",
+      "properties": {
+        "description": "康德在《判断力批判》中论述的核心分析对象，主张审美是一种无利益关系的普遍愉快"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "宗白华",
+      "target": "《美学散步》",
+      "type": "WROTE"
+    },
+    {
+      "source": "亚里士多德",
+      "target": "散步学派",
+      "type": "FOUNDED"
+    },
+    {
+      "source": "王维",
+      "target": "《蓝田烟雨图》",
+      "type": "CREATED"
+    },
+    {
+      "source": "苏东坡",
+      "target": "王维",
+      "type": "COMMENTED_ON"
+    },
+    {
+      "source": "莱辛",
+      "target": "《拉奥孔或论画和诗的分界》",
+      "type": "WROTE"
+    },
+    {
+      "source": "温克尔曼",
+      "target": "拉奥孔",
+      "type": "COMMENTED_ON"
+    },
+    {
+      "source": "荷马",
+      "target": "《伊利亚特》",
+      "type": "WROTE"
+    },
+    {
+      "source": "王国维",
+      "target": "《人间词话》",
+      "type": "WROTE"
+    },
+    {
+      "source": "王昌龄",
+      "target": "《初日》",
+      "type": "WROTE"
+    },
+    {
+      "source": "罗大经",
+      "target": "《鹤林玉露》",
+      "type": "WROTE"
+    },
+    {
+      "source": "王羲之",
+      "target": "《兰亭序》",
+      "type": "WROTE"
+    },
+    {
+      "source": "伯牙",
+      "target": "成连",
+      "type": "LEARNED_FROM"
+    },
+    {
+      "source": "成连",
+      "target": "方子春",
+      "type": "LEARNED_FROM"
+    },
+    {
+      "source": "郭六芳",
+      "target": "《舟还长沙》",
+      "type": "WROTE"
+    },
+    {
+      "source": "里尔克",
+      "target": "《柏列格的随笔》",
+      "type": "WROTE"
+    },
+    {
+      "source": "张大复",
+      "target": "《梅花草堂笔谈》",
+      "type": "WROTE"
+    },
+    {
+      "source": "周济",
+      "target": "《宋四家词选》",
+      "type": "WROTE"
+    },
+    {
+      "source": "宗炳",
+      "target": "中国山水画",
+      "relation": "创始人"
+    },
+    {
+      "source": "王微",
+      "target": "中国山水画",
+      "relation": "创始人"
+    },
+    {
+      "source": "宗炳",
+      "target": "画山水序",
+      "relation": "著有"
+    },
+    {
+      "source": "王微",
+      "target": "叙画",
+      "relation": "著有"
+    },
+    {
+      "source": "郑午昌",
+      "target": "中国画学全史",
+      "relation": "著有"
+    },
+    {
+      "source": "黄憩园",
+      "target": "山水画法类丛",
+      "relation": "著有"
+    },
+    {
+      "source": "孙过庭",
+      "target": "书谱",
+      "relation": "著有"
+    },
+    {
+      "source": "王羲之",
+      "target": "兰亭序",
+      "relation": "创作"
+    },
+    {
+      "source": "丰坊",
+      "target": "笔诀",
+      "relation": "著有"
+    },
+    {
+      "source": "中国美学史",
+      "target": "错采镂金",
+      "relation": "包含美的理想"
+    },
+    {
+      "source": "中国美学史",
+      "target": "芙蓉出水",
+      "relation": "包含美的理想"
+    },
+    {
+      "source": "中国美学史",
+      "target": "虚实结合",
+      "relation": "核心特征"
+    },
+    {
+      "source": "虚实结合",
+      "target": "化景物为情思",
+      "relation": "具体表现"
+    },
+    {
+      "source": "易经",
+      "target": "贲卦",
+      "relation": "包含卦象"
+    },
+    {
+      "source": "易经",
+      "target": "离卦",
+      "relation": "包含卦象"
+    },
+    {
+      "source": "贲卦",
+      "target": "白贲",
+      "relation": "最高境界"
+    },
+    {
+      "source": "谢赫",
+      "target": "绘画六法",
+      "relation": "提出"
+    },
+    {
+      "source": "绘画六法",
+      "target": "气韵生动",
+      "relation": "包含"
+    },
+    {
+      "source": "绘画六法",
+      "target": "骨法用笔",
+      "relation": "包含"
+    },
+    {
+      "source": "顾恺之",
+      "target": "迁想妙得",
+      "relation": "提出"
+    },
+    {
+      "source": "风骨",
+      "target": "骨法用笔",
+      "relation": "理论关联"
+    },
+    {
+      "source": "沈括",
+      "target": "以大观小",
+      "relation": "论述"
+    },
+    {
+      "source": "《乐记》",
+      "target": "礼",
+      "relation": "强调"
+    },
+    {
+      "source": "《乐记》",
+      "target": "乐",
+      "relation": "强调"
+    },
+    {
+      "source": "逻辑语言",
+      "target": "音乐语言",
+      "relation": "情感推动飞跃成为"
+    },
+    {
+      "source": "音乐语言",
+      "target": "舞蹈",
+      "relation": "心情激动发展为"
+    },
+    {
+      "source": "沈括",
+      "target": "声中无字，字中有声",
+      "relation": "提出"
+    },
+    {
+      "source": "字",
+      "target": "声",
+      "relation": "融化为"
+    },
+    {
+      "source": "梅兰芳",
+      "target": "真与美",
+      "relation": "追求"
+    },
+    {
+      "source": "务头",
+      "target": "戏曲歌唱",
+      "relation": "是最胜妙处"
+    },
+    {
+      "source": "中国园林建筑",
+      "target": "飞动之美",
+      "relation": "表现"
+    },
+    {
+      "source": "中国园林建筑",
+      "target": "空间美感",
+      "relation": "表现"
+    },
+    {
+      "source": "窗子",
+      "target": "空间美感",
+      "relation": "丰富"
+    },
+    {
+      "source": "借景",
+      "target": "空间美感",
+      "relation": "丰富"
+    },
+    {
+      "source": "分景",
+      "target": "空间美感",
+      "relation": "丰富"
+    },
+    {
+      "source": "隔景",
+      "target": "空间美感",
+      "relation": "丰富"
+    },
+    {
+      "source": "意境",
+      "target": "情",
+      "relation": "结晶"
+    },
+    {
+      "source": "意境",
+      "target": "景",
+      "relation": "结晶"
+    },
+    {
+      "source": "禅境",
+      "target": "意境",
+      "relation": "是其最高归宿"
+    },
+    {
+      "source": "庄子",
+      "target": "道",
+      "relation": "体悟"
+    },
+    {
+      "source": "庄子",
+      "target": "艺",
+      "relation": "阐发"
+    },
+    {
+      "source": "舞",
+      "target": "道",
+      "relation": "具象化"
+    },
+    {
+      "source": "舞",
+      "target": "艺术境界",
+      "relation": "典型代表"
+    },
+    {
+      "source": "空白",
+      "target": "意境",
+      "relation": "结构特点"
+    },
+    {
+      "source": "王船山",
+      "target": "空白",
+      "relation": "论述"
+    },
+    {
+      "source": "邵元冲",
+      "target": "《如何建设中国文化》",
+      "relation": "authored"
+    },
+    {
+      "source": "《如何建设中国文化》",
+      "target": "民族自信力",
+      "relation": "discusses"
+    },
+    {
+      "source": "唐代诗歌",
+      "target": "民族自信力",
+      "relation": "expresses"
+    },
+    {
+      "source": "初唐时期",
+      "target": "唐代诗歌",
+      "relation": "budding_period_of"
+    },
+    {
+      "source": "魏征",
+      "target": "初唐时期",
+      "relation": "poet_of"
+    },
+    {
+      "source": "陈子昂",
+      "target": "初唐时期",
+      "relation": "poet_of"
+    },
+    {
+      "source": "骆宾王",
+      "target": "初唐时期",
+      "relation": "poet_of"
+    },
+    {
+      "source": "杨炯",
+      "target": "初唐时期",
+      "relation": "poet_of"
+    },
+    {
+      "source": "刘希夷",
+      "target": "初唐时期",
+      "relation": "poet_of"
+    },
+    {
+      "source": "卢照邻",
+      "target": "初唐时期",
+      "relation": "poet_of"
+    },
+    {
+      "source": "祖咏",
+      "target": "初唐时期",
+      "relation": "poet_of"
+    },
+    {
+      "source": "盛唐时期",
+      "target": "唐代诗歌",
+      "relation": "mature_period_of"
+    },
+    {
+      "source": "杜少陵",
+      "target": "盛唐时期",
+      "relation": "poet_of"
+    },
+    {
+      "source": "李太白",
+      "target": "盛唐时期",
+      "relation": "poet_of"
+    },
+    {
+      "source": "王摩诘",
+      "target": "盛唐时期",
+      "relation": "poet_of"
+    },
+    {
+      "source": "王昌龄",
+      "target": "盛唐时期",
+      "relation": "poet_of"
+    },
+    {
+      "source": "岑参",
+      "target": "盛唐时期",
+      "relation": "poet_of"
+    },
+    {
+      "source": "李益",
+      "target": "盛唐时期",
+      "relation": "poet_of"
+    },
+    {
+      "source": "张祜",
+      "target": "盛唐时期",
+      "relation": "poet_of"
+    },
+    {
+      "source": "出塞曲",
+      "target": "唐代诗歌",
+      "relation": "crystallization_of"
+    },
+    {
+      "source": "晚唐时期",
+      "target": "唐代诗歌",
+      "relation": "declining_period_of"
+    },
+    {
+      "source": "李商隐",
+      "target": "晚唐时期",
+      "relation": "poet_of"
+    },
+    {
+      "source": "温庭筠",
+      "target": "晚唐时期",
+      "relation": "poet_of"
+    },
+    {
+      "source": "杜牧",
+      "target": "晚唐时期",
+      "relation": "poet_of"
+    },
+    {
+      "source": "韦庄",
+      "target": "晚唐时期",
+      "relation": "poet_of"
+    },
+    {
+      "source": "林同华",
+      "target": "《美学散步》",
+      "relation": "assisted_with"
+    },
+    {
+      "source": "Kant",
+      "target": "PureAesthetic",
+      "type": "PROPOSES",
+      "label": "提出"
+    },
+    {
+      "source": "Kant",
+      "target": "Formalism",
+      "type": "LEADS_TO",
+      "label": "陷入"
+    },
+    {
+      "source": "Kant",
+      "target": "Sublime",
+      "type": "PROPOSES",
+      "label": "提出"
+    },
+    {
+      "source": "Kant",
+      "target": "FreeBeauty",
+      "type": "DEFINES",
+      "label": "定义"
+    },
+    {
+      "source": "Kant",
+      "target": "DependentBeauty",
+      "type": "DEFINES",
+      "label": "定义"
+    },
+    {
+      "source": "Schiller",
+      "target": "Kant",
+      "type": "INHERITS",
+      "label": "继承"
+    },
+    {
+      "source": "Burke",
+      "target": "Kant",
+      "type": "OPPOSED_BY",
+      "label": "被反对"
+    },
+    {
+      "source": "Baumgarten",
+      "target": "Kant",
+      "type": "OPPOSED_BY",
+      "label": "被反对"
+    },
+    {
+      "source": "Rodin",
+      "target": "GreekSculpture",
+      "type": "CONTRASTS_WITH",
+      "label": "对比"
+    },
+    {
+      "source": "ZongBaihua",
+      "target": "Rodin",
+      "type": "APPRECIATES",
+      "label": "赞赏"
+    },
+    {
+      "source": "ZongBaihua",
+      "target": "AfterSeeingRodin",
+      "type": "AUTHORS",
+      "label": "撰写"
+    },
+    {
+      "source": "ZongBaihua",
+      "target": "WanderingClouds",
+      "type": "AUTHORS",
+      "label": "创作"
+    },
+    {
+      "source": "GuoMoruo",
+      "target": "ZongBaihua",
+      "type": "DISCUSSES_WITH",
+      "label": "讨论"
+    },
+    {
+      "source": "KangBaiqing",
+      "target": "ZongBaihua",
+      "type": "DISCUSSES_WITH",
+      "label": "讨论"
+    },
+    {
+      "source": "ZongBaihua",
+      "target": "PoetryForm",
+      "type": "ANALYZES",
+      "label": "分析"
+    },
+    {
+      "source": "ZongBaihua",
+      "target": "PoetrySubstance",
+      "type": "ANALYZES",
+      "label": "分析"
+    },
+    {
+      "source": "中国画",
+      "target": "空间意识",
+      "type": "表现",
+      "properties": {
+        "description": "represents"
+      }
+    },
+    {
+      "source": "西洋画",
+      "target": "空间意识",
+      "type": "表现",
+      "properties": {
+        "description": "represents"
+      }
+    },
+    {
+      "source": "西洋画",
+      "target": "光影",
+      "type": "注重",
+      "properties": {
+        "description": "focuses on"
+      }
+    },
+    {
+      "source": "西洋画",
+      "target": "透视法",
+      "type": "注重",
+      "properties": {
+        "description": "focuses on"
+      }
+    },
+    {
+      "source": "西洋画",
+      "target": "希腊艺术",
+      "type": "渊源于",
+      "properties": {
+        "description": "originates from"
+      }
+    },
+    {
+      "source": "希腊艺术",
+      "target": "雕刻",
+      "type": "特重",
+      "properties": {
+        "description": "especially values"
+      }
+    },
+    {
+      "source": "希腊艺术",
+      "target": "建筑",
+      "type": "特重",
+      "properties": {
+        "description": "especially values"
+      }
+    },
+    {
+      "source": "中国画",
+      "target": "书法",
+      "type": "基于",
+      "properties": {
+        "description": "based on"
+      }
+    },
+    {
+      "source": "中国画",
+      "target": "音乐",
+      "type": "通于",
+      "properties": {
+        "description": "connected to"
+      }
+    },
+    {
+      "source": "中国画",
+      "target": "舞蹈",
+      "type": "通于",
+      "properties": {
+        "description": "connected to"
+      }
+    },
+    {
+      "source": "中国画",
+      "target": "笔法",
+      "type": "注重",
+      "properties": {
+        "description": "focuses on"
+      }
+    },
+    {
+      "source": "中国画",
+      "target": "气韵生动",
+      "type": "追求",
+      "properties": {
+        "description": "pursues"
+      }
+    },
+    {
+      "source": "中国画",
+      "target": "骨法用笔",
+      "type": "使用",
+      "properties": {
+        "description": "uses"
+      }
+    },
+    {
+      "source": "邹一桂",
+      "target": "西洋画",
+      "type": "批评",
+      "properties": {
+        "description": "criticizes"
+      }
+    },
+    {
+      "source": "希腊艺术",
+      "target": "形式美",
+      "type": "追求",
+      "properties": {
+        "description": "pursues"
+      }
+    },
+    {
+      "source": "希腊艺术",
+      "target": "模仿自然",
+      "type": "主张",
+      "properties": {
+        "description": "advocates"
+      }
+    },
+    {
+      "source": "文艺复兴",
+      "target": "希腊艺术",
+      "type": "继承",
+      "properties": {
+        "description": "inherits"
+      }
+    },
+    {
+      "source": "达·芬奇",
+      "target": "模仿自然",
+      "type": "提倡",
+      "properties": {
+        "description": "advocates"
+      }
+    },
+    {
+      "source": "谢赫",
+      "target": "六法",
+      "type": "提出",
+      "properties": {
+        "description": "proposes"
+      }
+    },
+    {
+      "source": "六法",
+      "target": "气韵生动",
+      "type": "包含",
+      "properties": {
+        "description": "includes"
+      }
+    },
+    {
+      "source": "六法",
+      "target": "骨法用笔",
+      "type": "包含",
+      "properties": {
+        "description": "includes"
+      }
+    },
+    {
+      "source": "透视法",
+      "target": "几何学透视法",
+      "type": "包含",
+      "properties": {
+        "description": "includes"
+      }
+    },
+    {
+      "source": "傅毅",
+      "target": "《舞赋》",
+      "type": "wrote"
+    },
+    {
+      "source": "刘义庆",
+      "target": "《世说新语》",
+      "type": "wrote"
+    },
+    {
+      "source": "《世说新语》",
+      "target": "魏晋时代",
+      "type": "records"
+    },
+    {
+      "source": "王羲之",
+      "target": "魏晋时代",
+      "type": "lived_in"
+    },
+    {
+      "source": "顾恺之",
+      "target": "魏晋时代",
+      "type": "lived_in"
+    },
+    {
+      "source": "陶渊明",
+      "target": "魏晋时代",
+      "type": "lived_in"
+    },
+    {
+      "source": "谢安",
+      "target": "魏晋时代",
+      "type": "lived_in"
+    },
+    {
+      "source": "桓温",
+      "target": "魏晋时代",
+      "type": "lived_in"
+    },
+    {
+      "source": "阮籍",
+      "target": "魏晋时代",
+      "type": "lived_in"
+    },
+    {
+      "source": "嵇康",
+      "target": "魏晋时代",
+      "type": "lived_in"
+    },
+    {
+      "source": "荀子",
+      "target": "全与粹",
+      "type": "提出了",
+      "properties": {
+        "context": "在《乐论》中提出“不全不粹不足以谓之美”"
+      }
+    },
+    {
+      "source": "赵执信",
+      "target": "全与粹",
+      "type": "阐释了",
+      "properties": {
+        "context": "用神龙“一鳞一爪”暗示“首尾完好”的比喻来说明全与粹的辩证统一"
+      }
+    },
+    {
+      "source": "重光",
+      "target": "虚实相生",
+      "type": "阐释了",
+      "properties": {
+        "context": "在《画筌》中用“虚实相生，无画处皆成妙境”总结了中国画和舞台的空间处理"
+      }
+    },
+    {
+      "source": "沈括",
+      "target": "以大观小",
+      "type": "提出了",
+      "properties": {
+        "context": "在《梦溪笔谈》中主张中国山水画应采用以大观小之法，而非固定视角"
+      }
+    },
+    {
+      "source": "沈括",
+      "target": "李成",
+      "type": "批评了",
+      "properties": {
+        "context": "批评李成“仰画飞檐”是不知“以大观小”之理"
+      }
+    },
+    {
+      "source": "郭熙",
+      "target": "三远法",
+      "type": "提出了",
+      "properties": {
+        "context": "在《林泉高致》中定义了高远、深远、平远的透视结构"
+      }
+    },
+    {
+      "source": "华琳",
+      "target": "推法",
+      "type": "提出了",
+      "properties": {
+        "context": "在《南宗抉秘》中提出推法和似离而合来解释三远"
+      }
+    },
+    {
+      "source": "华琳",
+      "target": "三远法",
+      "type": "解释了",
+      "properties": {
+        "context": "用推法解释高远、深远、平远并非几何透视，而是生命力线律动的过程"
+      }
+    },
+    {
+      "source": "邹一桂",
+      "target": "以大观小",
+      "type": "支持了",
+      "properties": {
+        "context": "批评西洋透视画法不入画品，推崇中国传统的观景方式"
+      }
+    },
+    {
+      "source": "斯宾格勒",
+      "target": "中国艺术的空间意识",
+      "type": "其理论作为参照",
+      "properties": {
+        "context": "其关于不同文化具备不同基本空间象征物的理论，被用于引出对中国诗画空间特质的分析"
+      }
+    },
+    {
+      "source": "苏东坡",
+      "target": "王维",
+      "type": "评价了",
+      "properties": {
+        "context": "评价王维“味摩诘之诗，诗中有画；观摩诘之画，画中有诗”"
+      }
+    },
+    {
+      "source": "以大观小",
+      "target": "中国艺术的空间意识",
+      "type": "体现了",
+      "properties": {
+        "context": "是中国画打破固定焦点透视，展现“俯仰自得”的宇宙观和空间意识的核心手法"
+      }
+    },
+    {
+      "source": "三远法",
+      "target": "中国艺术的空间意识",
+      "type": "体现了",
+      "properties": {
+        "context": "反映了中国空间意识中视线的流动与转折，具有时间上的音乐节奏"
+      }
+    },
+    {
+      "source": "智永",
+      "target": "永字八法",
+      "type": "SUMMARIZED"
+    },
+    {
+      "source": "王羲之",
+      "target": "永字八法",
+      "type": "MASTERED"
+    },
+    {
+      "source": "姜白石",
+      "target": "《续书谱》",
+      "type": "WROTE"
+    },
+    {
+      "source": "卫夫人",
+      "target": "《笔阵图》",
+      "type": "WROTE"
+    },
+    {
+      "source": "谢赫",
+      "target": "《画品录》",
+      "type": "WROTE"
+    },
+    {
+      "source": "欧阳询",
+      "target": "结字三十六法",
+      "type": "CREATED"
+    },
+    {
+      "source": "戈守智",
+      "target": "《汉溪书法通解》",
+      "type": "WROTE"
+    },
+    {
+      "source": "戈守智",
+      "target": "结字三十六法",
+      "type": "EXPLAINED"
+    },
+    {
+      "source": "张绅",
+      "target": "章法",
+      "type": "DISCUSSED"
+    },
+    {
+      "source": "王羲之",
+      "target": "《兰亭序》",
+      "type": "CREATED"
+    },
+    {
+      "source": "王羲之",
+      "target": "章法",
+      "type": "EXEMPLIFIED"
+    },
+    {
+      "source": "王羲之",
+      "target": "《笔阵图》",
+      "type": "COMMENTED_ON"
+    },
+    {
+      "source": "郭宝钧",
+      "target": "铜器铭文",
+      "type": "RESEARCHED"
+    },
+    {
+      "source": "毕达哥拉斯",
+      "target": "音乐",
+      "type": "STUDIED_MATH_OF"
+    },
+    {
+      "source": "谢林",
+      "target": "建筑",
+      "type": "DESCRIBED_AS_FROZEN_MUSIC"
+    },
+    {
+      "source": "歌德",
+      "target": "建筑",
+      "type": "AGREED_WITH_SCHELLING_ON"
+    },
+    {
+      "source": "姆尼兹·豪普德曼",
+      "target": "音乐",
+      "type": "DESCRIBED_AS_FLUID_ARCHITECTURE"
+    },
+    {
+      "source": "梵乐希",
+      "target": "建筑",
+      "type": "WROTE_ABOUT_IN_POEM"
+    },
+    {
+      "source": "孔子",
+      "target": "音乐",
+      "type": "LOVED"
+    },
+    {
+      "source": "孔子",
+      "target": "韶乐",
+      "type": "PRAISED"
+    },
+    {
+      "source": "荀子",
+      "target": "《乐记》",
+      "type": "INFLUENCED"
+    },
+    {
+      "source": "中国书法",
+      "target": "空间感",
+      "type": "EXPRESSES"
+    },
+    {
+      "source": "建筑",
+      "target": "空间感",
+      "type": "EXPRESSES"
+    },
+    {
+      "source": "孔子",
+      "target": "《论语》",
+      "type": "THOUGHT_EXPRESSED_IN"
+    },
+    {
+      "source": "王弼",
+      "target": "何晏",
+      "type": "DEBATED_WITH"
+    },
+    {
+      "source": "魏晋思想家",
+      "target": "《世说新语》",
+      "type": "RECORDED_IN"
+    },
+    {
+      "source": "支道林",
+      "target": "许询",
+      "type": "DEBATED_WITH"
+    },
+    {
+      "source": "支道林",
+      "target": "谢安",
+      "type": "CONVERSED_WITH"
+    },
+    {
+      "source": "克山罗风",
+      "target": "苏格拉底",
+      "type": "RECORDED_CONVERSATION_OF"
+    },
+    {
+      "source": "苏格拉底",
+      "target": "波里克勒",
+      "type": "CONVERSED_WITH"
+    },
+    {
+      "source": "亚里士多德",
+      "target": "柏拉图",
+      "type": "STUDENT_OF"
+    },
+    {
+      "source": "亚里士多德",
+      "target": "艺术模仿自然",
+      "type": "PROPOSED"
+    },
+    {
+      "source": "康德",
+      "target": "《纯粹理性批判》",
+      "type": "AUTHORED"
+    },
+    {
+      "source": "康德",
+      "target": "《实践理性批判》",
+      "type": "AUTHORED"
+    },
+    {
+      "source": "康德",
+      "target": "《判断力批判》",
+      "type": "AUTHORED"
+    },
+    {
+      "source": "康德",
+      "target": "审美判断",
+      "type": "ANALYZED"
+    },
+    {
+      "source": "鲍姆加登",
+      "target": "美学（Asthetik）",
+      "type": "FOUNDED"
+    },
+    {
+      "source": "鲍姆加登",
+      "target": "沃尔夫",
+      "type": "STUDENT_OF"
+    },
+    {
+      "source": "沃尔夫",
+      "target": "莱布尼茨",
+      "type": "INHERITED_PHILOSOPHY_OF"
+    },
+    {
+      "source": "鲍姆加登",
+      "target": "莱布尼茨",
+      "type": "INHERITED_PHILOSOPHY_OF"
+    },
+    {
+      "source": "荷姆",
+      "target": "康德",
+      "type": "INFLUENCED"
+    },
+    {
+      "source": "布尔克",
+      "target": "康德",
+      "type": "INFLUENCED"
+    }
+  ]
+}

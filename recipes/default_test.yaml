@@ -1,0 +1,18 @@
+name: "BSF Standard Evaluation Recipe"
+description: "Default pipeline for evaluating Book-to-Skill conversion."
+version: "1.0"
+
+# 策展步骤顺序
+pipeline:
+  - agent: "graphify-agent"
+    role: "Extract structural knowledge graph"
+  - agent: "cangjie-agent"
+    role: "Distill mental models and principles"
+  - agent: "book-to-skill-agent"
+    role: "Assemble final SKILL.md artifact"
+
+# 评判步骤
+evaluation:
+  agent: "judge-agent"
+  ground_truth_path: "data/ground_truth/{book_id}/concepts.json"
+  output_format: "matches.json"

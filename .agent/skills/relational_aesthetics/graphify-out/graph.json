@@ -1,0 +1,56 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "Nicolas Bourriaud - 1998 - Relational Aesthetics chunk 000 preamble 1",
+      "file_type": "concept",
+      "source_file": "Nicolas Bourriaud - 1998 - Relational Aesthetics_chunk_000_preamble_1.md",
+      "description": "Primary concept extracted from chunk",
+      "id": "file_1b2d0829",
+      "community": 0,
+      "community_name": "Community 0",
+      "norm_label": "nicolas bourriaud - 1998 - relational aesthetics chunk 000 preamble 1"
+    },
+    {
+      "label": "Nicolas Bourriaud - 1998 - Relational Aesthetics chunk 000 preamble 2",
+      "file_type": "concept",
+      "source_file": "Nicolas Bourriaud - 1998 - Relational Aesthetics_chunk_000_preamble_2.md",
+      "description": "Primary concept extracted from chunk",
+      "id": "file_5c8c87ee",
+      "community": 0,
+      "community_name": "Community 0",
+      "norm_label": "nicolas bourriaud - 1998 - relational aesthetics chunk 000 preamble 2"
+    },
+    {
+      "label": "Nicolas Bourriaud - 1998 - Relational Aesthetics chunk 000 preamble 3",
+      "file_type": "concept",
+      "source_file": "Nicolas Bourriaud - 1998 - Relational Aesthetics_chunk_000_preamble_3.md",
+      "description": "Primary concept extracted from chunk",
+      "id": "file_988dde57",
+      "community": 0,
+      "community_name": "Community 0",
+      "norm_label": "nicolas bourriaud - 1998 - relational aesthetics chunk 000 preamble 3"
+    }
+  ],
+  "links": [
+    {
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Nicolas Bourriaud - 1998 - Relational Aesthetics_chunk_000_preamble_2.md",
+      "source": "file_1b2d0829",
+      "target": "file_5c8c87ee"
+    },
+    {
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Nicolas Bourriaud - 1998 - Relational Aesthetics_chunk_000_preamble_3.md",
+      "source": "file_5c8c87ee",
+      "target": "file_988dde57"
+    }
+  ],
+  "hyperedges": []
+}

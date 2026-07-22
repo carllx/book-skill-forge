@@ -1,0 +1,121 @@
+{
+  "ground_truth_concepts": [
+    {
+      "id": "c_yijing",
+      "name": "意境",
+      "importance": 1.0,
+      "is_matched": true
+    },
+    {
+      "id": "c_virtual_real",
+      "name": "虚实相生",
+      "importance": 0.9,
+      "is_matched": true
+    },
+    {
+      "id": "c_ethereal_solid",
+      "name": "空灵与充实",
+      "importance": 0.8,
+      "is_matched": true
+    },
+    {
+      "id": "c_poetry_painting",
+      "name": "诗画分界",
+      "importance": 0.8,
+      "is_matched": true
+    },
+    {
+      "id": "c_static_contemplation",
+      "name": "静照",
+      "importance": 0.8,
+      "is_matched": true
+    },
+    {
+      "id": "c_empathy_distance",
+      "name": "移情与距离",
+      "importance": 0.7,
+      "is_matched": true
+    },
+    {
+      "id": "c_space_consciousness",
+      "name": "空间意识",
+      "importance": 0.9,
+      "is_matched": true
+    },
+    {
+      "id": "c_painting_comparison",
+      "name": "中西画法比较",
+      "importance": 0.8,
+      "is_matched": true
+    },
+    {
+      "id": "c_dao_dance",
+      "name": "道、舞、空白",
+      "importance": 0.9,
+      "is_matched": true
+    },
+    {
+      "id": "c_zen",
+      "name": "禅境",
+      "importance": 0.8,
+      "is_matched": true
+    },
+    {
+      "id": "c_calligraphy",
+      "name": "书法美学",
+      "importance": 0.9,
+      "is_matched": true
+    },
+    {
+      "id": "c_jin_beauty",
+      "name": "魏晋风度与晋人之美",
+      "importance": 0.8,
+      "is_matched": true
+    },
+    {
+      "id": "c_music_fables",
+      "name": "音乐寓言与音乐美学",
+      "importance": 0.7,
+      "is_matched": false
+    },
+    {
+      "id": "c_greek_aesthetics",
+      "name": "高贵的单纯与静穆的伟大",
+      "importance": 0.7,
+      "is_matched": true
+    },
+    {
+      "id": "c_tang_spirit",
+      "name": "民族精神",
+      "importance": 0.7,
+      "is_matched": true
+    }
+  ],
+  "extracted_concepts": [
+    { "name": "意境", "is_valid": true, "is_redundant": false },
+    { "name": "虚实相生", "is_valid": true, "is_redundant": false },
+    { "name": "空灵", "is_valid": true, "is_redundant": false },
+    { "name": "充实", "is_valid": true, "is_redundant": false },
+    { "name": "诗画分界", "is_valid": true, "is_redundant": false },
+    { "name": "静照", "is_valid": true, "is_redundant": false },
+    { "name": "移情与距离", "is_valid": true, "is_redundant": false },
+    { "name": "空间意识", "is_valid": true, "is_redundant": false },
+    { "name": "中西画法比较", "is_valid": true, "is_redundant": false },
+    { "name": "道、舞、空白", "is_valid": true, "is_redundant": false },
+    { "name": "禅境", "is_valid": true, "is_redundant": false },
+    { "name": "书法美学", "is_valid": true, "is_redundant": false },
+    { "name": "魏晋风度", "is_valid": true, "is_redundant": false },
+    { "name": "希腊美学", "is_valid": true, "is_redundant": false },
+    { "name": "唐诗精神", "is_valid": true, "is_redundant": false },
+    { "name": "中国画的散点透视", "is_valid": true, "is_redundant": false },
+    { "name": "晋人的自然之美", "is_valid": true, "is_redundant": false },
+    { "name": "舞蹈的节奏感", "is_valid": true, "is_redundant": false },
+    { "name": "静观美学 (重复项)", "is_valid": true, "is_redundant": true },
+    { "name": "错误提取的无关概念", "is_valid": false, "is_redundant": false }
+  ],
+  "artifact_usability": {
+    "formatting_score": 5.0,
+    "clarity_score": 4.5,
+    "logical_score": 5.0
+  }
+}

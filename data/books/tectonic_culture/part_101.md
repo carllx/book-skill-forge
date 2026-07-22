@@ -1,0 +1,31 @@
+## Part 101
+
+> [BREADCRUMB_CTX: 《tectonic_culture》 > Part 101]
+
+The structural composition of the La Rinascente building derives from the combination of formal and technological factors in its design. The building ismarked by certain bare decisions: locating the vertical service mains on the outside, modifying the shape of the curtain wall panels in line with the direction of the ducts; leaving the external metal structure exposed and using the parametrical cornice girders for the horizontal service mains, also leaving the heads of the secondary girders exposed; using the rail on the top floor as a device for outlining the top of the building, interrupting itat the corner with the Via Aniene. The corrugated design of the panels, although influenced by the technical needs of air-conditioning pipes, complies with aesthetic criteria and has been used to recall surface features typical of Roman architecture. 。 [The contrast] between the main structure and the curtain walls liesin the use of color and plastic treatment. The external wall wasconstructed of panelsprefabricated from a crushed mix of cement, granite powder, and red marble; each panel is divided perpendicularly into four parts, the third from the bottom being narrower and in a light ivory color. The same contrast is to be found in the compositional method, since the panels, which contain main ducts, bulge more or less as bow windows do to create a surface that changes constantly according to the strength of the light.20
+
+Influenced by the spectacular concrete structures designed by Nervi and Morandi, certain Italian architects began to move toward precisely articulated structural assemblies in reinforced concrete. This tendency led at times to a kind of tectonic minimalism, as is evident say in Mangiarotti and Morasutti's Baranzate Church, realized near Milan in 1959 (fig. 10.41). Conceived as a Hallenkirche and built entirely of concrete, the quadripartite structure of its nave comprises a diagrid roof carried on six longitudinal beams, two transverse girders, and four cylindrical columns. Clad throughout in a double-glazed, translucent envelope, this work may be seen as a midcentury interpretation of Perret's Notre-Dame du Raincy.
+
+![](images/a37823a57e910acd4f1724a3a070805a93b3223631d108111f1f90f489d2db55.jpg)
+
+![](images/00ab4a1b2f4cbf1275894b5e7f98fe638217038dcb09a45d375609068c5decfc.jpg)
+
+Gino and Nani Valle would pursue equally tectonic themes but with an inflection that was more evidently regional. This is particularly noticeable in their early work;in their bank at Latisana of 1956 and their Casa Quaglia built at Sutrio, near Udine, in 1953-1954.In structural terms both the bank and the house seem to be predicated on a Kahnian application of load-bearing brick piers, square in plan and eight in number, carrying a 15-by-23-meter lenticular metal roof in the case of the bank and a heavy traditional timber 15-by-15-meter truss system in the house (cf. Louis Kahn's Adler House project of 1954). In both instances, the main expression stems from a play between load-bearing and load borne,and this will persist as a theme in almost all of Valle's work, even if he will never again attain quite the same level of expressive simplicity. Valle's masterwork of this period is unquestionably his Zanussi Rex offices built at Pordenone in 1961 (fig. 10.42).21 This work is particularly distinguished for its rhythmic use of a tiered and cantilevered concrete armature with concrete upstands, over
+
+which is suspended a stepped and pitched light trussed metal roofwork, clad in asbestos cement sheeting.
+
+Among Italian architects of the past forty years who have made a consistent contribution to Baukunst in the Miesian sense, one must certainly include Vittorio Gregotti, who in both theory and practice has been consistent in his articulation of constructional form, most notably in his early housing built for Novara and Milan in 1962 and in his later institutional work executed for the universities of Palermo (1969) and Calabria (1973) and more recently, perhaps, in a number of stadia, including the main arena for the 1992 Barcelona Olympics (fig. 10.43). In all this work, recognition must also be accorded to the Japanese architect Hiromichi Matsui, who played a salient role in the office of Gregotti Associati in the second half of the 1960s and the early 1970s.
+
+The British Brutalist movement will be brought to a close with the Economist Building completed in 1964 to designs of Alison and Peter Smithson (figs. 10.44, 10.45). This built fragment of the Smithsons' Berlin Hauptstadt proposal (1958) was a diminutive reinterpretation of American high-rise construction; one that attempted to reintegrate the romantic classicism of the Schinkelschule with its Gothic origins. However, where Mies will represent the fireproof steel frame through an application of steel facings (cf. 860 Lake Shore Drive), the Smithsons will face their concrete frame in roach-bed Portland stone, with gray aluminum trim running down the structural piers, along the sills, and up into the spandrels to form an aluminum-fenestrated curtain wall, anodized gray. The Gothicism of the resultant profile is emphasized through setting back the stone-faced structural mullions as they rise upward, a device evidently taken from Mies's Promontory Apartments. The Economist Building emerges today as that rare example of a modern building that has withstood the “flow of time, where the quality of the work has improved rather than the reverse.22 In retrospect this structure would seem to come closest to Peter Smithson's archaeological ideal of a building that could, in some future time, be reconstructed from its ruined fragments. Close to the Semperian Stoffwechseltheorie, Smithson first advanced this thesis in 1966 in a remarkably insightful essay in which he compared the transformed timber
+
+![](images/cd8c8c4f3080af95169b68919ea5405c2e202ab7e7b5b560e3cfc7c3753b5847.jpg)
+
+![](images/ca8262fb67ab3a8085a8375d358187a82a1760b64446dbfca3e942391b681c41.jpg)
+
+![](images/622f76b543a17afac6987526719b227212b509b64599204566a9f45a3b7455c4.jpg)
+
+# 10.46
+
+Alejandro de la Sota, Maravillas School gymnasium, Madrid, 1962.
+
+character of the Greek classical Doric order to the comparable Japanese timber order of the Naiku and Geku sanctuaries at Ise.

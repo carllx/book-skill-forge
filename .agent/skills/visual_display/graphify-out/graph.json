@@ -1,0 +1,1446 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "file_161f519f",
+      "label": "The Visual Display of Quantitative Information",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_000_The_Visual_Display_of_Quantita.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_09b880b8",
+      "label": "PARTI GRAPHICAL PRACTICE",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_001_PARTI_GRAPHICAL_PRACTICE.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5a821dc3",
+      "label": "PART II THEORY OF DATA GRAPHICS",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_002_PART_II_THEORY_OF_DATA_GRAPHIC.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a0ed3e76",
+      "label": "Introduction to the Second Edition",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_003_Introduction_to_the_Second_Edi.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ff3eaf6e",
+      "label": "Introduction",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_004_Introduction.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5278364b",
+      "label": "I Graphical Excellence",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_005_I_Graphical_Excellence.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9257ddae",
+      "label": "Data Maps",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_006_Data_Maps.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_93d46d39",
+      "label": "Ecceformulam vfum,atque",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_007_Ecceformulam_vfum_atque.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_265bac9c",
+      "label": "Time-Series",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_008_Time_Series_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c854a387",
+      "label": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information chunk 008 Time Series 2",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_008_Time_Series_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2660aaa7",
+      "label": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information chunk 008 Time Series 3",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_008_Time_Series_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3a4b1180",
+      "label": "A monopole?",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_009_A_monopole_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d6ecd5fb",
+      "label": "Narrative Graphics ofSpaceand Time",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_010_Narrative_Graphics_ofSpaceand_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_293069ac",
+      "label": "More Abstract Designs: Relational Graphics",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_011_More_Abstract_Designs__Relatio.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e25ea77d",
+      "label": "CRUDE MALE DEATH RATE FOR LUNG CANCER IN 1950 AND PER CAPITA CONSUMPTION OF CIGARETTES IN 1930 IN VARIOUS COUNTRIES.",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_012_CRUDE_MALE_DEATH_RATE_FOR_LUNG.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a9f43f47",
+      "label": "Principles of Graphical Excellence",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_013_Principles_of_Graphical_Excell.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a95d6a64",
+      "label": "2 Graphical Integrity",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_014_2_Graphical_Integrity.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5458c9f3",
+      "label": "What is Distortion in a Data Graphic?",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_015_What_is_Distortion_in_a_Data_G.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8add01f8",
+      "label": "3S.E. Asch, \"Studies of Independence and Submission to Group Pressure. A Minority ofOne Against a Unanimous Majority,' PsychologicalMonographs (1956), 70.",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_016_3S_E__Asch___Studies_of_Indepe.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_91bf9ac8",
+      "label": "Design and Data Variation",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_017_Design_and_Data_Variation.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_838e860a",
+      "label": "The Case of Skyrocketing Government Spending",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_018_The_Case_of_Skyrocketing_Gover.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c4573404",
+      "label": "Visual Areaand Numerical Measure",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_019_Visual_Areaand_Numerical_Measu.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9e5effa0",
+      "label": "THE SHRINKING FAMILY DOCTOR In California",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_020_THE_SHRINKING_FAMILY_DOCTOR_In.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1865963b",
+      "label": "CASSE POSTALI DI RISPARMIO ITALIANE",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_021_CASSE_POSTALI_DI_RISPARMIO_ITA.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e01d9ee3",
+      "label": "Context is Essential for Graphical Integrity",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_022_Context_is_Essential_for_Graph.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a304310d",
+      "label": "Conclusion",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_056_Conclusion.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e6ced1b9",
+      "label": "Lack ofQuantitative Skills of Professional Artists",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_024_Lack_ofQuantitative_Skills_of_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9dbbd374",
+      "label": "The Doctrine That Statistical Data Are Boring",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_025_The_Doctrine_That_Statistical_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6581bdee",
+      "label": "The Doctrine That Graphics Are Only for the Unsophisticated Reader",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_026_The_Doctrine_That_Graphics_Are.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8a2c9734",
+      "label": "The Consequences",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_027_The_Consequences.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_30a5e718",
+      "label": "Pace of City Life Found 2.8FeetperSecondFaster",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_028_Pace_of_City_Life_Found_2_8Fee.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3adc59d0",
+      "label": "Theory of Data Graphics",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_030_Theory_of_Data_Graphics.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_39570485",
+      "label": "Data-Ink",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_031_Data_Ink.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_cb6699d2",
+      "label": "Maximizing the Share ofData-ink",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_032_Maximizing_the_Share_ofData_in.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_71e3be60",
+      "label": "Two Erasing Principles",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_033_Two_Erasing_Principles.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c7e8a2bb",
+      "label": "Application ofthe Principles in Editing and Redesign",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_034_Application_ofthe_Principles_i.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_433d85ab",
+      "label": "Unintentional Optical Art",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_036_Unintentional_Optical_Art.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_77dc514d",
+      "label": "The Grid",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_037_The_Grid.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7620936c",
+      "label": "Self-Promoting Graphics: The Duck",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_038_Self_Promoting_Graphics__The_D.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_73d08387",
+      "label": "Redesign ofthe BoxPlot",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_040_Redesign_ofthe_BoxPlot.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_839b7b4e",
+      "label": "Redesign ofthe Bar Chart/Histogram",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_041_Redesign_ofthe_Bar_Chart_Histo.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f0dd49d2",
+      "label": "Redesign ofthe Scatterplot",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_042_Redesign_ofthe_Scatterplot.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c547894b",
+      "label": "7 Multifunctioning Graphical Elements",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_044_7_Multifunctioning_Graphical_E.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1dfc4b24",
+      "label": "Data-Built Data Measures",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_045_Data_Built_Data_Measures.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e93a19c9",
+      "label": "Easter-wings.",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_046_Easter_wings_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e366d43b",
+      "label": "Data-Based Grids",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_047_Data_Based_Grids.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_210c63b6",
+      "label": "Double-Functioning Labels",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_048_Double_Functioning_Labels.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9fe8cdfb",
+      "label": "Puzzles and Hierarchy in Graphics",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_049_Puzzles_and_Hierarchy_in_Graph.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4f9161b7",
+      "label": "8 Data Density and Small Multiples",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_050_8_Data_Density_and_Small_Multi.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_33da39d0",
+      "label": "Data Density in Graphical Practice",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_051_Data_Density_in_Graphical_Prac.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f013e8dd",
+      "label": "Data Density and the Size of the Data Matrix: Publication Practices",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_052_Data_Density_and_the_Size_of_t.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_605bd15a",
+      "label": "High-Information Graphics",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_053_High_Information_Graphics.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e0861c8d",
+      "label": "PROBLEMES GRAPHIQUES POSES PAR LES CHRONIQUES",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_054_PROBLEMES_GRAPHIQUES_POSES_PAR.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5279e1ec",
+      "label": "Small Multiples",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_055_Small_Multiples.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e957cdea",
+      "label": "9 Aesthetics and Technique in Data Graphical Design",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_057_9_Aesthetics_and_Technique_in_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5b9caaec",
+      "label": "The Choice ofDesign: Sentences, Text-Tables, Tables, Semi-Graphics, and Graphics",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_058_The_Choice_ofDesign__Sentences.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e09eb9ff",
+      "label": "How DifferentGroups Votedfor President",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_059_How_DifferentGroups_Votedfor_P.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ea00b677",
+      "label": "Making Complexity Accessible: Combining Words, Numbers,and Pictures",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_060_Making_Complexity_Accessible__.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8e36ee56",
+      "label": "Accessible Complexity: The Friendly Data Graphic",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_061_Accessible_Complexity__The_Fri.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_08ec8bf2",
+      "label": "Proportion and Scale: Line Weight and Lettering",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_062_Proportion_and_Scale__Line_Wei.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ea74e5be",
+      "label": "Proportion and Scale: The Shape of Graphics",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_063_Proportion_and_Scale__The_Shap.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e7a58a9b",
+      "label": "Epilogue: Designs for the Display of Information",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_064_Epilogue__Designs_for_the_Disp_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3feb91e0",
+      "label": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information chunk 064 Epilogue  Designs for the Disp 2",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_064_Epilogue__Designs_for_the_Disp_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9817974e",
+      "label": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information chunk 064 Epilogue  Designs for the Disp 3",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_064_Epilogue__Designs_for_the_Disp_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_cc8b4b02",
+      "label": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information chunk 064 Epilogue  Designs for the Disp 4",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_064_Epilogue__Designs_for_the_Disp_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_215bb4df",
+      "label": "Acknowledgments, Second Edition",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_065_Acknowledgments__Second_Editio.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c66ef9cd",
+      "label": "Acknowledgments",
+      "file_type": "concept",
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_066_Acknowledgments.md",
+      "description": "Primary concept extracted from chunk"
+    }
+  ],
+  "links": [
+    {
+      "source": "file_161f519f",
+      "target": "file_09b880b8",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_001_PARTI_GRAPHICAL_PRACTICE.md"
+    },
+    {
+      "source": "file_09b880b8",
+      "target": "file_5a821dc3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_002_PART_II_THEORY_OF_DATA_GRAPHIC.md"
+    },
+    {
+      "source": "file_5a821dc3",
+      "target": "file_a0ed3e76",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_003_Introduction_to_the_Second_Edi.md"
+    },
+    {
+      "source": "file_a0ed3e76",
+      "target": "file_ff3eaf6e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_004_Introduction.md"
+    },
+    {
+      "source": "file_ff3eaf6e",
+      "target": "file_5278364b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_005_I_Graphical_Excellence.md"
+    },
+    {
+      "source": "file_5278364b",
+      "target": "file_9257ddae",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_006_Data_Maps.md"
+    },
+    {
+      "source": "file_9257ddae",
+      "target": "file_93d46d39",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_007_Ecceformulam_vfum_atque.md"
+    },
+    {
+      "source": "file_93d46d39",
+      "target": "file_265bac9c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_008_Time_Series_1.md"
+    },
+    {
+      "source": "file_265bac9c",
+      "target": "file_c854a387",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_008_Time_Series_2.md"
+    },
+    {
+      "source": "file_c854a387",
+      "target": "file_2660aaa7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_008_Time_Series_3.md"
+    },
+    {
+      "source": "file_2660aaa7",
+      "target": "file_3a4b1180",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_009_A_monopole_.md"
+    },
+    {
+      "source": "file_3a4b1180",
+      "target": "file_d6ecd5fb",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_010_Narrative_Graphics_ofSpaceand_.md"
+    },
+    {
+      "source": "file_d6ecd5fb",
+      "target": "file_293069ac",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_011_More_Abstract_Designs__Relatio.md"
+    },
+    {
+      "source": "file_293069ac",
+      "target": "file_e25ea77d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_012_CRUDE_MALE_DEATH_RATE_FOR_LUNG.md"
+    },
+    {
+      "source": "file_e25ea77d",
+      "target": "file_a9f43f47",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_013_Principles_of_Graphical_Excell.md"
+    },
+    {
+      "source": "file_a9f43f47",
+      "target": "file_a95d6a64",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_014_2_Graphical_Integrity.md"
+    },
+    {
+      "source": "file_a95d6a64",
+      "target": "file_5458c9f3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_015_What_is_Distortion_in_a_Data_G.md"
+    },
+    {
+      "source": "file_5458c9f3",
+      "target": "file_8add01f8",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_016_3S_E__Asch___Studies_of_Indepe.md"
+    },
+    {
+      "source": "file_8add01f8",
+      "target": "file_91bf9ac8",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_017_Design_and_Data_Variation.md"
+    },
+    {
+      "source": "file_91bf9ac8",
+      "target": "file_838e860a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_018_The_Case_of_Skyrocketing_Gover.md"
+    },
+    {
+      "source": "file_838e860a",
+      "target": "file_c4573404",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_019_Visual_Areaand_Numerical_Measu.md"
+    },
+    {
+      "source": "file_c4573404",
+      "target": "file_9e5effa0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_020_THE_SHRINKING_FAMILY_DOCTOR_In.md"
+    },
+    {
+      "source": "file_9e5effa0",
+      "target": "file_1865963b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_021_CASSE_POSTALI_DI_RISPARMIO_ITA.md"
+    },
+    {
+      "source": "file_1865963b",
+      "target": "file_e01d9ee3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_022_Context_is_Essential_for_Graph.md"
+    },
+    {
+      "source": "file_e01d9ee3",
+      "target": "file_a304310d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_023_Conclusion.md"
+    },
+    {
+      "source": "file_a304310d",
+      "target": "file_e6ced1b9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_024_Lack_ofQuantitative_Skills_of_.md"
+    },
+    {
+      "source": "file_e6ced1b9",
+      "target": "file_9dbbd374",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_025_The_Doctrine_That_Statistical_.md"
+    },
+    {
+      "source": "file_9dbbd374",
+      "target": "file_6581bdee",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_026_The_Doctrine_That_Graphics_Are.md"
+    },
+    {
+      "source": "file_6581bdee",
+      "target": "file_8a2c9734",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_027_The_Consequences.md"
+    },
+    {
+      "source": "file_8a2c9734",
+      "target": "file_30a5e718",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_028_Pace_of_City_Life_Found_2_8Fee.md"
+    },
+    {
+      "source": "file_30a5e718",
+      "target": "file_a304310d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_029_Conclusion.md"
+    },
+    {
+      "source": "file_a304310d",
+      "target": "file_3adc59d0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_030_Theory_of_Data_Graphics.md"
+    },
+    {
+      "source": "file_3adc59d0",
+      "target": "file_39570485",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_031_Data_Ink.md"
+    },
+    {
+      "source": "file_39570485",
+      "target": "file_cb6699d2",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_032_Maximizing_the_Share_ofData_in.md"
+    },
+    {
+      "source": "file_cb6699d2",
+      "target": "file_71e3be60",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_033_Two_Erasing_Principles.md"
+    },
+    {
+      "source": "file_71e3be60",
+      "target": "file_c7e8a2bb",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_034_Application_ofthe_Principles_i.md"
+    },
+    {
+      "source": "file_c7e8a2bb",
+      "target": "file_a304310d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_035_Conclusion.md"
+    },
+    {
+      "source": "file_a304310d",
+      "target": "file_433d85ab",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_036_Unintentional_Optical_Art.md"
+    },
+    {
+      "source": "file_433d85ab",
+      "target": "file_77dc514d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_037_The_Grid.md"
+    },
+    {
+      "source": "file_77dc514d",
+      "target": "file_7620936c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_038_Self_Promoting_Graphics__The_D.md"
+    },
+    {
+      "source": "file_7620936c",
+      "target": "file_a304310d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_039_Conclusion.md"
+    },
+    {
+      "source": "file_a304310d",
+      "target": "file_73d08387",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_040_Redesign_ofthe_BoxPlot.md"
+    },
+    {
+      "source": "file_73d08387",
+      "target": "file_839b7b4e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_041_Redesign_ofthe_Bar_Chart_Histo.md"
+    },
+    {
+      "source": "file_839b7b4e",
+      "target": "file_f0dd49d2",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_042_Redesign_ofthe_Scatterplot.md"
+    },
+    {
+      "source": "file_f0dd49d2",
+      "target": "file_a304310d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_043_Conclusion.md"
+    },
+    {
+      "source": "file_a304310d",
+      "target": "file_c547894b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_044_7_Multifunctioning_Graphical_E.md"
+    },
+    {
+      "source": "file_c547894b",
+      "target": "file_1dfc4b24",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_045_Data_Built_Data_Measures.md"
+    },
+    {
+      "source": "file_1dfc4b24",
+      "target": "file_e93a19c9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_046_Easter_wings_.md"
+    },
+    {
+      "source": "file_e93a19c9",
+      "target": "file_e366d43b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_047_Data_Based_Grids.md"
+    },
+    {
+      "source": "file_e366d43b",
+      "target": "file_210c63b6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_048_Double_Functioning_Labels.md"
+    },
+    {
+      "source": "file_210c63b6",
+      "target": "file_9fe8cdfb",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_049_Puzzles_and_Hierarchy_in_Graph.md"
+    },
+    {
+      "source": "file_9fe8cdfb",
+      "target": "file_4f9161b7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_050_8_Data_Density_and_Small_Multi.md"
+    },
+    {
+      "source": "file_4f9161b7",
+      "target": "file_33da39d0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_051_Data_Density_in_Graphical_Prac.md"
+    },
+    {
+      "source": "file_33da39d0",
+      "target": "file_f013e8dd",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_052_Data_Density_and_the_Size_of_t.md"
+    },
+    {
+      "source": "file_f013e8dd",
+      "target": "file_605bd15a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_053_High_Information_Graphics.md"
+    },
+    {
+      "source": "file_605bd15a",
+      "target": "file_e0861c8d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_054_PROBLEMES_GRAPHIQUES_POSES_PAR.md"
+    },
+    {
+      "source": "file_e0861c8d",
+      "target": "file_5279e1ec",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_055_Small_Multiples.md"
+    },
+    {
+      "source": "file_5279e1ec",
+      "target": "file_a304310d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_056_Conclusion.md"
+    },
+    {
+      "source": "file_a304310d",
+      "target": "file_e957cdea",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_057_9_Aesthetics_and_Technique_in_.md"
+    },
+    {
+      "source": "file_e957cdea",
+      "target": "file_5b9caaec",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_058_The_Choice_ofDesign__Sentences.md"
+    },
+    {
+      "source": "file_5b9caaec",
+      "target": "file_e09eb9ff",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_059_How_DifferentGroups_Votedfor_P.md"
+    },
+    {
+      "source": "file_e09eb9ff",
+      "target": "file_ea00b677",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_060_Making_Complexity_Accessible__.md"
+    },
+    {
+      "source": "file_ea00b677",
+      "target": "file_8e36ee56",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_061_Accessible_Complexity__The_Fri.md"
+    },
+    {
+      "source": "file_8e36ee56",
+      "target": "file_08ec8bf2",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_062_Proportion_and_Scale__Line_Wei.md"
+    },
+    {
+      "source": "file_08ec8bf2",
+      "target": "file_ea74e5be",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_063_Proportion_and_Scale__The_Shap.md"
+    },
+    {
+      "source": "file_ea74e5be",
+      "target": "file_e7a58a9b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_064_Epilogue__Designs_for_the_Disp_1.md"
+    },
+    {
+      "source": "file_e7a58a9b",
+      "target": "file_3feb91e0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_064_Epilogue__Designs_for_the_Disp_2.md"
+    },
+    {
+      "source": "file_3feb91e0",
+      "target": "file_9817974e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_064_Epilogue__Designs_for_the_Disp_3.md"
+    },
+    {
+      "source": "file_9817974e",
+      "target": "file_cc8b4b02",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_064_Epilogue__Designs_for_the_Disp_4.md"
+    },
+    {
+      "source": "file_cc8b4b02",
+      "target": "file_215bb4df",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_065_Acknowledgments__Second_Editio.md"
+    },
+    {
+      "source": "file_215bb4df",
+      "target": "file_c66ef9cd",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_066_Acknowledgments.md"
+    },
+    {
+      "source": "file_09b880b8",
+      "target": "file_a95d6a64",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_001_PARTI_GRAPHICAL_PRACTICE.md"
+    },
+    {
+      "source": "file_5a821dc3",
+      "target": "file_3adc59d0",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_002_PART_II_THEORY_OF_DATA_GRAPHIC.md"
+    },
+    {
+      "source": "file_5a821dc3",
+      "target": "file_c547894b",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_002_PART_II_THEORY_OF_DATA_GRAPHIC.md"
+    },
+    {
+      "source": "file_5a821dc3",
+      "target": "file_4f9161b7",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_002_PART_II_THEORY_OF_DATA_GRAPHIC.md"
+    },
+    {
+      "source": "file_5a821dc3",
+      "target": "file_5279e1ec",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_002_PART_II_THEORY_OF_DATA_GRAPHIC.md"
+    },
+    {
+      "source": "file_5a821dc3",
+      "target": "file_e957cdea",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_002_PART_II_THEORY_OF_DATA_GRAPHIC.md"
+    },
+    {
+      "source": "file_a0ed3e76",
+      "target": "file_ff3eaf6e",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_003_Introduction_to_the_Second_Edi.md"
+    },
+    {
+      "source": "file_5278364b",
+      "target": "file_9257ddae",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_005_I_Graphical_Excellence.md"
+    },
+    {
+      "source": "file_5278364b",
+      "target": "file_3adc59d0",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_005_I_Graphical_Excellence.md"
+    },
+    {
+      "source": "file_9257ddae",
+      "target": "file_77dc514d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_006_Data_Maps.md"
+    },
+    {
+      "source": "file_93d46d39",
+      "target": "file_9257ddae",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_007_Ecceformulam_vfum_atque.md"
+    },
+    {
+      "source": "file_c854a387",
+      "target": "file_265bac9c",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_008_Time_Series_2.md"
+    },
+    {
+      "source": "file_2660aaa7",
+      "target": "file_265bac9c",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_008_Time_Series_3.md"
+    },
+    {
+      "source": "file_d6ecd5fb",
+      "target": "file_5279e1ec",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_010_Narrative_Graphics_ofSpaceand_.md"
+    },
+    {
+      "source": "file_a9f43f47",
+      "target": "file_a304310d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_013_Principles_of_Graphical_Excell.md"
+    },
+    {
+      "source": "file_a9f43f47",
+      "target": "file_a304310d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_013_Principles_of_Graphical_Excell.md"
+    },
+    {
+      "source": "file_a9f43f47",
+      "target": "file_a304310d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_013_Principles_of_Graphical_Excell.md"
+    },
+    {
+      "source": "file_a9f43f47",
+      "target": "file_a304310d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_013_Principles_of_Graphical_Excell.md"
+    },
+    {
+      "source": "file_a9f43f47",
+      "target": "file_a304310d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_013_Principles_of_Graphical_Excell.md"
+    },
+    {
+      "source": "file_a9f43f47",
+      "target": "file_a304310d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_013_Principles_of_Graphical_Excell.md"
+    },
+    {
+      "source": "file_9e5effa0",
+      "target": "file_a304310d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_020_THE_SHRINKING_FAMILY_DOCTOR_In.md"
+    },
+    {
+      "source": "file_9e5effa0",
+      "target": "file_a304310d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_020_THE_SHRINKING_FAMILY_DOCTOR_In.md"
+    },
+    {
+      "source": "file_9e5effa0",
+      "target": "file_a304310d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_020_THE_SHRINKING_FAMILY_DOCTOR_In.md"
+    },
+    {
+      "source": "file_9e5effa0",
+      "target": "file_a304310d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_020_THE_SHRINKING_FAMILY_DOCTOR_In.md"
+    },
+    {
+      "source": "file_9e5effa0",
+      "target": "file_a304310d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_020_THE_SHRINKING_FAMILY_DOCTOR_In.md"
+    },
+    {
+      "source": "file_9e5effa0",
+      "target": "file_a304310d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_020_THE_SHRINKING_FAMILY_DOCTOR_In.md"
+    },
+    {
+      "source": "file_8a2c9734",
+      "target": "file_265bac9c",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_027_The_Consequences.md"
+    },
+    {
+      "source": "file_39570485",
+      "target": "file_77dc514d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_031_Data_Ink.md"
+    },
+    {
+      "source": "file_71e3be60",
+      "target": "file_265bac9c",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_033_Two_Erasing_Principles.md"
+    },
+    {
+      "source": "file_c7e8a2bb",
+      "target": "file_77dc514d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_034_Application_ofthe_Principles_i.md"
+    },
+    {
+      "source": "file_a304310d",
+      "target": "file_3adc59d0",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_035_Conclusion.md"
+    },
+    {
+      "source": "file_a304310d",
+      "target": "file_433d85ab",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_035_Conclusion.md"
+    },
+    {
+      "source": "file_a304310d",
+      "target": "file_77dc514d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_039_Conclusion.md"
+    },
+    {
+      "source": "file_f0dd49d2",
+      "target": "file_39570485",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_042_Redesign_ofthe_Scatterplot.md"
+    },
+    {
+      "source": "file_f0dd49d2",
+      "target": "file_77dc514d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_042_Redesign_ofthe_Scatterplot.md"
+    },
+    {
+      "source": "file_a304310d",
+      "target": "file_39570485",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_043_Conclusion.md"
+    },
+    {
+      "source": "file_c547894b",
+      "target": "file_77dc514d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_044_7_Multifunctioning_Graphical_E.md"
+    },
+    {
+      "source": "file_e366d43b",
+      "target": "file_77dc514d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_047_Data_Based_Grids.md"
+    },
+    {
+      "source": "file_210c63b6",
+      "target": "file_39570485",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_048_Double_Functioning_Labels.md"
+    },
+    {
+      "source": "file_210c63b6",
+      "target": "file_77dc514d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_048_Double_Functioning_Labels.md"
+    },
+    {
+      "source": "file_4f9161b7",
+      "target": "file_5279e1ec",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_050_8_Data_Density_and_Small_Multi.md"
+    },
+    {
+      "source": "file_a304310d",
+      "target": "file_3adc59d0",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_056_Conclusion.md"
+    },
+    {
+      "source": "file_a304310d",
+      "target": "file_5279e1ec",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_056_Conclusion.md"
+    },
+    {
+      "source": "file_ea74e5be",
+      "target": "file_a304310d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_063_Proportion_and_Scale__The_Shap.md"
+    },
+    {
+      "source": "file_ea74e5be",
+      "target": "file_a304310d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_063_Proportion_and_Scale__The_Shap.md"
+    },
+    {
+      "source": "file_ea74e5be",
+      "target": "file_a304310d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_063_Proportion_and_Scale__The_Shap.md"
+    },
+    {
+      "source": "file_ea74e5be",
+      "target": "file_a304310d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_063_Proportion_and_Scale__The_Shap.md"
+    },
+    {
+      "source": "file_ea74e5be",
+      "target": "file_a304310d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_063_Proportion_and_Scale__The_Shap.md"
+    },
+    {
+      "source": "file_ea74e5be",
+      "target": "file_a304310d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_063_Proportion_and_Scale__The_Shap.md"
+    },
+    {
+      "source": "file_215bb4df",
+      "target": "file_c66ef9cd",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Edward R. Tufte - 2001 - The Visual Display of Quantitative Information_chunk_065_Acknowledgments__Second_Editio.md"
+    }
+  ]
+}

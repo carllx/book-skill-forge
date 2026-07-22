@@ -1,0 +1,51 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "ext1",
+      "gt_id": "c1",
+      "reasoning": "Both refer to escaping the two-dimensional plane (flatland) to represent multivariate data."
+    },
+    {
+      "extracted_id": "ext2",
+      "gt_id": "c3",
+      "reasoning": "Both refer to layering and separating visual elements to reduce noise."
+    }
+  ],
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "Escaping Flatland",
+      "aliases": ["逃离扁平国", "Multivariate data", "High-dimensional"],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "Micro/Macro Readings",
+      "aliases": ["微观与宏观阅读", "Micro-macro", "Detail and overall"],
+      "weight": 9
+    },
+    {
+      "id": "c3",
+      "name": "Layering and Separation",
+      "aliases": ["分层与分隔", "Visual noise", "Layering"],
+      "weight": 9
+    },
+    {
+      "id": "c4",
+      "name": "Small Multiples",
+      "aliases": ["小多图", "Multiple variations", "Comparative"],
+      "weight": 8
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "ext1",
+      "name": "Escaping Flatland Node"
+    },
+    {
+      "id": "ext2",
+      "name": "Layering and Separation Entity"
+    }
+  ],
+  "artifact_usability": 0.8
+}

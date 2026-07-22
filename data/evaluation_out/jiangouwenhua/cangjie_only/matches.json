@@ -1,0 +1,64 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "e1",
+      "gt_id": "c_ontological_form",
+      "confidence": "high",
+      "reasoning": "提取物中指出建筑是由'内在的受力逻辑、材料属性与建造过程生成的必然结果'，严格对应了 Ground Truth 中'本体形式'的定义：The inherent truth and necessity of a form derived from its material and making。"
+    },
+    {
+      "extracted_id": "e3",
+      "gt_id": "c_topography",
+      "confidence": "medium",
+      "reasoning": "提取物提到建筑必须'倾听环境、气候、地形的呼声'，部分对应了 Ground Truth 中关于'地形学与场所'的描述：anchoring of architecture into its specific cultural and physical ground。"
+    },
+    {
+      "extracted_id": "e5",
+      "gt_id": "c_four_elements",
+      "confidence": "high",
+      "reasoning": "提取物明确区分并对比了'具有砌筑感的基座'（Earthwork）与'轻盈飞扬的构架屋面'（Roofwork），完全吻合 Ground Truth 中关于建筑四要素的分类（earthwork, hearth, framework/roof, and enclosing membrane）。"
+    },
+    {
+      "extracted_id": "e6",
+      "gt_id": "c_joint",
+      "confidence": "high",
+      "reasoning": "提取物强调在'拼缝、收口与连接中产生本体装饰'，这与 Ground Truth 中节点崇拜（Adoration of the joint）的定义完全一致：The articulation of connections as the primary locus of architectural meaning。"
+    }
+  ],
+  "ground_truth_concepts": [
+    {"id": "c_tectonics", "name": "建构 (Tectonics)", "importance": 5},
+    {"id": "c_poetics", "name": "建造诗学 (Poetics of construction)", "importance": 5},
+    {"id": "c_kernform", "name": "核心形式 (Kernform)", "importance": 4},
+    {"id": "c_kunstform", "name": "艺术形式 (Kunstform)", "importance": 4},
+    {"id": "c_four_elements", "name": "建筑艺术四要素 (Four elements of architecture)", "importance": 5},
+    {"id": "c_tectonics_frame", "name": "构架体系 (Tectonics of the frame)", "importance": 4},
+    {"id": "c_stereotomics", "name": "砌体结构 (Stereotomics of the earthwork)", "importance": 4},
+    {"id": "c_empathy", "name": "移情 (Empathy / Formgefühl)", "importance": 4},
+    {"id": "c_ontological_form", "name": "本体形式 (Ontological form)", "importance": 4},
+    {"id": "c_joint", "name": "节点崇拜 (Adoration of the joint)", "importance": 5},
+    {"id": "c_stoffwechsel", "name": "材料置换理论 (Stoffwechseltheorie)", "importance": 4},
+    {"id": "c_topography", "name": "地形学与场所 (Topography and Place)", "importance": 4},
+    {"id": "c_body_metaphor", "name": "身体性想像 (Metaphorical process of the body)", "importance": 4},
+    {"id": "c_textile", "name": "织理性建构 (Text-ile Tectonic)", "importance": 4},
+    {"id": "c_rationalism", "name": "古典理性主义 (Classical Rationalism)", "importance": 4}
+  ],
+  "extracted_concepts": [
+    {"id": "e1", "name": "结构理性与本体真实 (Structural Rationalism & Tectonic Authenticity)", "is_redundant": false},
+    {"id": "e2", "name": "跨文化意向与先验精神 (Transcultural & Transcendental Spirit)", "is_redundant": false},
+    {"id": "e3", "name": "有机的生长法则 (Organic Order of Growth)", "is_redundant": false},
+    {"id": "e4", "name": "服务空间与被服务空间的剥离 (Servant vs. Served Spaces)", "is_redundant": false},
+    {"id": "e5", "name": "基座与屋顶的二元张力 (Earthwork and Roofwork / Podium and Pagoda)", "is_redundant": false},
+    {"id": "e6", "name": "节点即装饰 (The Joint as Ornament)", "is_redundant": false},
+    {"id": "e7", "name": "自然光作为建构的揭示者 (Revelation through Light)", "is_redundant": false},
+    {"id": "e8", "name": "单元复加原则 (Additive Architecture)", "is_redundant": false},
+    {"id": "e9", "name": "掩饰结构与管线的虚假表皮 (Concealing Structure and Services)", "is_redundant": false},
+    {"id": "e10", "name": "刻板的功能主义与无窗空调房 (Rigid Functionalism & Windowless Spaces)", "is_redundant": false},
+    {"id": "e11", "name": "缺乏建造逻辑的形式主义 (Arbitrary Form without Constructional Logic)", "is_redundant": false},
+    {"id": "e12", "name": "含混不清的“自由平面” (Misuse of the Free Plan)", "is_redundant": false}
+  ],
+  "artifact_usability": {
+    "formatting_score": 4,
+    "clarity_score": 5,
+    "logical_score": 4
+  }
+}

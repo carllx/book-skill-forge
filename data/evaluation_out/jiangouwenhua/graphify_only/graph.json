@@ -1,0 +1,108 @@
+{
+  "nodes": [
+    {
+      "id": "n_tectonic",
+      "label": "建构 (Tectonic)",
+      "description": "建筑学中的核心概念，涉及建造技艺、结构逻辑和诗意表达的统一。"
+    },
+    {
+      "id": "n_etymology",
+      "label": "词源学考察",
+      "description": "探讨建构概念在历史和语言学上的源头与本意。"
+    },
+    {
+      "id": "n_topography",
+      "label": "地形 (Topography)",
+      "description": "建筑与场地、自然环境相融合的基础属性，是建构的关键维度。"
+    },
+    {
+      "id": "n_body_metaphor",
+      "label": "身体的隐喻",
+      "description": "建筑结构与人类身体结构之间的类比和隐喻。"
+    },
+    {
+      "id": "n_ethnography",
+      "label": "文化人类学 (Ethnography)",
+      "description": "建筑形式和建造传统的跨文化人类学根源。"
+    },
+    {
+      "id": "n_ontological",
+      "label": "本体 (Ontological)",
+      "description": "与再现相对立，强调建筑本身的物质性、结构真实性和建造本体。"
+    },
+    {
+      "id": "n_representational",
+      "label": "再现 (Representational)",
+      "description": "建筑作为符号、表象或视觉图像再现的功能。"
+    },
+    {
+      "id": "n_technique",
+      "label": "技术 (Technique)",
+      "description": "实现建构的物质和工程手段，建构超越了纯粹的技术。"
+    },
+    {
+      "id": "n_tradition_creation",
+      "label": "传统与创造",
+      "description": "在建构体系中历史传统的积淀与当代形式创造之间的辩证关系。"
+    },
+    {
+      "id": "n_anglo_french",
+      "label": "盎格鲁-法兰西起源",
+      "description": "希腊哥特与新哥特风格中蕴含的建构形式起源。"
+    },
+    {
+      "id": "n_german_enlightenment",
+      "label": "德国启蒙运动",
+      "description": "1750-1870年间，建构概念的核心形式与艺术形式的兴起。"
+    },
+    {
+      "id": "n_auguste_perret",
+      "label": "奥古斯特·佩雷",
+      "description": "古典理性主义代表，探索钢筋混凝土的建构表达。"
+    },
+    {
+      "id": "n_mies",
+      "label": "密斯·凡·德·罗",
+      "description": "前卫与连续性代表人物，强调结构的透明性与精微建构。"
+    },
+    {
+      "id": "n_louis_kahn",
+      "label": "路易·康",
+      "description": "在1944-1972年间探索现代化与新纪念性，强调整体结构与服务空间的区分。"
+    },
+    {
+      "id": "n_jorn_utzon",
+      "label": "约恩·伍重",
+      "description": "展现跨文化形式与建构意喻的大师，悉尼歌剧院的设计者。"
+    },
+    {
+      "id": "n_carlo_scarpa",
+      "label": "卡洛·斯卡帕",
+      "description": "通过对细部和节点的崇拜，体现材料和手工艺的诗意交汇。"
+    },
+    {
+      "id": "n_joint",
+      "label": "节点 (Joint)",
+      "description": "建构体系中构件相交接的核心部位，是建构表达的最关键微观元素。"
+    }
+  ],
+  "edges": [
+    {"source": "n_tectonic", "target": "n_etymology", "relation": "展开考察"},
+    {"source": "n_tectonic", "target": "n_topography", "relation": "包含维度"},
+    {"source": "n_tectonic", "target": "n_body_metaphor", "relation": "包含维度"},
+    {"source": "n_tectonic", "target": "n_ethnography", "relation": "包含维度"},
+    {"source": "n_tectonic", "target": "n_technique", "relation": "超越并包含"},
+    {"source": "n_tectonic", "target": "n_tradition_creation", "relation": "辩证统一"},
+    {"source": "n_tectonic", "target": "n_ontological", "relation": "立足于"},
+    {"source": "n_ontological", "target": "n_representational", "relation": "对立统一"},
+    {"source": "n_anglo_french", "target": "n_tectonic", "relation": "历史起源"},
+    {"source": "n_german_enlightenment", "target": "n_tectonic", "relation": "理论兴起"},
+    {"source": "n_auguste_perret", "target": "n_tectonic", "relation": "实践演进 (古典理性主义)"},
+    {"source": "n_mies", "target": "n_tectonic", "relation": "实践演进 (前卫与连续性)"},
+    {"source": "n_louis_kahn", "target": "n_tectonic", "relation": "实践演进 (新纪念性)"},
+    {"source": "n_jorn_utzon", "target": "n_tectonic", "relation": "实践演进 (跨文化形式)"},
+    {"source": "n_carlo_scarpa", "target": "n_tectonic", "relation": "实践演进 (节点崇拜)"},
+    {"source": "n_carlo_scarpa", "target": "n_joint", "relation": "极致推崇"},
+    {"source": "n_joint", "target": "n_tectonic", "relation": "核心微观元素"}
+  ]
+}

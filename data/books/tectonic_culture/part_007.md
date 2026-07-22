@@ -1,0 +1,39 @@
+## Part 7
+
+> [BREADCRUMB_CTX: 《tectonic_culture》 > Part 7]
+
+However, this artistic enjoyment of nature's beauty is by no means the most naive or earliest manifestation of the artistic instinct. On the contrary, the former is undeveloped in simple, primitive man, whereas he does already take delight in nature's creative law as it gleams through reality in the rhythmical sequerice of space and time movements, is found once more in the wreath, the bead necklace, the scroll, the circular dance and the rhythmic tone that attends it, the beat P   
+of an oar, and so on. These are the beginnings out of which music and architecture grew; both are the highest purely cosmic nonimitative arts, whose legislative support no other art can forgo.28
+
+Although we cannot dwell here on all the ethnographic evidence that may be summoned in support of Semper's thesis, will cite nonetheless two examples that testify to the way in which the two basic modes of building, the compressive mass and the tensile frame, have been deployed throughout time in such a way as to create a lifeworld that is cosmogonically encoded.
+
+![](images/bff349eef8081582859f5b4322426082a99a1e1c17e066b640359554d702cb6c.jpg)
+
+The first instance is taken from Pierre Bourdieu's 1969 study of the Berber house, in which he demonstrates how the entire domain is organized in terms of sectional displacement and material finish in such a way as to distinguish the upper/dry/human from the lower/wet/animal parts of the dwelling (fig. 1.14). On the opposing transverse axis the same space is ordered about a main entrance, invariably oriented toward the east, and a weaving loom that, in being set opposite the open door and the rising sun, is analogously seen as the sun of the interior. On the basis of this cosmic cross axis the house and its surroundings are divided into a homological hierarchy in which every value is counterbalanced by its opposite. Thus, the attributes of the external world are reversed on the interior; the southern exterior wall becomes the “northern" interior wall, and so on.
+
+![](images/ad63289f1756f4ff889438264b905550a769bf5eee662d668da00471929a8cb3.jpg)  
+1.14 Berber house, seasonal orientation and internal/external inversion according to the cardinal points:
+
+1. threshold 2. loom 3. rifle 4. thigejdity 5. stable 6. trough for oxen 7. water pitchers 8. jars of dried vegetabies, etc. 9. hand mill 10. jars of grain 11.bench 12.kanun 13. large water jar 14.chest 15.back door
+
+Associated with dawn, spring, fertility, and birth, the loom, before the “eastern" interior wall, is regarded as the female place of honor and is seen as the spiritual nexus of the dwelling. It is balanced by the male object of honor, namely the rifle, that is stacked close to the loom. That this symbolic system is reinforced by the construction itself is confirmed by Bourdieu's testimony.
+
+In front of the wall opposite the door stands the weaving loom. This wall is usually called by the same name as the outside front wall giving onto the courtyard (tasga), or else the wall of the weaving-loom or opposite wall, since one is opposite it when one enters. The wall opposite this is called the wall of darkness, or of sleep, or of the maiden, or of the tomb. One might be tempted to give a strictly technical explanation to these oppositions since the wall of the weavingloom .， receives the most light and the stone-flagged stable is,in fact, situated at a lower level than the rest. The reason given for the last is that the house is most often built perpendicularly with the contour lines in order to facilitate the flow of liquid-manure and dirty water. A number of signs suggest, however, that these oppositionsare the center of a whole cluster of parallel oppositions, the necessity of which is nevercompletely due to technical imperatives or functional requirements. In addition to all this, at the center of the dividing wall, between "the house of human beings' stands the main pillar, supporting the governing beam and all the framework of the house. Now this governing beam which connects the gables and spreads the protection of the male part of the house to the female part . is identified explicitly with the master of the house, whilst the main pillar on which it rests, which is the trunk of a forked tree is identified with the wife and their interlocking represents the act of physical union.29
+
+Bourdieu proceeds to show how this same symbolic system differentiates in 中 categorical way between the lower and upper parts of the house; that is, between the sunken, stone-flagged stable regarded as a space of darkness, fertility, and sexual intercourse and the upper dry, light space of human appearance, finished in polished cow dung.
+
+Our second example is drawn from Japanese culture, in which weaving and binding emerge from archaic time as the primary element in a number of agrarian renewal and ground-breaking rites that still survive today throughout the country (fig. 1.15). In an essay on these rituals, Gunter Nitschke shows how Japanese archaic land-taking/agricultural rites are invariably initiated by knotted or bound signs, known generically as musubi, from musubu, to bind (fig. 1.16).30 Nitschke argues that building/binding as a cyclical activity takes priority over religion in the archaic creation of order out of chaos, citing by way of evidence the etymological origin of the word religion in the Latin verb ligare, to bind. In contrast to the Western monumental tradition with its dependence on the relative permanence of stereotomic mass, the archaic Japanese world was symbolically structured through ephemeral tectonic material knotted grasses or rice straw ropes known as shime-nawa, literally "bound ropes' (fig. 1.17), or more elaborately through bound pillars of bamboo and reed called hashira (fig. 1.18). As Nitschke and others have shown, these Shinto prototectonic devices exercised a decisive influence on the evolution of Japanese sacred and domestic architecture through its various incarnations, from the earliest Shimmei shrines dating from the first century through to the seventeenth century shoin and chaseki versions of Heian wooden construction. Due to the relative perishability of untreated wood, Japanese honorific structures were everywhere subject to cyclical rebuilding, the most famous instance being the monumental Naiku and Geku precincts at Ise that, with their attendant buildings, are rebuilt in their entirety every twenty years. On these occasions a new shrine is built on the adjacent site of a previous shrine, this sacred domain having lain dormant over the intervening twenty-year period (fig. 1.19).
+
+![](images/dd7e73b3fa95c3610cb84005d24392fdf9efb2cd48b5e09a1b3b3aa4ed046b25.jpg)  
+1.15 Ritual tools on display in the course ofa Shinto ground-breaking ceremony.
+
+Aside from the evident differences separating stereotomic and tectonic construction in archaic building culture, two common factors may be seen as obtaining in both of these examples. The first is the primacy accorded to the woven as a place-making agent in so-called primitive cultures; the second is the universal presence of a nonlinear attitude toward time that guarantees as it were, the cyclical renewal of an eternal present. This premodern seasonal perception of the temporal finds reflection in the fact that as late as a century and a half ago the
+
+R0P4M13f
+
+1.16   
+Musubi. Japanese knotted-grass land marking and land taking compared to the configuration of Western script.
+
+1.17 Shime-nawa. The bound rice straw, apotropaic signs and talismans of Shinto culture.
+
+Japanese day was not divided into twenty-four hours.31 Instead, it was broken down into six equal periods whose lengths varied according to the seasons of the year. Even after they were imported, in the sixteenth century, Western clocks had to be mechanically adjusted to suit the old system of time.

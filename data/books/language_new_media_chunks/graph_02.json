@@ -1,0 +1,152 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Automation",
+      "description": "The third principle of new media, allowing operations involved in media creation, manipulation, and access to be automated, partly removing human intentionality.",
+      "mental_model": "Principles of New Media"
+    },
+    {
+      "id": "n2",
+      "label": "Low-level Automation",
+      "description": "Automation where users modify or create media using templates or simple algorithms, standard in commercial software like Photoshop and Word.",
+      "mental_model": "Principles of New Media"
+    },
+    {
+      "id": "n3",
+      "label": "High-level Automation",
+      "description": "Automation requiring a computer to understand semantics, often using AI, as seen in game AI engines or virtual actors.",
+      "mental_model": "Principles of New Media"
+    },
+    {
+      "id": "n4",
+      "label": "Variability",
+      "description": "The fourth principle stating a new media object can exist in infinite versions, corresponding to post-industrial 'production on demand'.",
+      "mental_model": "Principles of New Media"
+    },
+    {
+      "id": "n5",
+      "label": "Scalability",
+      "description": "A case of variability where versions of an object are generated at various sizes or levels of detail.",
+      "mental_model": "Principles of New Media"
+    },
+    {
+      "id": "n6",
+      "label": "Hypermedia",
+      "description": "A structure where media elements are connected via hyperlinks, separating elements from structure, seen as a case of variability.",
+      "mental_model": "Principles of New Media"
+    },
+    {
+      "id": "n7",
+      "label": "Transcoding",
+      "description": "The fifth principle where cultural categories are translated into computer's ontology, epistemology, and pragmatics.",
+      "mental_model": "Principles of New Media"
+    },
+    {
+      "id": "n8",
+      "label": "Cultural Layer",
+      "description": "The layer of media featuring recognizable objects, narratives, and traditional human meanings.",
+      "mental_model": "Transcoding"
+    },
+    {
+      "id": "n9",
+      "label": "Computer Layer",
+      "description": "The layer of media consisting of data structures, algorithms, variables, and machine-readable code.",
+      "mental_model": "Transcoding"
+    },
+    {
+      "id": "n10",
+      "label": "Software Studies",
+      "description": "A new stage in media theory turning to computer science to understand programmable media.",
+      "mental_model": "Media Theory"
+    },
+    {
+      "id": "n11",
+      "label": "Cinema as Precursor",
+      "description": "Cinema anticipated new media via discrete sampling of time, multimedia combinations, and random access mapping.",
+      "mental_model": "Media Evolution"
+    },
+    {
+      "id": "n12",
+      "label": "Myth of Lossless Copies",
+      "description": "The notion that digital media copies identically, which is contradicted in reality by the pervasive use of lossy compression.",
+      "mental_model": "Myths of the Digital"
+    },
+    {
+      "id": "n13",
+      "label": "Lossy Compression",
+      "description": "Techniques to reduce file size by deleting information, serving as the actual foundation of computer culture.",
+      "mental_model": "Myths of the Digital"
+    },
+    {
+      "id": "n14",
+      "label": "Interactivity Myth",
+      "description": "The idea that 'interactive media' is unique to computers, ignoring that all HCI is interactive and older art forms required psychological interaction.",
+      "mental_model": "Myths of New Media"
+    },
+    {
+      "id": "n15",
+      "label": "Externalization of Mind",
+      "description": "The modern trend to objectify internal mental processes (like associations) into external visual forms or hyperlinked structures.",
+      "mental_model": "Cognitive Externalization"
+    },
+    {
+      "id": "n16",
+      "label": "Human-Computer Interface (GUI)",
+      "description": "A key semiotic code that filters all culture, imposing its own logic and blurring the work-leisure divide.",
+      "mental_model": "Interface Theory"
+    }
+  ],
+  "edges": [
+    {
+      "source": "n1",
+      "target": "n2",
+      "label": "includes"
+    },
+    {
+      "source": "n1",
+      "target": "n3",
+      "label": "includes"
+    },
+    {
+      "source": "n4",
+      "target": "n5",
+      "label": "manifests as"
+    },
+    {
+      "source": "n4",
+      "target": "n6",
+      "label": "manifests as"
+    },
+    {
+      "source": "n7",
+      "target": "n8",
+      "label": "composites"
+    },
+    {
+      "source": "n7",
+      "target": "n9",
+      "label": "composites"
+    },
+    {
+      "source": "n7",
+      "target": "n10",
+      "label": "necessitates"
+    },
+    {
+      "source": "n12",
+      "target": "n13",
+      "label": "challenged by"
+    },
+    {
+      "source": "n14",
+      "target": "n15",
+      "label": "driven by"
+    },
+    {
+      "source": "n16",
+      "target": "n7",
+      "label": "acts as medium for"
+    }
+  ]
+}

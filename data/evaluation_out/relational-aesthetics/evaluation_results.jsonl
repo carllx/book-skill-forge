@@ -1,0 +1,12 @@
+{"timestamp": "2026-07-21T18:42:11.953095", "book_id": "relational-aesthetics", "recipe": "Graphify Only", "recall": 0.0, "precision": 1.0, "usability": 0.0, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T18:42:12.157548", "book_id": "relational-aesthetics", "recipe": "Cangjie Only", "recall": 0.0, "precision": 1.0, "usability": 0.0, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T18:42:12.439949", "book_id": "relational-aesthetics", "recipe": "Parallel Hybrid", "recall": 0.0, "precision": 1.0, "usability": 0.0, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T18:42:38.512361", "book_id": "relational-aesthetics", "recipe": "Graphify Only", "recall": 1.0, "precision": 1.0, "usability": 0.0, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T18:42:38.745327", "book_id": "relational-aesthetics", "recipe": "Cangjie Only", "recall": 1.0, "precision": 1.0, "usability": 0.0, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T18:42:38.956465", "book_id": "relational-aesthetics", "recipe": "Parallel Hybrid", "recall": 1.0, "precision": 1.0, "usability": 0.0, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:38:31.880596", "book_id": "relational-aesthetics", "recipe": "Graphify Only", "recall": 1.0, "precision": 1.0, "usability": 1.0, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:41:16.069616", "book_id": "relational-aesthetics", "recipe": "Cangjie Only", "recall": 1.0, "precision": 1.0, "usability": 1.0, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:41:23.877712", "book_id": "relational-aesthetics", "recipe": "Parallel Hybrid", "recall": 1.0, "precision": 1.0, "usability": 1.0, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:59:49.321254", "book_id": "relational-aesthetics", "recipe": "graphify_only", "recall": 1.0, "precision": 1.0, "usability": 1.0, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:59:49.523337", "book_id": "relational-aesthetics", "recipe": "cangjie_only", "recall": 1.0, "precision": 1.0, "usability": 1.0, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:59:49.732690", "book_id": "relational-aesthetics", "recipe": "parallel_hybrid", "recall": 1.0, "precision": 1.0, "usability": 1.0, "artifact_size_bytes": 0}

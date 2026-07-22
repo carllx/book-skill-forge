@@ -1,0 +1,40 @@
+## Part 33
+
+> [BREADCRUMB_CTX: 《language_new_media》 > Part 33]
+
+The earlier version of the center was called the Cape Cod network since it received information from the radars situated along the coast of New England. The center was operating right out of the Barta Building situated on the MIT campus. Each of 82 Air Force officers monitored his own computer display which showed the outlines of the New England Coast and the locations of key radars. Whenever an officer noticed a dot indicating a moving plane, he would tell the computer to follow the plane. To do this the officer simply had to touch the dot 98 with the special "light pen."
+
+Thus, the SAGE system contained all of the main elements of the modern human-computer interface. The light pen, designed in 1949, can be considered a precursor of the contemporary mouse. More importantly, at SAGE the screen came to be used not only to display information in real time, as in was in radar and television, but also to give commands to the computer. Rather than acting solely as a means to display an image of reality, the screen became the vehicle for directly affecting reality.
+
+Using the technology developed for SAGE, Lincoln researchers created a number of computer graphics programs that relied on the screen as a means to input and output information from a computer. They included programs to display brain waves (1957), simulate planet and gravitational activity (1960), as well as to 99 create 2D drawings (1958). The single most well known of these became a program called Sketchpad. Designed in 1962 by Ivan Sutherland, a graduate student supervised by Claude Shannon, it widely publicized the idea of interactive computer graphics. With Sketchpad, a human operator could create graphics directly on computer screen by touching the screen with a light pen. Sketchpad exemplified a new paradigm of interacting with computers: by changing something on the screen, the operator changed something in the computer's memory. The real-time screen became interactive.
+
+This, in short, is the history of the birth of the computer screen. But even before a computer screen became widely used, a new paradigm emerged — the
+
+simulation of an interactive three-dimensional environment without a screen. In   
+1966, Ivan Sutherland and his colleagues began research on the prototype of VR. The work was cosponsored by ARPA (Advanced Research Projects Agency) and   
+100 the Office of Naval Research.
+
+"The fundamental idea behind the three-dimensional display is to present the user with a perspective image which changes as he moves, wrote Sutherland 101 in 1968. The computer tracked the position of the viewer's head and adjusted the perspective of the computer graphic image accordingly. The display itself consisted of two six-inch-long monitors which were mounted next to the temples. They projected an image which appeared superimposed over viewer's field of vision.
+
+The screen disappeared. It completely took over the visual field.
+
+The Screen and the Body
+
+I have presented one possible genealogy of the modern computer screen. In my genealogy, the computer screen represents an interactive type, a subtype of the real-time type, which is a subtype of the dynamic type, which is a subtype of the classical type. The discussion of these types relied on two ideas. First, the idea of temporality: the classical screen displays a static, permanent image; the dynamic screen displays a moving image of the past and finally, the real-time screen shows the present. Second, the relationship between the space of the viewer and the space of the representation (I defined the screen as a window into the space of representation which itself exists in our normal space).
+
+Let us now look at the screen's history from another angle — the relationship between the screen and the body of the viewer. This is how Roland Barthes described the screen in "Diderot, Brecht, Eisenstein," written in 1973:
+
+Representation is not defined directly by imitation: even if one gets rid of notions of the "real," of the "vraisemblable," of the "copy," there will still be representation for as long as a subject (author, reader, spectator or voyeur) casts his gaze towards a horizon on which he cuts out a base of a triangle, his eye (or his mind) forming the apex. The "Organon of   
+Representation" (which is today becoming possible to write because there are intimations of something else) will have as its dual foundation the sovereignty of the act of cutting out [découpage] and the unity of the subject of action... The scene, the picture, the shot, the cut-out rectangle, here we have the very condition that allows us to conceive theater,   
+painting, cinema, literature, all those arts, that is, other than music and 102   
+which could be called dioptric arts. For Barthes, the screen becomes the all-encompassing concept which covers the functioning of even non-visual representation (literature), although he does make an appeal to a particular visual model of linear perspective. At any rate, his concept encompasses all types of representational apparatuses have discussed: painting, film, television, radar and computer display. In each of these, reality is cut by the rectangle of a screen: "a pure cut-out segment with clearly defined edges, irreversible and incorruptible; everything that surrounds it is banished into nothingness, remains unnamed, while everything that it admits within its field is 103   
+promoted into essence, into light, into view. This act of cutting reality into a sign and nothingness simultaneously doubles the viewing subject who now exists in two spaces: the familiar physical space of his/her real body and the virtual space of an image within the screen. This split comes to the surface with VR, but it already exists with painting and other dioptric arts.
+
+What is the price the subject pays for the mastery of the world, focused and unified by the screen?
+
+The Draughtsman's Contrast, a 1981 film by Peter Greenway, concerns an architectural draftsman hired to produce a set of drawings of a country house. The draughtsman employs a simple drawing tool consisting of a square grid. Throughout the film, we repeatedly see the draughtsman's face through the grid which looks like the prison bars. It is as if the subject who attempts to catch the world, to immobilize it, to fix it within the representational apparatus (here, perspectival drawing), is trapped by this apparatus himself. The subject is imprisoned.
+
+I take this image as a metaphor for what appears to be a general tendency of the Western screen-based representational apparatus. In this tradition, the body must be fixed in space if the viewer is to see the image at all. From Renaissance monocular perspective to modern cinema, from Kepler's camera obscura to 104 nineteenth century camera lucida, the body had to remain still.
+
+The imprisonment of the body takes place on both the conceptual and literal levels; both kinds of imprisonment already appear with the first screen apparatus, Alberti's perspectival window. According to many interpreters of linear perspective, it presents the world as seen by singular eye, static, unblinking and fixated. As described by Norman Bryson, perspective "followed the logic of the Gaze rather than the Glance, thus producing a visual take that was eternalized, 105   
+reduced to one 'point of view' and disembodied. Bryson argues that "the gaze of the painter arrests the flux of phenomena, contemplates the visual field from a vantage-point outside the mobility of duration, in an eternal moment of disclosed presence." 106 Correspondingly, the world, as seen by this immobile, static and atemporal Gaze, which belongs more to a statue than to a living body, becomes equally immobile, reified, fixated, cold and dead. Writing about Dürer's famous

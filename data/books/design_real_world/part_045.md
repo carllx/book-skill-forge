@@ -1,0 +1,39 @@
+## Part 45
+
+> [BREADCRUMB_CTX: 《design_real_world》 > Part 45]
+
+In 1983theDepartmentofAerospace EngineeringSciences of the UniversityofColoradobeganstudyingtheliftandthrust ofdragonflies. Itis their hopeto use the dataacquired to develop moremaneuverableandfuel-efficient aircraft. Marvin Luttgesheadsa team of bioengineersand designerswho tether dragonflies to a harness in a wind tunnel that is filled with nontoxic smoke. Photographsand films ofthe insects'motions are used tostudy dragonfly aerodynamics. When thetests are completed,thedragonfliesarereleased unharmed, Quiteaside from theapplication ofthese findingsto aircraft design, this bionicarea ofresearch, knownas"unsteadyaerodynamicdesign, should also make it possible to achieve more accuracy in predicting weather, ocean-current movements, and even the direction in which air currents will carry destructiveinsects (Geo, November 1983),
+
+Bats find their way in the dark through an echo location method: theyemit ahigh-pitched sound that bounces offobjects in their path, ispicked upby their sensitive ears, and thusestablishesanunencumberedflightpath forthem. Much the same principles are used in radar and sonar. Sonar uses audiblesound waves; radar usesultra-high-frequency waves.
+
+An excellent result ofa bionic design investigation isa remarkably accuratespeed indicator for aircraft. Certain beetles compute their air speed prior to landing by watching moving objectson theground. Astudy of the sense organs of these beetleshasyielded an aircraft speed indicator thatmeasures the time elapsed between a craft's passage over two knownpoints on theground and translates it into speed.
+
+In theearly seventies Dr. Ralph Redemske, a specialist in bionicswho worked for Servomechanism Inc. in Santa Barbara, California, plated an ordinary honeybee with a thin coating of aluminum. Using astandard blackbackground, this enabled himtomakephotographs(which wereless fuzzy than abee) ofeverydetail of its complex structure. From this work, engineerscreated mechanical eyesmodeled from thoseof bees, which are now used for scanning devices in computers to "read" shapes.
+
+One of the most interesting animals that holds many different design solutions is the bottle-nosed dolphin (Tursiops truncatus). The dolphin uses a radar- and sonar-like navigational system that does not depend on hearing. In common with whales, it ripples its external skin surface, utilizing this effect for navigation and increasing swimming speed.
+
+The ground effects caused bya helicopter flying in a stationary position at a distance of less than fifty feet above ground level have puzzled aircraft engineers for over a decade. Through a study of the dragonfly,these causes are beginning to be understood and have found application in spraying and iceremoval by helicopters.
+
+Energy input versus output poses interesting questions: two examples arethe South American fruit bat,or flying fox,and the male of a South American beetle called Acroncinus longimanus. The fruit bat has a gigantic wingspread and great power, yet it uses acomparatively smali energy input. The incredibly long front legsof the South American beetle utilize even less energy input and still derive great power.
+
+I found the input-output disparity of these beetles to be a challenging problem. Eventually able to dissect several, I found a fluidic energy amplification system. It is a measure ofmy own biological naiveté that I gleefully assumed I had made amajor theoretical breakthrough. Certainly had I dis
+
+Acroninus longimanus, male specimen showing elongated front legs. Author's collection.
+
+![](images/272637fd0516eff34e7b32e0dad3a9446b6a7f20088d780ada87881220cbc298.jpg)
+
+sected these beetles some fiftyyears ago (atthe tender ageof five) 一 might be known today as the Father of Fluidics. But thereisa serious point hidden in this anecdote: unknown to me, fluidics existed. From this it seems safe to assume that there is an infinite number ofbiological principles-likefluidics-lyingaround, waiting to be discovered.
+
+Themajor emphasis in industrial andenvironmental design willcertainly liein an ethological and ecological approach to systems, processes, and environments. When industrial designers talk about "total design," they refer to two different concepts. First, thatthe design of,say, a steam iron ought to logically lead to the design of the logo, the manufacturer's letterhead, thepoint-of-saledisplayfor theiron, thepackage, and even some control overthemerchandising of theproduct. Atothertimes"total design"means in-plant work: thedesign ofthehandlingmachinery formanufacturingthe steam iron, safety devices, and traffic patterns within the plant.
+
+But"total design"in thefuturewill mean seeing the steam iron (aswell asits factory orpromotional gimmicks) merely as links in a lengthybiomorphicphylogenetic chain reaching back to heated rocksand stove irons andforward tothefinal extinction of the phylum "steam iron" by mass introduction of "perma-press" and \`stay- -press" fabrics or a radical reevaluation ofclothing itself.
+
+If the industrial revolution gave us a mechanical era (a comparatively static technology ofmovable parts), ifthelast hundred years havegiven us atechnological era (amoredynamic technology of functioning parts), then we are now emerging into abiomorphicera (an evolving technologypermissive of evolutionary changes).
+
+Wehave beentaught that themachine isan extension ofa man'shand. Butbecause of enlarging scaleeven thisno longer holds. For 5,000 years, a brickmaker wascapable ofmaking 500bricks adayTechnologyhasmadeit possible foroneman, with the right kind of backup machinery, to make 500,000 bricksaday. But biomorphicchange obsolesces both theman and the bricks: we now extrude building skin surface, i.e., sandwich panels that include heating, lighting, cooling, and other service circuits.
+
+Thetotal chain of design can probably be best explained anecdotally. Consider thefact that theabsorption of10,000 pounds of Radiolaria establishes 1,000 pounds of plankton, that1,000 pounds ofplankton establish 100pounds ofsmall marine animals, that these in turn create tenpounds of fish, and thatit takes ten pounds offish toput onepound of muscle tissue on a human being. The frictional losses in the system aresimply staggering. With168,000speciesof insectsinNorth America there is six to eight times as much insect protein livingin aforty-acrefieldasbeefproteinrepresented by grazing cattle thereon.Actually，wedoeatflies;it'sjust that weprocess them through grass, cows,and milkfirst.
+
+It may beargued that the average industrial designer or design engineer concerned with research and development lacksasufficient background in thebiological sciences to utilize biology as ameaningful source ofdesign. Ifwe attempt todefine theword bionics in itsnarrowest sense, on a cybernetic orneurophysiological level, this may be true. But all around us are manifestations in nature and primitive structures that have never been properly investigated, exploited, or used bydesigners, biological schemes that bear investigation and areaccessible toanyone free for a walk on aSunday aftermoon.
+
+Take seeds, for instance. Asimplemaple seed (Aceraceae saccharum),whenreleasedfromjust afewfeetoff theground, will fall inaspiral pattern. Thismethod ofair-to-ground delivery has So farnever beenapplied in anysignificant way. An interestingapplication of the mapleseed's flight characteristics, discovered by George Filipowski, led to a new method ofextinguishing forest firesorgettingfire-extinguishingmodules into inaccessibleparts. An artificial mapleseed someeightand two-thirds inches long wasconstructed out of inexpensive, ultralightweight plastic. The seed portion contained afire-extinguishing powder. Experimentation and investigation showed that whenmaple seeds (artificial orreal)

@@ -1,0 +1,53 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "e_synchresis",
+      "gt_id": "c2",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "The extracted node 'Synchresis' perfectly matches the ground truth concept 'Synchresis' (c2). Both describe the spontaneous mental fusion of sound and image.",
+      "evidence": "Chion's term for this phenomenon is synchresis, an acronym formed by the telescoping together of the two words synchronism and synthesis"
+    },
+    {
+      "extracted_id": "e_acousmatic",
+      "gt_id": "c3",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "The extracted node 'Acousmatic Sound' refers exactly to 'Acousmatic Sound' (c3) in GT, dealing with off-screen or unseen sound sources.",
+      "evidence": "acousmatic sound, reduced listening, rendered sound, sound en creux, the phantom of the Acousmetre"
+    }
+  ],
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "Audiovisual Contract",
+      "aliases": ["视听契约", "Added Value", "附加值", "Audiovisual illusion"],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "Synchresis",
+      "aliases": ["同步离散", "声画同步错觉", "Synchronism and synthesis"],
+      "weight": 10
+    },
+    {
+      "id": "c3",
+      "name": "Acousmatic Sound",
+      "aliases": ["无源声", "幕后音", "Acousmêtre", "Acousmatic"],
+      "weight": 9
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "e_synchresis",
+      "name": "Synchresis",
+      "type": "entity"
+    },
+    {
+      "id": "e_acousmatic",
+      "name": "Acousmatic Sound",
+      "type": "entity"
+    }
+  ],
+  "artifact_usability": 0.8
+}

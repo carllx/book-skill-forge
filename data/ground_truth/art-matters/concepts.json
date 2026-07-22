@@ -1,0 +1,280 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "name": "The End of Art",
+      "weight": 9,
+      "aliases": [
+        "Death of Art",
+        "Hegel's End of Art"
+      ],
+      "sub_concepts": [
+        {
+          "id": "c1_1",
+          "name": "Aesthetics vs Ontology",
+          "weight": 8,
+          "aliases": [
+            "Aesthetic Approach",
+            "Ontological Approach"
+          ],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        },
+        {
+          "id": "c1_2",
+          "name": "Art and Truth",
+          "weight": 10,
+          "aliases": [
+            "Happening of Truth"
+          ],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        }
+      ],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c2",
+      "name": "Authenticity and Silence",
+      "weight": 8,
+      "aliases": [
+        "Authenticity",
+        "Inauthenticity",
+        "Dasein's Authenticity"
+      ],
+      "sub_concepts": [
+        {
+          "id": "c2_1",
+          "name": "Guilt and Conscience",
+          "weight": 7,
+          "aliases": [],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        },
+        {
+          "id": "c2_2",
+          "name": "Resoluteness",
+          "weight": 8,
+          "aliases": [
+            "Entschlossenheit",
+            "Resoluteness and Responsibility"
+          ],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        }
+      ],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c3",
+      "name": "Metaphysics and the Loss of Meaning",
+      "weight": 8,
+      "aliases": [
+        "Age of the World Picture",
+        "Disintegration and Renewal"
+      ],
+      "sub_concepts": [
+        {
+          "id": "c3_1",
+          "name": "The Origin of Metaphysics",
+          "weight": 7,
+          "aliases": [],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        }
+      ],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c4",
+      "name": "The Thingliness of the Thing",
+      "weight": 10,
+      "aliases": [
+        "Thing and Work",
+        "Thing",
+        "Thingly Character"
+      ],
+      "sub_concepts": [
+        {
+          "id": "c4_1",
+          "name": "Thing as Bearer of Properties",
+          "weight": 6,
+          "aliases": [],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        },
+        {
+          "id": "c4_2",
+          "name": "Thing as Object of Perception",
+          "weight": 6,
+          "aliases": [],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        },
+        {
+          "id": "c4_3",
+          "name": "Thing as Formed Matter",
+          "weight": 6,
+          "aliases": [
+            "Form and Matter"
+          ],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        }
+      ],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c5",
+      "name": "Equipment",
+      "weight": 9,
+      "aliases": [
+        "The Being of Equipment",
+        "Reliability",
+        "Equipmentality"
+      ],
+      "sub_concepts": [
+        {
+          "id": "c5_1",
+          "name": "Van Gogh's Peasant Shoes",
+          "weight": 8,
+          "aliases": [
+            "A Pair of Shoes"
+          ],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        }
+      ],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c6",
+      "name": "World and Earth",
+      "weight": 10,
+      "aliases": [
+        "Counterplay of World and Earth",
+        "Strife of World and Earth"
+      ],
+      "sub_concepts": [
+        {
+          "id": "c6_1",
+          "name": "World",
+          "weight": 9,
+          "aliases": [
+            "Openness",
+            "Clearing",
+            "Welt"
+          ],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        },
+        {
+          "id": "c6_2",
+          "name": "Earth",
+          "weight": 9,
+          "aliases": [
+            "Material Transcendence",
+            "Self-secluding Earth",
+            "Erde"
+          ],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        },
+        {
+          "id": "c6_3",
+          "name": "The Rift",
+          "weight": 8,
+          "aliases": [
+            "Riss",
+            "Rift-design"
+          ],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        }
+      ],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c7",
+      "name": "The Happening of Truth",
+      "weight": 10,
+      "aliases": [
+        "Truth as Unconcealedness",
+        "Aletheia"
+      ],
+      "sub_concepts": [
+        {
+          "id": "c7_1",
+          "name": "The Nature of Truth is Untruth",
+          "weight": 8,
+          "aliases": [
+            "Truth and Untruth",
+            "Clearing and Concealing"
+          ],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        }
+      ],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c8",
+      "name": "Art as Origin",
+      "weight": 9,
+      "aliases": [
+        "Ursprung",
+        "Original Creation"
+      ],
+      "sub_concepts": [
+        {
+          "id": "c8_1",
+          "name": "Creators and Preservers",
+          "weight": 8,
+          "aliases": [
+            "Creating and Preserving"
+          ],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        },
+        {
+          "id": "c8_2",
+          "name": "Founding",
+          "weight": 7,
+          "aliases": [
+            "Stiften",
+            "Founding as Bestowing",
+            "Founding as Grounding",
+            "Founding as Beginning"
+          ],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        }
+      ],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c9",
+      "name": "Art Is Poetry",
+      "weight": 8,
+      "aliases": [
+        "Dichtung",
+        "Poetry and Poesy"
+      ],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    }
+  ],
+  "book": "art-matters",
+  "author": "Unknown",
+  "edition": "Unknown",
+  "gt_version": "2.0",
+  "source_completeness": "COMPLETE"
+}

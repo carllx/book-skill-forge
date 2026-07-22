@@ -1,0 +1,4289 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "file_012d2df3",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 000 preamble",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_000_preamble.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e376365d",
+      "label": "Contents",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_001_Contents_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1c0c2693",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 001 Contents 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_001_Contents_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_abd69a92",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 001 Contents 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_001_Contents_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_524cd2b3",
+      "label": "Introduction: Reflections on the Scope of the Tectonic",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_002_Introduction__Reflections_on_t_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2b6b5954",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 002 Introduction  Reflections on t 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_002_Introduction__Reflections_on_t_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d1499cb1",
+      "label": "Etymology",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_003_Etymology_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d3de94ca",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 003 Etymology 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_003_Etymology_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_49c044c9",
+      "label": "Topography",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_004_Topography.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1de51f35",
+      "label": "Corporeal Metaphor",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_005_Corporeal_Metaphor.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b781cf6a",
+      "label": "Ethnography",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_006_Ethnography_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_660fb7b3",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 006 Ethnography 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_006_Ethnography_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_052560bd",
+      "label": "Representational versus Ontological",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_007_Representational_versus_Ontolo.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_0adeff85",
+      "label": "1.19",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_008_1_19.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_88aeeaa1",
+      "label": "Tectonic/Atectonic",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_009_Tectonic_Atectonic.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c10b3af6",
+      "label": "Technology",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_010_Technology_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ac243108",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 010 Technology 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_010_Technology_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_42b80d7e",
+      "label": "Tradition and Innovation",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_011_Tradition_and_Innovation_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_db355831",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 011 Tradition and Innovation 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_011_Tradition_and_Innovation_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_bde5f935",
+      "label": "2 Greco-Gothic and Neo-Gothic: The Anglo-French Origins of Tectonic Form",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_098_2_Greco_Gothic_and_Neo_Gothic_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d337dfb2",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 012 2 Greco Gothic and Neo Gothic  2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_012_2_Greco_Gothic_and_Neo_Gothic__2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a627b2ef",
+      "label": "2.4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_013_2_4_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4d032db4",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 013 2 4 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_013_2_4_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b8c17b00",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 013 2 4 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_013_2_4_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_33dc6ade",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 013 2 4 4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_013_2_4_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7d1ee3b2",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 013 2 4 5",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_013_2_4_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7386fc72",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 013 2 4 6",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_013_2_4_6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_880ecf9b",
+      "label": "2.23",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_014_2_23_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4a0268fc",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 014 2 23 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_014_2_23_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f4d7e50f",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 014 2 23 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_014_2_23_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d3618309",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 014 2 23 4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_014_2_23_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c2662356",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 014 2 23 5",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_014_2_23_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_cf0b3b1c",
+      "label": "3 The Rise of the Tectonic: Core Form and Art Form in the German Enlightenment, 1750-1870",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_101_3_The_Rise_of_the_Tectonic__Co.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2f189085",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 015 3 The Rise of the Tectonic  Co 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_015_3_The_Rise_of_the_Tectonic__Co_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d44539a9",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 015 3 The Rise of the Tectonic  Co 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_015_3_The_Rise_of_the_Tectonic__Co_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9f9df674",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 015 3 The Rise of the Tectonic  Co 4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_015_3_The_Rise_of_the_Tectonic__Co_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_22603d4b",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 015 3 The Rise of the Tectonic  Co 5",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_015_3_The_Rise_of_the_Tectonic__Co_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a568aa40",
+      "label": "3.16",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_016_3_16.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_40e5f897",
+      "label": "3.17",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_017_3_17.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4af8659c",
+      "label": "3.21",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_018_3_21_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9d67dcbf",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 018 3 21 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_018_3_21_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1b4b8f0e",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 018 3 21 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_018_3_21_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_78ae3a58",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 018 3 21 4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_018_3_21_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_34843220",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 018 3 21 5",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_018_3_21_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_78d2e477",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 018 3 21 6",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_018_3_21_6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_0127ea2a",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 018 3 21 7",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_018_3_21_7.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_28ab652b",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 018 3 21 8",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_018_3_21_8.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_faca145d",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 018 3 21 9",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_018_3_21_9.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_169db4a3",
+      "label": "4 Frank Lloyd Wright and the Text-Tile Tectonic",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_106_4_Frank_Lloyd_Wright_and_the_T_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b380e49b",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 019 4 Frank Lloyd Wright and the T 10",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_019_4_Frank_Lloyd_Wright_and_the_T_10.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_eeb0c5b5",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 019 4 Frank Lloyd Wright and the T 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_019_4_Frank_Lloyd_Wright_and_the_T_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d7a60ae2",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 019 4 Frank Lloyd Wright and the T 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_019_4_Frank_Lloyd_Wright_and_the_T_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_30e4285a",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 019 4 Frank Lloyd Wright and the T 4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_019_4_Frank_Lloyd_Wright_and_the_T_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c3b48d28",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 019 4 Frank Lloyd Wright and the T 5",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_019_4_Frank_Lloyd_Wright_and_the_T_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_030f4027",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 019 4 Frank Lloyd Wright and the T 6",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_019_4_Frank_Lloyd_Wright_and_the_T_6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a721a9d2",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 019 4 Frank Lloyd Wright and the T 7",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_019_4_Frank_Lloyd_Wright_and_the_T_7.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f1115007",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 019 4 Frank Lloyd Wright and the T 8",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_019_4_Frank_Lloyd_Wright_and_the_T_8.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4b559ed9",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 019 4 Frank Lloyd Wright and the T 9",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_019_4_Frank_Lloyd_Wright_and_the_T_9.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3ab43ad0",
+      "label": "5 Auguste Perret and Classical Rationalism",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_020_5_Auguste_Perret_and_Classical_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_55a82f99",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 020 5 Auguste Perret and Classical 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_020_5_Auguste_Perret_and_Classical_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c4d500bc",
+      "label": "5.4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_021_5_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f3ffe8de",
+      "label": "5.5",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_022_5_5_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_db9f0085",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 022 5 5 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_022_5_5_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_703a912f",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 022 5 5 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_022_5_5_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4cc75c9d",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 022 5 5 4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_022_5_5_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1d08d336",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 022 5 5 5",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_022_5_5_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_965e1bd6",
+      "label": "5.31",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_023_5_31.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e8d5b299",
+      "label": "5.33",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_024_5_33.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_bde3d5c4",
+      "label": "5.35",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_025_5_35_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9cf65d60",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 025 5 35 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_025_5_35_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1b516a57",
+      "label": "5.47",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_026_5_47_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ee62ecd9",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 026 5 47 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_026_5_47_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6650afc2",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 026 5 47 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_026_5_47_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8d0ab2fd",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 026 5 47 4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_026_5_47_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a9040316",
+      "label": "6 Mies van der Rohe: Avant-Garde and Continuity",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_027_6_Mies_van_der_Rohe__Avant_Gar_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_039a59b6",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 027 6 Mies van der Rohe  Avant Gar 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_027_6_Mies_van_der_Rohe__Avant_Gar_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_901516b0",
+      "label": "6.4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_028_6_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7b0cf462",
+      "label": "6.6",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_029_6_6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_cc408c40",
+      "label": "6.12",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_030_6_12.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6e7d23ce",
+      "label": "6.13",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_031_6_13.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9cd0b1e4",
+      "label": "6.15",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_032_6_15.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c34a7007",
+      "label": "6.16",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_033_6_16_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9f4e71e9",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 033 6 16 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_033_6_16_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1d59c69d",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 033 6 16 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_033_6_16_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_49cd77e5",
+      "label": "6.24",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_034_6_24.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_905d02c9",
+      "label": "6.27",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_035_6_27.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b0df4393",
+      "label": "6.28",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_036_6_28.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_57fcddc1",
+      "label": "6.30",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_037_6_30_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_27eb1658",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 037 6 30 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_037_6_30_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c513a9d7",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 037 6 30 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_037_6_30_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_67a3f1ed",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 037 6 30 4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_037_6_30_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_726f9fd7",
+      "label": "6.41",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_038_6_41.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b1a9494a",
+      "label": "6.42",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_039_6_42_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7e97cbaf",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 039 6 42 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_039_6_42_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_575f5e28",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 039 6 42 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_039_6_42_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3917d1f8",
+      "label": "6.51",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_040_6_51.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a671712b",
+      "label": "6.53",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_041_6_53.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_423e5d87",
+      "label": "6.63",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_042_6_63.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c8988ab6",
+      "label": "6.71",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_043_6_71.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_32780faf",
+      "label": "雨长",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_044_雨长.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_913fa536",
+      "label": "7 Louis Kahn: Modernization and the New Monumentality, 1944-1972",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_045_7_Louis_Kahn__Modernization_an_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_458200f7",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 045 7 Louis Kahn  Modernization an 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_045_7_Louis_Kahn__Modernization_an_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3c3fe717",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 045 7 Louis Kahn  Modernization an 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_045_7_Louis_Kahn__Modernization_an_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_751ea334",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 045 7 Louis Kahn  Modernization an 4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_045_7_Louis_Kahn__Modernization_an_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_74fb293d",
+      "label": "7.5",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_046_7_5_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4bc23d4a",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 046 7 5 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_046_7_5_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ee00d0d1",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 046 7 5 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_046_7_5_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_34b11229",
+      "label": "7.11",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_047_7_11.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_131fcf77",
+      "label": "7.12",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_048_7_12_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c647c62b",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 048 7 12 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_048_7_12_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_69d406e4",
+      "label": "7.16",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_049_7_16.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c048c42b",
+      "label": "7.19",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_050_7_19.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7717085b",
+      "label": "7.20",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_051_7_20.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_38450b91",
+      "label": "7.21",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_052_7_21_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6dd6a4fd",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 052 7 21 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_052_7_21_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_09eac1f1",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 052 7 21 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_052_7_21_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_21fb47e8",
+      "label": "7.28",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_053_7_28.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_767cea89",
+      "label": "7.32",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_054_7_32.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c08efa71",
+      "label": "7.33",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_055_7_33.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6591f41c",
+      "label": "7.34",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_056_7_34.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9bde7695",
+      "label": "7.37",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_057_7_37.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5afc1c68",
+      "label": "7.39",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_058_7_39.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1039ab1d",
+      "label": "7.42",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_059_7_42.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_eeb85426",
+      "label": "7.43",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_060_7_43.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_10b5c514",
+      "label": "7.44",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_061_7_44.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ea364156",
+      "label": "Transcultural Form and the Tectonic Metaphor",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_062_Transcultural_Form_and_the_Tec_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_57e3aa54",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 062 Transcultural Form and the Tec 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_062_Transcultural_Form_and_the_Tec_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_082eda52",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 062 Transcultural Form and the Tec 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_062_Transcultural_Form_and_the_Tec_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_eb48ca1e",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 062 Transcultural Form and the Tec 4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_062_Transcultural_Form_and_the_Tec_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_cec0c6f6",
+      "label": "8.7",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_063_8_7_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4279f606",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 063 8 7 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_063_8_7_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_456a0d50",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 063 8 7 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_063_8_7_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_10fa2673",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 063 8 7 4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_063_8_7_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_cd0bbef8",
+      "label": "8.23",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_064_8_23.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_66d51a3d",
+      "label": "8.27",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_065_8_27_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7b90d886",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 065 8 27 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_065_8_27_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_79c87135",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 065 8 27 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_065_8_27_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e45d848a",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 065 8 27 4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_065_8_27_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5c561cd8",
+      "label": "8.56",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_066_8_56_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_be64bfaa",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 066 8 56 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_066_8_56_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e4370a39",
+      "label": "8.60",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_067_8_60_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4e3a045f",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 067 8 60 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_067_8_60_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8ed48785",
+      "label": "8.66",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_068_8_66.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4367cd6e",
+      "label": "8.67",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_069_8_67_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8df9c0ef",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 069 8 67 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_069_8_67_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6146f313",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 069 8 67 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_069_8_67_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_58cadee3",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 069 8 67 4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_069_8_67_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ec58e14d",
+      "label": "8.78",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_070_8_78.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a191c05f",
+      "label": "8.79",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_071_8_79_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e18e8c1b",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 071 8 79 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_071_8_79_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6cf87185",
+      "label": "9 Carlo Scarpa and the Adoration of the Joint",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_072_9_Carlo_Scarpa_and_the_Adorati_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1e01ae30",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 072 9 Carlo Scarpa and the Adorati 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_072_9_Carlo_Scarpa_and_the_Adorati_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f7467739",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 072 9 Carlo Scarpa and the Adorati 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_072_9_Carlo_Scarpa_and_the_Adorati_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_981f5453",
+      "label": "9.12",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_073_9_12_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d4be939f",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 073 9 12 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_073_9_12_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_26db89d7",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 073 9 12 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_073_9_12_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_35d420f7",
+      "label": "9.25",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_074_9_25_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8f58683d",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 074 9 25 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_074_9_25_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6b4f24bc",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 074 9 25 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_074_9_25_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_386cd134",
+      "label": "9.43",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_075_9_43.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ace45188",
+      "label": "9.46",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_076_9_46_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_89980823",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 076 9 46 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_076_9_46_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4df4cf46",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 076 9 46 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_076_9_46_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b198fd26",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 076 9 46 4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_076_9_46_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e30d63f1",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 076 9 46 5",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_076_9_46_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_dfa5979a",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 076 9 46 6",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_076_9_46_6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f0787a95",
+      "label": "10.12",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_077_10_12.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4efa3045",
+      "label": "10.13",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_078_10_13.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_56cb7eaf",
+      "label": "10.14",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_079_10_14_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_bfb2fdbc",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 079 10 14 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_079_10_14_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a80d9cf5",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 079 10 14 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_079_10_14_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ab3f666d",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 079 10 14 4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_079_10_14_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_74d9f992",
+      "label": "10.28",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_080_10_28.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_afcd613a",
+      "label": "10.33",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_081_10_33.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_282a6660",
+      "label": "10.36",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_082_10_36_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_74319705",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 082 10 36 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_082_10_36_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_85030f51",
+      "label": "10.41",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_083_10_41.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6c7bc555",
+      "label": "10.46",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_084_10_46_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9fc55950",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 084 10 46 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_084_10_46_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_0514df33",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 084 10 46 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_084_10_46_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_095057a0",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 084 10 46 4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_084_10_46_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ec44b046",
+      "label": "The Owl of Minerva: An Epilogue",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_085_The_Owl_of_Minerva__An_Epilogu_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_93dbd67b",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 085 The Owl of Minerva  An Epilogu 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_085_The_Owl_of_Minerva__An_Epilogu_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b600b041",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 085 The Owl of Minerva  An Epilogu 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_085_The_Owl_of_Minerva__An_Epilogu_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6f8bf0fb",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 085 The Owl of Minerva  An Epilogu 4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_085_The_Owl_of_Minerva__An_Epilogu_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_39cf3213",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 085 The Owl of Minerva  An Epilogu 5",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_085_The_Owl_of_Minerva__An_Epilogu_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_15260799",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 085 The Owl of Minerva  An Epilogu 6",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_085_The_Owl_of_Minerva__An_Epilogu_6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_59aee74d",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 085 The Owl of Minerva  An Epilogu 7",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_085_The_Owl_of_Minerva__An_Epilogu_7.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ab338767",
+      "label": "Foreword",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_086_Foreword.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c92d4b26",
+      "label": "1 Introduction: Reflections on the Scope of the Tectonic",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_087_1_Introduction__Reflections_on.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_92ed3b5f",
+      "label": "2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_088_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_59dcf9b3",
+      "label": "13",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_115_13.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9a51d586",
+      "label": "14",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_40de2b1e",
+      "label": "15",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_117_15.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_43e24fb9",
+      "label": "16",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_126_16.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_57e60466",
+      "label": "30",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_093_30.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7473ce2f",
+      "label": "45",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_122_45.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_37f15cb0",
+      "label": "46",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_123_46.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_fe5a702e",
+      "label": "47",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_124_47.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_08c3f64a",
+      "label": "50",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_097_50.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b779ee6a",
+      "label": "22",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_130_22.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_bcc51a3c",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 105 16 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_105_16_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2283a020",
+      "label": "Auguste Perret, Contribution aune theorie del'architecture (Paris: Cercle d'etudes architecturales André Wahl, 1952), unpaginated (First published in Das Werk 34-35 [February 1947]).",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_106_4_Frank_Lloyd_Wright_and_the_T_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_39a733e6",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 106 4 Frank Lloyd Wright and the T 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_106_4_Frank_Lloyd_Wright_and_the_T_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f04be517",
+      "label": "25",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_107_25.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7d4a13bc",
+      "label": "26",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_133_26.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_37cbfac1",
+      "label": "27",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_134_27.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1f365bf3",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 109 27 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_109_27_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_64e141a1",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 109 27 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_109_27_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ad3fee55",
+      "label": "23",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_131_23.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3c223d3f",
+      "label": "32",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_111_32.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_82020807",
+      "label": "36",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_136_36.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_57b22a2f",
+      "label": "10",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_113_10.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6b39611f",
+      "label": "12",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_114_12.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c9687ae1",
+      "label": "17",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_140_17_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_253cf28e",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 118 17 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_118_17_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_76277fde",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 118 17 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_118_17_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f09f2314",
+      "label": "28",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_135_28.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5ac9def7",
+      "label": "43",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_121_43.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a7424518",
+      "label": "51",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_125_51_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b6b50004",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 125 51 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_125_51_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a932e192",
+      "label": "18",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_128_18.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5a671fc7",
+      "label": "21",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_129_21.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_aeded8d1",
+      "label": "24",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_132_24.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a8ed2767",
+      "label": "40",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_137_40.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_0b41fcca",
+      "label": "41",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_138_41.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e7216410",
+      "label": "10 Postscriptum: The Tectonic Trajectory, 1903-1994",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_139_10_Postscriptum__The_Tectonic_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_57ec8042",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 140 17 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_140_17_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2bb2c68f",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 141 14 10",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_10.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_92ddacca",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 141 14 11",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_11.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6d7e1fcc",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 141 14 12",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_12.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_20f626c3",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 141 14 13",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_13.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ea6762c9",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 141 14 2",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3f1c9920",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 141 14 3",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_31a9605f",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 141 14 4",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_750c714f",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 141 14 5",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_270bb6ae",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 141 14 6",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_06727d5e",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 141 14 7",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_7.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_94378805",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 141 14 8",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_8.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_94dc772f",
+      "label": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction chunk 141 14 9",
+      "file_type": "concept",
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_9.md",
+      "description": "Primary concept extracted from chunk"
+    }
+  ],
+  "links": [
+    {
+      "source": "file_012d2df3",
+      "target": "file_e376365d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_001_Contents_1.md"
+    },
+    {
+      "source": "file_e376365d",
+      "target": "file_1c0c2693",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_001_Contents_2.md"
+    },
+    {
+      "source": "file_1c0c2693",
+      "target": "file_abd69a92",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_001_Contents_3.md"
+    },
+    {
+      "source": "file_abd69a92",
+      "target": "file_524cd2b3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_002_Introduction__Reflections_on_t_1.md"
+    },
+    {
+      "source": "file_524cd2b3",
+      "target": "file_2b6b5954",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_002_Introduction__Reflections_on_t_2.md"
+    },
+    {
+      "source": "file_2b6b5954",
+      "target": "file_d1499cb1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_003_Etymology_1.md"
+    },
+    {
+      "source": "file_d1499cb1",
+      "target": "file_d3de94ca",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_003_Etymology_2.md"
+    },
+    {
+      "source": "file_d3de94ca",
+      "target": "file_49c044c9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_004_Topography.md"
+    },
+    {
+      "source": "file_49c044c9",
+      "target": "file_1de51f35",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_005_Corporeal_Metaphor.md"
+    },
+    {
+      "source": "file_1de51f35",
+      "target": "file_b781cf6a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_006_Ethnography_1.md"
+    },
+    {
+      "source": "file_b781cf6a",
+      "target": "file_660fb7b3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_006_Ethnography_2.md"
+    },
+    {
+      "source": "file_660fb7b3",
+      "target": "file_052560bd",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_007_Representational_versus_Ontolo.md"
+    },
+    {
+      "source": "file_052560bd",
+      "target": "file_0adeff85",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_008_1_19.md"
+    },
+    {
+      "source": "file_0adeff85",
+      "target": "file_88aeeaa1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_009_Tectonic_Atectonic.md"
+    },
+    {
+      "source": "file_88aeeaa1",
+      "target": "file_c10b3af6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_010_Technology_1.md"
+    },
+    {
+      "source": "file_c10b3af6",
+      "target": "file_ac243108",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_010_Technology_2.md"
+    },
+    {
+      "source": "file_ac243108",
+      "target": "file_42b80d7e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_011_Tradition_and_Innovation_1.md"
+    },
+    {
+      "source": "file_42b80d7e",
+      "target": "file_db355831",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_011_Tradition_and_Innovation_2.md"
+    },
+    {
+      "source": "file_db355831",
+      "target": "file_bde5f935",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_012_2_Greco_Gothic_and_Neo_Gothic__1.md"
+    },
+    {
+      "source": "file_bde5f935",
+      "target": "file_d337dfb2",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_012_2_Greco_Gothic_and_Neo_Gothic__2.md"
+    },
+    {
+      "source": "file_d337dfb2",
+      "target": "file_a627b2ef",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_013_2_4_1.md"
+    },
+    {
+      "source": "file_a627b2ef",
+      "target": "file_4d032db4",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_013_2_4_2.md"
+    },
+    {
+      "source": "file_4d032db4",
+      "target": "file_b8c17b00",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_013_2_4_3.md"
+    },
+    {
+      "source": "file_b8c17b00",
+      "target": "file_33dc6ade",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_013_2_4_4.md"
+    },
+    {
+      "source": "file_33dc6ade",
+      "target": "file_7d1ee3b2",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_013_2_4_5.md"
+    },
+    {
+      "source": "file_7d1ee3b2",
+      "target": "file_7386fc72",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_013_2_4_6.md"
+    },
+    {
+      "source": "file_7386fc72",
+      "target": "file_880ecf9b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_014_2_23_1.md"
+    },
+    {
+      "source": "file_880ecf9b",
+      "target": "file_4a0268fc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_014_2_23_2.md"
+    },
+    {
+      "source": "file_4a0268fc",
+      "target": "file_f4d7e50f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_014_2_23_3.md"
+    },
+    {
+      "source": "file_f4d7e50f",
+      "target": "file_d3618309",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_014_2_23_4.md"
+    },
+    {
+      "source": "file_d3618309",
+      "target": "file_c2662356",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_014_2_23_5.md"
+    },
+    {
+      "source": "file_c2662356",
+      "target": "file_cf0b3b1c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_015_3_The_Rise_of_the_Tectonic__Co_1.md"
+    },
+    {
+      "source": "file_cf0b3b1c",
+      "target": "file_2f189085",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_015_3_The_Rise_of_the_Tectonic__Co_2.md"
+    },
+    {
+      "source": "file_2f189085",
+      "target": "file_d44539a9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_015_3_The_Rise_of_the_Tectonic__Co_3.md"
+    },
+    {
+      "source": "file_d44539a9",
+      "target": "file_9f9df674",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_015_3_The_Rise_of_the_Tectonic__Co_4.md"
+    },
+    {
+      "source": "file_9f9df674",
+      "target": "file_22603d4b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_015_3_The_Rise_of_the_Tectonic__Co_5.md"
+    },
+    {
+      "source": "file_22603d4b",
+      "target": "file_a568aa40",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_016_3_16.md"
+    },
+    {
+      "source": "file_a568aa40",
+      "target": "file_40e5f897",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_017_3_17.md"
+    },
+    {
+      "source": "file_40e5f897",
+      "target": "file_4af8659c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_018_3_21_1.md"
+    },
+    {
+      "source": "file_4af8659c",
+      "target": "file_9d67dcbf",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_018_3_21_2.md"
+    },
+    {
+      "source": "file_9d67dcbf",
+      "target": "file_1b4b8f0e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_018_3_21_3.md"
+    },
+    {
+      "source": "file_1b4b8f0e",
+      "target": "file_78ae3a58",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_018_3_21_4.md"
+    },
+    {
+      "source": "file_78ae3a58",
+      "target": "file_34843220",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_018_3_21_5.md"
+    },
+    {
+      "source": "file_34843220",
+      "target": "file_78d2e477",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_018_3_21_6.md"
+    },
+    {
+      "source": "file_78d2e477",
+      "target": "file_0127ea2a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_018_3_21_7.md"
+    },
+    {
+      "source": "file_0127ea2a",
+      "target": "file_28ab652b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_018_3_21_8.md"
+    },
+    {
+      "source": "file_28ab652b",
+      "target": "file_faca145d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_018_3_21_9.md"
+    },
+    {
+      "source": "file_faca145d",
+      "target": "file_169db4a3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_019_4_Frank_Lloyd_Wright_and_the_T_1.md"
+    },
+    {
+      "source": "file_169db4a3",
+      "target": "file_b380e49b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_019_4_Frank_Lloyd_Wright_and_the_T_10.md"
+    },
+    {
+      "source": "file_b380e49b",
+      "target": "file_eeb0c5b5",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_019_4_Frank_Lloyd_Wright_and_the_T_2.md"
+    },
+    {
+      "source": "file_eeb0c5b5",
+      "target": "file_d7a60ae2",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_019_4_Frank_Lloyd_Wright_and_the_T_3.md"
+    },
+    {
+      "source": "file_d7a60ae2",
+      "target": "file_30e4285a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_019_4_Frank_Lloyd_Wright_and_the_T_4.md"
+    },
+    {
+      "source": "file_30e4285a",
+      "target": "file_c3b48d28",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_019_4_Frank_Lloyd_Wright_and_the_T_5.md"
+    },
+    {
+      "source": "file_c3b48d28",
+      "target": "file_030f4027",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_019_4_Frank_Lloyd_Wright_and_the_T_6.md"
+    },
+    {
+      "source": "file_030f4027",
+      "target": "file_a721a9d2",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_019_4_Frank_Lloyd_Wright_and_the_T_7.md"
+    },
+    {
+      "source": "file_a721a9d2",
+      "target": "file_f1115007",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_019_4_Frank_Lloyd_Wright_and_the_T_8.md"
+    },
+    {
+      "source": "file_f1115007",
+      "target": "file_4b559ed9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_019_4_Frank_Lloyd_Wright_and_the_T_9.md"
+    },
+    {
+      "source": "file_4b559ed9",
+      "target": "file_3ab43ad0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_020_5_Auguste_Perret_and_Classical_1.md"
+    },
+    {
+      "source": "file_3ab43ad0",
+      "target": "file_55a82f99",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_020_5_Auguste_Perret_and_Classical_2.md"
+    },
+    {
+      "source": "file_55a82f99",
+      "target": "file_c4d500bc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_021_5_4.md"
+    },
+    {
+      "source": "file_c4d500bc",
+      "target": "file_f3ffe8de",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_022_5_5_1.md"
+    },
+    {
+      "source": "file_f3ffe8de",
+      "target": "file_db9f0085",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_022_5_5_2.md"
+    },
+    {
+      "source": "file_db9f0085",
+      "target": "file_703a912f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_022_5_5_3.md"
+    },
+    {
+      "source": "file_703a912f",
+      "target": "file_4cc75c9d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_022_5_5_4.md"
+    },
+    {
+      "source": "file_4cc75c9d",
+      "target": "file_1d08d336",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_022_5_5_5.md"
+    },
+    {
+      "source": "file_1d08d336",
+      "target": "file_965e1bd6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_023_5_31.md"
+    },
+    {
+      "source": "file_965e1bd6",
+      "target": "file_e8d5b299",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_024_5_33.md"
+    },
+    {
+      "source": "file_e8d5b299",
+      "target": "file_bde3d5c4",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_025_5_35_1.md"
+    },
+    {
+      "source": "file_bde3d5c4",
+      "target": "file_9cf65d60",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_025_5_35_2.md"
+    },
+    {
+      "source": "file_9cf65d60",
+      "target": "file_1b516a57",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_026_5_47_1.md"
+    },
+    {
+      "source": "file_1b516a57",
+      "target": "file_ee62ecd9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_026_5_47_2.md"
+    },
+    {
+      "source": "file_ee62ecd9",
+      "target": "file_6650afc2",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_026_5_47_3.md"
+    },
+    {
+      "source": "file_6650afc2",
+      "target": "file_8d0ab2fd",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_026_5_47_4.md"
+    },
+    {
+      "source": "file_8d0ab2fd",
+      "target": "file_a9040316",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_027_6_Mies_van_der_Rohe__Avant_Gar_1.md"
+    },
+    {
+      "source": "file_a9040316",
+      "target": "file_039a59b6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_027_6_Mies_van_der_Rohe__Avant_Gar_2.md"
+    },
+    {
+      "source": "file_039a59b6",
+      "target": "file_901516b0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_028_6_4.md"
+    },
+    {
+      "source": "file_901516b0",
+      "target": "file_7b0cf462",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_029_6_6.md"
+    },
+    {
+      "source": "file_7b0cf462",
+      "target": "file_cc408c40",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_030_6_12.md"
+    },
+    {
+      "source": "file_cc408c40",
+      "target": "file_6e7d23ce",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_031_6_13.md"
+    },
+    {
+      "source": "file_6e7d23ce",
+      "target": "file_9cd0b1e4",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_032_6_15.md"
+    },
+    {
+      "source": "file_9cd0b1e4",
+      "target": "file_c34a7007",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_033_6_16_1.md"
+    },
+    {
+      "source": "file_c34a7007",
+      "target": "file_9f4e71e9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_033_6_16_2.md"
+    },
+    {
+      "source": "file_9f4e71e9",
+      "target": "file_1d59c69d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_033_6_16_3.md"
+    },
+    {
+      "source": "file_1d59c69d",
+      "target": "file_49cd77e5",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_034_6_24.md"
+    },
+    {
+      "source": "file_49cd77e5",
+      "target": "file_905d02c9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_035_6_27.md"
+    },
+    {
+      "source": "file_905d02c9",
+      "target": "file_b0df4393",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_036_6_28.md"
+    },
+    {
+      "source": "file_b0df4393",
+      "target": "file_57fcddc1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_037_6_30_1.md"
+    },
+    {
+      "source": "file_57fcddc1",
+      "target": "file_27eb1658",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_037_6_30_2.md"
+    },
+    {
+      "source": "file_27eb1658",
+      "target": "file_c513a9d7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_037_6_30_3.md"
+    },
+    {
+      "source": "file_c513a9d7",
+      "target": "file_67a3f1ed",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_037_6_30_4.md"
+    },
+    {
+      "source": "file_67a3f1ed",
+      "target": "file_726f9fd7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_038_6_41.md"
+    },
+    {
+      "source": "file_726f9fd7",
+      "target": "file_b1a9494a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_039_6_42_1.md"
+    },
+    {
+      "source": "file_b1a9494a",
+      "target": "file_7e97cbaf",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_039_6_42_2.md"
+    },
+    {
+      "source": "file_7e97cbaf",
+      "target": "file_575f5e28",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_039_6_42_3.md"
+    },
+    {
+      "source": "file_575f5e28",
+      "target": "file_3917d1f8",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_040_6_51.md"
+    },
+    {
+      "source": "file_3917d1f8",
+      "target": "file_a671712b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_041_6_53.md"
+    },
+    {
+      "source": "file_a671712b",
+      "target": "file_423e5d87",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_042_6_63.md"
+    },
+    {
+      "source": "file_423e5d87",
+      "target": "file_c8988ab6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_043_6_71.md"
+    },
+    {
+      "source": "file_c8988ab6",
+      "target": "file_32780faf",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_044_雨长.md"
+    },
+    {
+      "source": "file_32780faf",
+      "target": "file_913fa536",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_045_7_Louis_Kahn__Modernization_an_1.md"
+    },
+    {
+      "source": "file_913fa536",
+      "target": "file_458200f7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_045_7_Louis_Kahn__Modernization_an_2.md"
+    },
+    {
+      "source": "file_458200f7",
+      "target": "file_3c3fe717",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_045_7_Louis_Kahn__Modernization_an_3.md"
+    },
+    {
+      "source": "file_3c3fe717",
+      "target": "file_751ea334",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_045_7_Louis_Kahn__Modernization_an_4.md"
+    },
+    {
+      "source": "file_751ea334",
+      "target": "file_74fb293d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_046_7_5_1.md"
+    },
+    {
+      "source": "file_74fb293d",
+      "target": "file_4bc23d4a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_046_7_5_2.md"
+    },
+    {
+      "source": "file_4bc23d4a",
+      "target": "file_ee00d0d1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_046_7_5_3.md"
+    },
+    {
+      "source": "file_ee00d0d1",
+      "target": "file_34b11229",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_047_7_11.md"
+    },
+    {
+      "source": "file_34b11229",
+      "target": "file_131fcf77",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_048_7_12_1.md"
+    },
+    {
+      "source": "file_131fcf77",
+      "target": "file_c647c62b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_048_7_12_2.md"
+    },
+    {
+      "source": "file_c647c62b",
+      "target": "file_69d406e4",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_049_7_16.md"
+    },
+    {
+      "source": "file_69d406e4",
+      "target": "file_c048c42b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_050_7_19.md"
+    },
+    {
+      "source": "file_c048c42b",
+      "target": "file_7717085b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_051_7_20.md"
+    },
+    {
+      "source": "file_7717085b",
+      "target": "file_38450b91",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_052_7_21_1.md"
+    },
+    {
+      "source": "file_38450b91",
+      "target": "file_6dd6a4fd",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_052_7_21_2.md"
+    },
+    {
+      "source": "file_6dd6a4fd",
+      "target": "file_09eac1f1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_052_7_21_3.md"
+    },
+    {
+      "source": "file_09eac1f1",
+      "target": "file_21fb47e8",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_053_7_28.md"
+    },
+    {
+      "source": "file_21fb47e8",
+      "target": "file_767cea89",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_054_7_32.md"
+    },
+    {
+      "source": "file_767cea89",
+      "target": "file_c08efa71",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_055_7_33.md"
+    },
+    {
+      "source": "file_c08efa71",
+      "target": "file_6591f41c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_056_7_34.md"
+    },
+    {
+      "source": "file_6591f41c",
+      "target": "file_9bde7695",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_057_7_37.md"
+    },
+    {
+      "source": "file_9bde7695",
+      "target": "file_5afc1c68",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_058_7_39.md"
+    },
+    {
+      "source": "file_5afc1c68",
+      "target": "file_1039ab1d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_059_7_42.md"
+    },
+    {
+      "source": "file_1039ab1d",
+      "target": "file_eeb85426",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_060_7_43.md"
+    },
+    {
+      "source": "file_eeb85426",
+      "target": "file_10b5c514",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_061_7_44.md"
+    },
+    {
+      "source": "file_10b5c514",
+      "target": "file_ea364156",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_062_Transcultural_Form_and_the_Tec_1.md"
+    },
+    {
+      "source": "file_ea364156",
+      "target": "file_57e3aa54",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_062_Transcultural_Form_and_the_Tec_2.md"
+    },
+    {
+      "source": "file_57e3aa54",
+      "target": "file_082eda52",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_062_Transcultural_Form_and_the_Tec_3.md"
+    },
+    {
+      "source": "file_082eda52",
+      "target": "file_eb48ca1e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_062_Transcultural_Form_and_the_Tec_4.md"
+    },
+    {
+      "source": "file_eb48ca1e",
+      "target": "file_cec0c6f6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_063_8_7_1.md"
+    },
+    {
+      "source": "file_cec0c6f6",
+      "target": "file_4279f606",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_063_8_7_2.md"
+    },
+    {
+      "source": "file_4279f606",
+      "target": "file_456a0d50",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_063_8_7_3.md"
+    },
+    {
+      "source": "file_456a0d50",
+      "target": "file_10fa2673",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_063_8_7_4.md"
+    },
+    {
+      "source": "file_10fa2673",
+      "target": "file_cd0bbef8",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_064_8_23.md"
+    },
+    {
+      "source": "file_cd0bbef8",
+      "target": "file_66d51a3d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_065_8_27_1.md"
+    },
+    {
+      "source": "file_66d51a3d",
+      "target": "file_7b90d886",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_065_8_27_2.md"
+    },
+    {
+      "source": "file_7b90d886",
+      "target": "file_79c87135",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_065_8_27_3.md"
+    },
+    {
+      "source": "file_79c87135",
+      "target": "file_e45d848a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_065_8_27_4.md"
+    },
+    {
+      "source": "file_e45d848a",
+      "target": "file_5c561cd8",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_066_8_56_1.md"
+    },
+    {
+      "source": "file_5c561cd8",
+      "target": "file_be64bfaa",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_066_8_56_2.md"
+    },
+    {
+      "source": "file_be64bfaa",
+      "target": "file_e4370a39",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_067_8_60_1.md"
+    },
+    {
+      "source": "file_e4370a39",
+      "target": "file_4e3a045f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_067_8_60_2.md"
+    },
+    {
+      "source": "file_4e3a045f",
+      "target": "file_8ed48785",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_068_8_66.md"
+    },
+    {
+      "source": "file_8ed48785",
+      "target": "file_4367cd6e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_069_8_67_1.md"
+    },
+    {
+      "source": "file_4367cd6e",
+      "target": "file_8df9c0ef",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_069_8_67_2.md"
+    },
+    {
+      "source": "file_8df9c0ef",
+      "target": "file_6146f313",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_069_8_67_3.md"
+    },
+    {
+      "source": "file_6146f313",
+      "target": "file_58cadee3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_069_8_67_4.md"
+    },
+    {
+      "source": "file_58cadee3",
+      "target": "file_ec58e14d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_070_8_78.md"
+    },
+    {
+      "source": "file_ec58e14d",
+      "target": "file_a191c05f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_071_8_79_1.md"
+    },
+    {
+      "source": "file_a191c05f",
+      "target": "file_e18e8c1b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_071_8_79_2.md"
+    },
+    {
+      "source": "file_e18e8c1b",
+      "target": "file_6cf87185",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_072_9_Carlo_Scarpa_and_the_Adorati_1.md"
+    },
+    {
+      "source": "file_6cf87185",
+      "target": "file_1e01ae30",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_072_9_Carlo_Scarpa_and_the_Adorati_2.md"
+    },
+    {
+      "source": "file_1e01ae30",
+      "target": "file_f7467739",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_072_9_Carlo_Scarpa_and_the_Adorati_3.md"
+    },
+    {
+      "source": "file_f7467739",
+      "target": "file_981f5453",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_073_9_12_1.md"
+    },
+    {
+      "source": "file_981f5453",
+      "target": "file_d4be939f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_073_9_12_2.md"
+    },
+    {
+      "source": "file_d4be939f",
+      "target": "file_26db89d7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_073_9_12_3.md"
+    },
+    {
+      "source": "file_26db89d7",
+      "target": "file_35d420f7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_074_9_25_1.md"
+    },
+    {
+      "source": "file_35d420f7",
+      "target": "file_8f58683d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_074_9_25_2.md"
+    },
+    {
+      "source": "file_8f58683d",
+      "target": "file_6b4f24bc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_074_9_25_3.md"
+    },
+    {
+      "source": "file_6b4f24bc",
+      "target": "file_386cd134",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_075_9_43.md"
+    },
+    {
+      "source": "file_386cd134",
+      "target": "file_ace45188",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_076_9_46_1.md"
+    },
+    {
+      "source": "file_ace45188",
+      "target": "file_89980823",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_076_9_46_2.md"
+    },
+    {
+      "source": "file_89980823",
+      "target": "file_4df4cf46",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_076_9_46_3.md"
+    },
+    {
+      "source": "file_4df4cf46",
+      "target": "file_b198fd26",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_076_9_46_4.md"
+    },
+    {
+      "source": "file_b198fd26",
+      "target": "file_e30d63f1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_076_9_46_5.md"
+    },
+    {
+      "source": "file_e30d63f1",
+      "target": "file_dfa5979a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_076_9_46_6.md"
+    },
+    {
+      "source": "file_dfa5979a",
+      "target": "file_f0787a95",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_077_10_12.md"
+    },
+    {
+      "source": "file_f0787a95",
+      "target": "file_4efa3045",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_078_10_13.md"
+    },
+    {
+      "source": "file_4efa3045",
+      "target": "file_56cb7eaf",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_079_10_14_1.md"
+    },
+    {
+      "source": "file_56cb7eaf",
+      "target": "file_bfb2fdbc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_079_10_14_2.md"
+    },
+    {
+      "source": "file_bfb2fdbc",
+      "target": "file_a80d9cf5",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_079_10_14_3.md"
+    },
+    {
+      "source": "file_a80d9cf5",
+      "target": "file_ab3f666d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_079_10_14_4.md"
+    },
+    {
+      "source": "file_ab3f666d",
+      "target": "file_74d9f992",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_080_10_28.md"
+    },
+    {
+      "source": "file_74d9f992",
+      "target": "file_afcd613a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_081_10_33.md"
+    },
+    {
+      "source": "file_afcd613a",
+      "target": "file_282a6660",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_082_10_36_1.md"
+    },
+    {
+      "source": "file_282a6660",
+      "target": "file_74319705",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_082_10_36_2.md"
+    },
+    {
+      "source": "file_74319705",
+      "target": "file_85030f51",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_083_10_41.md"
+    },
+    {
+      "source": "file_85030f51",
+      "target": "file_6c7bc555",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_084_10_46_1.md"
+    },
+    {
+      "source": "file_6c7bc555",
+      "target": "file_9fc55950",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_084_10_46_2.md"
+    },
+    {
+      "source": "file_9fc55950",
+      "target": "file_0514df33",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_084_10_46_3.md"
+    },
+    {
+      "source": "file_0514df33",
+      "target": "file_095057a0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_084_10_46_4.md"
+    },
+    {
+      "source": "file_095057a0",
+      "target": "file_ec44b046",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_085_The_Owl_of_Minerva__An_Epilogu_1.md"
+    },
+    {
+      "source": "file_ec44b046",
+      "target": "file_93dbd67b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_085_The_Owl_of_Minerva__An_Epilogu_2.md"
+    },
+    {
+      "source": "file_93dbd67b",
+      "target": "file_b600b041",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_085_The_Owl_of_Minerva__An_Epilogu_3.md"
+    },
+    {
+      "source": "file_b600b041",
+      "target": "file_6f8bf0fb",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_085_The_Owl_of_Minerva__An_Epilogu_4.md"
+    },
+    {
+      "source": "file_6f8bf0fb",
+      "target": "file_39cf3213",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_085_The_Owl_of_Minerva__An_Epilogu_5.md"
+    },
+    {
+      "source": "file_39cf3213",
+      "target": "file_15260799",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_085_The_Owl_of_Minerva__An_Epilogu_6.md"
+    },
+    {
+      "source": "file_15260799",
+      "target": "file_59aee74d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_085_The_Owl_of_Minerva__An_Epilogu_7.md"
+    },
+    {
+      "source": "file_59aee74d",
+      "target": "file_ab338767",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_086_Foreword.md"
+    },
+    {
+      "source": "file_ab338767",
+      "target": "file_c92d4b26",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_087_1_Introduction__Reflections_on.md"
+    },
+    {
+      "source": "file_c92d4b26",
+      "target": "file_92ed3b5f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_088_2.md"
+    },
+    {
+      "source": "file_92ed3b5f",
+      "target": "file_59dcf9b3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_089_13.md"
+    },
+    {
+      "source": "file_59dcf9b3",
+      "target": "file_9a51d586",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_090_14.md"
+    },
+    {
+      "source": "file_9a51d586",
+      "target": "file_40de2b1e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_091_15.md"
+    },
+    {
+      "source": "file_40de2b1e",
+      "target": "file_43e24fb9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_092_16.md"
+    },
+    {
+      "source": "file_43e24fb9",
+      "target": "file_57e60466",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_093_30.md"
+    },
+    {
+      "source": "file_57e60466",
+      "target": "file_7473ce2f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_094_45.md"
+    },
+    {
+      "source": "file_7473ce2f",
+      "target": "file_37f15cb0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_095_46.md"
+    },
+    {
+      "source": "file_37f15cb0",
+      "target": "file_fe5a702e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_096_47.md"
+    },
+    {
+      "source": "file_fe5a702e",
+      "target": "file_08c3f64a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_097_50.md"
+    },
+    {
+      "source": "file_08c3f64a",
+      "target": "file_bde5f935",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_098_2_Greco_Gothic_and_Neo_Gothic_.md"
+    },
+    {
+      "source": "file_bde5f935",
+      "target": "file_59dcf9b3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_099_13.md"
+    },
+    {
+      "source": "file_59dcf9b3",
+      "target": "file_b779ee6a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_100_22.md"
+    },
+    {
+      "source": "file_b779ee6a",
+      "target": "file_cf0b3b1c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_101_3_The_Rise_of_the_Tectonic__Co.md"
+    },
+    {
+      "source": "file_cf0b3b1c",
+      "target": "file_59dcf9b3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_102_13.md"
+    },
+    {
+      "source": "file_59dcf9b3",
+      "target": "file_9a51d586",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_103_14.md"
+    },
+    {
+      "source": "file_9a51d586",
+      "target": "file_40de2b1e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_104_15.md"
+    },
+    {
+      "source": "file_40de2b1e",
+      "target": "file_43e24fb9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_105_16_1.md"
+    },
+    {
+      "source": "file_43e24fb9",
+      "target": "file_bcc51a3c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_105_16_2.md"
+    },
+    {
+      "source": "file_bcc51a3c",
+      "target": "file_169db4a3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_106_4_Frank_Lloyd_Wright_and_the_T_1.md"
+    },
+    {
+      "source": "file_169db4a3",
+      "target": "file_2283a020",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_106_4_Frank_Lloyd_Wright_and_the_T_2.md"
+    },
+    {
+      "source": "file_2283a020",
+      "target": "file_39a733e6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_106_4_Frank_Lloyd_Wright_and_the_T_3.md"
+    },
+    {
+      "source": "file_39a733e6",
+      "target": "file_f04be517",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_107_25.md"
+    },
+    {
+      "source": "file_f04be517",
+      "target": "file_7d4a13bc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_108_26.md"
+    },
+    {
+      "source": "file_7d4a13bc",
+      "target": "file_37cbfac1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_109_27_1.md"
+    },
+    {
+      "source": "file_37cbfac1",
+      "target": "file_1f365bf3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_109_27_2.md"
+    },
+    {
+      "source": "file_1f365bf3",
+      "target": "file_64e141a1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_109_27_3.md"
+    },
+    {
+      "source": "file_64e141a1",
+      "target": "file_ad3fee55",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_110_23.md"
+    },
+    {
+      "source": "file_ad3fee55",
+      "target": "file_3c223d3f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_111_32.md"
+    },
+    {
+      "source": "file_3c223d3f",
+      "target": "file_82020807",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_112_36.md"
+    },
+    {
+      "source": "file_82020807",
+      "target": "file_57b22a2f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_113_10.md"
+    },
+    {
+      "source": "file_57b22a2f",
+      "target": "file_6b39611f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_114_12.md"
+    },
+    {
+      "source": "file_6b39611f",
+      "target": "file_59dcf9b3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_115_13.md"
+    },
+    {
+      "source": "file_59dcf9b3",
+      "target": "file_9a51d586",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_116_14.md"
+    },
+    {
+      "source": "file_9a51d586",
+      "target": "file_40de2b1e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_117_15.md"
+    },
+    {
+      "source": "file_40de2b1e",
+      "target": "file_c9687ae1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_118_17_1.md"
+    },
+    {
+      "source": "file_c9687ae1",
+      "target": "file_253cf28e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_118_17_2.md"
+    },
+    {
+      "source": "file_253cf28e",
+      "target": "file_76277fde",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_118_17_3.md"
+    },
+    {
+      "source": "file_76277fde",
+      "target": "file_37cbfac1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_119_27.md"
+    },
+    {
+      "source": "file_37cbfac1",
+      "target": "file_f09f2314",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_120_28.md"
+    },
+    {
+      "source": "file_f09f2314",
+      "target": "file_5ac9def7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_121_43.md"
+    },
+    {
+      "source": "file_5ac9def7",
+      "target": "file_7473ce2f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_122_45.md"
+    },
+    {
+      "source": "file_7473ce2f",
+      "target": "file_37f15cb0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_123_46.md"
+    },
+    {
+      "source": "file_37f15cb0",
+      "target": "file_fe5a702e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_124_47.md"
+    },
+    {
+      "source": "file_fe5a702e",
+      "target": "file_a7424518",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_125_51_1.md"
+    },
+    {
+      "source": "file_a7424518",
+      "target": "file_b6b50004",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_125_51_2.md"
+    },
+    {
+      "source": "file_b6b50004",
+      "target": "file_43e24fb9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_126_16.md"
+    },
+    {
+      "source": "file_43e24fb9",
+      "target": "file_c9687ae1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_127_17.md"
+    },
+    {
+      "source": "file_c9687ae1",
+      "target": "file_a932e192",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_128_18.md"
+    },
+    {
+      "source": "file_a932e192",
+      "target": "file_5a671fc7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_129_21.md"
+    },
+    {
+      "source": "file_5a671fc7",
+      "target": "file_b779ee6a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_130_22.md"
+    },
+    {
+      "source": "file_b779ee6a",
+      "target": "file_ad3fee55",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_131_23.md"
+    },
+    {
+      "source": "file_ad3fee55",
+      "target": "file_aeded8d1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_132_24.md"
+    },
+    {
+      "source": "file_aeded8d1",
+      "target": "file_7d4a13bc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_133_26.md"
+    },
+    {
+      "source": "file_7d4a13bc",
+      "target": "file_37cbfac1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_134_27.md"
+    },
+    {
+      "source": "file_37cbfac1",
+      "target": "file_f09f2314",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_135_28.md"
+    },
+    {
+      "source": "file_f09f2314",
+      "target": "file_82020807",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_136_36.md"
+    },
+    {
+      "source": "file_82020807",
+      "target": "file_a8ed2767",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_137_40.md"
+    },
+    {
+      "source": "file_a8ed2767",
+      "target": "file_0b41fcca",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_138_41.md"
+    },
+    {
+      "source": "file_0b41fcca",
+      "target": "file_e7216410",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_139_10_Postscriptum__The_Tectonic_.md"
+    },
+    {
+      "source": "file_e7216410",
+      "target": "file_c9687ae1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_140_17_1.md"
+    },
+    {
+      "source": "file_c9687ae1",
+      "target": "file_57ec8042",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_140_17_2.md"
+    },
+    {
+      "source": "file_57ec8042",
+      "target": "file_9a51d586",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_1.md"
+    },
+    {
+      "source": "file_9a51d586",
+      "target": "file_2bb2c68f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_10.md"
+    },
+    {
+      "source": "file_2bb2c68f",
+      "target": "file_92ddacca",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_11.md"
+    },
+    {
+      "source": "file_92ddacca",
+      "target": "file_6d7e1fcc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_12.md"
+    },
+    {
+      "source": "file_6d7e1fcc",
+      "target": "file_20f626c3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_13.md"
+    },
+    {
+      "source": "file_20f626c3",
+      "target": "file_ea6762c9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_2.md"
+    },
+    {
+      "source": "file_ea6762c9",
+      "target": "file_3f1c9920",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_3.md"
+    },
+    {
+      "source": "file_3f1c9920",
+      "target": "file_31a9605f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_4.md"
+    },
+    {
+      "source": "file_31a9605f",
+      "target": "file_750c714f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_5.md"
+    },
+    {
+      "source": "file_750c714f",
+      "target": "file_270bb6ae",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_6.md"
+    },
+    {
+      "source": "file_270bb6ae",
+      "target": "file_06727d5e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_7.md"
+    },
+    {
+      "source": "file_06727d5e",
+      "target": "file_94378805",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_8.md"
+    },
+    {
+      "source": "file_94378805",
+      "target": "file_94dc772f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_9.md"
+    },
+    {
+      "source": "file_012d2df3",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_000_preamble.md"
+    },
+    {
+      "source": "file_e376365d",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_001_Contents_1.md"
+    },
+    {
+      "source": "file_e376365d",
+      "target": "file_ea364156",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_001_Contents_1.md"
+    },
+    {
+      "source": "file_e376365d",
+      "target": "file_ab338767",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_001_Contents_1.md"
+    },
+    {
+      "source": "file_524cd2b3",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_002_Introduction__Reflections_on_t_1.md"
+    },
+    {
+      "source": "file_d3de94ca",
+      "target": "file_d1499cb1",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_003_Etymology_2.md"
+    },
+    {
+      "source": "file_052560bd",
+      "target": "file_49c044c9",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_007_Representational_versus_Ontolo.md"
+    },
+    {
+      "source": "file_c10b3af6",
+      "target": "file_49c044c9",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_010_Technology_1.md"
+    },
+    {
+      "source": "file_ac243108",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_010_Technology_2.md"
+    },
+    {
+      "source": "file_42b80d7e",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_011_Tradition_and_Innovation_1.md"
+    },
+    {
+      "source": "file_db355831",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_011_Tradition_and_Innovation_2.md"
+    },
+    {
+      "source": "file_33dc6ade",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_013_2_4_4.md"
+    },
+    {
+      "source": "file_4a0268fc",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_014_2_23_2.md"
+    },
+    {
+      "source": "file_c2662356",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_014_2_23_5.md"
+    },
+    {
+      "source": "file_d44539a9",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_015_3_The_Rise_of_the_Tectonic__Co_3.md"
+    },
+    {
+      "source": "file_9f9df674",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_015_3_The_Rise_of_the_Tectonic__Co_4.md"
+    },
+    {
+      "source": "file_22603d4b",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_015_3_The_Rise_of_the_Tectonic__Co_5.md"
+    },
+    {
+      "source": "file_bde3d5c4",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_025_5_35_1.md"
+    },
+    {
+      "source": "file_a9040316",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_027_6_Mies_van_der_Rohe__Avant_Gar_1.md"
+    },
+    {
+      "source": "file_1d59c69d",
+      "target": "file_e376365d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_033_6_16_3.md"
+    },
+    {
+      "source": "file_b0df4393",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_036_6_28.md"
+    },
+    {
+      "source": "file_27eb1658",
+      "target": "file_e376365d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_037_6_30_2.md"
+    },
+    {
+      "source": "file_27eb1658",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_037_6_30_2.md"
+    },
+    {
+      "source": "file_c513a9d7",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_037_6_30_3.md"
+    },
+    {
+      "source": "file_67a3f1ed",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_037_6_30_4.md"
+    },
+    {
+      "source": "file_b1a9494a",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_039_6_42_1.md"
+    },
+    {
+      "source": "file_575f5e28",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_039_6_42_3.md"
+    },
+    {
+      "source": "file_a671712b",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_041_6_53.md"
+    },
+    {
+      "source": "file_c8988ab6",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_043_6_71.md"
+    },
+    {
+      "source": "file_32780faf",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_044_雨长.md"
+    },
+    {
+      "source": "file_913fa536",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_045_7_Louis_Kahn__Modernization_an_1.md"
+    },
+    {
+      "source": "file_74fb293d",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_046_7_5_1.md"
+    },
+    {
+      "source": "file_c647c62b",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_048_7_12_2.md"
+    },
+    {
+      "source": "file_10b5c514",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_061_7_44.md"
+    },
+    {
+      "source": "file_082eda52",
+      "target": "file_49c044c9",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_062_Transcultural_Form_and_the_Tec_3.md"
+    },
+    {
+      "source": "file_eb48ca1e",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_062_Transcultural_Form_and_the_Tec_4.md"
+    },
+    {
+      "source": "file_10fa2673",
+      "target": "file_49c044c9",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_063_8_7_4.md"
+    },
+    {
+      "source": "file_7b90d886",
+      "target": "file_49c044c9",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_065_8_27_2.md"
+    },
+    {
+      "source": "file_8df9c0ef",
+      "target": "file_d1499cb1",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_069_8_67_2.md"
+    },
+    {
+      "source": "file_e18e8c1b",
+      "target": "file_e376365d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_071_8_79_2.md"
+    },
+    {
+      "source": "file_8f58683d",
+      "target": "file_d1499cb1",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_074_9_25_2.md"
+    },
+    {
+      "source": "file_4df4cf46",
+      "target": "file_49c044c9",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_076_9_46_3.md"
+    },
+    {
+      "source": "file_b198fd26",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_076_9_46_4.md"
+    },
+    {
+      "source": "file_56cb7eaf",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_079_10_14_1.md"
+    },
+    {
+      "source": "file_ab3f666d",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_079_10_14_4.md"
+    },
+    {
+      "source": "file_74d9f992",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_080_10_28.md"
+    },
+    {
+      "source": "file_6c7bc555",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_084_10_46_1.md"
+    },
+    {
+      "source": "file_93dbd67b",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_085_The_Owl_of_Minerva__An_Epilogu_2.md"
+    },
+    {
+      "source": "file_b600b041",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_085_The_Owl_of_Minerva__An_Epilogu_3.md"
+    },
+    {
+      "source": "file_15260799",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_085_The_Owl_of_Minerva__An_Epilogu_6.md"
+    },
+    {
+      "source": "file_43e24fb9",
+      "target": "file_49c044c9",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_092_16.md"
+    },
+    {
+      "source": "file_57e60466",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_093_30.md"
+    },
+    {
+      "source": "file_08c3f64a",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_097_50.md"
+    },
+    {
+      "source": "file_59dcf9b3",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_099_13.md"
+    },
+    {
+      "source": "file_ad3fee55",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_110_23.md"
+    },
+    {
+      "source": "file_253cf28e",
+      "target": "file_ab338767",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_118_17_2.md"
+    },
+    {
+      "source": "file_c9687ae1",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_140_17_1.md"
+    },
+    {
+      "source": "file_ea6762c9",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_2.md"
+    },
+    {
+      "source": "file_ea6762c9",
+      "target": "file_ab338767",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_2.md"
+    },
+    {
+      "source": "file_31a9605f",
+      "target": "file_49c044c9",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_4.md"
+    },
+    {
+      "source": "file_270bb6ae",
+      "target": "file_c10b3af6",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Kenneth Frampton - 2001 - Studies in Tectonic Culture The Poetics of Construction_chunk_141_14_6.md"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "concepts": [
+    {
+      "id": "principles_of_new_media",
+      "name": "Principles of New Media",
+      "aliases": ["Five Principles of New Media", "Core Principles"],
+      "weight": 10,
+      "sub_concepts": [
+        {
+          "id": "numerical_representation",
+          "name": "Numerical Representation",
+          "aliases": ["Digitalization", "Mathematical Representation", "Programmability"],
+          "weight": 9
+        },
+        {
+          "id": "modularity",
+          "name": "Modularity",
+          "aliases": ["Fractal Structure of New Media", "Modular Structure"],
+          "weight": 9
+        },
+        {
+          "id": "automation",
+          "name": "Automation",
+          "aliases": ["Automated Creation", "Algorithmic Manipulation"],
+          "weight": 8
+        },
+        {
+          "id": "variability",
+          "name": "Variability",
+          "aliases": ["Mutable Media", "Liquid Media", "Customization"],
+          "weight": 8
+        },
+        {
+          "id": "transcoding",
+          "name": "Transcoding",
+          "aliases": ["Cultural Transcoding", "Computerization", "Cultural Layer vs Computer Layer"],
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "id": "the_interface",
+      "name": "The Interface",
+      "aliases": ["HCI", "Human-Computer Interface"],
+      "weight": 8,
+      "sub_concepts": [
+        {
+          "id": "cultural_interfaces",
+          "name": "Cultural Interfaces",
+          "aliases": ["Printed Word", "Cinema", "HCI"],
+          "weight": 8
+        },
+        {
+          "id": "the_screen",
+          "name": "The Screen",
+          "aliases": ["Screen Apparatus", "Viewing Regime"],
+          "weight": 7
+        }
+      ]
+    },
+    {
+      "id": "the_operations",
+      "name": "The Operations",
+      "aliases": ["Operations of New Media", "Software Operations"],
+      "weight": 8,
+      "sub_concepts": [
+        {
+          "id": "compositing",
+          "name": "Compositing",
+          "aliases": ["Digital Compositing", "Spatial Montage"],
+          "weight": 8
+        },
+        {
+          "id": "teleaction",
+          "name": "Teleaction",
+          "aliases": ["Telepresence", "Action at a distance"],
+          "weight": 6
+        },
+        {
+          "id": "menus_filters",
+          "name": "Menus and Filters",
+          "aliases": ["Plug-ins", "Selection vs Creation"],
+          "weight": 7
+        }
+      ]
+    },
+    {
+      "id": "the_illusions",
+      "name": "The Illusions",
+      "aliases": ["Digital Realism"],
+      "weight": 7,
+      "sub_concepts": [
+        {
+          "id": "synthetic_realism",
+          "name": "Synthetic Realism",
+          "aliases": ["Computer Generated Imagery", "CGI", "Photorealism"],
+          "weight": 8
+        }
+      ]
+    },
+    {
+      "id": "the_forms",
+      "name": "The Forms",
+      "aliases": ["Forms of New Media"],
+      "weight": 9,
+      "sub_concepts": [
+        {
+          "id": "database",
+          "name": "Database",
+          "aliases": ["Database Form", "Database Logic", "Database vs Narrative"],
+          "weight": 10
+        },
+        {
+          "id": "navigable_space",
+          "name": "Navigable Space",
+          "aliases": ["Virtual Space", "3D Space", "Exploration"],
+          "weight": 9
+        }
+      ]
+    },
+    {
+      "id": "digital_cinema",
+      "name": "Digital Cinema",
+      "aliases": ["What is Cinema", "Kino-Brush", "Computer Animation"],
+      "weight": 8
+    }
+  ]
+}

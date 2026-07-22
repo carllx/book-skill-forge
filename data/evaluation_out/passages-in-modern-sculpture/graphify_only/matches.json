@@ -1,0 +1,215 @@
+{
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "Narrative Time",
+      "aliases": [
+        "Theatrical Time",
+        "Sequential Time"
+      ],
+      "weight": 9,
+      "importance": 9
+    },
+    {
+      "id": "c1_1",
+      "name": "Rodin's Surfaces",
+      "aliases": [
+        "Process over Product",
+        "Fragment"
+      ],
+      "weight": 8,
+      "importance": 8
+    },
+    {
+      "id": "c2",
+      "name": "Cubist Sculpture",
+      "aliases": [
+        "Cubism"
+      ],
+      "weight": 9,
+      "importance": 9
+    },
+    {
+      "id": "c2_1",
+      "name": "Analytic Cubism",
+      "aliases": [
+        "Transparency",
+        "Surface Analysis"
+      ],
+      "weight": 8,
+      "importance": 8
+    },
+    {
+      "id": "c2_2",
+      "name": "Synthetic Cubism",
+      "aliases": [
+        "Assemblage",
+        "Collage"
+      ],
+      "weight": 8,
+      "importance": 8
+    },
+    {
+      "id": "c3",
+      "name": "Constructivism",
+      "aliases": [
+        "Russian Constructivism",
+        "Spatial Construction"
+      ],
+      "weight": 9,
+      "importance": 9
+    },
+    {
+      "id": "c4",
+      "name": "Readymades",
+      "aliases": [
+        "Duchampian Readymade",
+        "Found Object"
+      ],
+      "weight": 10,
+      "importance": 10
+    },
+    {
+      "id": "c4_1",
+      "name": "Index",
+      "aliases": [
+        "Indexical Sign"
+      ],
+      "weight": 8,
+      "importance": 8
+    },
+    {
+      "id": "c5",
+      "name": "Surrealist Object",
+      "aliases": [
+        "Fetish Object",
+        "Psychological Space"
+      ],
+      "weight": 8,
+      "importance": 8
+    },
+    {
+      "id": "c6",
+      "name": "Minimalism",
+      "aliases": [
+        "Minimal Art",
+        "Literalist Art"
+      ],
+      "weight": 10,
+      "importance": 10
+    },
+    {
+      "id": "c6_1",
+      "name": "Theatricality",
+      "aliases": [
+        "Michael Fried's Critique",
+        "Objecthood"
+      ],
+      "weight": 9,
+      "importance": 9
+    },
+    {
+      "id": "c6_2",
+      "name": "Specific Objects",
+      "aliases": [
+        "Judd's Specific Objects"
+      ],
+      "weight": 9,
+      "importance": 9
+    },
+    {
+      "id": "c6_3",
+      "name": "Gestalt",
+      "aliases": [
+        "Holistic Form"
+      ],
+      "weight": 8,
+      "importance": 8
+    },
+    {
+      "id": "c7",
+      "name": "Site-Specificity",
+      "aliases": [
+        "Earthworks",
+        "Land Art",
+        "Expanded Field"
+      ],
+      "weight": 10,
+      "importance": 10
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "e1",
+      "name": "Cubist Sculpture",
+      "description": "Historical movement developed by Picasso."
+    },
+    {
+      "id": "e2",
+      "name": "Constructivism",
+      "description": "Movement focused on spatial construction."
+    },
+    {
+      "id": "e3",
+      "name": "Readymades",
+      "description": "Duchamp's found objects."
+    },
+    {
+      "id": "e4",
+      "name": "Minimalism",
+      "description": "Literalist art movement."
+    },
+    {
+      "id": "e5",
+      "name": "Site-Specificity",
+      "description": "Land art and earthworks."
+    }
+  ],
+  "mappings": [
+    {
+      "extracted_id": "e1",
+      "gt_id": "c2",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Direct match to the historical movement of Cubist Sculpture.",
+      "evidence": "Krauss analyzes Picasso's Cubist constructions."
+    },
+    {
+      "extracted_id": "e2",
+      "gt_id": "c3",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Constructivism is clearly extracted as an entity.",
+      "evidence": "Gabo's spatial constructions."
+    },
+    {
+      "extracted_id": "e3",
+      "gt_id": "c4",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Readymades map directly to Duchampian readymade concept.",
+      "evidence": "Discussion of Duchamp's Fountain."
+    },
+    {
+      "extracted_id": "e4",
+      "gt_id": "c6",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Minimalism maps to the Minimal Art concept.",
+      "evidence": "Morris and Judd minimal art works."
+    },
+    {
+      "extracted_id": "e5",
+      "gt_id": "c7",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Site-Specificity is extracted as an entity.",
+      "evidence": "Smithson's Spiral Jetty as site-specific art."
+    }
+  ],
+  "artifact_usability": {
+    "formatting_score": 60,
+    "clarity_score": 60,
+    "logical_score": 60
+  }
+}

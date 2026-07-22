@@ -1,0 +1,40 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "name": "History of Things",
+      "aliases": ["Continuum of Objects", "Material Culture"],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "Sequences and Series",
+      "aliases": ["Linked Solutions", "Form-Class", "Problem-Solving Sequence"],
+      "weight": 9
+    },
+    {
+      "id": "c3",
+      "name": "Prime Objects",
+      "aliases": ["Originals", "Innovations", "Foundational works"],
+      "weight": 9
+    },
+    {
+      "id": "c4",
+      "name": "Replicas",
+      "aliases": ["Variations", "Copies", "Reproductions", "Mutations"],
+      "weight": 8
+    },
+    {
+      "id": "c5",
+      "name": "Nature of Duration",
+      "aliases": ["Shape of Time", "Time Scale", "Lifespan of Form"],
+      "weight": 8
+    },
+    {
+      "id": "c6",
+      "name": "Formal Relations",
+      "aliases": ["Structural Analysis", "Linguistic Model of Art"],
+      "weight": 7
+    }
+  ]
+}

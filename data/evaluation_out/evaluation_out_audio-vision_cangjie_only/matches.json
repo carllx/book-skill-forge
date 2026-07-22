@@ -1,0 +1,75 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "added_value",
+      "gt_id": "added_value",
+      "confidence": "high",
+      "reasoning": "SKILL.md中的'声音的走私与隐秘霸权 (The Stealthy Power of Added Value)'明确对应Ground Truth中的'Added Value'。"
+    },
+    {
+      "extracted_id": "acousmetre",
+      "gt_id": "acousmetre",
+      "confidence": "high",
+      "reasoning": "SKILL.md中的'听觉盲盒的神性 (The Acousmatic Mystery)'描述了脱离物理源头获得幽灵感的声音，对应'Acousmêtre'。"
+    },
+    {
+      "extracted_id": "audiovisual_contract",
+      "gt_id": "audiovisual_contract",
+      "confidence": "high",
+      "reasoning": "SKILL.md中的'主动缔结视听契约 (The Audiovisual Contract)'直接对应'Audiovisual Contract'。"
+    },
+    {
+      "extracted_id": "synchresis",
+      "gt_id": "synchresis",
+      "confidence": "high",
+      "reasoning": "SKILL.md中的'同步即合理 (Synchresis)'对应'Synchresis'（同步合成）。"
+    },
+    {
+      "extracted_id": "rendering",
+      "gt_id": "rendering",
+      "confidence": "high",
+      "reasoning": "SKILL.md中的'感觉真大于物理真 (Rendering over Reality)'明确对应'Rendering'（声音渲染）。"
+    },
+    {
+      "extracted_id": "vococentrism",
+      "gt_id": "vococentrism",
+      "confidence": "high",
+      "reasoning": "SKILL.md中的'人声绝对C位 (Vococentrism)'直接使用了该术语并解释了人声优先。"
+    }
+  ],
+  "ground_truth_concepts": [
+    {"id": "audiovisual_contract", "name": "Audiovisual Contract", "importance": 10},
+    {"id": "added_value", "name": "Added Value", "importance": 10},
+    {"id": "empathetic_sound", "name": "Empathetic Sound", "importance": 8},
+    {"id": "anempathetic_sound", "name": "Anempathetic Sound", "importance": 9},
+    {"id": "synchresis", "name": "Synchresis", "importance": 10},
+    {"id": "vococentrism", "name": "Vococentrism", "importance": 8},
+    {"id": "acousmatic", "name": "Acousmatic", "importance": 9},
+    {"id": "acousmetre", "name": "Acousmêtre", "importance": 10},
+    {"id": "de-acousmatization", "name": "De-acousmatization", "importance": 7},
+    {"id": "visualized_sound", "name": "Visualized Sound", "importance": 8},
+    {"id": "spatial_magnetization", "name": "Spatial Magnetization", "importance": 7},
+    {"id": "materializing_sound_indices", "name": "Materializing Sound Indices", "importance": 8},
+    {"id": "extension", "name": "Extension", "importance": 8},
+    {"id": "null_extension", "name": "Null Extension", "importance": 6},
+    {"id": "vast_extension", "name": "Vast Extension", "importance": 6},
+    {"id": "point_of_audition", "name": "Point of Audition", "importance": 9},
+    {"id": "subjective_sound", "name": "Subjective Sound", "importance": 7},
+    {"id": "soundscape", "name": "Soundscape", "importance": 7},
+    {"id": "rendering", "name": "Rendering", "importance": 9}
+  ],
+  "extracted_concepts": [
+    {"id": "audio_visual_alchemy", "name": "视听化反", "is_redundant": false},
+    {"id": "added_value", "name": "声音的走私与隐秘霸权", "is_redundant": false},
+    {"id": "acousmetre", "name": "听觉盲盒的神性", "is_redundant": false},
+    {"id": "audiovisual_contract", "name": "主动缔结视听契约", "is_redundant": false},
+    {"id": "synchresis", "name": "同步即合理", "is_redundant": false},
+    {"id": "rendering", "name": "感觉真大于物理真", "is_redundant": false},
+    {"id": "vococentrism", "name": "人声绝对C位", "is_redundant": false}
+  ],
+  "artifact_usability": {
+    "formatting_score": 5,
+    "clarity_score": 5,
+    "logical_score": 5
+  }
+}

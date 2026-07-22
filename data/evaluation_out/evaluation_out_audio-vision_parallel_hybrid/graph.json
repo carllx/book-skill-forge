@@ -1,0 +1,116 @@
+{
+  "nodes": [
+    {
+      "id": "Audio-vision",
+      "label": "Audio-vision",
+      "description": "A unique mode of perception engaged by film, television, and other audiovisual media, combining seeing and hearing into a unified experience."
+    },
+    {
+      "id": "Added_value",
+      "label": "Added value",
+      "description": "The expressive and informative value with which a sound enriches a given image, giving the impression it naturally comes from what is seen."
+    },
+    {
+      "id": "Vococentrism",
+      "label": "Vococentrism / Verbocentrism",
+      "description": "The tendency of film sound to privilege the human voice (specifically speech), centering attention on it above other sounds."
+    },
+    {
+      "id": "Synchresis",
+      "label": "Synchresis",
+      "description": "The spontaneous and irresistible mental fusion between a sound and a visual event when they occur simultaneously (Synchronism + Synthesis)."
+    },
+    {
+      "id": "Synch_point",
+      "label": "Point of synchronization",
+      "description": "A salient moment of an audiovisual sequence where a sound event and a visual event meet in synchrony, acting as a focal point."
+    },
+    {
+      "id": "Acousmatic",
+      "label": "Acousmatic sound",
+      "description": "Sounds one hears without seeing their originating cause. Creates mystery and tension (e.g., the Acousmêtre)."
+    },
+    {
+      "id": "Visualized",
+      "label": "Visualized sound",
+      "description": "Sound accompanied by the direct sight of its source or cause on the screen."
+    },
+    {
+      "id": "Onscreen",
+      "label": "Onscreen sound",
+      "description": "Sound whose source appears in the image and belongs to the diegesis (reality of the film)."
+    },
+    {
+      "id": "Offscreen",
+      "label": "Offscreen sound",
+      "description": "Sound whose source is part of the diegesis but is currently outside the visual frame."
+    },
+    {
+      "id": "Nondiegetic",
+      "label": "Nondiegetic sound",
+      "description": "Sound whose source is external to the story world, such as background music or voiceover narration."
+    },
+    {
+      "id": "EAS",
+      "label": "Elements of Auditory Setting",
+      "description": "Intermittent sounds with a singular source that help define the space of the scene (e.g., a distant siren)."
+    },
+    {
+      "id": "Mutism",
+      "label": "Mutism",
+      "description": "The absence of vocal speech in a film or scene, used to heighten the perception of other sounds and silence."
+    }
+  ],
+  "edges": [
+    {
+      "source": "Audio-vision",
+      "target": "Added_value",
+      "label": "relies on"
+    },
+    {
+      "source": "Added_value",
+      "target": "Synchresis",
+      "label": "is forged through"
+    },
+    {
+      "source": "Synchresis",
+      "target": "Synch_point",
+      "label": "creates"
+    },
+    {
+      "source": "Vococentrism",
+      "target": "Audio-vision",
+      "label": "structures"
+    },
+    {
+      "source": "Acousmatic",
+      "target": "Offscreen",
+      "label": "is a type of"
+    },
+    {
+      "source": "Visualized",
+      "target": "Onscreen",
+      "label": "corresponds to"
+    },
+    {
+      "source": "Offscreen",
+      "target": "Onscreen",
+      "label": "contrasts with"
+    },
+    {
+      "source": "Nondiegetic",
+      "target": "Offscreen",
+      "label": "is distinct from"
+    },
+    {
+      "source": "EAS",
+      "target": "Offscreen",
+      "label": "often appears as"
+    },
+    {
+      "source": "Mutism",
+      "target": "Vococentrism",
+      "label": "subverts"
+    }
+  ]
+}

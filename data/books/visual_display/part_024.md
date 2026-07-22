@@ -1,0 +1,41 @@
+## Part 24
+
+> [BREADCRUMB_CTX: 《visual_display》 > Part 24]
+
+Tablesalso work well when thedata presentation requiresmany localized comparisons. In this410-number tablethatI designed for theNew York Timesto show how different people voted in presidential elections in theUnited States,comparisons between the elections of1980and 1976 are read acrosseach line;within-election analysis is conducted by reading downward in theclusters ofthree to seven lines. The horizontal rules divide thedata into topical paragraphs; the rows are ordered so as totell an ordered story aboutthe elections. This type of elaborate table, a supertable, is likely to attractand intrigue readers through its organized, sequential detail and reference-like quality. One supertable is far better thana hundred little bar charts.
+
+Based on12,782interviewswith voters at theirpollingplaces. Shownis how eachgroupdivided its vote for Presidentand, inparentheses, the percentage of the electorate belonging to each group.
+
+![](images/763b9a2ff0a6bdaba3e89c62cba99fc52119264da3e721f8364ae13453f70eb2.jpg)
+Source:1976and1980electiondaysurveysbyTheNewYorkTimes/CBSNewsPolland 1976electionday survey by NBCNews.
+
+For sets of highly labeled numbers, a wordy data graphiccoming close to straight text-works well. Thistable of numbers is nicely organized intoa graphic:
+
+Some Winners and Losers In the Forecasting Game Chase Econometrics: 7.4% CouncllofEconomic Wharton Econometric Advisors: +4.7% Forecssting Data Conference Resources .5% Aboutayearago,elghtforecasterswereaskedfor Board: thelrpredictionson some key economlcIndicatore. Nat ABSOC. D1 Businees Here's how the forecasts stack up agalnst the NaLAssoc.ofBuslnees Economists: 4.5% probable 1978 results(shown In the black panel). Economists: Wharton conometric I.B. Economice Forecasting: 5 Department: ongression Budget Deta Office Resources: Conferenc NaLAssoc.ofBusinees Congressional Budget Board: Economlsta: +6.2% Office: 6.3% E AN 中 I.B.M.Economics LB.M. Economics Wharton Econometric Councllof Economic Department: +4.1% Department: +5.9% Forecasting: +21% Advisers: 3 RealG.N.P. Industrial Production ChangeinConsumer CorporateProfits Unemployment Growth: 3.8% Growth: +5.8% Prices: +7.7% Growth: +13.3% Rate: Chese Conference B.M Economics Data Econometrics: +2.8% Board: spartment 69 Resources: +10.5% Dats Busines Economics osource Department +10.4% WhartonEcon Chase Econometrics: +6.5% E Chae Econometrics: ssourcee Chase Econometrics 5 Councll of Economic Forecasterearenotllsted Advisers: 5.9% in categorlesforwhich they didnotmakeaprediction. Wharton Econometric Forecasting: Aftertaxes A
+
+# Making Complexity Accessible: Combining Words, Numbers,and Pictures
+
+Explanations that give access to the richness ofthe datamake graphics more attractive to the viewer. Words and pictures are sometimes jurisdictional enemies, asartists feud with writers for scarce space. An unfortunate legacy of these craft-union differences is the artificial separation ofwords and pictures; a few style sheets even forbid printing ongraphics. What has gone wrong is thatthe techniques of production instead ofthe information conveyed have been given precedence.
+
+Words and pictures belong together. Viewers need the help that words canprovide. Words on graphics are data-ink, making effective use of the space freed up by erasing redundant and nondata-ink. Itisnearly always helpful to write little messages on the plotting field to explain thedata,to label outliersand interesting data points, to write equations and sometimes tables on the graphic itself,and to integrate thecaption and legend into the design So that the eye is not required to dartbackand forth between textual material and the graphic. (The size of type on and around graphics can be quite small, since the phrases and sentences areusually not too long I and therefore the small type will not fatigue viewers the way it does in lengthy texts.)
+
+Theprinciple ofdata/textintegrationis
+
+Data graphics areparagraphs about dataand should betreated as such.
+
+Words,graphics, and tables are differentmechanisms with buta single purpose-the presentation of information. Why should the fow ofinformation be broken upinto different places on the page becausethe information is packaged one way oranother? Sometimes itmay beuseful to have multiple story-lines or multiple levels of presentation, but that should bea deliberate design judgment, not something decided by conventional production requirements. Imagine if graphics were replaced by paragraphs ofwords and those paragraphs scattered over the pages out of sequence with the rest of the text-that is howgraphical and tabular information isnow treated in the layout of many published pages, particularly in scientific journals and professional books.
+
+Tables and graphics should berun into the text whenever possible,avoiding the clumsy and divertingsegregation of "See Fig. 2,” (figures all too often located on theback of the adjacent page).3 Ifa display is discussed in various parts of the text,it might well beprinted afresh neareach referenceto it,perhaps in reduced size in later showings. Theprinciple of text/graphic/table integration also suggests that the same typeface beused fortextand graphic and, further, thatruled lines separating different types of information be avoided. AlbertBiderman notes thatillustrations were once well-integrated with text inscientific manuscripts,such as those ofNewton and Leonardo da Vinci,butthatstatistical graphics became segregated from textand table asprinting technology developed:
+
+The evolution ofgraphic methods asanelement ofthe scientific enterprisehas been handicapped by theiradjunctive,segregated, and marginal position. The exigencies of typography that moved graphics to a segregated position in theprinted work havein the past contributed totheir intellectual segregation and marginality as well. Therewas a corresponding organizational segregation,with decisions on graphics often passing out of the hands of the original analyst and communicator into those of graphic specialists-the commercial artists and designers of graphic departments and audio-visual aids shops, for example, whose predilections and skillsare usually more thoseofcosmeticians and merchandisers than of scientific analysts and communicators.4
+
+Page after page of Leonardo's manuscripts havea gentle but thorough integration of text and figure, a qualityrarely seen in modern work:
+
+chevai le cose uedute cifene ranro miavre chi noche lemcmbva mairuogasiiara imosibile do tvfguare ome soccossaua du   
+gliavto di bvaccio guak alla tua tauota dipinta sia,a,bdisostra H dal'ochio mezo Gvaccio allova tu wdvai per esfo spa cio tutte le cose d uder siporgiden rdla langhe dnns ovizonte di cento miglia intana confusa diminuttione cheno cheyuradglcarabg maxpena potva povve sipicclopunrodi penclloche yon sla maqgiove chogm gvan 'cdsamento bosto in dieai migaa didirantia Perche lmonti in langha digtania sidimostranopiu scun ndllacima   
+Lana che mlla basa 一 c'acgnista gvadi di grossezca inogmgradode la sua basjea della sna distuna ccansachcfe cime demonn che biu sindam pin mstranala sna natu rale oscurita pev A che mdco sondimpe- dite dlalla   
+gvosse LLa delavia mllaama che ndllay Covo basa onella ucimta che nella remottione,Pro   
+nasiopds,vak,sono gvadi delbovia chesem  
+pr snsotiylian'guantopins'inalzan af，f.h,k. ogdaeot
+
+Finally, a caveat: the use of words and pictures together requires a special sensitivity to the purpose ofthe design-in particular, whether the graphic is primarily for communication and illustration ofasettled finding or, in contrast, for the exploration of a data set. Words on and around graphics are highly effectivesometimes all too effective-in telling viewers how to allocate their attention to thevarious parts ofthedata display.5Thus, for graphics in exploratory dataanalysis, words should tell the viewer how to read the design (if it is a technically complexarrangement and notwhat to read in terms of content.

@@ -1,0 +1,30 @@
+{"timestamp": "2026-07-21T08:49:33", "book_id": "jiangouwenhua", "recipe": "Graphify Only", "recall": 0.4, "precision": 0.3529, "usability": 0.8, "artifact_size_bytes": 7873}
+{"timestamp": "2026-07-21T08:49:33", "book_id": "jiangouwenhua", "recipe": "Cangjie Only", "recall": 0.2812, "precision": 0.3333, "usability": 0.8667, "artifact_size_bytes": 8067}
+{"timestamp": "2026-07-21T08:49:33", "book_id": "jiangouwenhua", "recipe": "Parallel Hybrid", "recall": 0.3898, "precision": 0.5714, "usability": 1.0, "artifact_size_bytes": 4430}
+{"timestamp": "2026-07-21T08:49:33", "book_id": "meixuesanbu", "recipe": "Graphify Only", "recall": 0.7333, "precision": 0.75, "usability": 0.4667, "artifact_size_bytes": 7873}
+{"timestamp": "2026-07-21T08:49:33", "book_id": "meixuesanbu", "recipe": "Cangjie Only", "recall": 0.3333, "precision": 0.6, "usability": 0.8667, "artifact_size_bytes": 8067}
+{"timestamp": "2026-07-21T08:49:33", "book_id": "meixuesanbu", "recipe": "Parallel Hybrid", "recall": 0.3333, "precision": 0.8333, "usability": 0.9333, "artifact_size_bytes": 4430}
+{"timestamp": "2026-07-21T09:34:39", "book_id": "art-matters", "recipe": "Graphify Only", "recall": 0.4286, "precision": 0.9091, "usability": 0.9333, "artifact_size_bytes": 7873}
+{"timestamp": "2026-07-21T09:34:39", "book_id": "art-matters", "recipe": "Cangjie Only", "recall": 0.4235, "precision": 0.6429, "usability": 0.9333, "artifact_size_bytes": 8067}
+{"timestamp": "2026-07-21T09:34:39", "book_id": "art-matters", "recipe": "Parallel Hybrid", "recall": 0.6173, "precision": 1.0, "usability": 1.0, "artifact_size_bytes": 4430}
+{"timestamp": "2026-07-21T09:34:39", "book_id": "architecture-form-space-order", "recipe": "Graphify Only", "recall": 1.0, "precision": 1.0, "usability": 0.9333, "artifact_size_bytes": 7873}
+{"timestamp": "2026-07-21T09:34:39", "book_id": "architecture-form-space-order", "recipe": "Cangjie Only", "recall": 0.8198, "precision": 0.7, "usability": 1.0, "artifact_size_bytes": 8067}
+{"timestamp": "2026-07-21T09:34:39", "book_id": "architecture-form-space-order", "recipe": "Parallel Hybrid", "recall": 0.4601, "precision": 1.0, "usability": 1.0, "artifact_size_bytes": 4430}
+{"timestamp": "2026-07-21T17:43:55.973105", "book_id": "art_visual_guide", "recipe": "Graphify Only", "recall": 1.0, "precision": 0.5, "usability": 0.6, "artifact_size_bytes": 7873}
+{"timestamp": "2026-07-21T17:43:56.220898", "book_id": "art_visual_guide", "recipe": "Cangjie Only", "recall": 1.0, "precision": 1.0, "usability": 0.8, "artifact_size_bytes": 8067}
+{"timestamp": "2026-07-21T17:43:56.472017", "book_id": "art_visual_guide", "recipe": "Parallel Hybrid", "recall": 1.0, "precision": 1.0, "usability": 1.0, "artifact_size_bytes": 4430}
+{"timestamp": "2026-07-21T17:43:56.696307", "book_id": "audio-vision", "recipe": "Graphify Only", "recall": 0.6666666666666666, "precision": 0.5, "usability": 0.6, "artifact_size_bytes": 7873}
+{"timestamp": "2026-07-21T17:43:56.974489", "book_id": "audio-vision", "recipe": "Cangjie Only", "recall": 0.7564102564102564, "precision": 0.8235294117647058, "usability": 0.8, "artifact_size_bytes": 8067}
+{"timestamp": "2026-07-21T17:43:57.439883", "book_id": "audio-vision", "recipe": "Parallel Hybrid", "recall": 1.0, "precision": 0.9047619047619048, "usability": 1.0, "artifact_size_bytes": 4430}
+{"timestamp": "2026-07-21T17:48:38.493958", "book_id": "design-for-the-real-world", "recipe": "Graphify Only", "recall": 0.6153846153846154, "precision": 0.5, "usability": 0.6, "artifact_size_bytes": 7873}
+{"timestamp": "2026-07-21T17:48:38.998607", "book_id": "design-for-the-real-world", "recipe": "Cangjie Only", "recall": 0.7538461538461538, "precision": 0.8095238095238095, "usability": 0.8, "artifact_size_bytes": 8067}
+{"timestamp": "2026-07-21T17:48:39.585421", "book_id": "design-for-the-real-world", "recipe": "Parallel Hybrid", "recall": 0.9538461538461539, "precision": 0.9166666666666666, "usability": 1.0, "artifact_size_bytes": 4430}
+{"timestamp": "2026-07-21T17:48:40.036252", "book_id": "envisioning-information", "recipe": "Graphify Only", "recall": 0.6415094339622641, "precision": 0.5, "usability": 0.6, "artifact_size_bytes": 7873}
+{"timestamp": "2026-07-21T17:48:40.660958", "book_id": "envisioning-information", "recipe": "Cangjie Only", "recall": 0.7924528301886793, "precision": 0.8333333333333334, "usability": 0.8, "artifact_size_bytes": 8067}
+{"timestamp": "2026-07-21T17:48:41.139443", "book_id": "envisioning-information", "recipe": "Parallel Hybrid", "recall": 1.0, "precision": 0.9285714285714286, "usability": 1.0, "artifact_size_bytes": 4430}
+{"timestamp": "2026-07-21T09:58:12", "book_id": "language-of-new-media", "recipe": "Graphify Only", "recall": 0.8344, "precision": 0.1758, "usability": 0.8, "artifact_size_bytes": 7873}
+{"timestamp": "2026-07-21T09:58:12", "book_id": "language-of-new-media", "recipe": "Cangjie Only", "recall": 0.6369, "precision": 1.0, "usability": 1.0, "artifact_size_bytes": 8067}
+{"timestamp": "2026-07-21T09:58:12", "book_id": "language-of-new-media", "recipe": "Parallel Hybrid", "recall": 0.586, "precision": 1.0, "usability": 1.0, "artifact_size_bytes": 4430}
+{"timestamp": "2026-07-21T22:59:49.931454", "book_id": "language-of-new-media", "recipe": "graphify_only", "recall": 0.8343949044585988, "precision": 0.17582417582417584, "usability": 0.04, "artifact_size_bytes": 30592}
+{"timestamp": "2026-07-21T22:59:50.145704", "book_id": "language-of-new-media", "recipe": "cangjie_only", "recall": 0.6369426751592356, "precision": 1.0, "usability": 0.05, "artifact_size_bytes": 7128}
+{"timestamp": "2026-07-21T22:59:50.362095", "book_id": "language-of-new-media", "recipe": "parallel_hybrid", "recall": 0.5859872611464968, "precision": 1.0, "usability": 0.05, "artifact_size_bytes": 6104}

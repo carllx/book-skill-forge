@@ -1,0 +1,332 @@
+{
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "Narrative Time",
+      "aliases": [
+        "Theatrical Time",
+        "Sequential Time"
+      ],
+      "weight": 9,
+      "importance": 9
+    },
+    {
+      "id": "c1_1",
+      "name": "Rodin's Surfaces",
+      "aliases": [
+        "Process over Product",
+        "Fragment"
+      ],
+      "weight": 8,
+      "importance": 8
+    },
+    {
+      "id": "c2",
+      "name": "Cubist Sculpture",
+      "aliases": [
+        "Cubism"
+      ],
+      "weight": 9,
+      "importance": 9
+    },
+    {
+      "id": "c2_1",
+      "name": "Analytic Cubism",
+      "aliases": [
+        "Transparency",
+        "Surface Analysis"
+      ],
+      "weight": 8,
+      "importance": 8
+    },
+    {
+      "id": "c2_2",
+      "name": "Synthetic Cubism",
+      "aliases": [
+        "Assemblage",
+        "Collage"
+      ],
+      "weight": 8,
+      "importance": 8
+    },
+    {
+      "id": "c3",
+      "name": "Constructivism",
+      "aliases": [
+        "Russian Constructivism",
+        "Spatial Construction"
+      ],
+      "weight": 9,
+      "importance": 9
+    },
+    {
+      "id": "c4",
+      "name": "Readymades",
+      "aliases": [
+        "Duchampian Readymade",
+        "Found Object"
+      ],
+      "weight": 10,
+      "importance": 10
+    },
+    {
+      "id": "c4_1",
+      "name": "Index",
+      "aliases": [
+        "Indexical Sign"
+      ],
+      "weight": 8,
+      "importance": 8
+    },
+    {
+      "id": "c5",
+      "name": "Surrealist Object",
+      "aliases": [
+        "Fetish Object",
+        "Psychological Space"
+      ],
+      "weight": 8,
+      "importance": 8
+    },
+    {
+      "id": "c6",
+      "name": "Minimalism",
+      "aliases": [
+        "Minimal Art",
+        "Literalist Art"
+      ],
+      "weight": 10,
+      "importance": 10
+    },
+    {
+      "id": "c6_1",
+      "name": "Theatricality",
+      "aliases": [
+        "Michael Fried's Critique",
+        "Objecthood"
+      ],
+      "weight": 9,
+      "importance": 9
+    },
+    {
+      "id": "c6_2",
+      "name": "Specific Objects",
+      "aliases": [
+        "Judd's Specific Objects"
+      ],
+      "weight": 9,
+      "importance": 9
+    },
+    {
+      "id": "c6_3",
+      "name": "Gestalt",
+      "aliases": [
+        "Holistic Form"
+      ],
+      "weight": 8,
+      "importance": 8
+    },
+    {
+      "id": "c7",
+      "name": "Site-Specificity",
+      "aliases": [
+        "Earthworks",
+        "Land Art",
+        "Expanded Field"
+      ],
+      "weight": 10,
+      "importance": 10
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "e1",
+      "name": "Narrative Time",
+      "description": "Krauss's analysis of theatrical and sequential time."
+    },
+    {
+      "id": "e2",
+      "name": "Rodin's Surfaces",
+      "description": "Focus on process and fragment."
+    },
+    {
+      "id": "e3",
+      "name": "Cubist Sculpture",
+      "description": "Historical movement developed by Picasso."
+    },
+    {
+      "id": "e4",
+      "name": "Analytic Cubism",
+      "description": "Transparency and surface analysis."
+    },
+    {
+      "id": "e5",
+      "name": "Synthetic Cubism",
+      "description": "Assemblage and collage."
+    },
+    {
+      "id": "e6",
+      "name": "Constructivism",
+      "description": "Spatial constructions."
+    },
+    {
+      "id": "e7",
+      "name": "Readymades",
+      "description": "Duchamp's found objects."
+    },
+    {
+      "id": "e8",
+      "name": "Indexical Sign",
+      "description": "Meaning derived from physical connection."
+    },
+    {
+      "id": "e9",
+      "name": "Surrealist Object",
+      "description": "Fetish object and psychology."
+    },
+    {
+      "id": "e10",
+      "name": "Minimalism",
+      "description": "Literalist art movement."
+    },
+    {
+      "id": "e11",
+      "name": "Theatricality",
+      "description": "Fried's critique of minimal art."
+    },
+    {
+      "id": "e12",
+      "name": "Specific Objects",
+      "description": "Judd's objects."
+    },
+    {
+      "id": "e13",
+      "name": "Gestalt",
+      "description": "Holistic form in perception."
+    },
+    {
+      "id": "e14",
+      "name": "Site-Specificity",
+      "description": "Land art and expanded field."
+    }
+  ],
+  "mappings": [
+    {
+      "extracted_id": "e1",
+      "gt_id": "c1",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match for narrative time.",
+      "evidence": "Krauss discusses narrative and theatrical time in Rodin's work."
+    },
+    {
+      "extracted_id": "e2",
+      "gt_id": "c1_1",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match for Rodin's surfaces.",
+      "evidence": "Analysis of the fragment and process in Rodin."
+    },
+    {
+      "extracted_id": "e3",
+      "gt_id": "c2",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Match for Cubist sculpture.",
+      "evidence": "Picasso's cubist innovations."
+    },
+    {
+      "extracted_id": "e4",
+      "gt_id": "c2_1",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Match for Analytic Cubism.",
+      "evidence": "Analysis of transparency."
+    },
+    {
+      "extracted_id": "e5",
+      "gt_id": "c2_2",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Match for Synthetic Cubism.",
+      "evidence": "Use of collage and assemblage."
+    },
+    {
+      "extracted_id": "e6",
+      "gt_id": "c3",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Match for Constructivism.",
+      "evidence": "Gabo's spatial constructions."
+    },
+    {
+      "extracted_id": "e7",
+      "gt_id": "c4",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Match for Readymades.",
+      "evidence": "Duchamp's found objects."
+    },
+    {
+      "extracted_id": "e8",
+      "gt_id": "c4_1",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Match for Index.",
+      "evidence": "Indexical nature of the readymade."
+    },
+    {
+      "extracted_id": "e9",
+      "gt_id": "c5",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Match for Surrealist Object.",
+      "evidence": "Psychological space and fetish."
+    },
+    {
+      "extracted_id": "e10",
+      "gt_id": "c6",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Match for Minimalism.",
+      "evidence": "Minimal and literalist art."
+    },
+    {
+      "extracted_id": "e11",
+      "gt_id": "c6_1",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Match for Theatricality.",
+      "evidence": "Fried's theatricality critique."
+    },
+    {
+      "extracted_id": "e12",
+      "gt_id": "c6_2",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Match for Specific Objects.",
+      "evidence": "Judd's theory of specific objects."
+    },
+    {
+      "extracted_id": "e13",
+      "gt_id": "c6_3",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Match for Gestalt.",
+      "evidence": "Holistic form in minimalist sculpture."
+    },
+    {
+      "extracted_id": "e14",
+      "gt_id": "c7",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Match for Site-Specificity.",
+      "evidence": "Earthworks and the expanded field."
+    }
+  ],
+  "artifact_usability": {
+    "formatting_score": 98,
+    "clarity_score": 98,
+    "logical_score": 98
+  }
+}

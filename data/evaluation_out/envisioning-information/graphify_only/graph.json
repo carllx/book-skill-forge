@@ -1,0 +1,7 @@
+{
+  "nodes": [
+    { "id": "ext1", "label": "Escaping Flatland Node", "type": "Concept" },
+    { "id": "ext2", "label": "Layering and Separation Entity", "type": "Concept" }
+  ],
+  "edges": []
+}

@@ -1,0 +1,21 @@
+## Part 75
+
+> [BREADCRUMB_CTX: 《art_matters》 > Part 75]
+
+Tzu-kung traveled south to Ch’u, and on his way back through Chin, as he passed along the south bank of the Han, he saw an old man preparing his fields for planting. He had hollowed out an opening by which he entered the well and from which he emerged, lugging a pitcher, which he carried out to water the fields. Grunting and puffing, he used up a great deal of energy and produced very little result.
+
+“There is a machine for this sort of thing,” said Tzu-kung. “In one day it can water a hundred fields, demanding very little effort, and producing excellent results. Wouldn’t you like one?”
+
+The gardener raised his head and looked at Tzu-kung. “How does it work?”
+
+“It’s a contraption made by shaping a piece of wood. The back end is heavy and the front end light and it raises the water as though it were pouring it out, so fast that it seems to boil right over! It’s called a well sweep.” The gardener flushed with anger and then said with a laugh, “I’ve heard my teacher say, where there are machines, there are bound to be machine worries; where there are machine worries, there are bound to be machine hearts. With a machine heart in your breast, you’ve spoiled what was pure and simple; and without the pure and simple, the life of the spirit knows no rest. Where the life of the spirit knows no rest, the Way (Tao) will cease to buoy you up. It’s not that don know about your machine—I would be ashamed to use it!”22
+
+For Heisenberg the story had lost nothing of its relevance: restlessness of the spirit, he suggested “is perhaps one of the most fitting descriptions we can give of the state of human beings in our present crisis”23— where we should consider the way such restlessness is related to that boredom Heidegger considered the fundamental mood of our age. Today’s world makes it impossible for us not to have “machine worries.” And the old gardener was right: “where there are machine worries, there are bound to be machine hearts.”
+
+It is such worries that gave rise to this critical commentary. Heidegger’s inquiry into the origin of the work art can perhaps help prevent the objectifying reason that rules the world of machines from ruling us human beings, too, in a way that would transform hearts into machines.
+
+This is, to be sure, a very old story reflecting a very different way of life. As Heisenberg observes, “Technology, the machine has spread over the world to an extent of which the Chinese sage could have no idea. But notwithstanding that development, even two thousand years later the most beautiful works of art were still being created and that simplicity of soul, of which the philosopher speaks, was never quite lost, but in the course of the centuries manifested itself, sometimes more weakly, sometimes more strongly, and bore fruit.”24 And is Heisenberg not right: must we not learn to let the wisdom of the Chinese sage coexist with the machine? We would be altogether irresponsible were we to follow the example of Chuang Tzu’s old gardener today: countless problems demand that we embrace what he would have us reject. To suggest that we should turn our back on technology is to refuse to face the problems of our day. We need more and still better technology. To be sure, we must use it responsibly.
+
+But, as the fact that Heisenberg thinks it important for us to listen to this story suggests, the more deeply we understand the presuppositions of the scientific world picture and the more we recognize that it would be irresponsible not to affirm technology, the more difficult it becomes to simply dismiss the old gardener’s concerns. Nor should we take comfort in and give no further thought to the millennia-old coexistence of simplicity of thought and machine technology invoked by the physicist. Our task is to do justice both to the legitimacy of science and to its limits. Art matters because it can open windows in the house metaphysics has built, windows to an outside for which we lack adequate words.
+
+# Notes

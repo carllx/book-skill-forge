@@ -1,0 +1,69 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "ext_c1",
+      "gt_id": "c1",
+      "reasoning": "Graph node explicitly matches Escaping Flatland."
+    },
+    {
+      "extracted_id": "ext_c2",
+      "gt_id": "c2",
+      "reasoning": "Skill mindset matches Micro/Macro Readings."
+    },
+    {
+      "extracted_id": "ext_c3",
+      "gt_id": "c3",
+      "reasoning": "Graph node explicitly matches Layering and Separation."
+    },
+    {
+      "extracted_id": "ext_c4",
+      "gt_id": "c4",
+      "reasoning": "Skill pattern matches Small Multiples."
+    }
+  ],
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "Escaping Flatland",
+      "aliases": ["逃离扁平国", "Multivariate data", "High-dimensional"],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "Micro/Macro Readings",
+      "aliases": ["微观与宏观阅读", "Micro-macro", "Detail and overall"],
+      "weight": 9
+    },
+    {
+      "id": "c3",
+      "name": "Layering and Separation",
+      "aliases": ["分层与分隔", "Visual noise", "Layering"],
+      "weight": 9
+    },
+    {
+      "id": "c4",
+      "name": "Small Multiples",
+      "aliases": ["小多图", "Multiple variations", "Comparative"],
+      "weight": 8
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "ext_c1",
+      "name": "Escaping Flatland Node"
+    },
+    {
+      "id": "ext_c2",
+      "name": "Mindset: Micro/Macro Readings"
+    },
+    {
+      "id": "ext_c3",
+      "name": "Layering and Separation Entity"
+    },
+    {
+      "id": "ext_c4",
+      "name": "Pattern: Small Multiples"
+    }
+  ],
+  "artifact_usability": 0.95
+}

@@ -1,0 +1,190 @@
+{
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "Escaping Flatland",
+      "importance": 10
+    },
+    {
+      "id": "c1.1",
+      "name": "Data Density",
+      "importance": 8
+    },
+    {
+      "id": "c2",
+      "name": "Micro/Macro Readings",
+      "importance": 10
+    },
+    {
+      "id": "c2.1",
+      "name": "Stem-and-leaf plots",
+      "importance": 5
+    },
+    {
+      "id": "c3",
+      "name": "Layering and Separation",
+      "importance": 10
+    },
+    {
+      "id": "c3.1",
+      "name": "1+1=3",
+      "importance": 8
+    },
+    {
+      "id": "c4",
+      "name": "Small Multiples",
+      "importance": 10
+    },
+    {
+      "id": "c4.1",
+      "name": "Quantitative comparison",
+      "importance": 7
+    },
+    {
+      "id": "c5",
+      "name": "Color and Information",
+      "importance": 10
+    },
+    {
+      "id": "c5.1",
+      "name": "Color palettes",
+      "importance": 6
+    },
+    {
+      "id": "c6",
+      "name": "Narratives of Space and Time",
+      "importance": 10
+    },
+    {
+      "id": "c6.1",
+      "name": "Timetables",
+      "importance": 7
+    },
+    {
+      "id": "c6.2",
+      "name": "Dance notation",
+      "importance": 5
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "ext_c1",
+      "name": "Escaping Flatland",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_c1.1",
+      "name": "Data Density",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_c2",
+      "name": "Micro/Macro Readings",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_c2.1",
+      "name": "Stem-and-leaf plots",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_c3",
+      "name": "Layering and Separation",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_c3.1",
+      "name": "1+1=3",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_c4",
+      "name": "Small Multiples",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_c4.1",
+      "name": "Quantitative comparison",
+      "is_redundant": false
+    },
+    {
+      "id": "junk_0",
+      "name": "Junk Concept 0",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_1",
+      "name": "Junk Concept 1",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_2",
+      "name": "Junk Concept 2",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_3",
+      "name": "Junk Concept 3",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_4",
+      "name": "Junk Concept 4",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_5",
+      "name": "Junk Concept 5",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_6",
+      "name": "Junk Concept 6",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_7",
+      "name": "Junk Concept 7",
+      "is_redundant": true
+    }
+  ],
+  "artifact_usability": {
+    "formatting_score": 3,
+    "clarity_score": 3,
+    "logical_score": 3
+  },
+  "mappings": [
+    {
+      "gt_id": "c1",
+      "extracted_id": "ext_c1"
+    },
+    {
+      "gt_id": "c1.1",
+      "extracted_id": "ext_c1.1"
+    },
+    {
+      "gt_id": "c2",
+      "extracted_id": "ext_c2"
+    },
+    {
+      "gt_id": "c2.1",
+      "extracted_id": "ext_c2.1"
+    },
+    {
+      "gt_id": "c3",
+      "extracted_id": "ext_c3"
+    },
+    {
+      "gt_id": "c3.1",
+      "extracted_id": "ext_c3.1"
+    },
+    {
+      "gt_id": "c4",
+      "extracted_id": "ext_c4"
+    },
+    {
+      "gt_id": "c4.1",
+      "extracted_id": "ext_c4.1"
+    }
+  ]
+}

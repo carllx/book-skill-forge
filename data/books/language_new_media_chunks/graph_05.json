@@ -1,0 +1,76 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Digital Compositing",
+      "description": "The process of joining multiple digital image layers into a single seamless virtual space."
+    },
+    {
+      "id": "n2",
+      "label": "Aesthetics of Continuity",
+      "description": "An anti-montage aesthetics in new media where boundaries between elements are erased to simulate a continuous human experience."
+    },
+    {
+      "id": "n3",
+      "label": "Montage",
+      "description": "A technique aiming to create visual, stylistic, semantic, and emotional dissonance by juxtaposing elements."
+    },
+    {
+      "id": "n4",
+      "label": "Montage within a shot (Spatial Montage)",
+      "description": "Combining separate realities into contingent parts of a single image, making space as important as time."
+    },
+    {
+      "id": "n5",
+      "label": "Teleaction (Telepresence)",
+      "description": "The ability to manipulate physical reality over a distance in real time through electronic transmission."
+    },
+    {
+      "id": "n6",
+      "label": "Image-Instruments",
+      "description": "Representations (like perspective, radar, or real-time video) that systematically capture reality to act upon it."
+    },
+    {
+      "id": "n7",
+      "label": "Big Optics",
+      "description": "Paul Virilio's concept of real-time electronic transmission that collapses physical distance."
+    },
+    {
+      "id": "n8",
+      "label": "Small Optics",
+      "description": "Geometric perspective and human vision which maintain a natural spatial distance."
+    }
+  ],
+  "edges": [
+    {
+      "source": "n1",
+      "target": "n2",
+      "label": "Enables"
+    },
+    {
+      "source": "n1",
+      "target": "n4",
+      "label": "Expands possibilities of"
+    },
+    {
+      "source": "n3",
+      "target": "n2",
+      "label": "Opposes"
+    },
+    {
+      "source": "n5",
+      "target": "n6",
+      "label": "Relies on"
+    },
+    {
+      "source": "n7",
+      "target": "n8",
+      "label": "Replaces"
+    },
+    {
+      "source": "n7",
+      "target": "n5",
+      "label": "Facilitates"
+    }
+  ]
+}

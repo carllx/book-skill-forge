@@ -1,0 +1,56 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "ext_c_1",
+      "gt_id": "c1",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Cangjie effectively distilled the abstract mindset of adapting to nature (造物观).",
+      "evidence": "Skill mindset: '天人合一' principle in manufacturing."
+    },
+    {
+      "extracted_id": "ext_c_2",
+      "gt_id": "c2",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Cangjie distilled the spatial order and etiquette rules.",
+      "evidence": "Skill framework: '空间秩序' and spatial layout rules."
+    },
+    {
+      "extracted_id": null,
+      "gt_id": "c3",
+      "is_matched": false,
+      "is_redundant": false,
+      "reasoning": "Cangjie missed the specific worker taxonomies as it focused too heavily on high-level philosophy.",
+      "evidence": ""
+    }
+  ],
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "天有时，地有气，材有美，工有巧",
+      "aliases": ["天人合一", "顺应自然", "造物观"],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "辨方正位",
+      "aliases": ["体国经野", "营国制度", "空间秩序", "礼制"],
+      "weight": 9
+    },
+    {
+      "id": "c3",
+      "name": "百工制器",
+      "aliases": ["百工作坊", "标准化", "工种细分", "尺度规范", "轮人", "舆人"],
+      "weight": 8
+    }
+  ],
+  "extracted_concepts": [
+    {"id": "ext_c_1", "name": "造物观 (天人合一)"},
+    {"id": "ext_c_2", "name": "空间秩序 (礼制)"}
+  ],
+  "artifact_usability": {
+    "score": 7,
+    "reasoning": "Strong on philosophy and skill principles, but lacks the concrete taxonomy of standard processes."
+  }
+}

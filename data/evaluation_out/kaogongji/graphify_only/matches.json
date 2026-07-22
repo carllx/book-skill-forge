@@ -1,0 +1,56 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "ext_g_1",
+      "gt_id": "c3",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Graphify successfully extracted the specific worker roles (轮人, 舆人) and workshop standardization concepts.",
+      "evidence": "Extracted entity node '百工' connected to '轮人'."
+    },
+    {
+      "extracted_id": "ext_g_2",
+      "gt_id": "c2",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Extracted '营国制度' as an entity.",
+      "evidence": "Entity node '营国制度'."
+    },
+    {
+      "extracted_id": null,
+      "gt_id": "c1",
+      "is_matched": false,
+      "is_redundant": false,
+      "reasoning": "Graphify focused on entities and missed the abstract philosophical concept of '天人合一'.",
+      "evidence": ""
+    }
+  ],
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "天有时，地有气，材有美，工有巧",
+      "aliases": ["天人合一", "顺应自然", "造物观"],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "辨方正位",
+      "aliases": ["体国经野", "营国制度", "空间秩序", "礼制"],
+      "weight": 9
+    },
+    {
+      "id": "c3",
+      "name": "百工制器",
+      "aliases": ["百工作坊", "标准化", "工种细分", "尺度规范", "轮人", "舆人"],
+      "weight": 8
+    }
+  ],
+  "extracted_concepts": [
+    {"id": "ext_g_1", "name": "百工作坊"},
+    {"id": "ext_g_2", "name": "营国制度"}
+  ],
+  "artifact_usability": {
+    "score": 6,
+    "reasoning": "Provides a good physical graph of roles but lacks the guiding principles for an agent skill."
+  }
+}

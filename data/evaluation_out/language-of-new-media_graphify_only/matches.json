@@ -1,0 +1,659 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "Numerical Representation",
+      "gt_id": "numerical_representation",
+      "confidence": "high",
+      "reasoning": "Exact match for Numerical Representation, describing all new media objects as digital code."
+    },
+    {
+      "extracted_id": "Modularity",
+      "gt_id": "modularity",
+      "confidence": "high",
+      "reasoning": "Exact match for Modularity, describing the fractal structure of new media."
+    },
+    {
+      "extracted_id": "Automation",
+      "gt_id": "automation",
+      "confidence": "high",
+      "reasoning": "Exact match for Automation as a key principle of new media."
+    },
+    {
+      "extracted_id": "Variability",
+      "gt_id": "variability",
+      "confidence": "high",
+      "reasoning": "Exact match for Variability as a key principle of new media."
+    },
+    {
+      "extracted_id": "Transcoding",
+      "gt_id": "transcoding",
+      "confidence": "high",
+      "reasoning": "Exact match for Transcoding as a key principle of new media."
+    },
+    {
+      "extracted_id": "Human-Computer Interface (HCI)",
+      "gt_id": "the_interface",
+      "confidence": "high",
+      "reasoning": "Direct match to The Interface based on the alias HCI."
+    },
+    {
+      "extracted_id": "Cultural Interfaces",
+      "gt_id": "cultural_interfaces",
+      "confidence": "high",
+      "reasoning": "Exact match for Cultural Interfaces."
+    },
+    {
+      "extracted_id": "Screen",
+      "gt_id": "the_screen",
+      "confidence": "high",
+      "reasoning": "Direct match to The Screen, describing it as a flat surface acting as a window."
+    },
+    {
+      "extracted_id": "New Media Operations",
+      "gt_id": "the_operations",
+      "confidence": "high",
+      "reasoning": "Direct match to The Operations."
+    },
+    {
+      "extracted_id": "Digital Compositing",
+      "gt_id": "compositing",
+      "confidence": "high",
+      "reasoning": "Direct match to Compositing based on the alias Digital Compositing."
+    },
+    {
+      "extracted_id": "Teleaction (Telepresence)",
+      "gt_id": "teleaction",
+      "confidence": "high",
+      "reasoning": "Exact match for Teleaction with Telepresence as its alias."
+    },
+    {
+      "extracted_id": "Logic of Selection",
+      "gt_id": "menus_filters",
+      "confidence": "medium",
+      "reasoning": "Corresponds to Menus and Filters (alias Selection vs Creation) as it models authorship based on choosing from pre-defined menus."
+    },
+    {
+      "extracted_id": "Synthetic Realism",
+      "gt_id": "synthetic_realism",
+      "confidence": "high",
+      "reasoning": "Exact match for Synthetic Realism."
+    },
+    {
+      "extracted_id": "Database",
+      "gt_id": "database",
+      "confidence": "high",
+      "reasoning": "Exact match for Database."
+    },
+    {
+      "extracted_id": "Navigable Space",
+      "gt_id": "navigable_space",
+      "confidence": "high",
+      "reasoning": "Exact match for Navigable Space."
+    },
+    {
+      "extracted_id": "Digital Cinema",
+      "gt_id": "digital_cinema",
+      "confidence": "high",
+      "reasoning": "Exact match for Digital Cinema."
+    }
+  ],
+  "ground_truth_concepts": [
+    {
+      "id": "principles_of_new_media",
+      "name": "Principles of New Media",
+      "importance": 10
+    },
+    {
+      "id": "numerical_representation",
+      "name": "Numerical Representation",
+      "importance": 9
+    },
+    {
+      "id": "modularity",
+      "name": "Modularity",
+      "importance": 9
+    },
+    {
+      "id": "automation",
+      "name": "Automation",
+      "importance": 8
+    },
+    {
+      "id": "variability",
+      "name": "Variability",
+      "importance": 8
+    },
+    {
+      "id": "transcoding",
+      "name": "Transcoding",
+      "importance": 10
+    },
+    {
+      "id": "the_interface",
+      "name": "The Interface",
+      "importance": 8
+    },
+    {
+      "id": "cultural_interfaces",
+      "name": "Cultural Interfaces",
+      "importance": 8
+    },
+    {
+      "id": "the_screen",
+      "name": "The Screen",
+      "importance": 7
+    },
+    {
+      "id": "the_operations",
+      "name": "The Operations",
+      "importance": 8
+    },
+    {
+      "id": "compositing",
+      "name": "Compositing",
+      "importance": 8
+    },
+    {
+      "id": "teleaction",
+      "name": "Teleaction",
+      "importance": 6
+    },
+    {
+      "id": "menus_filters",
+      "name": "Menus and Filters",
+      "importance": 7
+    },
+    {
+      "id": "the_illusions",
+      "name": "The Illusions",
+      "importance": 7
+    },
+    {
+      "id": "synthetic_realism",
+      "name": "Synthetic Realism",
+      "importance": 8
+    },
+    {
+      "id": "the_forms",
+      "name": "The Forms",
+      "importance": 9
+    },
+    {
+      "id": "database",
+      "name": "Database",
+      "importance": 10
+    },
+    {
+      "id": "navigable_space",
+      "name": "Navigable Space",
+      "importance": 9
+    },
+    {
+      "id": "digital_cinema",
+      "name": "Digital Cinema",
+      "importance": 8
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "New Media",
+      "name": "New Media",
+      "is_redundant": false
+    },
+    {
+      "id": "Numerical Representation",
+      "name": "Numerical Representation",
+      "is_redundant": false
+    },
+    {
+      "id": "Modularity",
+      "name": "Modularity",
+      "is_redundant": false
+    },
+    {
+      "id": "Automation",
+      "name": "Automation",
+      "is_redundant": false
+    },
+    {
+      "id": "Variability",
+      "name": "Variability",
+      "is_redundant": false
+    },
+    {
+      "id": "Transcoding",
+      "name": "Transcoding",
+      "is_redundant": false
+    },
+    {
+      "id": "Digitization",
+      "name": "Digitization",
+      "is_redundant": false
+    },
+    {
+      "id": "Sampling",
+      "name": "Sampling",
+      "is_redundant": false
+    },
+    {
+      "id": "Quantization",
+      "name": "Quantization",
+      "is_redundant": false
+    },
+    {
+      "id": "Dziga Vertov",
+      "name": "Dziga Vertov",
+      "is_redundant": false
+    },
+    {
+      "id": "Kino-Eye",
+      "name": "Kino-Eye",
+      "is_redundant": false
+    },
+    {
+      "id": "Database",
+      "name": "Database",
+      "is_redundant": false
+    },
+    {
+      "id": "Low-level Automation",
+      "name": "Low-level Automation",
+      "is_redundant": false
+    },
+    {
+      "id": "High-level Automation",
+      "name": "High-level Automation",
+      "is_redundant": false
+    },
+    {
+      "id": "Scalability",
+      "name": "Scalability",
+      "is_redundant": false
+    },
+    {
+      "id": "Hypermedia",
+      "name": "Hypermedia",
+      "is_redundant": false
+    },
+    {
+      "id": "Cultural Layer",
+      "name": "Cultural Layer",
+      "is_redundant": false
+    },
+    {
+      "id": "Computer Layer",
+      "name": "Computer Layer",
+      "is_redundant": false
+    },
+    {
+      "id": "Software Studies",
+      "name": "Software Studies",
+      "is_redundant": false
+    },
+    {
+      "id": "Cinema as Precursor",
+      "name": "Cinema as Precursor",
+      "is_redundant": false
+    },
+    {
+      "id": "Myth of Lossless Copies",
+      "name": "Myth of Lossless Copies",
+      "is_redundant": false
+    },
+    {
+      "id": "Lossy Compression",
+      "name": "Lossy Compression",
+      "is_redundant": false
+    },
+    {
+      "id": "Interactivity Myth",
+      "name": "Interactivity Myth",
+      "is_redundant": false
+    },
+    {
+      "id": "Externalization of Mind",
+      "name": "Externalization of Mind",
+      "is_redundant": false
+    },
+    {
+      "id": "Human-Computer Interface (GUI)",
+      "name": "Human-Computer Interface (GUI)",
+      "is_redundant": false
+    },
+    {
+      "id": "Cultural Interfaces",
+      "name": "Cultural Interfaces",
+      "is_redundant": false
+    },
+    {
+      "id": "Human-Computer Interface (HCI)",
+      "name": "Human-Computer Interface (HCI)",
+      "is_redundant": false
+    },
+    {
+      "id": "Printed Word",
+      "name": "Printed Word",
+      "is_redundant": false
+    },
+    {
+      "id": "Cinema",
+      "name": "Cinema",
+      "is_redundant": false
+    },
+    {
+      "id": "Screen",
+      "name": "Screen",
+      "is_redundant": false
+    },
+    {
+      "id": "Classical Screen",
+      "name": "Classical Screen",
+      "is_redundant": false
+    },
+    {
+      "id": "Dynamic Screen",
+      "name": "Dynamic Screen",
+      "is_redundant": false
+    },
+    {
+      "id": "Real-Time Screen",
+      "name": "Real-Time Screen",
+      "is_redundant": false
+    },
+    {
+      "id": "Interactive Screen",
+      "name": "Interactive Screen",
+      "is_redundant": false
+    },
+    {
+      "id": "Spatialization",
+      "name": "Spatialization",
+      "is_redundant": false
+    },
+    {
+      "id": "Screen-based Apparatuses",
+      "name": "Screen-based Apparatuses",
+      "is_redundant": false
+    },
+    {
+      "id": "Virtual Reality (VR)",
+      "name": "Virtual Reality (VR)",
+      "is_redundant": false
+    },
+    {
+      "id": "Simulation Tradition",
+      "name": "Simulation Tradition",
+      "is_redundant": false
+    },
+    {
+      "id": "Representation Tradition",
+      "name": "Representation Tradition",
+      "is_redundant": false
+    },
+    {
+      "id": "New Media Operations",
+      "name": "New Media Operations",
+      "is_redundant": false
+    },
+    {
+      "id": "Logic of Selection",
+      "name": "Logic of Selection",
+      "is_redundant": false
+    },
+    {
+      "id": "Electronic Signal Mutability",
+      "name": "Electronic Signal Mutability",
+      "is_redundant": false
+    },
+    {
+      "id": "Digital Compositing",
+      "name": "Digital Compositing",
+      "is_redundant": false
+    },
+    {
+      "id": "Modular Media",
+      "name": "Modular Media",
+      "is_redundant": false
+    },
+    {
+      "id": "Aesthetics of Continuity",
+      "name": "Aesthetics of Continuity",
+      "is_redundant": false
+    },
+    {
+      "id": "Montage",
+      "name": "Montage",
+      "is_redundant": false
+    },
+    {
+      "id": "Montage within a shot (Spatial Montage)",
+      "name": "Montage within a shot (Spatial Montage)",
+      "is_redundant": false
+    },
+    {
+      "id": "Teleaction (Telepresence)",
+      "name": "Teleaction (Telepresence)",
+      "is_redundant": false
+    },
+    {
+      "id": "Image-Instruments",
+      "name": "Image-Instruments",
+      "is_redundant": false
+    },
+    {
+      "id": "Big Optics",
+      "name": "Big Optics",
+      "is_redundant": false
+    },
+    {
+      "id": "Small Optics",
+      "name": "Small Optics",
+      "is_redundant": false
+    },
+    {
+      "id": "Synthetic Realism",
+      "name": "Synthetic Realism",
+      "is_redundant": false
+    },
+    {
+      "id": "Photorealism (Computer Graphics)",
+      "name": "Photorealism (Computer Graphics)",
+      "is_redundant": false
+    },
+    {
+      "id": "Jurassic Park (Aesthetic)",
+      "name": "Jurassic Park (Aesthetic)",
+      "is_redundant": false
+    },
+    {
+      "id": "Socialist Realism",
+      "name": "Socialist Realism",
+      "is_redundant": false
+    },
+    {
+      "id": "Meta-realism",
+      "name": "Meta-realism",
+      "is_redundant": false
+    },
+    {
+      "id": "Phatic Function (Contact)",
+      "name": "Phatic Function (Contact)",
+      "is_redundant": false
+    },
+    {
+      "id": "Cognitive Multitasking",
+      "name": "Cognitive Multitasking",
+      "is_redundant": false
+    },
+    {
+      "id": "Cinematic Realism",
+      "name": "Cinematic Realism",
+      "is_redundant": false
+    },
+    {
+      "id": "Image-Interface / Image-Instrument",
+      "name": "Image-Interface / Image-Instrument",
+      "is_redundant": false
+    },
+    {
+      "id": "Narrative",
+      "name": "Narrative",
+      "is_redundant": false
+    },
+    {
+      "id": "Algorithm",
+      "name": "Algorithm",
+      "is_redundant": false
+    },
+    {
+      "id": "Data Structure",
+      "name": "Data Structure",
+      "is_redundant": false
+    },
+    {
+      "id": "Paradigm",
+      "name": "Paradigm",
+      "is_redundant": false
+    },
+    {
+      "id": "Syntagm",
+      "name": "Syntagm",
+      "is_redundant": false
+    },
+    {
+      "id": "Navigable Space",
+      "name": "Navigable Space",
+      "is_redundant": false
+    },
+    {
+      "id": "Computer Space",
+      "name": "Computer Space",
+      "is_redundant": false
+    },
+    {
+      "id": "Aggregate Space",
+      "name": "Aggregate Space",
+      "is_redundant": false
+    },
+    {
+      "id": "Systematic Space",
+      "name": "Systematic Space",
+      "is_redundant": false
+    },
+    {
+      "id": "Space-Medium",
+      "name": "Space-Medium",
+      "is_redundant": false
+    },
+    {
+      "id": "The Flâneur",
+      "name": "The Flâneur",
+      "is_redundant": false
+    },
+    {
+      "id": "The Explorer",
+      "name": "The Explorer",
+      "is_redundant": false
+    },
+    {
+      "id": "Flight Simulator",
+      "name": "Flight Simulator",
+      "is_redundant": false
+    },
+    {
+      "id": "Non-place",
+      "name": "Non-place",
+      "is_redundant": false
+    },
+    {
+      "id": "Supermodernity",
+      "name": "Supermodernity",
+      "is_redundant": false
+    },
+    {
+      "id": "Digital Cinema",
+      "name": "Digital Cinema",
+      "is_redundant": false
+    },
+    {
+      "id": "Computer-based Image",
+      "name": "Computer-based Image",
+      "is_redundant": false
+    },
+    {
+      "id": "Traditional Cinema",
+      "name": "Traditional Cinema",
+      "is_redundant": false
+    },
+    {
+      "id": "Animation",
+      "name": "Animation",
+      "is_redundant": false
+    },
+    {
+      "id": "Loop",
+      "name": "Loop",
+      "is_redundant": false
+    },
+    {
+      "id": "Spatial Montage",
+      "name": "Spatial Montage",
+      "is_redundant": false
+    },
+    {
+      "id": "Cinegratography",
+      "name": "Cinegratography",
+      "is_redundant": false
+    },
+    {
+      "id": "Database Narrative",
+      "name": "Database Narrative",
+      "is_redundant": false
+    },
+    {
+      "id": "Cinema as Information Space",
+      "name": "Cinema as Information Space",
+      "is_redundant": false
+    },
+    {
+      "id": "Aesthetics of Density",
+      "name": "Aesthetics of Density",
+      "is_redundant": false
+    },
+    {
+      "id": "Dutch Painting (17th Century)",
+      "name": "Dutch Painting (17th Century)",
+      "is_redundant": false
+    },
+    {
+      "id": "Christian Boustani's Films",
+      "name": "Christian Boustani's Films",
+      "is_redundant": false
+    },
+    {
+      "id": "Cinema as a Code",
+      "name": "Cinema as a Code",
+      "is_redundant": false
+    },
+    {
+      "id": "ASCII Films (Vuk Cosic)",
+      "name": "ASCII Films (Vuk Cosic)",
+      "is_redundant": false
+    },
+    {
+      "id": "Media Translation",
+      "name": "Media Translation",
+      "is_redundant": false
+    },
+    {
+      "id": "Cultural Open Source",
+      "name": "Cultural Open Source",
+      "is_redundant": false
+    }
+  ],
+  "artifact_usability": {
+    "formatting_score": 4,
+    "clarity_score": 4,
+    "logical_score": 4
+  }
+}

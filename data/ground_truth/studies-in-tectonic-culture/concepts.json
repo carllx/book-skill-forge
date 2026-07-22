@@ -1,0 +1,106 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "name": "Topos",
+      "aliases": ["Site", "Topography"],
+      "weight": 8
+    },
+    {
+      "id": "c2",
+      "name": "Typos",
+      "aliases": ["Type", "Cultural form"],
+      "weight": 7
+    },
+    {
+      "id": "c3",
+      "name": "Tectonic",
+      "aliases": ["Frame", "Lightweight tensile structure", "Poetics of Construction"],
+      "weight": 10,
+      "sub_concepts": [
+        {
+          "id": "c3_1",
+          "name": "Kernform",
+          "aliases": ["Core Form", "Structural core"],
+          "weight": 9
+        },
+        {
+          "id": "c3_2",
+          "name": "Kunstform",
+          "aliases": ["Art Form", "Symbolic expression", "Representational expression"],
+          "weight": 9
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "name": "Stereotomic",
+      "aliases": ["Earthwork", "Compressive mass", "Heavyweight structure"],
+      "weight": 10
+    },
+    {
+      "id": "c5",
+      "name": "Shintai",
+      "aliases": ["Sentient body", "Corporeal experience", "Kinetic experience"],
+      "weight": 8,
+      "sub_concepts": [
+        {
+          "id": "c5_1",
+          "name": "Tactility",
+          "aliases": ["Hand-finish", "Texture"],
+          "weight": 7
+        },
+        {
+          "id": "c5_2",
+          "name": "Kinesthetics",
+          "aliases": ["Gait", "Circulation paths"],
+          "weight": 7
+        },
+        {
+          "id": "c5_3",
+          "name": "Psycho-Acoustics",
+          "aliases": ["Reverberation", "Acoustic absorption"],
+          "weight": 7
+        }
+      ]
+    },
+    {
+      "id": "c6",
+      "name": "Stoffwechseltheorie",
+      "aliases": ["Material transposition"],
+      "weight": 8
+    },
+    {
+      "id": "c7",
+      "name": "Semper's Four Elements",
+      "aliases": ["Four Elements"],
+      "weight": 9,
+      "sub_concepts": [
+        {
+          "id": "c7_1",
+          "name": "Earthwork",
+          "aliases": ["Stereotomic base"],
+          "weight": 8
+        },
+        {
+          "id": "c7_2",
+          "name": "Hearth",
+          "aliases": ["Fire", "Social center"],
+          "weight": 8
+        },
+        {
+          "id": "c7_3",
+          "name": "Framework/Roof",
+          "aliases": ["Tectonic frame"],
+          "weight": 8
+        },
+        {
+          "id": "c7_4",
+          "name": "Lightweight Enclosing Membrane",
+          "aliases": ["Textile", "Woven materials"],
+          "weight": 8
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "concepts": [
+    {
+      "id": "production_of_space",
+      "name": "Production of Space",
+      "aliases": ["The Production of Space", "production de l'espace"],
+      "weight": 10,
+      "sub_concepts": []
+    },
+    {
+      "id": "social_space",
+      "name": "Social Space",
+      "aliases": ["social space", "espace social"],
+      "weight": 10,
+      "sub_concepts": [
+        {
+          "id": "spatial_practice",
+          "name": "Spatial Practice",
+          "aliases": ["perceived space", "le perçu", "pratique spatiale"],
+          "weight": 9
+        },
+        {
+          "id": "representations_of_space",
+          "name": "Representations of Space",
+          "aliases": ["conceived space", "le conçu", "représentations de l'espace"],
+          "weight": 9
+        },
+        {
+          "id": "representational_spaces",
+          "name": "Representational Spaces",
+          "aliases": ["lived space", "le vécu", "espaces de représentation"],
+          "weight": 9
+        }
+      ]
+    },
+    {
+      "id": "historical_modes_of_space",
+      "name": "Historical Modes of Space",
+      "aliases": ["history of space", "spatial modes"],
+      "weight": 8,
+      "sub_concepts": [
+        {
+          "id": "absolute_space",
+          "name": "Absolute Space",
+          "aliases": ["natural space", "espace absolu"],
+          "weight": 7
+        },
+        {
+          "id": "historical_space",
+          "name": "Historical Space",
+          "aliases": ["espace historique"],
+          "weight": 7
+        },
+        {
+          "id": "abstract_space",
+          "name": "Abstract Space",
+          "aliases": ["capitalist space", "espace abstrait"],
+          "weight": 9
+        },
+        {
+          "id": "differential_space",
+          "name": "Differential Space",
+          "aliases": ["espace différentiel"],
+          "weight": 8
+        }
+      ]
+    }
+  ]
+}

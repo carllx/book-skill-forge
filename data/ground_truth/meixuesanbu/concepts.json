@@ -1,0 +1,191 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "domain": "美学散步",
+  "version": "1.0",
+  "concepts": [
+    {
+      "id": "c_yijing",
+      "name": "意境 (Artistic Conception / Yijing)",
+      "aliases": [
+        "境界"
+      ],
+      "description": "The highest ideal of Chinese art, fusing objective scenes with subjective emotion into an integrated whole.",
+      "weight": 1.0,
+      "source_references": [],
+      "sub_concepts": [
+        {
+          "id": "c_virtual_real",
+          "name": "虚实相生 (Interplay of Virtual and Real)",
+          "aliases": [
+            "虚实"
+          ],
+          "description": "The dynamic interaction between the tangible/painted (real) and the empty/unpainted (virtual) spaces.",
+          "weight": 0.9,
+          "source_references": [],
+          "sub_concepts": [],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        },
+        {
+          "id": "c_ethereal_solid",
+          "name": "空灵与充实 (Ethereal and Solid)",
+          "aliases": [],
+          "description": "The aesthetic balance where profound richness is achieved through sparse, suggestive expression.",
+          "weight": 0.8,
+          "source_references": [],
+          "sub_concepts": [],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        }
+      ],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_poetry_painting",
+      "name": "诗画分界 (Boundary between Poetry and Painting)",
+      "aliases": [],
+      "description": "The relationship and distinctions between temporal arts (poetry) and spatial arts (painting).",
+      "weight": 0.8,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_static_contemplation",
+      "name": "静照 (Static Contemplation)",
+      "aliases": [
+        "静观"
+      ],
+      "description": "A tranquil, detached state of mind required to appreciate and create true beauty.",
+      "weight": 0.8,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_empathy_distance",
+      "name": "移情与距离 (Empathy and Psychological Distance)",
+      "aliases": [],
+      "description": "The need for both emotional projection and objective detachment in aesthetic appreciation.",
+      "weight": 0.7,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_space_consciousness",
+      "name": "空间意识 (Space Consciousness)",
+      "aliases": [],
+      "description": "How different cultures perceive and represent space, contrasting Chinese fluid space with Western geometric space.",
+      "weight": 0.9,
+      "source_references": [],
+      "sub_concepts": [
+        {
+          "id": "c_painting_comparison",
+          "name": "中西画法比较 (Comparison of Sino-Western Painting Techniques)",
+          "aliases": [],
+          "description": "Analysis of linear perspective vs. scatter perspective and focus.",
+          "weight": 0.8,
+          "source_references": [],
+          "sub_concepts": [],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        }
+      ],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_dao_dance",
+      "name": "道、舞、空白 (Dao, Dance, and Blank Space)",
+      "aliases": [],
+      "description": "The philosophical roots of Chinese art where rhythm (dance) and emptiness express the Dao.",
+      "weight": 0.9,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_zen",
+      "name": "禅境 (Zen Realm)",
+      "aliases": [
+        "禅意"
+      ],
+      "description": "The influence of Zen Buddhism on art, emphasizing spontaneity, simplicity, and awakening.",
+      "weight": 0.8,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_calligraphy",
+      "name": "书法美学 (Calligraphic Aesthetics: 用笔、结构、章法)",
+      "aliases": [
+        "书法"
+      ],
+      "description": "The foundational role of calligraphy in Chinese visual arts, encompassing brushwork, structure, and composition.",
+      "weight": 0.9,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_jin_beauty",
+      "name": "魏晋风度与晋人之美 (Beauty of Jin Dynasty People)",
+      "aliases": [
+        "魏晋风度"
+      ],
+      "description": "The pursuit of individual expression, naturalness, and philosophical grace during the Wei-Jin period.",
+      "weight": 0.8,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_music_fables",
+      "name": "音乐寓言与音乐美学 (Musical Fables and Aesthetics)",
+      "aliases": [],
+      "description": "The role of music as the ultimate expression of harmony and emotion in ancient philosophy.",
+      "weight": 0.7,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_greek_aesthetics",
+      "name": "高贵的单纯与静穆的伟大 (Noble Simplicity and Quiet Grandeur - Greek Aesthetics)",
+      "aliases": [],
+      "description": "Winckelmann's description of classical Greek art, serving as a comparative baseline.",
+      "weight": 0.7,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_tang_spirit",
+      "name": "民族精神 (National Spirit in Tang Poetry)",
+      "aliases": [],
+      "description": "The robust, expansive, and vital cultural spirit reflected in Tang dynasty literature.",
+      "weight": 0.7,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    }
+  ],
+  "book": "meixuesanbu",
+  "author": "Unknown",
+  "edition": "Unknown",
+  "gt_version": "2.0",
+  "source_completeness": "COMPLETE"
+}

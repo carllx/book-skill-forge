@@ -1,0 +1,159 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "e1",
+      "gt_id": "c_ontological_form",
+      "confidence": "high",
+      "reasoning": "作品提取了'立足于本体（Ontological）而非纯粹追求视觉图像的再现'，明确对应了GT中的'本体形式 (Ontological form)'，即强调形式源自材料与建造的内在真实性。"
+    },
+    {
+      "extracted_id": "e2",
+      "gt_id": "c_joint",
+      "confidence": "high",
+      "reasoning": "作品提取了'节点即装饰 (The Joint as Ornament)'，并提到'产生最真实的本体装饰（传承自卡洛·斯卡帕对节点工艺的崇拜）'，严格对应了GT中的'节点崇拜 (Adoration of the joint)'。"
+    },
+    {
+      "extracted_id": "e3",
+      "gt_id": "c_stereotomics",
+      "confidence": "high",
+      "reasoning": "作品提到了'沉重、具有砌筑感、紧贴大地的基座'，这对应GT中四要素之'砌体结构 (Stereotomics of the earthwork)'。"
+    },
+    {
+      "extracted_id": "e3",
+      "gt_id": "c_tectonics_frame",
+      "confidence": "high",
+      "reasoning": "作品提到了'跨越其上的轻盈构架屋面'，对应GT中四要素之'构架体系 (Tectonics of the frame)'。"
+    },
+    {
+      "extracted_id": "e3",
+      "gt_id": "c_topography",
+      "confidence": "high",
+      "reasoning": "作品在基座部分明确提出了'注重地形（Topography）的延伸与响应'，对应GT中的'地形学与场所 (Topography and Place)'。"
+    },
+    {
+      "extracted_id": "e6",
+      "gt_id": "c_body_metaphor",
+      "confidence": "high",
+      "reasoning": "作品在原则6中直接点出了'跨文化人类学与身体隐喻'，对应GT中的'身体性想像 (Metaphorical process of the body)'。"
+    }
+  ],
+  "ground_truth_concepts": [
+    {
+      "id": "c_tectonics",
+      "name": "建构 (Tectonics)",
+      "importance": 5
+    },
+    {
+      "id": "c_poetics",
+      "name": "建造诗学 (Poetics of construction)",
+      "importance": 4
+    },
+    {
+      "id": "c_kernform",
+      "name": "核心形式 (Kernform)",
+      "importance": 4
+    },
+    {
+      "id": "c_kunstform",
+      "name": "艺术形式 (Kunstform)",
+      "importance": 4
+    },
+    {
+      "id": "c_four_elements",
+      "name": "建筑艺术四要素 (Four elements of architecture)",
+      "importance": 5
+    },
+    {
+      "id": "c_tectonics_frame",
+      "name": "构架体系 (Tectonics of the frame)",
+      "importance": 4
+    },
+    {
+      "id": "c_stereotomics",
+      "name": "砌体结构 (Stereotomics of the earthwork)",
+      "importance": 4
+    },
+    {
+      "id": "c_empathy",
+      "name": "移情 (Empathy / Formgefühl)",
+      "importance": 3
+    },
+    {
+      "id": "c_ontological_form",
+      "name": "本体形式 (Ontological form)",
+      "importance": 4
+    },
+    {
+      "id": "c_joint",
+      "name": "节点崇拜 (Adoration of the joint)",
+      "importance": 4
+    },
+    {
+      "id": "c_stoffwechsel",
+      "name": "材料置换理论 (Stoffwechseltheorie)",
+      "importance": 4
+    },
+    {
+      "id": "c_topography",
+      "name": "地形学与场所 (Topography and Place)",
+      "importance": 4
+    },
+    {
+      "id": "c_body_metaphor",
+      "name": "身体性想像 (Metaphorical process of the body)",
+      "importance": 3
+    },
+    {
+      "id": "c_textile",
+      "name": "织理性建构 (Text-ile Tectonic)",
+      "importance": 4
+    },
+    {
+      "id": "c_rationalism",
+      "name": "古典理性主义 (Classical Rationalism)",
+      "importance": 3
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "e1",
+      "name": "结构理性与建构本体 (Structural Rationalism & Tectonic Authenticity)",
+      "is_redundant": false
+    },
+    {
+      "id": "e2",
+      "name": "节点即装饰 (The Joint as Ornament)",
+      "is_redundant": false
+    },
+    {
+      "id": "e3",
+      "name": "基座与屋顶的二元张力 (Earthwork and Roofwork)",
+      "is_redundant": false
+    },
+    {
+      "id": "e4",
+      "name": "服务与被服务空间的剥离 (Servant vs. Served Spaces)",
+      "is_redundant": false
+    },
+    {
+      "id": "e5",
+      "name": "有机的生长与单元复加 (Organic Growth & Additive Architecture)",
+      "is_redundant": false
+    },
+    {
+      "id": "e6",
+      "name": "跨文化人类学与身体隐喻 (Transcultural Ethnography & Body Metaphor)",
+      "is_redundant": false
+    },
+    {
+      "id": "e7",
+      "name": "自然光作为建构的揭示者 (Revelation through Light)",
+      "is_redundant": false
+    }
+  ],
+  "artifact_usability": {
+    "formatting_score": 5,
+    "clarity_score": 5,
+    "logical_score": 5
+  }
+}

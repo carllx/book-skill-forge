@@ -1,0 +1,264 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "意境",
+      "gt_id": "c_yijing",
+      "confidence": "high",
+      "reasoning": "节点'意境'精确对应了Ground Truth中的'意境'考点。"
+    },
+    {
+      "extracted_id": "艺术境界",
+      "gt_id": "c_yijing",
+      "confidence": "medium",
+      "reasoning": "节点'艺术境界'表达了同等含义，映射到'意境'。"
+    },
+    {
+      "extracted_id": "虚实相生",
+      "gt_id": "c_virtual_real",
+      "confidence": "high",
+      "reasoning": "节点'虚实相生'附带说明了'通过空白、洗练的动作等虚来突出实'，精准命中Ground Truth考点。"
+    },
+    {
+      "extracted_id": "虚实结合",
+      "gt_id": "c_virtual_real",
+      "confidence": "high",
+      "reasoning": "节点'虚实结合'与虚实相生同义，映射到同一考点。"
+    },
+    {
+      "extracted_id": "中国艺术的空间意识",
+      "gt_id": "c_space_consciousness",
+      "confidence": "high",
+      "reasoning": "节点精确对应Ground Truth中'空间意识'考点，并带有详细的描述证据。"
+    },
+    {
+      "extracted_id": "空间意识",
+      "gt_id": "c_space_consciousness",
+      "confidence": "high",
+      "reasoning": "节点名称精确匹配考点。"
+    },
+    {
+      "extracted_id": "以大观小",
+      "gt_id": "c_painting_comparison",
+      "confidence": "high",
+      "reasoning": "此节点描述了'不局限于固定透视焦点的空间观照方法'，为中西画法比较提供了强有力的实体支撑。"
+    },
+    {
+      "extracted_id": "禅境",
+      "gt_id": "c_zen",
+      "confidence": "high",
+      "reasoning": "节点'禅境'精确对应Ground Truth中的'禅境'考点。"
+    },
+    {
+      "extracted_id": "中国书法",
+      "gt_id": "c_calligraphy",
+      "confidence": "medium",
+      "reasoning": "节点命中了书法美学的宏观领域。"
+    },
+    {
+      "extracted_id": "书法",
+      "gt_id": "c_calligraphy",
+      "confidence": "medium",
+      "reasoning": "书法领域基础实体。"
+    },
+    {
+      "extracted_id": "魏晋思想家",
+      "gt_id": "c_jin_beauty",
+      "confidence": "medium",
+      "reasoning": "节点涵盖了'清谈辩难中显出活泼飞跃的析理兴趣'，对应'魏晋风度与晋人之美'的知识背景。"
+    },
+    {
+      "extracted_id": "空白",
+      "gt_id": "c_dao_dance",
+      "confidence": "medium",
+      "reasoning": "对应了'道、舞、空白'宏观考点中的核心组分'空白'。"
+    },
+    {
+      "extracted_id": "舞",
+      "gt_id": "c_dao_dance",
+      "confidence": "medium",
+      "reasoning": "对应了'道、舞、空白'宏观考点中的核心组分'舞'。"
+    },
+    {
+      "extracted_id": "乐记",
+      "gt_id": "c_music_fables",
+      "confidence": "low",
+      "reasoning": "《乐记》节点反映了先秦音乐美学，部分支持了'音乐美学'考点。"
+    },
+    {
+      "extracted_id": "GreekSculpture",
+      "gt_id": "c_greek_aesthetics",
+      "confidence": "low",
+      "reasoning": "此节点关联了希腊雕刻艺术中的形式美与理性，可作为希腊美学（高贵的单纯与静穆的伟大）的证据。"
+    },
+    {
+      "extracted_id": "唐代诗歌",
+      "gt_id": "c_tang_spirit",
+      "confidence": "low",
+      "reasoning": "作为载体映射到'民族精神'考点。"
+    }
+  ],
+  "ground_truth_concepts": [
+    {
+      "id": "c_yijing",
+      "name": "意境",
+      "importance": 5
+    },
+    {
+      "id": "c_virtual_real",
+      "name": "虚实相生",
+      "importance": 5
+    },
+    {
+      "id": "c_ethereal_solid",
+      "name": "空灵与充实",
+      "importance": 5
+    },
+    {
+      "id": "c_poetry_painting",
+      "name": "诗画分界",
+      "importance": 5
+    },
+    {
+      "id": "c_static_contemplation",
+      "name": "静照",
+      "importance": 5
+    },
+    {
+      "id": "c_empathy_distance",
+      "name": "移情与距离",
+      "importance": 5
+    },
+    {
+      "id": "c_space_consciousness",
+      "name": "空间意识",
+      "importance": 5
+    },
+    {
+      "id": "c_painting_comparison",
+      "name": "中西画法比较",
+      "importance": 5
+    },
+    {
+      "id": "c_dao_dance",
+      "name": "道、舞、空白",
+      "importance": 5
+    },
+    {
+      "id": "c_zen",
+      "name": "禅境",
+      "importance": 5
+    },
+    {
+      "id": "c_calligraphy",
+      "name": "书法美学",
+      "importance": 5
+    },
+    {
+      "id": "c_jin_beauty",
+      "name": "魏晋风度与晋人之美",
+      "importance": 5
+    },
+    {
+      "id": "c_music_fables",
+      "name": "音乐寓言与音乐美学",
+      "importance": 5
+    },
+    {
+      "id": "c_greek_aesthetics",
+      "name": "高贵的单纯与静穆的伟大",
+      "importance": 5
+    },
+    {
+      "id": "c_tang_spirit",
+      "name": "民族精神",
+      "importance": 5
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "意境",
+      "name": "意境",
+      "is_redundant": false
+    },
+    {
+      "id": "艺术境界",
+      "name": "艺术境界",
+      "is_redundant": true
+    },
+    {
+      "id": "虚实相生",
+      "name": "虚实相生",
+      "is_redundant": false
+    },
+    {
+      "id": "虚实结合",
+      "name": "虚实结合",
+      "is_redundant": true
+    },
+    {
+      "id": "中国艺术的空间意识",
+      "name": "中国艺术的空间意识",
+      "is_redundant": false
+    },
+    {
+      "id": "空间意识",
+      "name": "空间意识",
+      "is_redundant": true
+    },
+    {
+      "id": "以大观小",
+      "name": "以大观小",
+      "is_redundant": false
+    },
+    {
+      "id": "禅境",
+      "name": "禅境",
+      "is_redundant": false
+    },
+    {
+      "id": "中国书法",
+      "name": "中国书法",
+      "is_redundant": false
+    },
+    {
+      "id": "书法",
+      "name": "书法",
+      "is_redundant": true
+    },
+    {
+      "id": "魏晋思想家",
+      "name": "魏晋思想家",
+      "is_redundant": false
+    },
+    {
+      "id": "空白",
+      "name": "空白",
+      "is_redundant": false
+    },
+    {
+      "id": "舞",
+      "name": "舞",
+      "is_redundant": false
+    },
+    {
+      "id": "乐记",
+      "name": "乐记",
+      "is_redundant": false
+    },
+    {
+      "id": "GreekSculpture",
+      "name": "GreekSculpture",
+      "is_redundant": false
+    },
+    {
+      "id": "唐代诗歌",
+      "name": "唐代诗歌",
+      "is_redundant": false
+    }
+  ],
+  "artifact_usability": {
+    "formatting_score": 2,
+    "clarity_score": 3,
+    "logical_score": 2
+  }
+}

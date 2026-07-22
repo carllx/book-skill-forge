@@ -1,0 +1,39 @@
+## Part 43
+
+> [BREADCRUMB_CTX: 《design_real_world》 > Part 43]
+
+Itwasmy good fortunetostudyandassistthelateProfessor JohnArnold atM.I.T. Arnold pioneered inthisfield with students in engineering and product design. Most famous ofhis problems is probably the Arcturus IV project: here theclass is given voluminousreportsregarding the inhabitants ofthe imaginary fourth planet inthe Arcturussystem, aswell asthe planetitself. Anextraordinarilytall, slow-movingspecies descended from birds, these mythical inhabitantspossess many interesting physiological characteristics. They are hatched from eggs, possessed ofa beak, have birdlike, hollow bones, with three fingers on each hand and three eyes,the centerone of which is an （2号 $\pmb { x }$ rayeye. Their reaction speed is almost ten times as slow as that of human beings; the atmosphere they breathe is puremethane. Ifa class isnow asked todesign, say, an automobilelike vehicle for these people, totally strange, new limits for designare immediately established.
+
+Obviously a gasoline gauge is unnecessary, since the Arcturians can alwayssee through thegastank with their $\pmb { x }$ -ray eye. What about aspeedometer? Top speed will have to be around eight milesper hour because of their slow reaction speed. Perceptually, however,such apeoplewould experience thegradations ofspeed (uptoeight milesper hour) much as weexperience thespeed rangein our own automobiles. The answer here thenseems easy: subdivide aspeedometer dial. But what kind ofanumerical system would people use who havethree fingerson each handand threeeyes: decimal, duodecimal, binary,sexagesimal? As these vehicles will be built on earth and exported to ArcturusIV, should theyuse a standard gasoline engine shielded againstamethane atmosphere, or must a new typeof engine,specifically designed to operate optimally inmethane, bedesigned?What oftheoverall shape ofthe vehicle? Should it beegg-shaped (a simple and sturdy formwhenaerodynamicsare ofno importance), or would the eggbe the worst possible shapein terms of vehicular safety because the Arcturians would perceive it， psychologically speaking, as a return to the womb, lulling them into a false feelingofsecurity? Maybe our design consideration then becomes oneof a shape as unlike an eggaspossible-a difficult order tofill indeedl
+
+ArcturusIVisjust oneofmany problems evolved byProfessorArnold, and, from thisall-too-briefanalysis of some of thepossibleapproaches toit, it will beseen that, whilefantastic and science fictional in content (especially threeyears before Sputnik), it is a serious approach to creative problem solving.
+
+Itcan beseen fromtheforegoing thatthe"how"inteaching design creativity must consistlargely ofestablishing a milieu in which new approaches can flourish. But schools tend to preserve thecultural status quo, by disseminating whatever mass of data iscurrently acceptable as "truth, Education rarelyconcerns itselfwith theindividual human brain; rather, the tremendous variation in human minds istaken into account only as somethingto be flattened out So that theparticularcurriculum or theory in vogueat the moment can be "sold' with minimal effort. Wehave failed torecognize that discovery, invention, original thought are culture-smashing activities (remember $\mathbf { E } = \mathbf { m } \mathbf { c } ^ { 2 } \vec { t } .$ 中 whereasso-called education is a culture-preserving mechanism. Byits very nature, education, as itisnowconstituted, cannot sponsoranyvital new departures in any facet ofour culture. Itcan onlyappear to doso topreserve the sustaining illusion of progress.
+
+One of themajor problems isthat "newness" often implies experiment, and experiment implies failure. In our successoriented culture, thepossibility offailure, although an unavoidable concomitant of experiment, works against the matrix. The history of progress is littered with experimental failures. This "right to fail,"however, does not absolve the designer fromresponsibility. Here, possibly, isthe crux of the matter: to instill in the designer a willingness to experiment, coupled with a sense ofresponsibility forhis failures. Unfortunately, both a sense of responsibility and an atmosphere permissive of failure are rare indeed.
+
+Amore ideal creative design environmentwill consist of habituatingdesignersand studentstowork inareas where their many blocks and inhibitionscannot operate, and thiswill imply 1 high tolerance level for experimental failure. Furthermore, it must mean the teaching and exploring of basic principles that, bytheir nature, have no immediate application. Thiscalls for a suspension of beliefin ready answers, and in theglib, slicked-up kitsch that characterizes most of the designwork coming outof schools and offices.
+
+Weneed not journey to ArcturusIVto face designersand students withsomethingcompletely outsidetheir familiar experiences. Allwe have todoisto design for thepoor, thesick, the elderly, the disabled. Forwhile designers have addressed themselves to the fads of the middle and upper bourgeoisie, we have lost sight ofthe fact that a verysubstantial part of ourpopulation is discriminated against in design.
+
+Iam questioning, then,the entirecurrentlypopular direction of design. To“sex-up" objects (designers'jargon formakingthings more attractive to mythical consumers) makes no sense in aworld in which basic need for design is veryreal. Inanage thatseems tobe masteringaspects of form, areturn tocontent islongoverdue.
+
+Much of what issuggested throughout this volume in the wayofalternative areas for attack by designers also hasthe useful quality that it will benew to designers and students alike. If(within themeaningof thisbook) wedo thatwhich seems right, wewill also develop our ability tosee things in a new wayand to do things that are new.
+
+$$
+\scriptstyle { \begin{array} { l } { 8 } \\ { \scriptstyle { \mathrm { T h e ~ T r e e ~ o f } } } \\ { \scriptstyle { \mathrm { K n o w l e d g e } } \cdot } \\ { \scriptstyle { \mathrm { 3 i o l o g i c a l ~ P r o t o t y p e s ~ i n } } } \\ { \scriptstyle { \mathrm { { O e s i g n } } } } \end{array} }
+$$
+
+A birdisan instrument workingaccording to mathematical law, which instrument itiswithin thecapacity ofman toreproduce with allits movements.
+
+LEONARDO DAVINCI
+
+One source thatnever seems togoout ofstyleisthehandbook ofnature. Here, through biological and biochemical systems, many ofthesameproblems mankind faces have been metand solved. Through analogues to nature,man'sproblems can be solved optimally.
+
+Theideal solution toanydesign problem isto achieve"the most withtheleast" or, to useGeorgeK.Zipfshappyphrase, to employ "theprinciple ofleast effort."
+
+Bionicsmeans theuseof biological prototypesfor thedesign of man-made systems. Toput it moresimply: to study basic principles in natureand thenapply theseprinciples and processes to theneeds of mankind.
+
+Dr. Edward T. Hall states in The Hidden Dimension that "man andhisenvironmentparticipatein moldingeach other. Manis nowinthepositionofactuallycreatingthe total world in which he lives, or what the ethologists refer to ashisbiotype. In creating this world heis actually determining what kind ofan organism hewillbe. P7
+
+Asimpleproblem will show thatmore than a designer with a modicum ofgood taste is needed: several years ago a new low-cost plough was designed, built,and distributed inareas ofSoutheast Asia thatcommonly usea forked stickweighted down by arock totill the soil. Aftera fewyears it was discovered that theploughs were notin use-they were rusting away. In thereligiousbeliefs ofthe inhabitants, metalmakes thesoil"sick" and offendsthe Earth-mother. Irecommended that theploughs bedipped in a plasticcompound similar to Nylon 60. Sinceneither thepeople nor the Earth-motherwere offended by plastics technology, the ploughs were finallyaccepted andused.

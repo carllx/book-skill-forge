@@ -1,0 +1,20 @@
+> [BREADCRUMB_CTX: 《The Shape of Time》 > The Divisions of the Arts]
+
+# The Divisions of the Arts
+
+The Divisions of the Arts
+
+The seventeenth-century academic separation between fine and useful arts first fell out of fashion nearly a century ago. From about 1880 the conception of “fine art” was called a bourgeois label. After 1900 folk arts, provincial styles, and rustic crafts were thought to deserve equal ranking with court styles and metropolitan schools under the democratic valuation of twentieth-century political thought. By another line of attack, “fine art” was driven out of use about 1920 by the exponents of industrial design, who preached the requirement of universal good design, and who opposed a double standard of judgment for works of art and for useful objects. Thus an idea of aesthetic unity came to embrace all artifacts, instead of ennobling some at the expense of others.
+
+This egalitarian doctrine of the arts nevertheless erases many important differences of substance. Architecture and packaging tend in the modern school of design to gravitate together under the rubric of envelopes; sculpture absorbs the design of all sorts of small solids and containers; painting extends to include flat shapes and planes of all sorts, like those of weaving and printing. By this geometric system, all visible art can be classed as envelopes, solids, and planes, regardless of any relation to use, in a classing which ignores the traditional distinction by “fine” and “minor,” or “useless” and “useful” arts.
+
+For our purposes two urgent distinctions should be added. In the first place a great difference separates traditional craft education from the work of artistic invention. The former requires only repetitious actions, but the latter depends upon departures from all routine. Craft education is the activity of groups of learners performing identical actions, but artistic invention requires the solitary efforts of individual persons. The distinction is worth retaining because artists working in different crafts cannot communicate with one another in technical matters but only in matters of design. A weaver learns nothing about his loom and threads from study of the potter’s wheel and kiln; his education in a craft must be upon the instruments of that craft. Only when he possesses technical control of his instruments can the qualities and 
+effects of design in other crafts stimulate him to new solutions in his own.
+
+The second, related distinction touches the utilitarian and the aesthetic nature of each of the branches of artistic practice. In architecture and the allied crafts, structure pertains to traditional technical training and it is inherently rational and utilitarian, however daringly its devices may be applied to expressive ends. In sculpture and painting likewise, every work has its technical cookery of formulas and craft practices upon which the expressive and formal combinations are carried. In addition, sculpture and painting convey distinct messages more clearly than architecture. These communications or iconographic themes make the utilitarian and rational substructure of any aesthetic achievement. Thus structure, technique, and iconography all belong to the non-artistic underpinning of the “fine” arts.
+
+The main point is that works of art are not tools, although many tools may share qualities of fine design with works of art. We are in the presence of a work of art only when it has no preponderant instrumental use, and when its technical and rational foundations are not pre-eminent. When the technical organization or the rational order of a thing overwhelms our attention, it is an object of use. On this point Lodoli anticipated the doctrinaire functionalists of our century when he declared in the eighteenth century that only the necessary is beautiful.
+6
+Kant, however, more correctly said on the same point that the necessary cannot be judged beautiful, but only right or consistent.
+7
+In short, a work of art is as useless as a tool is useful. Works of art are as unique and irreplaceable as tools are common and expendable.

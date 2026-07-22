@@ -1,0 +1,220 @@
+{
+  "concepts": [
+    {
+      "id": "relational_aesthetics",
+      "name": "Relational Aesthetics",
+      "aliases": ["Esthétique relationnelle"],
+      "weight": 10,
+      "sub_concepts": [
+        {
+          "id": "relational_form",
+          "name": "Relational Form",
+          "aliases": ["Forme relationnelle"],
+          "weight": 9,
+          "sub_concepts": [
+            {
+              "id": "artwork_as_social_interstice",
+              "name": "Artwork as social interstice",
+              "aliases": ["Social interstice", "Interstice"],
+              "weight": 8
+            },
+            {
+              "id": "random_materialism",
+              "name": "Random Materialism",
+              "aliases": ["Matérialisme aléatoire"],
+              "weight": 7
+            },
+            {
+              "id": "form_and_others_gaze",
+              "name": "Form and others' gaze",
+              "aliases": ["The gaze of the other"],
+              "weight": 7
+            }
+          ]
+        },
+        {
+          "id": "art_of_the_1990s",
+          "name": "Art of the 1990s",
+          "aliases": ["Contemporary artistic practice"],
+          "weight": 9,
+          "sub_concepts": [
+            {
+              "id": "participation_and_transitivity",
+              "name": "Participation and Transitivity",
+              "aliases": ["Transitivity", "Interactive art"],
+              "weight": 8
+            },
+            {
+              "id": "conviviality_and_encounters",
+              "name": "Conviviality and encounters",
+              "aliases": ["Convivialities", "Meetings"],
+              "weight": 8
+            },
+            {
+              "id": "collaborations_and_contracts",
+              "name": "Collaborations and contracts",
+              "aliases": [],
+              "weight": 7
+            }
+          ]
+        },
+        {
+          "id": "space_time_exchange_factors",
+          "name": "Space-time exchange factors",
+          "aliases": ["Space-time factors"],
+          "weight": 8,
+          "sub_concepts": [
+            {
+              "id": "artworks_and_exchanges",
+              "name": "Artworks and exchanges",
+              "aliases": ["Exchange forms"],
+              "weight": 7
+            },
+            {
+              "id": "the_subject_of_the_artwork",
+              "name": "The subject of the artwork",
+              "aliases": [],
+              "weight": 7
+            }
+          ]
+        },
+        {
+          "id": "joint_presence_and_availability",
+          "name": "Joint presence and availability",
+          "aliases": ["Co-existence", "Felix Gonzalez-Torres legacy"],
+          "weight": 9,
+          "sub_concepts": [
+            {
+              "id": "homosexuality_as_paradigm",
+              "name": "Homosexuality as a paradigm of cohabitation",
+              "aliases": ["Cohabitation paradigm"],
+              "weight": 7
+            },
+            {
+              "id": "contemporary_forms_of_monument",
+              "name": "Contemporary forms of the monument",
+              "aliases": ["The monument"],
+              "weight": 7
+            },
+            {
+              "id": "criterion_of_coexistence",
+              "name": "The criterion of co-existence",
+              "aliases": ["Co-existence criterion"],
+              "weight": 8
+            },
+            {
+              "id": "aura_shifted_to_public",
+              "name": "The aura of artworks has shifted towards their public",
+              "aliases": ["Shifted aura", "Aura of artworks"],
+              "weight": 8
+            }
+          ]
+        },
+        {
+          "id": "screen_relations",
+          "name": "Screen relations",
+          "aliases": ["Technological models"],
+          "weight": 8,
+          "sub_concepts": [
+            {
+              "id": "law_of_relocation",
+              "name": "The law of relocation",
+              "aliases": ["Relocation of art"],
+              "weight": 7
+            },
+            {
+              "id": "technology_as_ideological_model",
+              "name": "Technology as an ideological model",
+              "aliases": ["Ideological model"],
+              "weight": 7
+            }
+          ]
+        },
+        {
+          "id": "camera_and_exhibition",
+          "name": "The camera and the exhibition",
+          "aliases": ["Exhibition design"],
+          "weight": 8,
+          "sub_concepts": [
+            {
+              "id": "the_exhibition_set",
+              "name": "The exhibition-set",
+              "aliases": ["Exhibition as set"],
+              "weight": 7
+            },
+            {
+              "id": "post_vcr_art",
+              "name": "Post VCR art",
+              "aliases": ["Rewind/play/fast forward"],
+              "weight": 7
+            },
+            {
+              "id": "democratisation_of_viewpoints",
+              "name": "Democratisation of viewpoints",
+              "aliases": [],
+              "weight": 7
+            }
+          ]
+        },
+        {
+          "id": "policy_of_forms",
+          "name": "Towards a policy of forms",
+          "aliases": ["Policy of forms"],
+          "weight": 8,
+          "sub_concepts": [
+            {
+              "id": "cohabitations",
+              "name": "Cohabitations",
+              "aliases": [],
+              "weight": 7
+            },
+            {
+              "id": "engineering_of_intersubjectivity",
+              "name": "The engineering of intersubjectivity",
+              "aliases": ["Intersubjectivity"],
+              "weight": 8
+            },
+            {
+              "id": "constructed_situations",
+              "name": "Constructed situations",
+              "aliases": ["Situationist influence"],
+              "weight": 8
+            }
+          ]
+        },
+        {
+          "id": "aesthetic_paradigm_guattari",
+          "name": "The aesthetic paradigm (Félix Guattari)",
+          "aliases": ["Guattari and art", "Subjectivity"],
+          "weight": 9,
+          "sub_concepts": [
+            {
+              "id": "subjectivity_produced",
+              "name": "Subjectivity pursued and produced",
+              "aliases": ["Production of subjectivity"],
+              "weight": 8
+            },
+            {
+              "id": "de_naturalising_subjectivity",
+              "name": "De-naturalising subjectivity",
+              "aliases": [],
+              "weight": 7
+            },
+            {
+              "id": "art_as_partial_object",
+              "name": "The work of art as partial object",
+              "aliases": ["Partial object"],
+              "weight": 7
+            },
+            {
+              "id": "artistic_ecosophical_practice",
+              "name": "Artistic-ecosophical practice",
+              "aliases": ["Ecosophy"],
+              "weight": 8
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

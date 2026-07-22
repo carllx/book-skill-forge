@@ -1,0 +1,37 @@
+## Part 15
+
+> [BREADCRUMB_CTX: 《art_matters》 > Part 15]
+
+The scientific fields are quite diverse. The ways they treat their objects of inquiry differ fundamentally. Today only the technical organization of universities and faculties consolidates this burgeoning multiplicity of disciplines; the practical establishment of goals by each discipline provides the only meaningful source of unity. Nonetheless, the rootedness of the sciences in their essential ground has atrophied (G9, 103–104/96).
+
+The passage recalls Nietzsche’s characterization of the style of decadence in The Case of Wagner:
+
+For the present I merely dwell on the question of style.—What is the sign of every literary decadence? That life no longer dwells in the whole. The word becomes sovereign and leaps out of the sentence, the sentence reaches out and obscures the meaning of the page, the page gains life at the expense of the whole— the whole is no longer a whole. But this is the simile of every style of decadence: every time, the anarchy of atoms, disgregation of the will, “freedom of the individual,” to use moral terms— expanded into political theory, “equal rights for all.” Life, equal vitality, the vibration and exuberance of life pushed back into the smallest forms; the rest poor in life. Everwhere paralysis, arduousness, torpidity or hostility and chaos: both more and more obvious the higher one ascends in forms of organization. The whole no longer lives at all: it is composite, calculated, artificial, and artifact.9
+
+This critique of decadence implies an attack on freedom.
+
+The Spiegel picks up on this, reminding Heidegger of what he had said in the Rectorial Address:
+
+To give oneself the law is the highest freedom. The much lauded “academic freedom” will be expelled from the German university; for this freedom was not genuine because it was only negative. It primarily meant lack of concern, arbitrariness of intentions and inclinations, lack of restraint in what was done and left undone. The concept of the freedom of the German student is now brought back to its truth. In future, the bond and service of German students will unfold from this truth (G16, 113/10).
+
+In opposing a purely negative freedom Heidegger would seem to agree with philosophers such as Rousseau and Kant. But long before he had despaired of reason’s ability to furnish the necessary bond. Instead he looked to the movement that claimed to inaugurate a new order. The paragraph in which this initially Kantian sounding reference to freedom is found had thus begun with a reference to “the resoluteness of the German students, who, they are told by their new rector, will to be equal to the “German destiny in its most extreme distress.” Consider especially this sentence: “This will is a true will, provided that German students, through the new Student Law, place themselves under the law of their essence and thereby first define that essence” (G16, 112– 113/10). The student law in question was proclaimed on May 1, 1933. It sought to organize the students according to the F¨uhrerprinzip. The bond that is to transform a merely negative into a positive freedom and to allow these students to “place themselves” under the law of their essence” was in fact imposed by the regime that had just come to power.
+
+When the Spiegel conjectures that Heidegger would still support much of what he had then asserted, he quite readily admits this.
+
+Yes, I still stand by it. For this “academic freedom” was basically purely negative: the freedom from the effort of getting involved in the reflection and contemplation scholarly study demanded. Incidentally, the sentence you picked out should not be isolated, but placed in its context. Then it will become clear what I wanted to have understood as “negative freedom” (G16, 655/44).
+
+Here Heidegger suggests that he was first of all concerned with the kind of freedom demanded by responsible scholarship, not by responsible citizenship. The address itself blurs that distinction. There is indeed the suggestion that the university should lead the citizens toward such responsibility. But the problem with that positive freedom that Heidegger would oppose to the merely negative freedom of the liberal state and its universities is of course: where is it to receive its content if not from reason?
+
+In the heated atmosphere of l933 that question received an all too easy answer from the movement in which Heidegger, too, felt himself swept up, like many of the students he was supposed to lead and who often were more strident in their demands than the party. He readily admits that he was then convinced of “the greatness and magnificence of this new departure” (G16, 655/44). He admits also that at that time he saw no alternative to Hitler. And in the Spiegel interview he goes on to suggest that things have not improved in the meantime, certainly not as far as the university is concerned; the slide into decadence that he was then trying to stem is said to have “become extremely deteriorated” (G16, 654/42).
+
+According to his own account, Heidegger assumed the rectorate to rescue the university by recalling science to its original essence, allowing it to recover its Greek root. To return science to its origin means for Heidegger inevitably also to render that origin questionable. Consider in this connection the sentences that preceded the cited passage from What is Metaphysics?
+
+First, every metaphysical question always encompasses the whole range of metaphysical problems. Each question is itself always the whole. Therefore, second, every metaphysical question can be asked only in such a way that the questioner as such is present, together with the question, that is, is placed in question. From this we conclude that metaphysical inquiry must be posed as a whole and from the essential position of the existence [Dasein] that questions (G9, 106/95–96).
+
+Metaphysics, so understood, is unsettling, destabilizing. It prepares for revolution.
+
+In this connection it is helpful to look back to Being and Time, where in paragraph 3, “The Ontological Priority of the Question of Being,” Heidegger provides a clear formulation of his understanding of science: Each science presupposes a particular determination of the being of the beings under investigation. Consider the Cartesian determination of the being of nature as res extensa. That determination sought to provide the science of the time with a firm foundation; it prescribed a certain mode of access. Bound up with that determinations are basic concepts. To question the determination of the being of things presupposed by a particular science is to prepare for a scientific revolution.10
+
+And the point can be extended: all our actions presuppose a certain understanding of Being. To question that understanding is to let us become homeless in our once so familiar world. Authenticity and raising the question of Being thus belong together. This question invites us to question and perhaps change our orientation towards persons and things; thus it invites revolution, even as it denies any appeal to well established criteria that might guide such revolution. This finds expression in the following claim from the Rectorial Address: “Science is the questioning standing of one’s ground in the midst of the constantly self-concealing totality of what is. This active perseverance knows about its impotence in the face of destiny” (G16, 110/8).
+
+# 3. A “Private National Socialism”

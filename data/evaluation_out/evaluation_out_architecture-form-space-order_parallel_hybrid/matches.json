@@ -1,0 +1,406 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "e1",
+      "gt_id": "c3",
+      "confidence": "high",
+      "reasoning": "图底共生完全对应Form and Space的总体思想"
+    },
+    {
+      "extracted_id": "e2",
+      "gt_id": "c1",
+      "confidence": "high",
+      "reasoning": "原型衍生对应Primary Elements"
+    },
+    {
+      "extracted_id": "e2",
+      "gt_id": "c1.1",
+      "confidence": "high",
+      "reasoning": "明确提及点"
+    },
+    {
+      "extracted_id": "e2",
+      "gt_id": "c1.2",
+      "confidence": "high",
+      "reasoning": "明确提及线"
+    },
+    {
+      "extracted_id": "e2",
+      "gt_id": "c1.3",
+      "confidence": "high",
+      "reasoning": "明确提及面"
+    },
+    {
+      "extracted_id": "e2",
+      "gt_id": "c1.4",
+      "confidence": "high",
+      "reasoning": "明确提及体"
+    },
+    {
+      "extracted_id": "e3",
+      "gt_id": "c5",
+      "confidence": "high",
+      "reasoning": "动态时空观/流线对应Circulation"
+    },
+    {
+      "extracted_id": "e4",
+      "gt_id": "c7",
+      "confidence": "high",
+      "reasoning": "秩序法则对应Principles"
+    },
+    {
+      "extracted_id": "e4",
+      "gt_id": "c7.1",
+      "confidence": "high",
+      "reasoning": "明确提及轴线"
+    },
+    {
+      "extracted_id": "e4",
+      "gt_id": "c7.2",
+      "confidence": "high",
+      "reasoning": "明确提及对称"
+    },
+    {
+      "extracted_id": "e4",
+      "gt_id": "c7.3",
+      "confidence": "high",
+      "reasoning": "明确提及层级"
+    },
+    {
+      "extracted_id": "e4",
+      "gt_id": "c7.4",
+      "confidence": "high",
+      "reasoning": "明确提及基准"
+    },
+    {
+      "extracted_id": "e4",
+      "gt_id": "c7.5",
+      "confidence": "high",
+      "reasoning": "明确提及韵律"
+    },
+    {
+      "extracted_id": "e5",
+      "gt_id": "c6",
+      "confidence": "high",
+      "reasoning": "尺度与比例协和对应Proportion and Scale"
+    },
+    {
+      "extracted_id": "e5",
+      "gt_id": "c6.1",
+      "confidence": "high",
+      "reasoning": "比例系统(如黄金分割、模度)对应Mathematical Proportions"
+    },
+    {
+      "extracted_id": "e5",
+      "gt_id": "c6.2",
+      "confidence": "high",
+      "reasoning": "人体尺度对应Human Scale"
+    },
+    {
+      "extracted_id": "e6",
+      "gt_id": "c4.2",
+      "confidence": "high",
+      "reasoning": "集中式、线式、放射式、组团式、网格完全涵盖Spatial Organizations"
+    },
+    {
+      "extracted_id": "e6",
+      "gt_id": "c4",
+      "confidence": "high",
+      "reasoning": "空间组织对应Organization大类"
+    },
+    {
+      "extracted_id": "e10",
+      "gt_id": "c2.2",
+      "confidence": "high",
+      "reasoning": "尺寸变换、减法、加法演变对应Form Transformation"
+    },
+    {
+      "extracted_id": "e11",
+      "gt_id": "c2.4",
+      "confidence": "high",
+      "reasoning": "表面特征、边缘转角对应Articulation of Form"
+    },
+    {
+      "extracted_id": "e12",
+      "gt_id": "c3.1",
+      "confidence": "high",
+      "reasoning": "利用垂直墙面和基面界定负空间对应Defining Space"
+    },
+    {
+      "extracted_id": "e13",
+      "gt_id": "c4.1",
+      "confidence": "high",
+      "reasoning": "空间中的空间、穿插空间、相邻空间等对应Spatial Relationships"
+    },
+    {
+      "extracted_id": "e14",
+      "gt_id": "c3.2",
+      "confidence": "high",
+      "reasoning": "面内、转角、面之间的开口对应Openings"
+    },
+    {
+      "extracted_id": "e14",
+      "gt_id": "c3.3",
+      "confidence": "high",
+      "reasoning": "开口满足视线和采光对应Qualities of Space(Light, View)"
+    },
+    {
+      "extracted_id": "e15",
+      "gt_id": "c5.1",
+      "confidence": "high",
+      "reasoning": "接近对应The Building Approach"
+    },
+    {
+      "extracted_id": "e15",
+      "gt_id": "c5.2",
+      "confidence": "high",
+      "reasoning": "入口对应Building Entrances"
+    },
+    {
+      "extracted_id": "e15",
+      "gt_id": "c5.3",
+      "confidence": "high",
+      "reasoning": "路径形态对应Configuration of the Path"
+    },
+    {
+      "extracted_id": "e15",
+      "gt_id": "c5.4",
+      "confidence": "high",
+      "reasoning": "路径-空间关系对应Path-Space Relationships"
+    }
+  ],
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "Primary Elements",
+      "importance": 10
+    },
+    {
+      "id": "c1.1",
+      "name": "Point",
+      "importance": 8
+    },
+    {
+      "id": "c1.2",
+      "name": "Line",
+      "importance": 8
+    },
+    {
+      "id": "c1.3",
+      "name": "Plane",
+      "importance": 8
+    },
+    {
+      "id": "c1.4",
+      "name": "Volume",
+      "importance": 8
+    },
+    {
+      "id": "c2",
+      "name": "Form",
+      "importance": 10
+    },
+    {
+      "id": "c2.1",
+      "name": "Properties of Form",
+      "importance": 7
+    },
+    {
+      "id": "c2.2",
+      "name": "Form Transformation",
+      "importance": 8
+    },
+    {
+      "id": "c2.3",
+      "name": "Formal Collisions",
+      "importance": 7
+    },
+    {
+      "id": "c2.4",
+      "name": "Articulation of Form",
+      "importance": 7
+    },
+    {
+      "id": "c3",
+      "name": "Form and Space",
+      "importance": 10
+    },
+    {
+      "id": "c3.1",
+      "name": "Defining Space",
+      "importance": 9
+    },
+    {
+      "id": "c3.2",
+      "name": "Openings",
+      "importance": 8
+    },
+    {
+      "id": "c3.3",
+      "name": "Qualities of Space",
+      "importance": 9
+    },
+    {
+      "id": "c4",
+      "name": "Organization",
+      "importance": 10
+    },
+    {
+      "id": "c4.1",
+      "name": "Spatial Relationships",
+      "importance": 9
+    },
+    {
+      "id": "c4.2",
+      "name": "Spatial Organizations",
+      "importance": 9
+    },
+    {
+      "id": "c5",
+      "name": "Circulation",
+      "importance": 9
+    },
+    {
+      "id": "c5.1",
+      "name": "The Building Approach",
+      "importance": 7
+    },
+    {
+      "id": "c5.2",
+      "name": "Building Entrances",
+      "importance": 7
+    },
+    {
+      "id": "c5.3",
+      "name": "Configuration of the Path",
+      "importance": 8
+    },
+    {
+      "id": "c5.4",
+      "name": "Path-Space Relationships",
+      "importance": 8
+    },
+    {
+      "id": "c5.5",
+      "name": "Form of the Circulation Space",
+      "importance": 7
+    },
+    {
+      "id": "c6",
+      "name": "Proportion and Scale",
+      "importance": 9
+    },
+    {
+      "id": "c6.1",
+      "name": "Mathematical Proportions",
+      "importance": 8
+    },
+    {
+      "id": "c6.2",
+      "name": "Human Scale",
+      "importance": 9
+    },
+    {
+      "id": "c7",
+      "name": "Principles",
+      "importance": 10
+    },
+    {
+      "id": "c7.1",
+      "name": "Axis",
+      "importance": 8
+    },
+    {
+      "id": "c7.2",
+      "name": "Symmetry",
+      "importance": 8
+    },
+    {
+      "id": "c7.3",
+      "name": "Hierarchy",
+      "importance": 9
+    },
+    {
+      "id": "c7.4",
+      "name": "Datum",
+      "importance": 8
+    },
+    {
+      "id": "c7.5",
+      "name": "Rhythm",
+      "importance": 8
+    },
+    {
+      "id": "c7.6",
+      "name": "Repetition",
+      "importance": 8
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "e1",
+      "name": "图底共生 (Figure-Ground Symbiosis)",
+      "is_redundant": false
+    },
+    {
+      "id": "e2",
+      "name": "原型衍生 (Archetypal Transformation) / 点、线、面、体",
+      "is_redundant": false
+    },
+    {
+      "id": "e3",
+      "name": "动态时空观 (Kinetic Experience) / 流线",
+      "is_redundant": false
+    },
+    {
+      "id": "e4",
+      "name": "秩序法则 (Ordering Principles)",
+      "is_redundant": false
+    },
+    {
+      "id": "e5",
+      "name": "尺度与比例协和 (Proportion and Scale Harmony)",
+      "is_redundant": false
+    },
+    {
+      "id": "e6",
+      "name": "空间组织拓扑 (Spatial Organization Topology)",
+      "is_redundant": false
+    },
+    {
+      "id": "e10",
+      "name": "形式变换推演 (Dimensional, Subtractive, Additive)",
+      "is_redundant": false
+    },
+    {
+      "id": "e11",
+      "name": "表面与边缘界定 (Surface and Edges)",
+      "is_redundant": false
+    },
+    {
+      "id": "e12",
+      "name": "负空间界定 (Defining Space)",
+      "is_redundant": false
+    },
+    {
+      "id": "e13",
+      "name": "空间关联拓扑 (Spatial Relationships)",
+      "is_redundant": false
+    },
+    {
+      "id": "e14",
+      "name": "开口的设置 (Openings, View, Light)",
+      "is_redundant": false
+    },
+    {
+      "id": "e15",
+      "name": "动线与时空体验 (Approach, Entrance, Path)",
+      "is_redundant": false
+    }
+  ],
+  "artifact_usability": {
+    "formatting_score": 5,
+    "clarity_score": 5,
+    "logical_score": 5
+  }
+}

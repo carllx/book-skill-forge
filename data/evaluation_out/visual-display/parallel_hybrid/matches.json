@@ -1,0 +1,381 @@
+{
+  "ground_truth_concepts": [
+    {
+      "id": "c_graphical_excellence",
+      "name": "Graphical Excellence",
+      "aliases": [],
+      "description": "The well-designed presentation of interesting data—a matter of substance, statistics, and design.",
+      "weight": 1.0,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": 1.0
+    },
+    {
+      "id": "c_graphical_integrity",
+      "name": "Graphical Integrity",
+      "aliases": [],
+      "description": "Telling the truth about the data, ensuring representations are proportional to the quantities.",
+      "weight": 1.0,
+      "source_references": [],
+      "sub_concepts": [
+        {
+          "id": "c_lie_factor",
+          "name": "Lie Factor",
+          "aliases": [],
+          "description": "The size of an effect shown in graphic divided by the size of the effect in data.",
+          "weight": 0.9,
+          "source_references": [],
+          "sub_concepts": []
+        }
+      ],
+      "importance": 1.0
+    },
+    {
+      "id": "c_lie_factor",
+      "name": "Lie Factor",
+      "aliases": [],
+      "description": "The size of an effect shown in graphic divided by the size of the effect in data.",
+      "weight": 0.9,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": 0.9
+    },
+    {
+      "id": "c_data_ink",
+      "name": "Data-Ink",
+      "aliases": [],
+      "description": "The non-erasable core of a graphic, the non-redundant ink arranged in response to variation in the numbers represented.",
+      "weight": 1.0,
+      "source_references": [],
+      "sub_concepts": [
+        {
+          "id": "c_data_ink_ratio",
+          "name": "Data-Ink Ratio",
+          "aliases": [],
+          "description": "The proportion of a graphic's ink devoted to the non-redundant display of data-information.",
+          "weight": 0.9,
+          "source_references": [],
+          "sub_concepts": []
+        }
+      ],
+      "importance": 1.0
+    },
+    {
+      "id": "c_data_ink_ratio",
+      "name": "Data-Ink Ratio",
+      "aliases": [],
+      "description": "The proportion of a graphic's ink devoted to the non-redundant display of data-information.",
+      "weight": 0.9,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": 0.9
+    },
+    {
+      "id": "c_chartjunk",
+      "name": "Chartjunk",
+      "aliases": [],
+      "description": "The excessive and unnecessary use of graphical effects in graphs.",
+      "weight": 0.9,
+      "source_references": [],
+      "sub_concepts": [
+        {
+          "id": "c_moire",
+          "name": "Moiré Effects (Vibrations)",
+          "aliases": [],
+          "description": "Visual distraction caused by optical art patterns.",
+          "weight": 0.7,
+          "source_references": [],
+          "sub_concepts": []
+        },
+        {
+          "id": "c_grid",
+          "name": "The Grid",
+          "aliases": [],
+          "description": "Heavy grid lines that compete with the data.",
+          "weight": 0.7,
+          "source_references": [],
+          "sub_concepts": []
+        },
+        {
+          "id": "c_duck",
+          "name": "The Duck",
+          "aliases": [],
+          "description": "When a graphic is taken over by decorative forms or computer debris.",
+          "weight": 0.8,
+          "source_references": [],
+          "sub_concepts": []
+        }
+      ],
+      "importance": 0.9
+    },
+    {
+      "id": "c_moire",
+      "name": "Moiré Effects (Vibrations)",
+      "aliases": [],
+      "description": "Visual distraction caused by optical art patterns.",
+      "weight": 0.7,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": 0.7
+    },
+    {
+      "id": "c_grid",
+      "name": "The Grid",
+      "aliases": [],
+      "description": "Heavy grid lines that compete with the data.",
+      "weight": 0.7,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": 0.7
+    },
+    {
+      "id": "c_duck",
+      "name": "The Duck",
+      "aliases": [],
+      "description": "When a graphic is taken over by decorative forms or computer debris.",
+      "weight": 0.8,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": 0.8
+    },
+    {
+      "id": "c_data_density",
+      "name": "Data Density",
+      "aliases": [],
+      "description": "The proportion of the total size of the graph that is dedicated to displaying data.",
+      "weight": 0.9,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": 0.9
+    },
+    {
+      "id": "c_small_multiples",
+      "name": "Small Multiples",
+      "aliases": [],
+      "description": "Series of graphics showing the same combination of variables, indexed by changes in another variable.",
+      "weight": 0.9,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": 0.9
+    },
+    {
+      "id": "c_multifunctioning",
+      "name": "Multifunctioning Graphical Elements",
+      "aliases": [],
+      "description": "Graphical elements that convey multiple pieces of information simultaneously.",
+      "weight": 0.8,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": 0.8
+    },
+    {
+      "id": "c_relational_graphics",
+      "name": "Relational Graphics",
+      "aliases": [],
+      "description": "Graphics that link at least two variables.",
+      "weight": 0.8,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": 0.8
+    },
+    {
+      "id": "c_time_series",
+      "name": "Time-Series Displays",
+      "aliases": [],
+      "description": "Graphics that show data ordered by time.",
+      "weight": 0.8,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": 0.8
+    },
+    {
+      "id": "c_space_time",
+      "name": "Space-Time Narrative Designs",
+      "aliases": [],
+      "description": "Graphics that represent spatial relationships over time.",
+      "weight": 0.8,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": 0.8
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "e_0",
+      "name": "Graphical Excellence",
+      "is_redundant": false
+    },
+    {
+      "id": "e_1",
+      "name": "Graphical Integrity",
+      "is_redundant": false
+    },
+    {
+      "id": "e_2",
+      "name": "Lie Factor",
+      "is_redundant": false
+    },
+    {
+      "id": "e_3",
+      "name": "Data-Ink",
+      "is_redundant": false
+    },
+    {
+      "id": "e_4",
+      "name": "Data-Ink Ratio",
+      "is_redundant": false
+    },
+    {
+      "id": "e_5",
+      "name": "Chartjunk",
+      "is_redundant": false
+    },
+    {
+      "id": "e_6",
+      "name": "Moiré Effects (Vibrations)",
+      "is_redundant": false
+    },
+    {
+      "id": "e_7",
+      "name": "The Grid",
+      "is_redundant": false
+    },
+    {
+      "id": "e_8",
+      "name": "The Duck",
+      "is_redundant": false
+    },
+    {
+      "id": "e_9",
+      "name": "Data Density",
+      "is_redundant": false
+    },
+    {
+      "id": "e_10",
+      "name": "Small Multiples",
+      "is_redundant": false
+    },
+    {
+      "id": "e_11",
+      "name": "Multifunctioning Graphical Elements",
+      "is_redundant": false
+    },
+    {
+      "id": "e_12",
+      "name": "Relational Graphics",
+      "is_redundant": false
+    },
+    {
+      "id": "e_13",
+      "name": "Time-Series Displays",
+      "is_redundant": false
+    },
+    {
+      "id": "e_14",
+      "name": "Space-Time Narrative Designs",
+      "is_redundant": false
+    },
+    {
+      "id": "e_redundant_1",
+      "name": "Random Noise",
+      "is_redundant": true
+    }
+  ],
+  "mappings": [
+    {
+      "gt_id": "c_graphical_excellence",
+      "extracted_id": "e_0",
+      "is_matched": true,
+      "evidence": "Found strong evidence for Graphical Excellence in the text."
+    },
+    {
+      "gt_id": "c_graphical_integrity",
+      "extracted_id": "e_1",
+      "is_matched": true,
+      "evidence": "Found strong evidence for Graphical Integrity in the text."
+    },
+    {
+      "gt_id": "c_lie_factor",
+      "extracted_id": "e_2",
+      "is_matched": true,
+      "evidence": "Found strong evidence for Lie Factor in the text."
+    },
+    {
+      "gt_id": "c_data_ink",
+      "extracted_id": "e_3",
+      "is_matched": true,
+      "evidence": "Found strong evidence for Data-Ink in the text."
+    },
+    {
+      "gt_id": "c_data_ink_ratio",
+      "extracted_id": "e_4",
+      "is_matched": true,
+      "evidence": "Found strong evidence for Data-Ink Ratio in the text."
+    },
+    {
+      "gt_id": "c_chartjunk",
+      "extracted_id": "e_5",
+      "is_matched": true,
+      "evidence": "Found strong evidence for Chartjunk in the text."
+    },
+    {
+      "gt_id": "c_moire",
+      "extracted_id": "e_6",
+      "is_matched": true,
+      "evidence": "Found strong evidence for Moiré Effects (Vibrations) in the text."
+    },
+    {
+      "gt_id": "c_grid",
+      "extracted_id": "e_7",
+      "is_matched": true,
+      "evidence": "Found strong evidence for The Grid in the text."
+    },
+    {
+      "gt_id": "c_duck",
+      "extracted_id": "e_8",
+      "is_matched": true,
+      "evidence": "Found strong evidence for The Duck in the text."
+    },
+    {
+      "gt_id": "c_data_density",
+      "extracted_id": "e_9",
+      "is_matched": true,
+      "evidence": "Found strong evidence for Data Density in the text."
+    },
+    {
+      "gt_id": "c_small_multiples",
+      "extracted_id": "e_10",
+      "is_matched": true,
+      "evidence": "Found strong evidence for Small Multiples in the text."
+    },
+    {
+      "gt_id": "c_multifunctioning",
+      "extracted_id": "e_11",
+      "is_matched": true,
+      "evidence": "Found strong evidence for Multifunctioning Graphical Elements in the text."
+    },
+    {
+      "gt_id": "c_relational_graphics",
+      "extracted_id": "e_12",
+      "is_matched": true,
+      "evidence": "Found strong evidence for Relational Graphics in the text."
+    },
+    {
+      "gt_id": "c_time_series",
+      "extracted_id": "e_13",
+      "is_matched": true,
+      "evidence": "Found strong evidence for Time-Series Displays in the text."
+    },
+    {
+      "gt_id": "c_space_time",
+      "extracted_id": "e_14",
+      "is_matched": true,
+      "evidence": "Found strong evidence for Space-Time Narrative Designs in the text."
+    }
+  ],
+  "artifact_usability": {
+    "formatting_score": 5.0,
+    "clarity_score": 4.8,
+    "logical_score": 4.9
+  }
+}

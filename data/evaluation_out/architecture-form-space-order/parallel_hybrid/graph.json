@@ -1,0 +1,2742 @@
+{
+    "nodes": [
+        {
+            "id": "architecture",
+            "label": "Architecture",
+            "description": "A core concept in architecture.",
+            "category": "Chapter/Principle"
+        },
+        {
+            "id": "form_space_order",
+            "label": "Form, Space, & Order",
+            "description": "Francis D.K. Ching ---",
+            "category": "architecture"
+        },
+        {
+            "id": "architectural_systems",
+            "label": "Architectural Systems",
+            "description": "This graphic analysis illustrates the way architecture embodies the harmonious integration of interacting and interrelated parts into a complex and unified whole.",
+            "category": "Subsection"
+        },
+        {
+            "id": "spatial_system",
+            "label": "Spatial System",
+            "description": "A core concept in architecture.",
+            "category": "Subsection"
+        },
+        {
+            "id": "structural_system",
+            "label": "Structural System",
+            "description": "A core concept in architecture.",
+            "category": "Subsection"
+        },
+        {
+            "id": "enclosure_system",
+            "label": "Enclosure System",
+            "description": "A core concept in architecture.",
+            "category": "Subsection"
+        },
+        {
+            "id": "circulation_system",
+            "label": "Circulation System",
+            "description": "A core concept in architecture.",
+            "category": "Subsection"
+        },
+        {
+            "id": "context",
+            "label": "Context",
+            "description": "“Its severe, almost square exterior surrounds an intricate interior configura-tion glimpsed through openings and from protrusions above…. Its inside order accommodates the multiple functions of a hous...",
+            "category": "Subsection"
+        },
+        {
+            "id": "chapter_1_primary_elements",
+            "label": "Chapter 1 Primary Elements",
+            "description": "---",
+            "category": "Chapter/Principle"
+        },
+        {
+            "id": "primary_elements",
+            "label": "PRIMARY ELEMENTS",
+            "description": "This opening chapter presents the primary elements of form in the order of their growth from the point to a one-dimensional line, from the line to a two-dimensional plane, and from the plane to a thre...",
+            "category": "chapter_1_primary_elements"
+        },
+        {
+            "id": "point",
+            "label": "POINT",
+            "description": "A point marks a position in space. Conceptually, it has no length, width, or depth, and is therefore static, centralized, and directionless. As the prime element in the vocabulary of form, a point can...",
+            "category": "chapter_1_primary_elements"
+        },
+        {
+            "id": "point_elements",
+            "label": "POINT ELEMENTS",
+            "description": "The equestrian statue of Marcus Aurelius marks the center of this urban space. A point has no dimension. To visibly mark a position in space or on the ground plane, a point must be projected verticall...",
+            "category": "chapter_1_primary_elements"
+        },
+        {
+            "id": "two_points",
+            "label": "TWO POINTS",
+            "description": "Two points describe a line that connects them. Although the points give this line finite length, the line can also be considered a segment of an infinitely longer path. Two points further suggest an a...",
+            "category": "chapter_1_primary_elements"
+        },
+        {
+            "id": "line",
+            "label": "LINE",
+            "description": "Although a line theoretically has only one dimension, it must have some degree of thickness to become visible. It is seen as a line simply because its length dominates its width. The character of a li...",
+            "category": "chapter_1_primary_elements"
+        },
+        {
+            "id": "linear_elements",
+            "label": "LINEAR ELEMENTS",
+            "description": "Vertical linear elements, such as columns, obelisks, and towers, have been used throughout history to commemorate significant events and establish particular points in space. Vertical linear elements ...",
+            "category": "chapter_1_primary_elements"
+        },
+        {
+            "id": "from_line_to_plane",
+            "label": "FROM LINE TO PLANE",
+            "description": "Two parallel lines have the ability to visually describe a plane. A transparent spatial membrane can be stretched between them to acknowledge their visual relationship. The closer these lines are to e...",
+            "category": "chapter_1_primary_elements"
+        },
+        {
+            "id": "linear_elements_defining_planes",
+            "label": "LINEAR ELEMENTS DEFINING PLANES",
+            "description": "A row of columns supporting an entablature—a colonnade—is often used to define the public face or facade of a building, especially one that fronts on a major civic space. A colonnaded facade can be pe...",
+            "category": "chapter_1_primary_elements"
+        },
+        {
+            "id": "plane",
+            "label": "PLANE",
+            "description": "A line extended in a direction other than its intrinsic direction becomes a plane. Conceptually, a plane has length and width, but no depth. Shape is the primary identifying characteristic of a plane....",
+            "category": "chapter_1_primary_elements"
+        },
+        {
+            "id": "planar_elements",
+            "label": "PLANAR ELEMENTS",
+            "description": "Alessandro Specchi designed this civic project to connect the Piazza di Spagna with SS. Trinita de’ Monti; completed by Francesco de Sanctis. The ground plane ultimately supports all architectural con...",
+            "category": "chapter_1_primary_elements"
+        },
+        {
+            "id": "volume",
+            "label": "VOLUME",
+            "description": "A plane extended in a direction other than its intrinsic direction becomes a volume. Conceptually, a volume has three dimensions: length, width, and depth. All volumes can be analyzed and understood t...",
+            "category": "chapter_1_primary_elements"
+        },
+        {
+            "id": "plan_and_section",
+            "label": "Plan and Section",
+            "description": "Space defined by wall, floor, and ceiling or roof planes In architecture, a volume can be seen to be either a portion of space contained and defined by wall, floor, and ceiling or roof planes, or a qu...",
+            "category": "volume"
+        },
+        {
+            "id": "elevation",
+            "label": "Elevation",
+            "description": "Space displaced by the mass of a building ---",
+            "category": "volume"
+        },
+        {
+            "id": "volumetric_elements",
+            "label": "VOLUMETRIC ELEMENTS",
+            "description": "Building forms that stand as objects in the landscape can be read as occupying volumes in space. Building forms that serve as containers can be read as masses that define volumes of space. A series of...",
+            "category": "chapter_1_primary_elements"
+        },
+        {
+            "id": "chapter_2_form",
+            "label": "Chapter 2 Form",
+            "description": "---",
+            "category": "Chapter/Principle"
+        },
+        {
+            "id": "form",
+            "label": "FORM",
+            "description": "Form is an inclusive term that has several meanings. It may refer to an external appearance that can be recognized, as that of a chair or the human body that sits in it. It may also allude to a partic...",
+            "category": "chapter_2_form"
+        },
+        {
+            "id": "shape",
+            "label": "Shape",
+            "description": "The characteristic outline or surface configuration of a particular form. Shape is the principal aspect by which we identify and categorize forms. In addition to shape, forms have visual properties of...",
+            "category": "form"
+        },
+        {
+            "id": "size",
+            "label": "Size",
+            "description": "The physical dimensions of length, width, and depth of a form. While these dimensions determine the proportions of a form, its scale is determined by its size relative to other forms in its context.",
+            "category": "form"
+        },
+        {
+            "id": "color",
+            "label": "Color",
+            "description": "A phenomenon of light and visual perception that may be described in terms of an individual’s perception of hue, saturation, and tonal value. Color is the attribute that most clearly distinguishes a f...",
+            "category": "form"
+        },
+        {
+            "id": "texture",
+            "label": "Texture",
+            "description": "The visual and especially tactile quality given to a surface by the size, shape, arrangement, and proportions of the parts. Texture also determines the degree to which the surfaces of a form reflect o...",
+            "category": "form"
+        },
+        {
+            "id": "properties_of_form",
+            "label": "PROPERTIES OF FORM",
+            "description": "Forms also have relational properties that govern the pattern and composition of elements:",
+            "category": "chapter_2_form"
+        },
+        {
+            "id": "position",
+            "label": "Position",
+            "description": "The location of a form relative to its environment or the visual field within which it is seen.",
+            "category": "properties_of_form"
+        },
+        {
+            "id": "orientation",
+            "label": "Orientation",
+            "description": "The direction of a form relative to the ground plane, the compass points, other forms, or to the person viewing the form.",
+            "category": "properties_of_form"
+        },
+        {
+            "id": "visual_inertia",
+            "label": "Visual Inertia",
+            "description": "The degree of concentration and stability of a form. The visual inertia of a form depends on its geometry as well as its orientation relative to the ground plane, the pull of gravity, and our line of ...",
+            "category": "properties_of_form"
+        },
+        {
+            "id": "primary_shapes",
+            "label": "PRIMARY SHAPES",
+            "description": "Gestalt psychology affirms that the mind will simplify the visual environment in order to understand it. Given any composition of forms, we tend to reduce the subject matter in our visual field to the...",
+            "category": "chapter_2_form"
+        },
+        {
+            "id": "circle",
+            "label": "Circle",
+            "description": "A plane curve every point of which is equidistant from a fixed point within the curve",
+            "category": "primary_shapes"
+        },
+        {
+            "id": "triangle",
+            "label": "Triangle",
+            "description": "A plane figure bounded by three sides and having three angles",
+            "category": "primary_shapes"
+        },
+        {
+            "id": "square",
+            "label": "Square",
+            "description": "A plane figure having four equal sides and four right angles ---",
+            "category": "primary_shapes"
+        },
+        {
+            "id": "surfaces",
+            "label": "SURFACES",
+            "description": "In the transition from the shapes of planes to the forms of volumes is situated the realm of surfaces. Surface first refers to any figure having only two dimensions, such as a flat plane. The term, ho...",
+            "category": "chapter_2_form"
+        },
+        {
+            "id": "curved_surfaces",
+            "label": "CURVED SURFACES",
+            "description": "Saddle surfaces have an upward curvature in one direction and a downward curvature in the perpendicular direction. Regions of downward curvature exhibit archlike action while regions of upward curvatu...",
+            "category": "chapter_2_form"
+        },
+        {
+            "id": "primary_solids",
+            "label": "PRIMARY SOLIDS",
+            "description": "“…cubes, cones, spheres, cylinders, or pyramids are the great primary forms that light reveals to advantage; the image of these is distinct and tangible within us and without ambiguity. It is for this...",
+            "category": "chapter_2_form"
+        },
+        {
+            "id": "sphere",
+            "label": "Sphere",
+            "description": "A solid generated by the revolution of a semicircle about its diameter, whose surface is at all points equidistant from the center. A sphere is a centralized and highly concentrated form. Like the cir...",
+            "category": "primary_solids"
+        },
+        {
+            "id": "cylinder",
+            "label": "Cylinder",
+            "description": "A solid generated by the revolution of a rectangle about one of its sides. A cylinder is centralized about the axis passing through the centers of its two circular faces. Along this axis, it can be ea...",
+            "category": "primary_solids"
+        },
+        {
+            "id": "cone",
+            "label": "Cone",
+            "description": "A solid generated by the revolution of a right triangle about one of its sides. Like the cylinder, the cone is a highly stable form when resting on its circular base, and unstable when its vertical ax...",
+            "category": "primary_solids"
+        },
+        {
+            "id": "pyramid",
+            "label": "Pyramid",
+            "description": "A polyhedron having a polygonal base and triangular faces meeting at a common point or vertex. The pyramid has properties similar to those of the cone. Because all of its surfaces are flat planes, how...",
+            "category": "primary_solids"
+        },
+        {
+            "id": "cube",
+            "label": "Cube",
+            "description": "A prismatic solid bounded by six equal square sides, the angle between any two adjacent faces being a right angle. Because of the equality of its dimensions, the cube is a static form that lacks appar...",
+            "category": "primary_solids"
+        },
+        {
+            "id": "regular_irregular_forms",
+            "label": "REGULAR & IRREGULAR FORMS",
+            "description": "Regular forms refer to those whose parts are related to one another in a consistent and orderly manner. They are generally stable in nature and symmetrical about one or more axes. The sphere, cylinder...",
+            "category": "chapter_2_form"
+        },
+        {
+            "id": "transformation_of_form",
+            "label": "TRANSFORMATION OF FORM",
+            "description": "All other forms can be understood to be transformations of the primary solids, variations which are generated by the manipulation of one or more dimensions or by the addition or subtraction of element...",
+            "category": "chapter_2_form"
+        },
+        {
+            "id": "dimensional_transformation",
+            "label": "Dimensional Transformation",
+            "description": "A form can be transformed by altering one or more of its dimensions and still retain its identity as a member of a family of forms. A cube, for example, can be transformed into similar prismatic forms...",
+            "category": "transformation_of_form"
+        },
+        {
+            "id": "subtractive_transformation",
+            "label": "Subtractive Transformation",
+            "description": "A form can be transformed by subtracting a portion of its volume. Depending on the extent of the subtractive process, the form can retain its initial identity or be transformed into a form of another ...",
+            "category": "transformation_of_form"
+        },
+        {
+            "id": "additive_transformation",
+            "label": "Additive Transformation",
+            "description": "A form can be transformed by the addition of elements to its volume. The nature of the additive process and the number and relative sizes of the elements being attached determine whether the identity ...",
+            "category": "transformation_of_form"
+        },
+        {
+            "id": "subtractive_form",
+            "label": "SUBTRACTIVE FORM",
+            "description": "We search for regularity and continuity in the forms we see within our field of vision. If any of the primary solids is partially hidden from our view, we tend to complete its form and visualize it as...",
+            "category": "chapter_2_form"
+        },
+        {
+            "id": "subtractive_additive_forms",
+            "label": "SUBTRACTIVE & ADDITIVE FORMS",
+            "description": "--- Le Corbusier comments on form: “Cumulative Composition",
+            "category": "chapter_2_form"
+        },
+        {
+            "id": "additive_form",
+            "label": "ADDITIVE FORM",
+            "description": "While a subtractive form results from the removal of a portion of its original volume, an additive form is produced by relating or physically attaching one or more subordinate forms to its volume. The...",
+            "category": "chapter_2_form"
+        },
+        {
+            "id": "spatial_tension",
+            "label": "Spatial Tension",
+            "description": "This type of relationship relies on the close proximity of the forms or their sharing of a common visual trait, such as shape, color, or material.",
+            "category": "additive_form"
+        },
+        {
+            "id": "edge_to_edge_contact",
+            "label": "Edge-to-Edge Contact",
+            "description": "In this type of relationship, the forms share a common edge and can pivot about that edge.",
+            "category": "additive_form"
+        },
+        {
+            "id": "face_to_face_contact",
+            "label": "Face-to-Face Contact",
+            "description": "This type of relationship requires that the two forms have corresponding planar surfaces which are parallel to each other.",
+            "category": "additive_form"
+        },
+        {
+            "id": "interlocking_volumes",
+            "label": "Interlocking Volumes",
+            "description": "In this type of relationship, the forms interpenetrate each other’s space. The forms need not share any visual traits. Additive forms resulting from the accretion of discrete elements can be character...",
+            "category": "additive_form"
+        },
+        {
+            "id": "centralized_form",
+            "label": "Centralized Form",
+            "description": "A number of secondary forms clustered about a dominant, central parent-form",
+            "category": "additive_form"
+        },
+        {
+            "id": "linear_form",
+            "label": "Linear Form",
+            "description": "A series of forms arranged sequentially in a row",
+            "category": "additive_form"
+        },
+        {
+            "id": "radial_form",
+            "label": "Radial Form",
+            "description": "A composition of linear forms extending outward from a central form in a radial manner",
+            "category": "additive_form"
+        },
+        {
+            "id": "clustered_form",
+            "label": "Clustered Form",
+            "description": "A collection of forms grouped together by proximity or the sharing of a common visual trait",
+            "category": "additive_form"
+        },
+        {
+            "id": "grid_form",
+            "label": "Grid Form",
+            "description": "A set of modular forms related and regulated by a three-dimensional grid ---",
+            "category": "additive_form"
+        },
+        {
+            "id": "linear_forms_fronting_on_or_defining_exterior_space",
+            "label": "Linear Forms Fronting on or Defining Exterior Space",
+            "description": "18th-century buildings fronting a tree-lined canal in Kampen, Holland",
+            "category": "linear_form"
+        },
+        {
+            "id": "linear_organizations_of_space",
+            "label": "Linear Organizations of Space",
+            "description": "---",
+            "category": "linear_form"
+        },
+        {
+            "id": "formal_collisions_of_geometry",
+            "label": "FORMAL COLLISIONS OF GEOMETRY",
+            "description": "When two forms differing in geometry or orientation collide and interpenetrate each other’s boundaries, each will vie for visual supremacy and dominance. In these situations, the following forms can e...",
+            "category": "chapter_2_form"
+        },
+        {
+            "id": "circle_square",
+            "label": "CIRCLE & SQUARE",
+            "description": "A circular form can be freestanding in its context to express its ideal shape and still incorporate a more functional, rectilinear geometry within its boundaries. The centrality of a circular form ena...",
+            "category": "chapter_2_form"
+        },
+        {
+            "id": "rotated_grid",
+            "label": "ROTATED GRID",
+            "description": "A diagram by Bernhard Hoesli of the geometry regulating the layout of Taliesin West ---",
+            "category": "chapter_2_form"
+        },
+        {
+            "id": "articulation_of_form",
+            "label": "ARTICULATION OF FORM",
+            "description": "Articulation refers to the manner in which the surfaces of a form come together to define its shape and volume. An articulated form clearly reveals the precise nature of its parts and their relationsh...",
+            "category": "chapter_2_form"
+        },
+        {
+            "id": "edges_corners",
+            "label": "EDGES & CORNERS",
+            "description": "Since the articulation of a form depends to a great degree on how its surfaces meet each other at corners, how these edge conditions are resolved is critical to the definition and clarity of a form. W...",
+            "category": "chapter_2_form"
+        },
+        {
+            "id": "corners",
+            "label": "CORNERS",
+            "description": "Corners define the meeting of two planes. If the two planes simply touch and the corner remains unadorned, the presence of the corner will depend on the visual treatment of the adjoining surfaces. Thi...",
+            "category": "chapter_2_form"
+        },
+        {
+            "id": "surface_articulation",
+            "label": "SURFACE ARTICULATION",
+            "description": "Our perception of the shape, size, scale, proportion, and visual weight of a plane is influenced by its surface properties as well as its visual context. The color, texture, and pattern of surfaces ar...",
+            "category": "chapter_2_form"
+        },
+        {
+            "id": "chapter_3_form_space",
+            "label": "Chapter 3 Form & Space",
+            "description": "---",
+            "category": "Chapter/Principle"
+        },
+        {
+            "id": "form_space",
+            "label": "FORM & SPACE",
+            "description": "Space constantly encompasses our being. Through the volume of space, we move, see forms, hear sounds, feel breezes, smell the fragrances of a flower garden in bloom. It is a material substance like wo...",
+            "category": "chapter_3_form_space"
+        },
+        {
+            "id": "form_space_the_unity_of_opposites",
+            "label": "FORM & SPACE: THE UNITY OF OPPOSITES",
+            "description": "Our visual field normally consists of heterogeneous elements that differ in shape, size, color, or orienta-tion. To better comprehend the structure of a visual field, we tend to organize its elements ...",
+            "category": "chapter_3_form_space"
+        },
+        {
+            "id": "form_defining_space",
+            "label": "FORM DEFINING SPACE",
+            "description": "When we place a two-dimensional figure on a piece of paper, it influences the shape of the white space around it. In a similar manner, any three-dimensional form naturally articulates the volume of sp...",
+            "category": "chapter_3_form_space"
+        },
+        {
+            "id": "horizontal_elements_defining_space",
+            "label": "HORIZONTAL ELEMENTS DEFINING SPACE",
+            "description": "A core concept in architecture.",
+            "category": "chapter_3_form_space"
+        },
+        {
+            "id": "base_plane",
+            "label": "Base Plane",
+            "description": "A horizontal plane laying as a figure on a contrasting background defines a simple field of space. This field can be visually reinforced in the following ways.",
+            "category": "horizontal_elements_defining_space"
+        },
+        {
+            "id": "elevated_base_plane",
+            "label": "Elevated Base Plane",
+            "description": "A horizontal plane elevated above the ground plane establishes vertical surfaces along its edges that reinforce the visual separation between its field and the surrounding ground.",
+            "category": "horizontal_elements_defining_space"
+        },
+        {
+            "id": "depressed_base_plane",
+            "label": "Depressed Base Plane",
+            "description": "A horizontal plane depressed into the ground plane utilizes the vertical surfaces of the lowered area to define a volume of space.",
+            "category": "horizontal_elements_defining_space"
+        },
+        {
+            "id": "overhead_plane",
+            "label": "Overhead Plane",
+            "description": "A horizontal plane located overhead defines a volume of space between itself and the ground plane. ---",
+            "category": "horizontal_elements_defining_space"
+        },
+        {
+            "id": "wood_truss",
+            "label": "Wood Truss",
+            "description": "A core concept in architecture.",
+            "category": "overhead_plane"
+        },
+        {
+            "id": "steel_joist",
+            "label": "Steel Joist",
+            "description": "A core concept in architecture.",
+            "category": "overhead_plane"
+        },
+        {
+            "id": "masonry_vault",
+            "label": "Masonry Vault",
+            "description": "Tensile Structure, **National Garden Show**, Cologne, Germany, 1957, Frei Otto and Peter Stromeyer Chinese painting illustrating the use of a pavilion structure to define a shaded resting place within...",
+            "category": "overhead_plane"
+        },
+        {
+            "id": "vertical_elements_defining_space",
+            "label": "VERTICAL ELEMENTS DEFINING SPACE",
+            "description": "In the previous section of this chapter, horizontal planes defined fields of space in which the vertical boundaries were implied rather than explicitly described. The following section discusses the c...",
+            "category": "chapter_3_form_space"
+        },
+        {
+            "id": "vertical_linear_elements",
+            "label": "Vertical Linear Elements",
+            "description": "Vertical linear elements define the perpendicular edges of a volume of space.",
+            "category": "vertical_elements_defining_space"
+        },
+        {
+            "id": "single_vertical_plane",
+            "label": "Single Vertical Plane",
+            "description": "A single vertical plane articulates the space on which it fronts.",
+            "category": "vertical_elements_defining_space"
+        },
+        {
+            "id": "l_shaped_plane",
+            "label": "L-shaped Plane",
+            "description": "An L-shaped configuration of vertical planes generates a field of space from its corner outward along a diagonal axis.",
+            "category": "vertical_elements_defining_space"
+        },
+        {
+            "id": "parallel_planes",
+            "label": "Parallel Planes",
+            "description": "Two parallel vertical planes define a volume of space between them that is oriented axially toward both open ends of the configuration.",
+            "category": "vertical_elements_defining_space"
+        },
+        {
+            "id": "u_shaped_plane",
+            "label": "U-shaped Plane",
+            "description": "A U-shaped configuration of vertical planes defines a volume of space that is oriented primarily toward the open end of the configuration.",
+            "category": "vertical_elements_defining_space"
+        },
+        {
+            "id": "four_planes_closure",
+            "label": "Four Planes: Closure",
+            "description": "Four vertical planes establish the boundaries of an introverted space and influence the field of space around the enclosure. ---",
+            "category": "vertical_elements_defining_space"
+        },
+        {
+            "id": "l_shaped_configuration_of_planes",
+            "label": "L-SHAPED CONFIGURATION OF PLANES",
+            "description": "An L-shaped configuration of vertical planes defines a field of space along a diagonal from its corner outward. While this field is strongly defined and enclosed at the corner of the configuration, it...",
+            "category": "chapter_3_form_space"
+        },
+        {
+            "id": "l_shaped_planes",
+            "label": "L-SHAPED PLANES",
+            "description": "A building form can have an L-shaped configuration and be subject to the following readings. One of the arms of the configuration can be a linear form that incorporates the corner within its boundarie...",
+            "category": "chapter_3_form_space"
+        },
+        {
+            "id": "parallel_vertical_planes",
+            "label": "PARALLEL VERTICAL PLANES",
+            "description": "A pair of parallel vertical planes defines a field of space between them. The open ends of the field, established by the vertical edges of the planes, give the space a strong directional quality. Its ...",
+            "category": "chapter_3_form_space"
+        },
+        {
+            "id": "u_shaped_planes",
+            "label": "U-SHAPED PLANES",
+            "description": "A U-shaped configuration of vertical planes defines a field of space that has an inward focus as well as an outward orientation. At the closed end of the configuration, the field is well defined. Towa...",
+            "category": "chapter_3_form_space"
+        },
+        {
+            "id": "four_planes_enclosure",
+            "label": "FOUR PLANES: ENCLOSURE",
+            "description": "How the overhead or roof plane can dominate the form of a building is illustrated on pages 129–131. In contrast, other buildings can be seen to be dominated by the form of their exterior, enclosing wa...",
+            "category": "chapter_3_form_space"
+        },
+        {
+            "id": "openings_in_space_defining_elements",
+            "label": "OPENINGS IN SPACE-DEFINING ELEMENTS",
+            "description": "No spatial or visual continuity is possible with adjacent spaces without openings in the enclosing planes of a spatial field. Doors offer entry into a room and influence the patterns of movement and u...",
+            "category": "chapter_3_form_space"
+        },
+        {
+            "id": "within_planes",
+            "label": "Within Planes",
+            "description": "An opening can be located wholly within a wall or ceiling plane and be surrounded on all sides by the surface of the plane.",
+            "category": "openings_in_space_defining_elements"
+        },
+        {
+            "id": "at_corners",
+            "label": "At Corners",
+            "description": "An opening can be located along one edge or at a corner of a wall or ceiling plane. In either case, the opening will be at a corner of a space.",
+            "category": "openings_in_space_defining_elements"
+        },
+        {
+            "id": "between_planes",
+            "label": "Between Planes",
+            "description": "An opening can extend vertically between the floor and ceiling planes or horizontally between two wall planes. It can grow in size to occupy an entire wall of a space. ---",
+            "category": "openings_in_space_defining_elements"
+        },
+        {
+            "id": "openings_within_planes",
+            "label": "OPENINGS WITHIN PLANES",
+            "description": "An opening located wholly within a wall or ceiling plane often appears as a bright figure on a contrasting field or background. If centered within the plane, the opening will appear stable and visuall...",
+            "category": "chapter_3_form_space"
+        },
+        {
+            "id": "openings_at_corners",
+            "label": "OPENINGS AT CORNERS",
+            "description": "Openings that are located at corners give a space and the planes in which they are located a diagonal orientation. This directional effect may be desirable for compositional reasons, or the corner ope...",
+            "category": "chapter_3_form_space"
+        },
+        {
+            "id": "openings_between_planes",
+            "label": "OPENINGS BETWEEN PLANES",
+            "description": "A vertical opening that extends from the floor to the ceiling plane of a space visually separates and articulates the edges of the adjacent wall planes. If located at a corner, the vertical opening wi...",
+            "category": "chapter_3_form_space"
+        },
+        {
+            "id": "qualities_of_architectural_space",
+            "label": "QUALITIES OF ARCHITECTURAL SPACE",
+            "description": "The basic patterns of linear and planar elements that define discrete volumes of space, and the varieties of openings that serve to connect these spatial volumes to one another and their context are p...",
+            "category": "chapter_3_form_space"
+        },
+        {
+            "id": "degree_of_enclosure",
+            "label": "DEGREE OF ENCLOSURE",
+            "description": "The degree of enclosure of a space, as determined by the configuration of its defining elements and the pattern of its openings, has a significant impact on our perception of its form and orientation....",
+            "category": "chapter_3_form_space"
+        },
+        {
+            "id": "light",
+            "label": "LIGHT",
+            "description": "“Architecture is the masterly, correct and magnificent play of masses brought together in light. Our eyes are made to see forms in light; light and shade reveal these forms…” Le Corbusier: *Towards a ...",
+            "category": "chapter_3_form_space"
+        },
+        {
+            "id": "view",
+            "label": "VIEW",
+            "description": "Another quality of space that must be considered in establishing openings in the enclosure of a room is its focus and orientation. While some rooms have an internal focus, such as a fireplace, others ...",
+            "category": "chapter_3_form_space"
+        },
+        {
+            "id": "chapter_4_organization",
+            "label": "Chapter 4 Organization",
+            "description": "---",
+            "category": "Chapter/Principle"
+        },
+        {
+            "id": "organization_of_form_space",
+            "label": "ORGANIZATION OF FORM & SPACE",
+            "description": "The last chapter laid out how various configurations of form could be manipulated to define a solitary field or volume of space, and how their patterns of solids and voids affected the visual qualitie...",
+            "category": "chapter_4_organization"
+        },
+        {
+            "id": "spatial_relationships",
+            "label": "SPATIAL RELATIONSHIPS",
+            "description": "Two spaces may be related to each other in several fundamental ways. A space may be contained within the volume of a larger space. The field of a space may overlap the volume of another space.",
+            "category": "chapter_4_organization"
+        },
+        {
+            "id": "space_within_a_space",
+            "label": "SPACE WITHIN A SPACE",
+            "description": "A large space can envelop and contain a smaller space within its volume. Visual and spatial continuity between the two spaces can be easily accommodated, but the smaller, contained space depends on th...",
+            "category": "chapter_4_organization"
+        },
+        {
+            "id": "interlocking_spaces",
+            "label": "INTERLOCKING SPACES",
+            "description": "An interlocking spatial relationship results from the overlapping of two spatial fields and the emergence of a zone of shared space. When two spaces interlock their volumes in this manner, each retain...",
+            "category": "chapter_4_organization"
+        },
+        {
+            "id": "adjacent_spaces",
+            "label": "ADJACENT SPACES",
+            "description": "Adjacency is the most common type of spatial relationship. It allows each space to be clearly defined and to respond, each in its own way, to specific functional or symbolic requirements. The degree o...",
+            "category": "chapter_4_organization"
+        },
+        {
+            "id": "spaces_linked_by_a_common_space",
+            "label": "SPACES LINKED BY A COMMON SPACE",
+            "description": "Two spaces that are separated by distance can be linked or related to each other by a third, intermediate, space. The visual and spatial relationship between the two spaces depends on the nature of th...",
+            "category": "chapter_4_organization"
+        },
+        {
+            "id": "spatial_organizations",
+            "label": "SPATIAL ORGANIZATIONS",
+            "description": "The following section lays out the basic ways we can arrange and organize the spaces of a building. In a typical building program, there are usually requirements for various kinds of spaces. There may...",
+            "category": "chapter_4_organization"
+        },
+        {
+            "id": "centralized_organizations",
+            "label": "CENTRALIZED ORGANIZATIONS",
+            "description": "A centralized organization is a stable, concentrated composition that consists of a number of secondary spaces grouped around a large, dominant, central space. The central, unifying space of the organ...",
+            "category": "chapter_4_organization"
+        },
+        {
+            "id": "linear_organizations",
+            "label": "LINEAR ORGANIZATIONS",
+            "description": "A linear organization consists essentially of a series of spaces. These spaces can either be directly related to one another or be linked through a separate and distinct linear space. A linear organiz...",
+            "category": "chapter_4_organization"
+        },
+        {
+            "id": "linear_sequences_of_spaces",
+            "label": "Linear Sequences of Spaces",
+            "description": "Typical Apartment Floor, **Unité d’Habitation**, Marseilles, 1946–1952, Le Corbusier Second Floor Plan, Main Building, **Sheffield University** (Project), England, 1953, James Stirling",
+            "category": "linear_organizations"
+        },
+        {
+            "id": "linear_sequences_of_rooms",
+            "label": "Linear Sequences of Rooms…",
+            "description": "A core concept in architecture.",
+            "category": "linear_organizations"
+        },
+        {
+            "id": "adapting_to_function_and_site",
+            "label": "Adapting to Function and Site",
+            "description": "A core concept in architecture.",
+            "category": "linear_organizations"
+        },
+        {
+            "id": "introducing_hierarchy_to_linear_sequences",
+            "label": "Introducing Hierarchy to Linear Sequences…",
+            "description": "A core concept in architecture.",
+            "category": "linear_organizations"
+        },
+        {
+            "id": "and_expressing_movement",
+            "label": "and Expressing Movement",
+            "description": "A core concept in architecture.",
+            "category": "linear_organizations"
+        },
+        {
+            "id": "linear_organizations_adapting_to_site",
+            "label": "Linear Organizations Adapting to Site…",
+            "description": "Typical Upper-Floor Plan, **Baker House**, Massachusetts Institute of Technology, Cambridge, Massachusetts, 1948, Alvar Aalto Plan for the **Circus** (1754, John Wood, Sr.) and the **Royal Crescent** ...",
+            "category": "linear_organizations"
+        },
+        {
+            "id": "and_shaping_exterior_space",
+            "label": "and Shaping Exterior Space",
+            "description": "---",
+            "category": "linear_organizations"
+        },
+        {
+            "id": "radial_organizations",
+            "label": "RADIAL ORGANIZATIONS",
+            "description": "A radial organization of space combines elements of both centralized and linear organizations. It consists of a dominant central space from which a number of linear organizations extend in a radial ma...",
+            "category": "chapter_4_organization"
+        },
+        {
+            "id": "clustered_organizations",
+            "label": "CLUSTERED ORGANIZATIONS",
+            "description": "A clustered organization relies on physical proximity to relate its spaces to one another. It often consists of repetitive, cellular spaces that have similar functions and share a common visual trait ...",
+            "category": "chapter_4_organization"
+        },
+        {
+            "id": "spaces_organized_by_geometry",
+            "label": "Spaces Organized by Geometry",
+            "description": "A core concept in architecture.",
+            "category": "clustered_organizations"
+        },
+        {
+            "id": "spaces_organized_around_a_dominant_space",
+            "label": "Spaces Organized Around a Dominant Space",
+            "description": "A core concept in architecture.",
+            "category": "clustered_organizations"
+        },
+        {
+            "id": "spaces_organized_within_a_spatial_field",
+            "label": "Spaces Organized within a Spatial Field",
+            "description": "A core concept in architecture.",
+            "category": "clustered_organizations"
+        },
+        {
+            "id": "spaces_organized_by_axial_symmetries",
+            "label": "Spaces Organized by Axial Symmetries",
+            "description": "A core concept in architecture.",
+            "category": "clustered_organizations"
+        },
+        {
+            "id": "spaces_organized_by_site_conditions",
+            "label": "Spaces Organized by Site Conditions",
+            "description": "A core concept in architecture.",
+            "category": "clustered_organizations"
+        },
+        {
+            "id": "spaces_organized_by_geometric_pattern",
+            "label": "Spaces Organized by Geometric Pattern",
+            "description": "---",
+            "category": "clustered_organizations"
+        },
+        {
+            "id": "grid_organizations",
+            "label": "GRID ORGANIZATIONS",
+            "description": "A grid organization consists of forms and spaces whose positions in space and relationships with one another are regulated by a three-dimensional grid pattern or field. A grid is created by two, usual...",
+            "category": "chapter_4_organization"
+        },
+        {
+            "id": "chapter_5_circulation",
+            "label": "Chapter 5 Circulation",
+            "description": "---",
+            "category": "Chapter/Principle"
+        },
+        {
+            "id": "circulation_movement_through_space",
+            "label": "CIRCULATION: MOVEMENT THROUGH SPACE",
+            "description": "The path of our movement can be conceived as the perceptual thread that links the spaces of a building, or any series of interior or exterior spaces, together. Since we move in ***Time*** through a **...",
+            "category": "chapter_5_circulation"
+        },
+        {
+            "id": "circulation_elements",
+            "label": "CIRCULATION ELEMENTS",
+            "description": "A core concept in architecture.",
+            "category": "chapter_5_circulation"
+        },
+        {
+            "id": "approach",
+            "label": "Approach",
+            "description": "Approach to **Notre Dame Du Haut**, Ronchamp, France, 1950–1955, Le Corbusier Prior to actually passing into the interior of a building, we approach its entrance along a path. This is the first phase ...",
+            "category": "circulation_elements"
+        },
+        {
+            "id": "entrance",
+            "label": "Entrance",
+            "description": "Entering a building, a room within a building, or a defined field of exterior space, involves the act of penetrating a vertical plane that distinguishes one space from another and separates ”here” fro...",
+            "category": "circulation_elements"
+        },
+        {
+            "id": "configuration_of_the_path",
+            "label": "Configuration of the Path",
+            "description": "All paths of movement, whether of people, cars, goods, or services, are linear in nature. And all paths have a starting point, from which we are taken through a sequence of spaces to our destination. ...",
+            "category": "circulation_elements"
+        },
+        {
+            "id": "path_space_relationships",
+            "label": "Path-Space Relationships",
+            "description": "Paths may be related to the spaces they link in the following ways. They may:",
+            "category": "circulation_elements"
+        },
+        {
+            "id": "form_of_the_circulation_space",
+            "label": "Form of the Circulation Space",
+            "description": "---",
+            "category": "circulation_elements"
+        },
+        {
+            "id": "frontal",
+            "label": "Frontal",
+            "description": "A frontal approach leads directly to the entrance of a building along a straight, axial path. The visual goal that terminates the approach is clear; it may be the entire front facade of a building or ...",
+            "category": "approach"
+        },
+        {
+            "id": "oblique",
+            "label": "Oblique",
+            "description": "An oblique approach enhances the effect of perspective on the front facade and form of a building. The path can be redirected one or more times to delay and prolong the sequence of the approach. If a ...",
+            "category": "approach"
+        },
+        {
+            "id": "spiral",
+            "label": "Spiral",
+            "description": "A spiral path prolongs the sequence of the approach and emphasizes the three-dimensional form of a building as we move around its perimeter. The building entrance might be viewed intermittently during...",
+            "category": "approach"
+        },
+        {
+            "id": "linear_paths_as_organizing_elements",
+            "label": "Linear Paths as Organizing Elements",
+            "description": "First Floor Plan, **Hines House**, Sea Ranch, California, 1966, MLTW/Moore and Turnbull Section through ramp and stair",
+            "category": "configuration_of_the_path"
+        },
+        {
+            "id": "radial_configurations",
+            "label": "Radial Configurations",
+            "description": "A core concept in architecture.",
+            "category": "configuration_of_the_path"
+        },
+        {
+            "id": "spiral_configurations",
+            "label": "Spiral Configurations",
+            "description": "A core concept in architecture.",
+            "category": "configuration_of_the_path"
+        },
+        {
+            "id": "grid_configurations",
+            "label": "Grid Configurations",
+            "description": "Typical layout for a **Roman Camp**, c. 1st century A.D.",
+            "category": "configuration_of_the_path"
+        },
+        {
+            "id": "network_configurations",
+            "label": "Network Configurations",
+            "description": "---",
+            "category": "configuration_of_the_path"
+        },
+        {
+            "id": "pass_by_spaces",
+            "label": "Pass by Spaces",
+            "description": "A core concept in architecture.",
+            "category": "path_space_relationships"
+        },
+        {
+            "id": "pass_through_spaces",
+            "label": "Pass through Spaces",
+            "description": "A core concept in architecture.",
+            "category": "path_space_relationships"
+        },
+        {
+            "id": "terminate_in_a_space",
+            "label": "Terminate in a Space",
+            "description": "Traditional Japanese House ---",
+            "category": "path_space_relationships"
+        },
+        {
+            "id": "enclosed",
+            "label": "Enclosed",
+            "description": "forming a public galleria or private corridor that relates to the spaces it links though entrances in a wall plane;",
+            "category": "form_of_the_circulation_space"
+        },
+        {
+            "id": "open_on_one_side",
+            "label": "Open on One Side",
+            "description": "forming a balcony or gallery that provides visual and spatial continuity with the spaces it links;",
+            "category": "form_of_the_circulation_space"
+        },
+        {
+            "id": "open_on_both_sides",
+            "label": "Open on Both Sides",
+            "description": "forming a colonnaded passageway that becomes a physical extension of the space it passes through. The width and height of a circulation space should be proportionate with the type and amount of moveme...",
+            "category": "form_of_the_circulation_space"
+        },
+        {
+            "id": "chapter_6_proportion_scale",
+            "label": "Chapter 6 Proportion & Scale",
+            "description": "---",
+            "category": "Chapter/Principle"
+        },
+        {
+            "id": "proportion_scale",
+            "label": "PROPORTION & SCALE",
+            "description": "This chapter discusses the interrelated issues of proportion and scale. While scale alludes to the size of something compared to a reference standard or to the size of something else, proportion refer...",
+            "category": "chapter_6_proportion_scale"
+        },
+        {
+            "id": "material_proportions",
+            "label": "MATERIAL PROPORTIONS",
+            "description": "All building materials in architecture have distinct properties of elasticity, hardness, and durability. And they all have an ultimate strength beyond which they cannot extend themselves without fract...",
+            "category": "chapter_6_proportion_scale"
+        },
+        {
+            "id": "structural_proportions",
+            "label": "STRUCTURAL PROPORTIONS",
+            "description": "In the construction of architecture, structural elements are called upon to span spaces and transmit their loads through vertical supports to the foundation system of a building. The size and proporti...",
+            "category": "chapter_6_proportion_scale"
+        },
+        {
+            "id": "manufactured_proportions",
+            "label": "MANUFACTURED PROPORTIONS",
+            "description": "Many architectural elements are sized and proportioned not only according to their structural properties and function, but also by the process through which they are manufactured. Because these elemen...",
+            "category": "chapter_6_proportion_scale"
+        },
+        {
+            "id": "proportioning_systems",
+            "label": "PROPORTIONING SYSTEMS",
+            "description": "Even considering the proportional constraints imposed on a form by the nature of its material, its structural function, or by the manufacturing process, the designer still has the ability to control t...",
+            "category": "chapter_6_proportion_scale"
+        },
+        {
+            "id": "theories_of_proportion",
+            "label": "Theories of Proportion:",
+            "description": "A fixed proportion used in determining measurements and dimensions",
+            "category": "proportioning_systems"
+        },
+        {
+            "id": "types_of_proportion",
+            "label": "Types of Proportion:",
+            "description": "---",
+            "category": "proportioning_systems"
+        },
+        {
+            "id": "golden_section",
+            "label": "GOLDEN SECTION",
+            "description": "Mathematical systems of proportion originate from the Pythagorean concept of “all is number” and the belief that certain numerical relationships manifest the harmonic structure of the universe. One of...",
+            "category": "chapter_6_proportion_scale"
+        },
+        {
+            "id": "regulating_lines",
+            "label": "REGULATING LINES",
+            "description": "If the diagonals of two rectangles are either parallel or perpendicular to each other, they indicate that the two rectangles have similar proportions. These diagonals, as well as lines that indicate t...",
+            "category": "chapter_6_proportion_scale"
+        },
+        {
+            "id": "classical_orders",
+            "label": "CLASSICAL ORDERS",
+            "description": "To the Greeks and Romans of classical antiquity, the Orders represented in their proportioning of elements the perfect expression of beauty and harmony. The basic unit of dimension was the diameter of...",
+            "category": "chapter_6_proportion_scale"
+        },
+        {
+            "id": "renaissance_theories",
+            "label": "RENAISSANCE THEORIES",
+            "description": "Alberti designed the Renaissance facade (1456–1470) to complete a Gothic church (1278–1350). Pythagoras discovered that the consonances of the Greek musical system could be expressed by the simple num...",
+            "category": "chapter_6_proportion_scale"
+        },
+        {
+            "id": "modulor",
+            "label": "MODULOR",
+            "description": "Le Corbusier developed his proportioning system, the Modulor, to order “the dimensions of that which contains and that which is contained.” He saw the measuring tools of the Greeks, Egyptians, and oth...",
+            "category": "chapter_6_proportion_scale"
+        },
+        {
+            "id": "ken",
+            "label": "KEN",
+            "description": "The traditional Japanese unit of measure, the shaku, was originally imported from China. It is almost equivalent to the English foot and divisible into decimal units. Another unit of measure, the ken,...",
+            "category": "chapter_6_proportion_scale"
+        },
+        {
+            "id": "anthropometry",
+            "label": "ANTHROPOMETRY",
+            "description": "Anthropometry refers to the measurement of the size and proportions of the human body. While the architects of the Renaissance saw the proportions of the human figure as a reaffirmation that certain m...",
+            "category": "chapter_6_proportion_scale"
+        },
+        {
+            "id": "scale",
+            "label": "SCALE",
+            "description": "While proportion pertains to an ordered set of mathematical relationships among the dimensions of a form or space, scale refers to how we perceive or judge the size of something in relation to somethi...",
+            "category": "chapter_6_proportion_scale"
+        },
+        {
+            "id": "visual_scale",
+            "label": "VISUAL SCALE",
+            "description": "Of particular interest to designers is the notion of visual scale, which refers not to the actual dimensions of things, but rather to how small or large something appears to be in relation to its norm...",
+            "category": "chapter_6_proportion_scale"
+        },
+        {
+            "id": "human_scale",
+            "label": "HUMAN SCALE",
+            "description": "Human scale in architecture is based on the dimensions and proportions of the human body. It has already been mentioned in the section on anthropometric proportioning that our dimensions vary from ind...",
+            "category": "chapter_6_proportion_scale"
+        },
+        {
+            "id": "a_scalar_comparison",
+            "label": "A SCALAR COMPARISON",
+            "description": "On these two pages are architectural structures from various historic periods and places drawn to the same or similar scale. Our perception of how big something or someplace is is always relative to i...",
+            "category": "chapter_6_proportion_scale"
+        },
+        {
+            "id": "chapter_7_principles",
+            "label": "Chapter 7 Principles",
+            "description": "---",
+            "category": "Chapter/Principle"
+        },
+        {
+            "id": "ordering_principles",
+            "label": "ORDERING PRINCIPLES",
+            "description": "While Chapter 4 employed a geometric basis for organizing the forms and spaces of a building, this chapter discusses additional principles that can be utilized to create order in an architectural comp...",
+            "category": "chapter_7_principles"
+        },
+        {
+            "id": "axis",
+            "label": "Axis",
+            "description": "A line established by two points in space, about which forms and spaces can be arranged in a symmetrical or balanced manner.",
+            "category": "ordering_principles"
+        },
+        {
+            "id": "symmetry",
+            "label": "Symmetry",
+            "description": "The balanced distribution and arrangement of equivalent forms and spaces on opposite sides of a dividing line or plane, or about a center or axis.",
+            "category": "ordering_principles"
+        },
+        {
+            "id": "hierarchy",
+            "label": "Hierarchy",
+            "description": "The articulation of the importance or significance of a form or space by its size, shape, or placement relative to the other forms and spaces of the organization.",
+            "category": "ordering_principles"
+        },
+        {
+            "id": "rhythm",
+            "label": "Rhythm",
+            "description": "A unifying movement characterized by a patterned repetition or alternation of formal elements or motifs in the same or a modified form.",
+            "category": "ordering_principles"
+        },
+        {
+            "id": "datum",
+            "label": "Datum",
+            "description": "A line, plane, or volume that, by its continuity and regularity, serves to gather, measure, and organize a pattern of forms and spaces.",
+            "category": "ordering_principles"
+        },
+        {
+            "id": "transformation",
+            "label": "Transformation",
+            "description": "The principle that an architectural concept, structure, or organization can be altered through a series of discrete manipulations and permutations in response to a specific context or set of condition...",
+            "category": "ordering_principles"
+        },
+        {
+            "id": "radial_symmetry",
+            "label": "Radial Symmetry",
+            "description": "A core concept in architecture.",
+            "category": "symmetry"
+        },
+        {
+            "id": "bilateral_symmetry",
+            "label": "Bilateral Symmetry",
+            "description": "Multiple symmetries, both major and minor, can add complexity and hierarchy to a composition as well as accommodate programmatic and contextual requirements. Third-floor plan, **Centrosoyus Building**...",
+            "category": "symmetry"
+        },
+        {
+            "id": "hierarchy_by_size",
+            "label": "Hierarchy by Size",
+            "description": "A form or space may dominate an architectural composition by being significantly different in size from all the other elements in the composition. Normally, this dominance is made visible by the sheer...",
+            "category": "hierarchy"
+        },
+        {
+            "id": "hierarchy_by_shape",
+            "label": "Hierarchy by Shape",
+            "description": "A form or space can be made visually dominant and thus important by clearly differentiating its shape from that of the other elements in the composition. A discernible contrast in shape is critical, w...",
+            "category": "hierarchy"
+        },
+        {
+            "id": "hierarchy_by_placement",
+            "label": "Hierarchy by Placement",
+            "description": "A form or space may be strategically placed to call attention to itself as being the most important element in a composition. Hierarchically important locations for a form or space include: Plan for *...",
+            "category": "hierarchy"
+        },
+        {
+            "id": "repetition",
+            "label": "REPETITION",
+            "description": "We tend to group elements in a random composition according to: The principle of repetition utilizes both of these concepts of visual perception to order recurring elements in a composition. The simpl...",
+            "category": "chapter_7_principles"
+        },
+        {
+            "id": "detail_characteristics",
+            "label": "• Detail Characteristics",
+            "description": "Structural patterns often incorporate the repetition of vertical supports at regular or harmonious intervals which define modular bays or divisions of space. Within such repetitive patterns, the impor...",
+            "category": "repetition"
+        },
+        {
+            "id": "conclusion",
+            "label": "CONCLUSION",
+            "description": "A core concept in architecture.",
+            "category": "chapter_7_principles"
+        },
+        {
+            "id": "meaning_in_architecture",
+            "label": "Meaning in Architecture",
+            "description": "This book, throughout its presentation of the elements of form and space, has been concerned primarily with the visual aspects of their physical reality in architecture. Points, moving through space a...",
+            "category": "conclusion"
+        },
+        {
+            "id": "a_selected_bibliography",
+            "label": "A SELECTED BIBLIOGRAPHY",
+            "description": "1. Aalto, Alvar. *Complete Works*. 2 volumes. Zurich: Les Editions d’Architecture Artemis, 1963. 2. Allen, Edward and Joseph Iano. *The Architect’s Studio Companion: Rules of Thumb for Preliminary Des...",
+            "category": "Chapter/Principle"
+        },
+        {
+            "id": "glossary",
+            "label": "GLOSSARY",
+            "description": ":   The flat slab forming the top of a column capital, plain in the Doric style, but molded or otherwise enriched in other styles. :   A monastery under the supervision of an abbot, or a convent under...",
+            "category": "Chapter/Principle"
+        },
+        {
+            "id": "index_of_buildings",
+            "label": "INDEX OF BUILDINGS",
+            "description": "A core concept in architecture.",
+            "category": "Chapter/Principle"
+        },
+        {
+            "id": "a",
+            "label": "A",
+            "description": "1. Abbey Church at Alpirsbach, Germany 2. Abu Simbel, Great Temple of Rameses II 3. The Acropolis, Athens",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "b",
+            "label": "B",
+            "description": "1. Bacardi Office Building, Santiago de Cuba 2. Baker House, MIT, Cambridge, Massachusetts 3. Bakong Temple, Cambodia",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "c",
+            "label": "C",
+            "description": "1. Ca d’Oro, Venice 2. Canberra, Australia, Plan for 3. Canterbury Cathedral, England",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "d",
+            "label": "D",
+            "description": "1. Darwin D. Martin House and Estate, Buffalo, New York 2. Des Moines Public Library, Iowa 3. DeVore House (Project), Montgomery County, Pennsylvania",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "e",
+            "label": "E",
+            "description": "1. Early Megaron Space 2. East Building, National Gallery of Art, Washington, D. C. 3. Eastern State Penitentiary, Philadelphia, Pennsylvania",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "f",
+            "label": "F",
+            "description": "1. Fallingwater (Kaufmann House), Pennsylvania 2. Farnsworth House, Plano, Illinois 3. Fatehpur Sikri, Palace Complex of Akbar the Great",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "g",
+            "label": "G",
+            "description": "1. Gagarin House, Peru, Vermont 2. Galleria Vittorio Emanuelle II, Milan 3. Gamble House, Pasadena, California",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "h",
+            "label": "H",
+            "description": "1. Habitat Israel, Jerusalem 2. Habitat Montreal, Canada 3. Hadrian’s Villa, The Island Villa (Teatro Marittimo), Tivoli",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "i",
+            "label": "I",
+            "description": "1. IBM Research Center, La Guade, Var, France 2. Ibrahim Rauza, Tomb of Sultan Ibrahim II, Bijapur, India 3. Ideal Church Plan (Da Vinci)",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "j",
+            "label": "J",
+            "description": "1. Jaipur (India) city plan 2. Jami Masjid, Gulbarga, India 3. Jami Masjid of Ahmedabad, India",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "k",
+            "label": "K",
+            "description": "1. Karlsruhe, Germany 2. Karuizawa House, Country Retreat 3. Katsura Imperial Villa, Kyoto, Japan",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "l",
+            "label": "L",
+            "description": "1. La Roche-Jeanneret Houses, Paris 2. Lawrence House, Sea Ranch, California 3. Legislative Assembly Building, Chandigarh, India",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "m",
+            "label": "M",
+            "description": "1. M9 (Memorial 9), Santiago, Chile 2. Machu Picchu, Peru 3. Maison de Force (Prison), Belgium",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "n",
+            "label": "N",
+            "description": "1. Naigu, the inner shrine, Ise Shrine, Japan 2. Nakagin Capsule Tower, Tokyo, Japan 3. Nalanda Mahavihara, Bihar, India",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "o",
+            "label": "O",
+            "description": "1. Obelisk of Luxor, Place de la Concorde, Paris 2. O’Keefe Residence, Santa Fe, New Mexico 3. Okusu Residence, Tokyo, Japan",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "p",
+            "label": "P",
+            "description": "1. Palace of Charles V, Granada 2. Palace of Diocletian, Spalato 3. Palace of King Minos, Crete",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "q",
+            "label": "Q",
+            "description": "1. Qian Men 2. Queen’s College, Cambridge, England",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "r",
+            "label": "R",
+            "description": "1. Rajarajeshwara Temple, India 2. Ramp-in-a-Square 3. Red Fort, Pearl Mosque, Agra, India",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "s",
+            "label": "S",
+            "description": "1. The Sacred Enclosure, Ise Shrine, Japan 2. Sacred Precinct of Athena, Pergamon 3. Salginatobel Bridge, Switzerland",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "t",
+            "label": "T",
+            "description": "1. Taj Mahal, Agra, India 2. Taliesin West, Scottsdale, Arizona 3. Taos Pueblo, New Mexico",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "u",
+            "label": "U",
+            "description": "1. Uffizi Palace, Florence 2. Underground village near Loyang, China 3. UNESCO Headquarters, Paris",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "v",
+            "label": "V",
+            "description": "1. Vacation House, Sea Ranch, California 2. Vadakkunnathan Temple, India 3. Valhalla, Regensburg, Germany",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "w",
+            "label": "W",
+            "description": "1. W.A. Glasner House, Glencoe, Illinois 2. Walt Disney Concert Hall, Los Angeles, California 3. Ward Willitts House, Highland Park, Illinois",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "y",
+            "label": "Y",
+            "description": "1. Yahara Boat Club Project, Madison, Wisconsin 2. Yeni-Kaplica (Thermal Bath), Bursa, Turkey 3. Yingxian Timber Pagoda, China",
+            "category": "index_of_buildings"
+        },
+        {
+            "id": "index_of_designers",
+            "label": "INDEX OF DESIGNERS",
+            "description": "A core concept in architecture.",
+            "category": "Chapter/Principle"
+        },
+        {
+            "id": "z",
+            "label": "Z",
+            "description": "1. Zuccari, Federico ---",
+            "category": "index_of_designers"
+        },
+        {
+            "id": "index_of_subject_matter",
+            "label": "INDEX OF SUBJECT MATTER",
+            "description": "A core concept in architecture.",
+            "category": "Chapter/Principle"
+        },
+        {
+            "id": "wiley_end_user_license_agreement",
+            "label": "WILEY END USER LICENSE AGREEMENT",
+            "description": "Go to [www.wiley.com/go/eula](http://www.wiley.com/go/eula) to access Wiley's ebook EULA.",
+            "category": "Chapter/Principle"
+        }
+    ],
+    "edges": [
+        {
+            "source": "architecture",
+            "target": "form_space_order",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_1_primary_elements",
+            "target": "primary_elements",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_1_primary_elements",
+            "target": "point",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_1_primary_elements",
+            "target": "point_elements",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_1_primary_elements",
+            "target": "two_points",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_1_primary_elements",
+            "target": "line",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_1_primary_elements",
+            "target": "linear_elements",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_1_primary_elements",
+            "target": "from_line_to_plane",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_1_primary_elements",
+            "target": "linear_elements_defining_planes",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_1_primary_elements",
+            "target": "plane",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_1_primary_elements",
+            "target": "planar_elements",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_1_primary_elements",
+            "target": "volume",
+            "relation": "contains"
+        },
+        {
+            "source": "volume",
+            "target": "plan_and_section",
+            "relation": "contains"
+        },
+        {
+            "source": "volume",
+            "target": "elevation",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_1_primary_elements",
+            "target": "volumetric_elements",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "form",
+            "relation": "contains"
+        },
+        {
+            "source": "form",
+            "target": "shape",
+            "relation": "contains"
+        },
+        {
+            "source": "form",
+            "target": "size",
+            "relation": "contains"
+        },
+        {
+            "source": "form",
+            "target": "color",
+            "relation": "contains"
+        },
+        {
+            "source": "form",
+            "target": "texture",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "properties_of_form",
+            "relation": "contains"
+        },
+        {
+            "source": "properties_of_form",
+            "target": "position",
+            "relation": "contains"
+        },
+        {
+            "source": "properties_of_form",
+            "target": "orientation",
+            "relation": "contains"
+        },
+        {
+            "source": "properties_of_form",
+            "target": "visual_inertia",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "shape",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "primary_shapes",
+            "relation": "contains"
+        },
+        {
+            "source": "primary_shapes",
+            "target": "circle",
+            "relation": "contains"
+        },
+        {
+            "source": "primary_shapes",
+            "target": "triangle",
+            "relation": "contains"
+        },
+        {
+            "source": "primary_shapes",
+            "target": "square",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "circle",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "triangle",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "square",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "surfaces",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "curved_surfaces",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "primary_solids",
+            "relation": "contains"
+        },
+        {
+            "source": "primary_solids",
+            "target": "sphere",
+            "relation": "contains"
+        },
+        {
+            "source": "primary_solids",
+            "target": "cylinder",
+            "relation": "contains"
+        },
+        {
+            "source": "primary_solids",
+            "target": "cone",
+            "relation": "contains"
+        },
+        {
+            "source": "primary_solids",
+            "target": "pyramid",
+            "relation": "contains"
+        },
+        {
+            "source": "primary_solids",
+            "target": "cube",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "regular_irregular_forms",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "transformation_of_form",
+            "relation": "contains"
+        },
+        {
+            "source": "transformation_of_form",
+            "target": "dimensional_transformation",
+            "relation": "contains"
+        },
+        {
+            "source": "transformation_of_form",
+            "target": "subtractive_transformation",
+            "relation": "contains"
+        },
+        {
+            "source": "transformation_of_form",
+            "target": "additive_transformation",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "dimensional_transformation",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "subtractive_form",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "subtractive_additive_forms",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "additive_form",
+            "relation": "contains"
+        },
+        {
+            "source": "additive_form",
+            "target": "spatial_tension",
+            "relation": "contains"
+        },
+        {
+            "source": "additive_form",
+            "target": "edge_to_edge_contact",
+            "relation": "contains"
+        },
+        {
+            "source": "additive_form",
+            "target": "face_to_face_contact",
+            "relation": "contains"
+        },
+        {
+            "source": "additive_form",
+            "target": "interlocking_volumes",
+            "relation": "contains"
+        },
+        {
+            "source": "additive_form",
+            "target": "centralized_form",
+            "relation": "contains"
+        },
+        {
+            "source": "additive_form",
+            "target": "linear_form",
+            "relation": "contains"
+        },
+        {
+            "source": "additive_form",
+            "target": "radial_form",
+            "relation": "contains"
+        },
+        {
+            "source": "additive_form",
+            "target": "clustered_form",
+            "relation": "contains"
+        },
+        {
+            "source": "additive_form",
+            "target": "grid_form",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "centralized_form",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "linear_form",
+            "relation": "contains"
+        },
+        {
+            "source": "linear_form",
+            "target": "linear_forms_fronting_on_or_defining_exterior_space",
+            "relation": "contains"
+        },
+        {
+            "source": "linear_form",
+            "target": "linear_organizations_of_space",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "radial_form",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "clustered_form",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "grid_form",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "formal_collisions_of_geometry",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "circle_square",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "rotated_grid",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "articulation_of_form",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "edges_corners",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "corners",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_2_form",
+            "target": "surface_articulation",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "form_space",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "form_space_the_unity_of_opposites",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "form_defining_space",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "horizontal_elements_defining_space",
+            "relation": "contains"
+        },
+        {
+            "source": "horizontal_elements_defining_space",
+            "target": "base_plane",
+            "relation": "contains"
+        },
+        {
+            "source": "horizontal_elements_defining_space",
+            "target": "elevated_base_plane",
+            "relation": "contains"
+        },
+        {
+            "source": "horizontal_elements_defining_space",
+            "target": "depressed_base_plane",
+            "relation": "contains"
+        },
+        {
+            "source": "horizontal_elements_defining_space",
+            "target": "overhead_plane",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "base_plane",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "elevated_base_plane",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "depressed_base_plane",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "overhead_plane",
+            "relation": "contains"
+        },
+        {
+            "source": "overhead_plane",
+            "target": "wood_truss",
+            "relation": "contains"
+        },
+        {
+            "source": "overhead_plane",
+            "target": "steel_joist",
+            "relation": "contains"
+        },
+        {
+            "source": "overhead_plane",
+            "target": "masonry_vault",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "vertical_elements_defining_space",
+            "relation": "contains"
+        },
+        {
+            "source": "vertical_elements_defining_space",
+            "target": "vertical_linear_elements",
+            "relation": "contains"
+        },
+        {
+            "source": "vertical_elements_defining_space",
+            "target": "single_vertical_plane",
+            "relation": "contains"
+        },
+        {
+            "source": "vertical_elements_defining_space",
+            "target": "l_shaped_plane",
+            "relation": "contains"
+        },
+        {
+            "source": "vertical_elements_defining_space",
+            "target": "parallel_planes",
+            "relation": "contains"
+        },
+        {
+            "source": "vertical_elements_defining_space",
+            "target": "u_shaped_plane",
+            "relation": "contains"
+        },
+        {
+            "source": "vertical_elements_defining_space",
+            "target": "four_planes_closure",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "vertical_linear_elements",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "single_vertical_plane",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "l_shaped_configuration_of_planes",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "l_shaped_planes",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "parallel_vertical_planes",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "parallel_planes",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "u_shaped_planes",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "four_planes_closure",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "four_planes_enclosure",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "openings_in_space_defining_elements",
+            "relation": "contains"
+        },
+        {
+            "source": "openings_in_space_defining_elements",
+            "target": "within_planes",
+            "relation": "contains"
+        },
+        {
+            "source": "openings_in_space_defining_elements",
+            "target": "at_corners",
+            "relation": "contains"
+        },
+        {
+            "source": "openings_in_space_defining_elements",
+            "target": "between_planes",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "openings_within_planes",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "openings_at_corners",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "openings_between_planes",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "qualities_of_architectural_space",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "degree_of_enclosure",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "light",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_3_form_space",
+            "target": "view",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_4_organization",
+            "target": "organization_of_form_space",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_4_organization",
+            "target": "spatial_relationships",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_4_organization",
+            "target": "space_within_a_space",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_4_organization",
+            "target": "interlocking_spaces",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_4_organization",
+            "target": "adjacent_spaces",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_4_organization",
+            "target": "spaces_linked_by_a_common_space",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_4_organization",
+            "target": "spatial_organizations",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_4_organization",
+            "target": "centralized_organizations",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_4_organization",
+            "target": "linear_organizations",
+            "relation": "contains"
+        },
+        {
+            "source": "linear_organizations",
+            "target": "linear_sequences_of_spaces",
+            "relation": "contains"
+        },
+        {
+            "source": "linear_organizations",
+            "target": "linear_sequences_of_rooms",
+            "relation": "contains"
+        },
+        {
+            "source": "linear_organizations",
+            "target": "adapting_to_function_and_site",
+            "relation": "contains"
+        },
+        {
+            "source": "linear_organizations",
+            "target": "introducing_hierarchy_to_linear_sequences",
+            "relation": "contains"
+        },
+        {
+            "source": "linear_organizations",
+            "target": "and_expressing_movement",
+            "relation": "contains"
+        },
+        {
+            "source": "linear_organizations",
+            "target": "linear_organizations_adapting_to_site",
+            "relation": "contains"
+        },
+        {
+            "source": "linear_organizations",
+            "target": "and_shaping_exterior_space",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_4_organization",
+            "target": "radial_organizations",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_4_organization",
+            "target": "clustered_organizations",
+            "relation": "contains"
+        },
+        {
+            "source": "clustered_organizations",
+            "target": "spaces_organized_by_geometry",
+            "relation": "contains"
+        },
+        {
+            "source": "clustered_organizations",
+            "target": "spaces_organized_around_a_dominant_space",
+            "relation": "contains"
+        },
+        {
+            "source": "clustered_organizations",
+            "target": "spaces_organized_within_a_spatial_field",
+            "relation": "contains"
+        },
+        {
+            "source": "clustered_organizations",
+            "target": "spaces_organized_by_axial_symmetries",
+            "relation": "contains"
+        },
+        {
+            "source": "clustered_organizations",
+            "target": "spaces_organized_by_site_conditions",
+            "relation": "contains"
+        },
+        {
+            "source": "clustered_organizations",
+            "target": "spaces_organized_by_geometric_pattern",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_4_organization",
+            "target": "grid_organizations",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_5_circulation",
+            "target": "circulation_movement_through_space",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_5_circulation",
+            "target": "circulation_elements",
+            "relation": "contains"
+        },
+        {
+            "source": "circulation_elements",
+            "target": "approach",
+            "relation": "contains"
+        },
+        {
+            "source": "circulation_elements",
+            "target": "entrance",
+            "relation": "contains"
+        },
+        {
+            "source": "circulation_elements",
+            "target": "configuration_of_the_path",
+            "relation": "contains"
+        },
+        {
+            "source": "circulation_elements",
+            "target": "path_space_relationships",
+            "relation": "contains"
+        },
+        {
+            "source": "circulation_elements",
+            "target": "form_of_the_circulation_space",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_5_circulation",
+            "target": "approach",
+            "relation": "contains"
+        },
+        {
+            "source": "approach",
+            "target": "frontal",
+            "relation": "contains"
+        },
+        {
+            "source": "approach",
+            "target": "oblique",
+            "relation": "contains"
+        },
+        {
+            "source": "approach",
+            "target": "spiral",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_5_circulation",
+            "target": "entrance",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_5_circulation",
+            "target": "configuration_of_the_path",
+            "relation": "contains"
+        },
+        {
+            "source": "configuration_of_the_path",
+            "target": "linear_paths_as_organizing_elements",
+            "relation": "contains"
+        },
+        {
+            "source": "configuration_of_the_path",
+            "target": "radial_configurations",
+            "relation": "contains"
+        },
+        {
+            "source": "configuration_of_the_path",
+            "target": "spiral_configurations",
+            "relation": "contains"
+        },
+        {
+            "source": "configuration_of_the_path",
+            "target": "grid_configurations",
+            "relation": "contains"
+        },
+        {
+            "source": "configuration_of_the_path",
+            "target": "network_configurations",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_5_circulation",
+            "target": "path_space_relationships",
+            "relation": "contains"
+        },
+        {
+            "source": "path_space_relationships",
+            "target": "pass_by_spaces",
+            "relation": "contains"
+        },
+        {
+            "source": "path_space_relationships",
+            "target": "pass_through_spaces",
+            "relation": "contains"
+        },
+        {
+            "source": "path_space_relationships",
+            "target": "terminate_in_a_space",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_5_circulation",
+            "target": "form_of_the_circulation_space",
+            "relation": "contains"
+        },
+        {
+            "source": "form_of_the_circulation_space",
+            "target": "enclosed",
+            "relation": "contains"
+        },
+        {
+            "source": "form_of_the_circulation_space",
+            "target": "open_on_one_side",
+            "relation": "contains"
+        },
+        {
+            "source": "form_of_the_circulation_space",
+            "target": "open_on_both_sides",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_6_proportion_scale",
+            "target": "proportion_scale",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_6_proportion_scale",
+            "target": "material_proportions",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_6_proportion_scale",
+            "target": "structural_proportions",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_6_proportion_scale",
+            "target": "manufactured_proportions",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_6_proportion_scale",
+            "target": "proportioning_systems",
+            "relation": "contains"
+        },
+        {
+            "source": "proportioning_systems",
+            "target": "theories_of_proportion",
+            "relation": "contains"
+        },
+        {
+            "source": "proportioning_systems",
+            "target": "types_of_proportion",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_6_proportion_scale",
+            "target": "golden_section",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_6_proportion_scale",
+            "target": "regulating_lines",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_6_proportion_scale",
+            "target": "classical_orders",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_6_proportion_scale",
+            "target": "renaissance_theories",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_6_proportion_scale",
+            "target": "modulor",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_6_proportion_scale",
+            "target": "ken",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_6_proportion_scale",
+            "target": "anthropometry",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_6_proportion_scale",
+            "target": "scale",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_6_proportion_scale",
+            "target": "visual_scale",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_6_proportion_scale",
+            "target": "human_scale",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_6_proportion_scale",
+            "target": "a_scalar_comparison",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_7_principles",
+            "target": "ordering_principles",
+            "relation": "contains"
+        },
+        {
+            "source": "ordering_principles",
+            "target": "axis",
+            "relation": "contains"
+        },
+        {
+            "source": "ordering_principles",
+            "target": "symmetry",
+            "relation": "contains"
+        },
+        {
+            "source": "ordering_principles",
+            "target": "hierarchy",
+            "relation": "contains"
+        },
+        {
+            "source": "ordering_principles",
+            "target": "rhythm",
+            "relation": "contains"
+        },
+        {
+            "source": "ordering_principles",
+            "target": "datum",
+            "relation": "contains"
+        },
+        {
+            "source": "ordering_principles",
+            "target": "transformation",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_7_principles",
+            "target": "axis",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_7_principles",
+            "target": "symmetry",
+            "relation": "contains"
+        },
+        {
+            "source": "symmetry",
+            "target": "radial_symmetry",
+            "relation": "contains"
+        },
+        {
+            "source": "symmetry",
+            "target": "bilateral_symmetry",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_7_principles",
+            "target": "hierarchy",
+            "relation": "contains"
+        },
+        {
+            "source": "hierarchy",
+            "target": "hierarchy_by_size",
+            "relation": "contains"
+        },
+        {
+            "source": "hierarchy",
+            "target": "hierarchy_by_shape",
+            "relation": "contains"
+        },
+        {
+            "source": "hierarchy",
+            "target": "hierarchy_by_placement",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_7_principles",
+            "target": "datum",
+            "relation": "contains"
+        },
+        {
+            "source": "datum",
+            "target": "line",
+            "relation": "contains"
+        },
+        {
+            "source": "datum",
+            "target": "plane",
+            "relation": "contains"
+        },
+        {
+            "source": "datum",
+            "target": "volume",
+            "relation": "contains"
+        },
+        {
+            "source": "datum",
+            "target": "datum",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_7_principles",
+            "target": "rhythm",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_7_principles",
+            "target": "repetition",
+            "relation": "contains"
+        },
+        {
+            "source": "repetition",
+            "target": "size",
+            "relation": "contains"
+        },
+        {
+            "source": "repetition",
+            "target": "shape",
+            "relation": "contains"
+        },
+        {
+            "source": "repetition",
+            "target": "detail_characteristics",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_7_principles",
+            "target": "transformation",
+            "relation": "contains"
+        },
+        {
+            "source": "chapter_7_principles",
+            "target": "conclusion",
+            "relation": "contains"
+        },
+        {
+            "source": "conclusion",
+            "target": "meaning_in_architecture",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "a",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "b",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "c",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "d",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "e",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "f",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "g",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "h",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "i",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "j",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "k",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "l",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "m",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "n",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "o",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "p",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "q",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "r",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "s",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "t",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "u",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "v",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "w",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_buildings",
+            "target": "y",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "a",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "b",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "c",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "d",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "e",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "f",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "g",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "h",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "i",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "j",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "k",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "l",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "m",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "n",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "o",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "p",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "r",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "s",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "t",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "u",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "v",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "w",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_designers",
+            "target": "z",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "a",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "b",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "c",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "d",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "e",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "f",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "g",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "h",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "i",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "j",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "k",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "l",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "m",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "n",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "o",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "p",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "q",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "r",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "s",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "t",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "u",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "v",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "w",
+            "relation": "contains"
+        },
+        {
+            "source": "index_of_subject_matter",
+            "target": "y",
+            "relation": "contains"
+        }
+    ]
+}

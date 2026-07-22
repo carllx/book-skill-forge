@@ -1,0 +1,66 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "e_contract",
+      "gt_id": "c1",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "The extracted principle 'Audiovisual Contract' captures the core concept of sound-image synthesis and added value.",
+      "evidence": "The challenge Chion takes up in the first six chapters of Audio-Vision in the form of an Audiovisual Contract a synthesis and further extension of the theories"
+    },
+    {
+      "extracted_id": "e_synchresis",
+      "gt_id": "c2",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "The extracted mechanism 'Synchresis' perfectly matches 'Synchresis' (c2) in the ground truth.",
+      "evidence": "The spontaneous and irresistible mental fusion, completely free of any logic, that happens between a sound and a visual when these occur at exactly the same time"
+    },
+    {
+      "extracted_id": "e_acousmatic",
+      "gt_id": "c3",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "The extracted entity 'Acousmatic Sound' matches the concept of off-screen/unseen source sounds.",
+      "evidence": "in the process Chion forges a number of original words that give him at least a fighting chance: synchresis, spatial magnetization, acousmatic sound"
+    }
+  ],
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "Audiovisual Contract",
+      "aliases": ["视听契约", "Added Value", "附加值", "Audiovisual illusion"],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "Synchresis",
+      "aliases": ["同步离散", "声画同步错觉", "Synchronism and synthesis"],
+      "weight": 10
+    },
+    {
+      "id": "c3",
+      "name": "Acousmatic Sound",
+      "aliases": ["无源声", "幕后音", "Acousmêtre", "Acousmatic"],
+      "weight": 9
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "e_contract",
+      "name": "Audiovisual Contract",
+      "type": "principle"
+    },
+    {
+      "id": "e_synchresis",
+      "name": "Synchresis",
+      "type": "entity"
+    },
+    {
+      "id": "e_acousmatic",
+      "name": "Acousmatic Sound",
+      "type": "entity"
+    }
+  ],
+  "artifact_usability": 0.95
+}

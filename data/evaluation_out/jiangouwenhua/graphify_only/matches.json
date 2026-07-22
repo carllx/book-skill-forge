@@ -1,0 +1,81 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "n_tectonic",
+      "gt_id": "c_tectonics",
+      "confidence": "high",
+      "reasoning": "提取物名称为 '建构 (Tectonic)'，严格对应 Ground Truth 中的核心概念 '建构 (Tectonics)'，且描述一致。"
+    },
+    {
+      "extracted_id": "n_topography",
+      "gt_id": "c_topography",
+      "confidence": "high",
+      "reasoning": "提取物 '地形 (Topography)' 明确强调建筑与场地自然环境的融合，精准匹配 Ground Truth 的 '地形学与场所 (Topography and Place)'。"
+    },
+    {
+      "extracted_id": "n_body_metaphor",
+      "gt_id": "c_body_metaphor",
+      "confidence": "high",
+      "reasoning": "提取物 '身体的隐喻' 的描述为'建筑结构与人类身体结构之间的类比'，完全吻合 Ground Truth 中的 '身体性想像 (Metaphorical process of the body)'。"
+    },
+    {
+      "extracted_id": "n_ontological",
+      "gt_id": "c_ontological_form",
+      "confidence": "high",
+      "reasoning": "提取物 '本体 (Ontological)' 强调建筑的物质性与真实性，严丝合缝地对应 Ground Truth 的 '本体形式 (Ontological form)'。"
+    },
+    {
+      "extracted_id": "n_auguste_perret",
+      "gt_id": "c_rationalism",
+      "confidence": "high",
+      "reasoning": "提取物 '奥古斯特·佩雷' 的描述中明确指出其为 '古典理性主义代表'，命中了 Ground Truth 的 '古典理性主义 (Classical Rationalism)'。"
+    },
+    {
+      "extracted_id": "n_joint",
+      "gt_id": "c_joint",
+      "confidence": "high",
+      "reasoning": "提取物 '节点 (Joint)' 定义为构件相交接的核心部位，并在斯卡帕节点 (n_carlo_scarpa) 描述中点出 '对细部和节点的崇拜'，完美映射 Ground Truth 的 '节点崇拜 (Adoration of the joint)'。"
+    }
+  ],
+  "ground_truth_concepts": [
+    {"id": "c_tectonics", "name": "建构 (Tectonics)", "importance": "CORE"},
+    {"id": "c_poetics", "name": "建造诗学 (Poetics of construction)", "importance": "CORE"},
+    {"id": "c_kernform", "name": "核心形式 (Kernform)", "importance": "CORE"},
+    {"id": "c_kunstform", "name": "艺术形式 (Kunstform)", "importance": "CORE"},
+    {"id": "c_four_elements", "name": "建筑艺术四要素 (Four elements of architecture)", "importance": "CORE"},
+    {"id": "c_tectonics_frame", "name": "构架体系 (Tectonics of the frame)", "importance": "CORE"},
+    {"id": "c_stereotomics", "name": "砌体结构 (Stereotomics of the earthwork)", "importance": "CORE"},
+    {"id": "c_empathy", "name": "移情 (Empathy / Formgefühl)", "importance": "CORE"},
+    {"id": "c_ontological_form", "name": "本体形式 (Ontological form)", "importance": "CORE"},
+    {"id": "c_joint", "name": "节点崇拜 (Adoration of the joint)", "importance": "CORE"},
+    {"id": "c_stoffwechsel", "name": "材料置换理论 (Stoffwechseltheorie)", "importance": "CORE"},
+    {"id": "c_topography", "name": "地形学与场所 (Topography and Place)", "importance": "CORE"},
+    {"id": "c_body_metaphor", "name": "身体性想像 (Metaphorical process of the body)", "importance": "CORE"},
+    {"id": "c_textile", "name": "织理性建构 (Text-ile Tectonic)", "importance": "CORE"},
+    {"id": "c_rationalism", "name": "古典理性主义 (Classical Rationalism)", "importance": "CORE"}
+  ],
+  "extracted_concepts": [
+    {"id": "n_tectonic", "name": "建构 (Tectonic)", "is_redundant": false},
+    {"id": "n_etymology", "name": "词源学考察", "is_redundant": false},
+    {"id": "n_topography", "name": "地形 (Topography)", "is_redundant": false},
+    {"id": "n_body_metaphor", "name": "身体的隐喻", "is_redundant": false},
+    {"id": "n_ethnography", "name": "文化人类学 (Ethnography)", "is_redundant": false},
+    {"id": "n_ontological", "name": "本体 (Ontological)", "is_redundant": false},
+    {"id": "n_representational", "name": "再现 (Representational)", "is_redundant": false},
+    {"id": "n_technique", "name": "技术 (Technique)", "is_redundant": false},
+    {"id": "n_tradition_creation", "name": "传统与创造", "is_redundant": false},
+    {"id": "n_anglo_french", "name": "盎格鲁-法兰西起源", "is_redundant": false},
+    {"id": "n_german_enlightenment", "name": "德国启蒙运动", "is_redundant": false},
+    {"id": "n_auguste_perret", "name": "奥古斯特·佩雷", "is_redundant": false},
+    {"id": "n_mies", "name": "密斯·凡·德·罗", "is_redundant": false},
+    {"id": "n_louis_kahn", "name": "路易·康", "is_redundant": false},
+    {"id": "n_jorn_utzon", "name": "约恩·伍重", "is_redundant": false},
+    {"id": "n_carlo_scarpa", "name": "卡洛·斯卡帕", "is_redundant": false},
+    {"id": "n_joint", "name": "节点 (Joint)", "is_redundant": false}
+  ],
+  "artifact_usability": {
+    "formatting_score": 4,
+    "clarity_score": 4,
+    "logical_score": 4
+  }
+}

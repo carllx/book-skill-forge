@@ -1,0 +1,117 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "e1",
+      "gt_id": "c1_1",
+      "confidence": "high",
+      "reasoning": "作品中的'本体论优先于美学'及其拒绝将艺术视为单纯主观愉悦的论述，明确对应标准答案中的'Aesthetics vs Ontology'。"
+    },
+    {
+      "extracted_id": "e1",
+      "gt_id": "c1_2",
+      "confidence": "high",
+      "reasoning": "作品指出'艺术是真理（Truth）自行发生与显现的道场'，直接对应标准答案中的'Art and Truth'。"
+    },
+    {
+      "extracted_id": "e2",
+      "gt_id": "c7_1",
+      "confidence": "high",
+      "reasoning": "作品中提到的'让未知与神秘保留在其自身的晦暗中'（晦暗对应Concealing），映射了真理发生时的遮蔽与去蔽本性，对应'Clearing and Concealing' / 'Truth and Untruth'。"
+    },
+    {
+      "extracted_id": "e3",
+      "gt_id": "c8",
+      "confidence": "medium",
+      "reasoning": "作品中'向着源头追问'，与海德格尔探讨艺术作为本源（Origin/Ursprung）的探寻路径相呼应。"
+    },
+    {
+      "extracted_id": "e4",
+      "gt_id": "c9",
+      "confidence": "high",
+      "reasoning": "作品明确提出'将所有艺术创作的本质视为“诗”（Dichtung）'，完美对应标准答案中的'Art Is Poetry'及别名'Dichtung'。"
+    },
+    {
+      "extracted_id": "e5",
+      "gt_id": "c6",
+      "confidence": "high",
+      "reasoning": "作品的'建构世界与显现大地的对抗'，一字不差地映射了标准答案的'Counterplay of World and Earth'。"
+    },
+    {
+      "extracted_id": "e6",
+      "gt_id": "c4_3",
+      "confidence": "high",
+      "reasoning": "作品中对于'材料'在艺术中被推向前台而在工具中消失的论述，对应了标准答案对于'Thing as Formed Matter'中质料与形式的讨论。"
+    },
+    {
+      "extracted_id": "e8",
+      "gt_id": "c8_1",
+      "confidence": "high",
+      "reasoning": "作品中提到的'保存者同等重要'并指出欣赏者就是保存者，直接命中了标准答案的'Creators and Preservers'。"
+    },
+    {
+      "extracted_id": "e9",
+      "gt_id": "c8_2",
+      "confidence": "high",
+      "reasoning": "作品中列举了真理奠基的三种方式：'赐予（Bestowing）、奠定（Grounding）、开端（Beginning）'，与标准答案'Founding'的别名严丝合缝。"
+    },
+    {
+      "extracted_id": "e10",
+      "gt_id": "c1_1",
+      "confidence": "high",
+      "reasoning": "作品批评'审美鉴赏主义'将艺术降级为感官体验，再次作为反模式印证了'Aesthetics vs Ontology'中对纯美学视角的拒斥。"
+    },
+    {
+      "extracted_id": "e14",
+      "gt_id": "c5",
+      "confidence": "high",
+      "reasoning": "作品中'工具化还原'批评了用'日常工具的逻辑'和'可用性'审视艺术品，对应标准答案中的'Equipmentality'与'Equipment'。"
+    }
+  ],
+  "ground_truth_concepts": [
+    {"id": "c1", "name": "The End of Art", "importance": 9},
+    {"id": "c1_1", "name": "Aesthetics vs Ontology", "importance": 8},
+    {"id": "c1_2", "name": "Art and Truth", "importance": 10},
+    {"id": "c2", "name": "Authenticity and Silence", "importance": 8},
+    {"id": "c2_1", "name": "Guilt and Conscience", "importance": 7},
+    {"id": "c2_2", "name": "Resoluteness", "importance": 8},
+    {"id": "c3", "name": "Metaphysics and the Loss of Meaning", "importance": 8},
+    {"id": "c3_1", "name": "The Origin of Metaphysics", "importance": 7},
+    {"id": "c4", "name": "The Thingliness of the Thing", "importance": 10},
+    {"id": "c4_1", "name": "Thing as Bearer of Properties", "importance": 6},
+    {"id": "c4_2", "name": "Thing as Object of Perception", "importance": 6},
+    {"id": "c4_3", "name": "Thing as Formed Matter", "importance": 6},
+    {"id": "c5", "name": "Equipment", "importance": 9},
+    {"id": "c5_1", "name": "Van Gogh's Peasant Shoes", "importance": 8},
+    {"id": "c6", "name": "World and Earth", "importance": 10},
+    {"id": "c6_1", "name": "World", "importance": 9},
+    {"id": "c6_2", "name": "Earth", "importance": 9},
+    {"id": "c6_3", "name": "The Rift", "importance": 8},
+    {"id": "c7", "name": "The Happening of Truth", "importance": 10},
+    {"id": "c7_1", "name": "The Nature of Truth is Untruth", "importance": 8},
+    {"id": "c8", "name": "Art as Origin", "importance": 9},
+    {"id": "c8_1", "name": "Creators and Preservers", "importance": 8},
+    {"id": "c8_2", "name": "Founding", "importance": 7},
+    {"id": "c9", "name": "Art Is Poetry", "importance": 8}
+  ],
+  "extracted_concepts": [
+    {"id": "e1", "name": "本体论优先于美学 (Ontological Priority over Aesthetics)", "is_redundant": false},
+    {"id": "e2", "name": "拥抱未决的谜题 (Embracing the Riddle)", "is_redundant": false},
+    {"id": "e3", "name": "向着源头追问 (Radical Questioning towards the Origin)", "is_redundant": false},
+    {"id": "e4", "name": "诗意的投射 (Poetic Projection)", "is_redundant": false},
+    {"id": "e5", "name": "建构世界与显现大地的对抗 (Counterplay of World and Earth)", "is_redundant": false},
+    {"id": "e6", "name": "质料的凸显 (Conspicuous Materiality)", "is_redundant": false},
+    {"id": "e7", "name": "理论即最高实践 (Theoria as Energeia)", "is_redundant": false},
+    {"id": "e8", "name": "保存者同等重要 (Equivalence of Preservers)", "is_redundant": false},
+    {"id": "e9", "name": "奠基即真理事件 (Founding as Truth-Event)", "is_redundant": false},
+    {"id": "e10", "name": "审美鉴赏主义 (Aestheticizing Connoisseurship)", "is_redundant": true},
+    {"id": "e11", "name": "座架的算计 (Calculative Framing / Ge-stell)", "is_redundant": false},
+    {"id": "e12", "name": "脱根的科学主义 (Uprooted Scientism)", "is_redundant": false},
+    {"id": "e13", "name": "主观天才的幻觉 (Subjectivist Illusion of Genius)", "is_redundant": false},
+    {"id": "e14", "name": "工具化还原 (Reduction to Equipmentality)", "is_redundant": false}
+  ],
+  "artifact_usability": {
+    "formatting_score": 5,
+    "clarity_score": 5,
+    "logical_score": 4
+  }
+}

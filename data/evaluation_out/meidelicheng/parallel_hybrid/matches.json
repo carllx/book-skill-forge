@@ -1,0 +1,75 @@
+{
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "有意味的形式",
+      "aliases": [
+        "Significant Form",
+        "积淀",
+        "历史形式"
+      ],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "青铜饕餮",
+      "aliases": [
+        "狞厉的美",
+        "原始宗教",
+        "神秘恐怖"
+      ],
+      "weight": 9
+    },
+    {
+      "id": "c3",
+      "name": "魏晋风度",
+      "aliases": [
+        "人的觉醒",
+        "个体生命",
+        "自然人格"
+      ],
+      "weight": 9
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "ext_h1",
+      "name": "有意味的形式 (积淀原理)",
+      "description": "实体形态表现为'有意味的形式'，其内在美学机制是长期的历史与社会内容的'积淀'。"
+    },
+    {
+      "id": "ext_h2",
+      "name": "青铜饕餮 (狞厉美学)",
+      "description": "实体形态为'青铜饕餮'，代表了早期宗法制社会中'狞厉的美'与'神秘恐怖'的时代精神。"
+    },
+    {
+      "id": "ext_h3",
+      "name": "魏晋风度 (人的觉醒)",
+      "description": "历史文化形态'魏晋风度'，其深层精神内核是'人的觉醒'，对个体生命与自然人格的推崇。"
+    }
+  ],
+  "mappings": [
+    {
+      "gt_id": "c1",
+      "extracted_id": "ext_h1",
+      "is_matched": true,
+      "reasoning": "复合管线完美结合了Graphify抽取的实体'有意味的形式'与Cangjie提炼的心法'积淀'，达到最完整的映射。"
+    },
+    {
+      "gt_id": "c2",
+      "extracted_id": "ext_h2",
+      "is_matched": true,
+      "reasoning": "复合管线不仅抓取了物理载体'青铜饕餮'，还关联了美学原则'狞厉的美'，全方位命中GT。"
+    },
+    {
+      "gt_id": "c3",
+      "extracted_id": "ext_h3",
+      "is_matched": true,
+      "reasoning": "复合管线成功将'魏晋风度'的表层现象与其底层'人的觉醒'动机进行了缝合提取。"
+    }
+  ],
+  "artifact_usability": {
+    "score": 10,
+    "comments": "复合混合管线展现了极强的综合能力，将微观物理实体（图谱）与宏观美学规律（心法）完美缝合，非常适合这种跨理论的文化专著。"
+  }
+}

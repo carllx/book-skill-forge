@@ -1,0 +1,35 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "name": "Prime Objects",
+      "aliases": [
+        "原生造物",
+        "Prime Object",
+        "Inventions"
+      ],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "Replications",
+      "aliases": [
+        "复制与变异",
+        "Mutants",
+        "Replicas",
+        "Variation"
+      ],
+      "weight": 9
+    },
+    {
+      "id": "c3",
+      "name": "Formal Sequences",
+      "aliases": [
+        "形式序列",
+        "Linked Solutions",
+        "Form Classes"
+      ],
+      "weight": 9
+    }
+  ]
+}

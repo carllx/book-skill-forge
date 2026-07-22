@@ -1,0 +1,13 @@
+{
+  "ground_truth_concepts": [
+    {"is_matched": false, "importance": 1.0}
+  ],
+  "extracted_concepts": [
+    {"is_valid": false, "is_redundant": true}
+  ],
+  "artifact_usability": {
+    "formatting_score": 0,
+    "clarity_score": 0,
+    "logical_score": 0
+  }
+}

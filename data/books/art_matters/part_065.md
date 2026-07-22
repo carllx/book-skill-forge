@@ -1,0 +1,39 @@
+## Part 65
+
+> [BREADCRUMB_CTX: 《art_matters》 > Part 65]
+
+1. Cf. Karsten Harries, The Meaning of Modern Art: A Philosophical Interpretation, (Evanston: Northwestern University Press, 1968), 61–73. “Das befreite Nichts,” Durchblicke: Martin Heidegger zum 80. Geburtstag (Frankfurt am Main: Klostermann, 1970), 39–62.   
+2. Walter Benjamin, “The Work of Art in the Age of Mechanical Reproduction,” Illuminations, trans. Harry Zohn (New York: Schocken, 1968), 217–251   
+3. Immanuel Kant, Critique of Judgment, trans. Werner S. Pluhar, (Indianapolis: Hackett,1987), par. 5,   
+4. See Edward Bullough, “Psychical Distance as a Factor in Art and as an Esthetic Principle,” in A Modern Book on Aesthetics: An Anthology, ed. Melvin Rader (New York: Holt and Rinehart, 1952), 404.   
+5. Here we should keep in mind Heidegger’s reading of the German for “resoluteness,” Entschlossenheit, as Ent-schlossenheit, of entschliessen as ent-schliessen, the hyphen alerting us to the components of the word, the prefixent transforming schliessen, “to close or lock something” into “to unlock or open up.”   
+6. Robert Bernasconi is right to insist that the difference between Heidegger’s accounts of painting and temple “has been insufficiently appreciated.” The Question of Language in Heidegger’s History of Being (Atlantic Highlands: Humanities Press, 1989), 36.   
+7. In his Aristotle, and the Work of Art, Poiesis in Being (Houndmill: Palgrave Macmillan, 2006) Mark Sinclair calls attention to the extent to which Heidegger’s thinking of the earth is indebted to Aristotle, even as a critique of Aristotle’s hylomorphism is evident in “The Origin of the Work of Art.” H¨olderlin does not figure in this study.
+
+# Art Is Poetry
+
+# 1. Poetry: The Essence of Art
+
+Consider once more Heidegger’s claim that that the establishment of truth depends on human work, depends especially on the work of the artist. As the essay draws to a close Heidegger becomes more specific and, notwithstanding the earlier emphasis on the Greek temple, insists that it depends especially on poetry, which is now given a certain primacy.1 How are we to understand this primacy? To answer that question we must keep in mind that what Heidegger here calls poetry (Dichtung) names first of all not what we usually mean by that term, but the essence of all art. “Truth, as the clearing and concealing of what is, happens in being composed, as a poet composes a poem. All art, as the letting happen of the advent of the truth of what is, is, as such, essentially poetry. The nature of art, on which both the art work and the artist depend, is the setting-itself-into-work of truth” (G5, 59/72).
+
+What then is this essential poetry, which is thought by Heidegger so inclusively that in Der Spruch des Anaximander (1946) he will call thinking the truth of Being the original dictare, dichten (G5, 328), although more often he is concerned to distinguish the task of the poet and the thinker, as in “The Origin of the Work of Art.” How are we to think poetry as this setting-itself-into-work or advent of truth?
+
+As we have seen, “truth” is not to be thought here in terms of correspondence or correctness. The setting-itself-into-work of truth does not mean that the entities that surround us suddenly cease to be and new ones come into existence. What changes, is the way human beings relate to these things, or better, the way they present themselves. Illuminated by a new light, they now appear other than they were.
+
+It is due to art’s poetic nature that, in the midst of what is, art breaks open an open place, in whose openness everything is other than usual. By virtue of the projected sketch set into the work of the unconcealedness of what is, which casts itself towards us, everything ordinary and hitherto existing becomes an unbeing. This unbeing has lost the capacity to give and keep being as measure. The curious fact here is that the work in no way affects hitherto existing entities by causal connections. The working of the work does not consist in the taking effect of a cause. It lies in a change, happening from out of the work, of the unconcealedness of what is, and this means of Being (G5, 60/72).
+
+How are we to understand this transformation of everything familiar into an unbeing (wird zum Unseienden)? Clearly Heidegger does not mean that things suddenly turn into nothing. Indeed in one sense they remain pretty much the same things they were. This is suggested by the claim: “that the work in no way affects hitherto existing entities by causal connections.” But they no longer present themselves to us as they did before we came under the spell of the poetic work. What has changed is their being. Such talk makes any sense only if we keep in mind the sense in which beings transcend Being, something asserted already in Being and Time, as we have seen. And it becomes clear now that not only is there a sense in which we can talk about beings as transcending some historically established Being: we have to talk that way if we are to make any sense of some particular work of art, say the Greek temple, as a settingitself-into-work of truth. “Being” always names some historically established way things are present to Dasein. Such a way of presencing, Heidegger, asserts, is established by the poetic work.
+
+Poetry, however, is not an aimless imagining of whimsicalities and not a flight of mere notions and fancies into the realm of the unreal. What poetry, as illuminating projection, unfolds of unconcealedness and projects ahead into the design of the figure, is the Open which poetry lets happen, and indeed in such a way that only now, in the midst of beings, the Open brings beings to shine and ring out. If we fix our vision on the nature of the work and its connection with the happening of the truth of what is, it becomes questionable whether the nature of poetry, and this means at the same time the nature of projection, can be adequately thought of in terms of the power of the imagination (G5, 60/72–73).
+
+The last sentence could be read as an invitation to reconsider the role Kant assigns to the imagination, not just in his discussion of art, but also in his theory of knowledge — and in the end the two, as we shall see, turn out to be inseparably linked.
+
+But if the poetic work is said to cast on perhaps familiar beings a new light that renders them visible as never before, in Heidegger’s words that lets them “shine and ring out,” how are we to think this? That beauty is like a light that renders things visible is an idea as old as Xenophon’s Symposium. But how is this simile to be unpacked? How might a work of art function as such an illuminating projection? How does the work transform our understanding of Being?
+
+Perhaps we should think of a painting by Mondrian and of the way it led persons to see buildings and their environment in a different way. A new world was indeed being projected.
+
+# 2. Poetry and Poesy
+
+Up to this point “poetry” has been understood so generally that this “poetry” has as much to do with painting or architecture as it does with what we usually call poetry, with what Heidegger here calls poesy (Poesie). And yet poetry in this narrow sense is given now a certain privilege over the other arts.
+
+If all art is in essence poetry, then the arts of architecture, painting, sculpture, and music must be traced back to poesy. That is pure arbitrariness. It certainly is, as long as we mean that those arts are varieties of the art of language, if it is permissible to characterize poesy by that easily misinterpretable title. But poesy is only one mode of the lighting projection of truth, i.e. of poetic composition in this wider sense. Nevertheless, the linguistic work, the poem in the narrower sense, has a privileged position in the domain of the arts (G5, 60–61/73).

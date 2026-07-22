@@ -1,0 +1,19 @@
+> [BREADCRUMB_CTX: 《Audio-Vision: Sound on Screen》 > Title Page]
+
+# Title Page
+
+AUDIO-VISION
+
+SOUND ON SCREEN
+
+SECOND EDITION
+
+MICHEL CHION
+
+FOREWORD BY WALTER MURCH
+
+EDITED AND TRANSLATED BY CLAUDIA GORBMAN
+
+Columbia University Press
+
+New York

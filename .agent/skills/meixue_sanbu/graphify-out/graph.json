@@ -1,0 +1,2450 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "file_bbc44bf0",
+      "label": "宗白华 - 2005 - 美学散步 chunk 000 preamble",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_000_preamble.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8c44bcd3",
+      "label": "图书在版编目 (CIP) 数据",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_001_图书在版编目__CIP__数据.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2f6b6f0f",
+      "label": "重版说明",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_002_重版说明.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2932ae9f",
+      "label": "编者",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_003_编者.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d1a03e72",
+      "label": "中国美学史中重要问题的初步探索 [059]",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_004_中国美学史中重要问题的初步探索__059_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_dd378c37",
+      "label": "中国书法里的美学思想 [273]",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_005_中国书法里的美学思想__273_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_274bb3ac",
+      "label": "背美 昌",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_006_背美_昌.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5ade220d",
+      "label": "小言",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_007_小言.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8f629bef",
+      "label": "诗 （文学） 和画的分界",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_008_诗__文学__和画的分界.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a791f460",
+      "label": "美写",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_101_美写.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_930143c7",
+      "label": "(《流云小诗》）",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_010___流云小诗__.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_58e691aa",
+      "label": "空灵",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_011_空灵.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_33464937",
+      "label": "如在镜中游。",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_012_如在镜中游_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a2c03dfc",
+      "label": "充实",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_013_充实.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b61cd43f",
+      "label": "（一） 学习中国美学史有特殊的优点和特殊的困难",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_014__一__学习中国美学史有特殊的优点和特殊的困难.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_18916ba7",
+      "label": "（二） 学习中国美学史在方法上要注意的问题",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_015__二__学习中国美学史在方法上要注意的问题.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ea6c7d61",
+      "label": "(一） 把哲学、 文学著作和工艺、 美术品联系起来研究",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_016__一__把哲学__文学著作和工艺__美术品联系起来研究.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9bc80803",
+      "label": "（二） 错采镂金的美和芙蓉出水的美",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_017__二__错采镂金的美和芙蓉出水的美.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2a7e1a8a",
+      "label": "（三） 虚和实之一《考工记》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_018__三__虚和实之一_考工记_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_02302643",
+      "label": "（四） 虚和实之二化景物为情思",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_019__四__虚和实之二化景物为情思.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b128fadd",
+      "label": "（五） 《易经》 的美学之一 《贲卦》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_020__五___易经__的美学之一__贲卦_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3926bcca",
+      "label": "（六） 《易经》 的美学之二 《离卦》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_021__六___易经__的美学之二__离卦_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_11a69936",
+      "label": "（一） 从线条中透露出形象姿态",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_022__一__从线条中透露出形象姿态.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_50a06ee0",
+      "label": "（二） 气韵生动和迁想妙得 （见洛阳西汉墓壁画）",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_023__二__气韵生动和迁想妙得__见洛阳西汉墓壁画_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4f78171f",
+      "label": "（三） 骨力、骨法、风骨",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_024__三__骨力_骨法_风骨.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_0a274864",
+      "label": "（四） “山水之法， 以大观小”",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_025__四___山水之法__以大观小_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3a1e88ba",
+      "label": "（一) 关于 《乐记》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_026__一__关于__乐记_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_68003850",
+      "label": "（二） 从逻辑语言走到音乐语言",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_028__二__从逻辑语言走到音乐语言.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2e9cb88e",
+      "label": "（三） “声中无字， 字中有声”",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_029__三___声中无字__字中有声_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_973daadd",
+      "label": "韵味。",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_030_韵味_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e6820cbe",
+      "label": "（四） 务头",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_031__四__务头.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_62b44478",
+      "label": "(《闲情偶寄·别解务头》）",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_032___闲情偶寄_别解务头__.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_85c6660a",
+      "label": "（一） 飞动之美",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_033__一__飞动之美.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9e6c3ea6",
+      "label": "（二） 空间的美感之一",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_034__二__空间的美感之一.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a84d7ef4",
+      "label": "北京颐和园",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_035_北京颐和园.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_0823498a",
+      "label": "（三） 空间的美感之二",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_036__三__空间的美感之二.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_fd2a031d",
+      "label": "引言",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_037_引言.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_14dc82f0",
+      "label": "意境的意义",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_038_意境的意义.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_120c294d",
+      "label": "断肠人在天涯！",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_039_断肠人在天涯_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c48d1f04",
+      "label": "一岸冷云何处香。",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_040_一岸冷云何处香_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_508cdea4",
+      "label": "意境与山水",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_041_意境与山水.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e15e7f67",
+      "label": "元·董其昌－山水图",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_042_元_董其昌_山水图.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_bfc865ab",
+      "label": "三、 意境创造与人格涵养",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_043_三__意境创造与人格涵养.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_bc641f18",
+      "label": "四、 禅境的表现",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_044_四__禅境的表现.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7bef1bd3",
+      "label": "五、道、舞、 空白：中国艺术意境结构的特点",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_045_五_道_舞__空白_中国艺术意境结构的特点.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d8997f12",
+      "label": "冥！ ” 郭若虚的 《图画见闻志》 上说：",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_046_冥____郭若虚的__图画见闻志__上说_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ca410d60",
+      "label": "剑器行》 首段云：",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_047_剑器行__首段云_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b1cbd9ea",
+      "label": "美",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_050_美.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f68edecc",
+      "label": "美喝",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_049_美喝.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c7c23e17",
+      "label": "美邮",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_051_美邮.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e067a828",
+      "label": "宗白华 - 2005 - 美学散步 chunk 052 美写 2",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_052_美写_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_01c3e9b5",
+      "label": "[希腊] 巴泰龙神庙",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_053__希腊__巴泰龙神庙.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9a25aa23",
+      "label": "华严寺辽塑",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_054_华严寺辽塑.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8de82607",
+      "label": "元·董其昌-高逸图",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_055_元_董其昌_高逸图.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1463e697",
+      "label": "（三） 空气的透视法。",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_057__三__空气的透视法__1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_264f27fe",
+      "label": "宗白华 - 2005 - 美学散步 chunk 057  三  空气的透视法  2",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_057__三__空气的透视法__2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_edf0dd20",
+      "label": "徐悲鸿-漓江山水",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_058_徐悲鸿_漓江山水.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_86b40567",
+      "label": "龙门石窟",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_059_龙门石窟.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ab7a226a",
+      "label": "敦煌-飞天",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_060_敦煌_飞天.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9fb2787c",
+      "label": "\\$W多：",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_061___W多_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6308faf6",
+      "label": "用笔",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_062_用笔.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a5c642ef",
+      "label": "4 结构",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_063_4_结构.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ddf0aedf",
+      "label": "精 r 董",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_064_精_r_董.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_636ed126",
+      "label": "(2) 避就",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_065__2__避就.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_eff432fc",
+      "label": "(3) 顶戴",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_066__3__顶戴.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3174bc26",
+      "label": "(4) 穿插",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_067__4__穿插.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7b215a9f",
+      "label": "(5) 向背",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_068__5__向背.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6eb6b440",
+      "label": "(6) 偏侧",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_069__6__偏侧.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_96dec065",
+      "label": "（7) 挑攘",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_070__7__挑攘.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_06dc1bc3",
+      "label": "(8) 相让",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_071__8__相让.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2f39af7b",
+      "label": "(9) 补空",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_072__9__补空.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_20c09e8a",
+      "label": "(10) 覆盖",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_073__10__覆盖.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6e6a3afe",
+      "label": "(11) 贴零",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_074__11__贴零.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f1e4d454",
+      "label": "火臥",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_075_火臥.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_cccf533e",
+      "label": "(13) 捷速",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_076__13__捷速.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d96f9c18",
+      "label": "(14) 满不要虛",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_077__14__满不要虛.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4f95b74b",
+      "label": "(15) 意连",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_078__15__意连.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ff0b0386",
+      "label": "(16) 复置",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_079__16__复置.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_78c7e112",
+      "label": "(17) 垂曳",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_080__17__垂曳.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_76e7a3db",
+      "label": "(18) 借换",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_081__18__借换.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c1622bba",
+      "label": "(20) 应副",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_082__20__应副.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f146acfc",
+      "label": "(21) 撑拄",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_083__21__撑拄.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_100d3ad9",
+      "label": "(22) 朝揖",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_084__22__朝揖.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_77b8d67a",
+      "label": "(23) 救应",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_085__23__救应.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_abb79ba4",
+      "label": "都",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_086_都.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8018a3dc",
+      "label": "(25) 回抱",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_087__25__回抱.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_173e56eb",
+      "label": "(26) 包裹",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_088__26__包裹.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3769e7f6",
+      "label": "(27) 小成大",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_089__27__小成大.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e4ea27a5",
+      "label": "(28) 小大成形",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_090__28__小大成形.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5a55d2a7",
+      "label": "(29) 小大与大小",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_091__29__小大与大小.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e9bb8493",
+      "label": "(31) 相管领",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_092__31__相管领.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_19ba3bcb",
+      "label": "(32) 应接",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_093__32__应接.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a5647466",
+      "label": "(33) 褊",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_094__33__褊.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_dd801a17",
+      "label": "(34) 左小右大",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_095__34__左小右大.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2d122009",
+      "label": "(36) 却好",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_096__36__却好.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f1ff1025",
+      "label": "三、 章法",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_097_三__章法.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9001f4ab",
+      "label": "宋·米芾-向乱帖",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_098_宋_米芾_向乱帖.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_589db226",
+      "label": "宋·马远-孔子像",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_099_宋_马远_孔子像.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_82d1dba9",
+      "label": "宋·钱舜举 山居图",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_102_宋_钱舜举_山居图.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_55aaac4b",
+      "label": "宋·欧阳修-书法",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_103_宋_欧阳修_书法.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a06bf990",
+      "label": "（三） 晋人艺术境界造诣的高，不仅是基于他们的意",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_104__三__晋人艺术境界造诣的高_不仅是基于他们的意.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_cae9401d",
+      "label": "象更大。）",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_105_象更大__.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c5298767",
+      "label": "附：清谈与析理",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_106_附_清谈与析理.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_aca5abfe",
+      "label": "形式与表现",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_107_形式与表现.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a9eae36c",
+      "label": "古希腊遗迹",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_108_古希腊遗迹.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_fc3d4154",
+      "label": "原始美与艺术创造",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_109_原始美与艺术创造.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7daff365",
+      "label": "三、 艺术家在社会上的地位",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_110_三__艺术家在社会上的地位.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_0d813932",
+      "label": "四、 中庸与净化",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_111_四__中庸与净化.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2c5a22e1",
+      "label": "五、 艺术与模仿自然",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_112_五__艺术与模仿自然.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6f84d1f8",
+      "label": "六、 艺术与艺术家",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_113_六__艺术与艺术家.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4bb45352",
+      "label": "三",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_114_三.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_532e5401",
+      "label": "四",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_115_四_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8e0a579e",
+      "label": "宗白华 - 2005 - 美学散步 chunk 115 四 2",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_115_四_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_63e61a02",
+      "label": "五",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_116_五.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_535fc2ff",
+      "label": "（二） 照片所摄的自然之影比以上诸公的艺术杰作更",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_117__二__照片所摄的自然之影比以上诸公的艺术杰作更.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b45ed002",
+      "label": "（见 《三叶集》）",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_118__见__三叶集__.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f681d675",
+      "label": "(一）",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_119__一_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_47d36a83",
+      "label": "（二）",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_120__二_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_cd08079e",
+      "label": "《生命之窗的内外》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_121__生命之窗的内外_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_58d4588a",
+      "label": "文学与民族的关系",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_122_文学与民族的关系.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_46b204ed",
+      "label": "唐代诗坛的特质与其时代背景",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_123_唐代诗坛的特质与其时代背景.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_84d22eba",
+      "label": "三、 初唐时期—民族诗歌的萌芽",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_124_三__初唐时期_民族诗歌的萌芽.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1e388167",
+      "label": "《述怀》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_125__述怀_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6d294022",
+      "label": "《送魏大从军》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_126__送魏大从军_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_22f382f6",
+      "label": "《东征答朝臣相送》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_127__东征答朝臣相送_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3fad5885",
+      "label": "《从军行》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_131__从军行_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1174edaa",
+      "label": "《侠客远从容》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_129__侠客远从容_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_308e2ab4",
+      "label": "《刘生》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_132__刘生_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_761b3e40",
+      "label": "《望蓟门》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_133__望蓟门_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1a7c4f59",
+      "label": "四、 盛唐时期一 民族诗歌的成熟",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_134_四__盛唐时期一_民族诗歌的成熟.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4d132c4e",
+      "label": "《喜闻盗贼总退口号》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_135__喜闻盗贼总退口号_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ed23d1f8",
+      "label": "《走马川行奉送封大夫出师西征》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_136__走马川行奉送封大夫出师西征_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3d249dc2",
+      "label": "《封大夫破播仙凯歌》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_137__封大夫破播仙凯歌_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_749c32f7",
+      "label": "王摩诘（维）两首：",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_138_王摩诘_维_两首_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_41461e4e",
+      "label": "《平戎辞》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_139__平戎辞_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7d4867f8",
+      "label": "《出塞》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_140__出塞_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f2349fbf",
+      "label": "《赴邠宁留别》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_141__赴邠宁留别_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_43603d70",
+      "label": "《采桑》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_142__采桑_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_54fecd09",
+      "label": "《赠李将军》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_143__赠李将军_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_39ed52e2",
+      "label": "《蓟门行》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_144__蓟门行_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e7033204",
+      "label": "《送征夫》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_145__送征夫_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9242ae63",
+      "label": "五、 民族诗歌的结晶一 一出塞曲",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_146_五__民族诗歌的结晶一_一出塞曲.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_561eb4db",
+      "label": "《出塞曲》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_147__出塞曲_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_499611c9",
+      "label": "杨炯： 《出塞》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_148_杨炯___出塞_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9967b676",
+      "label": "沈佺期： 《塞北》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_149_沈佺期___塞北_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1f69c40a",
+      "label": "王维： 《出塞》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_150_王维___出塞_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b044df4d",
+      "label": "陈子昂： 《和陆明府贈将军重出塞》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_151_陈子昂___和陆明府贈将军重出塞_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3857be21",
+      "label": "王涯： 《塞上曲》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_152_王涯___塞上曲_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_75d2d016",
+      "label": "王涯： 《从军词》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_153_王涯___从军词_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_11d80ff2",
+      "label": "薛奇重： 《塞下曲》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_154_薛奇重___塞下曲_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f0aaf3a7",
+      "label": "张仲素： 《塞下曲》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_155_张仲素___塞下曲_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_11720466",
+      "label": "六、尾语一唐代的没落与没落的诗人",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_156_六_尾语一唐代的没落与没落的诗人.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_89a25071",
+      "label": "《寄令狐中郎》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_157__寄令狐中郎_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_934a87bb",
+      "label": "《经五丈原》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_158__经五丈原_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1d0cda4d",
+      "label": "《贈蜀将》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_159__贈蜀将_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_dba92448",
+      "label": "《夜看牡丹》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_160__夜看牡丹_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_601a9c54",
+      "label": "《崔珏和人鸳鸯之什》",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_161__崔珏和人鸳鸯之什_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_78f09adb",
+      "label": "无情最是台城柳， 依旧烟笼十里堤！",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_162_无情最是台城柳__依旧烟笼十里堤_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ca6a12a3",
+      "label": "后记",
+      "file_type": "concept",
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_163_后记.md",
+      "description": "Primary concept extracted from chunk"
+    }
+  ],
+  "links": [
+    {
+      "source": "file_bbc44bf0",
+      "target": "file_8c44bcd3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_001_图书在版编目__CIP__数据.md"
+    },
+    {
+      "source": "file_8c44bcd3",
+      "target": "file_2f6b6f0f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_002_重版说明.md"
+    },
+    {
+      "source": "file_2f6b6f0f",
+      "target": "file_2932ae9f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_003_编者.md"
+    },
+    {
+      "source": "file_2932ae9f",
+      "target": "file_d1a03e72",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_004_中国美学史中重要问题的初步探索__059_.md"
+    },
+    {
+      "source": "file_d1a03e72",
+      "target": "file_dd378c37",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_005_中国书法里的美学思想__273_.md"
+    },
+    {
+      "source": "file_dd378c37",
+      "target": "file_274bb3ac",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_006_背美_昌.md"
+    },
+    {
+      "source": "file_274bb3ac",
+      "target": "file_5ade220d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_007_小言.md"
+    },
+    {
+      "source": "file_5ade220d",
+      "target": "file_8f629bef",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_008_诗__文学__和画的分界.md"
+    },
+    {
+      "source": "file_8f629bef",
+      "target": "file_a791f460",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_009_美写.md"
+    },
+    {
+      "source": "file_a791f460",
+      "target": "file_930143c7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_010___流云小诗__.md"
+    },
+    {
+      "source": "file_930143c7",
+      "target": "file_58e691aa",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_011_空灵.md"
+    },
+    {
+      "source": "file_58e691aa",
+      "target": "file_33464937",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_012_如在镜中游_.md"
+    },
+    {
+      "source": "file_33464937",
+      "target": "file_a2c03dfc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_013_充实.md"
+    },
+    {
+      "source": "file_a2c03dfc",
+      "target": "file_b61cd43f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_014__一__学习中国美学史有特殊的优点和特殊的困难.md"
+    },
+    {
+      "source": "file_b61cd43f",
+      "target": "file_18916ba7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_015__二__学习中国美学史在方法上要注意的问题.md"
+    },
+    {
+      "source": "file_18916ba7",
+      "target": "file_ea6c7d61",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_016__一__把哲学__文学著作和工艺__美术品联系起来研究.md"
+    },
+    {
+      "source": "file_ea6c7d61",
+      "target": "file_9bc80803",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_017__二__错采镂金的美和芙蓉出水的美.md"
+    },
+    {
+      "source": "file_9bc80803",
+      "target": "file_2a7e1a8a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_018__三__虚和实之一_考工记_.md"
+    },
+    {
+      "source": "file_2a7e1a8a",
+      "target": "file_02302643",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_019__四__虚和实之二化景物为情思.md"
+    },
+    {
+      "source": "file_02302643",
+      "target": "file_b128fadd",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_020__五___易经__的美学之一__贲卦_.md"
+    },
+    {
+      "source": "file_b128fadd",
+      "target": "file_3926bcca",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_021__六___易经__的美学之二__离卦_.md"
+    },
+    {
+      "source": "file_3926bcca",
+      "target": "file_11a69936",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_022__一__从线条中透露出形象姿态.md"
+    },
+    {
+      "source": "file_11a69936",
+      "target": "file_50a06ee0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_023__二__气韵生动和迁想妙得__见洛阳西汉墓壁画_.md"
+    },
+    {
+      "source": "file_50a06ee0",
+      "target": "file_4f78171f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_024__三__骨力_骨法_风骨.md"
+    },
+    {
+      "source": "file_4f78171f",
+      "target": "file_0a274864",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_025__四___山水之法__以大观小_.md"
+    },
+    {
+      "source": "file_0a274864",
+      "target": "file_3a1e88ba",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_026__一__关于__乐记_.md"
+    },
+    {
+      "source": "file_3a1e88ba",
+      "target": "file_a791f460",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_027_美写.md"
+    },
+    {
+      "source": "file_a791f460",
+      "target": "file_68003850",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_028__二__从逻辑语言走到音乐语言.md"
+    },
+    {
+      "source": "file_68003850",
+      "target": "file_2e9cb88e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_029__三___声中无字__字中有声_.md"
+    },
+    {
+      "source": "file_2e9cb88e",
+      "target": "file_973daadd",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_030_韵味_.md"
+    },
+    {
+      "source": "file_973daadd",
+      "target": "file_e6820cbe",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_031__四__务头.md"
+    },
+    {
+      "source": "file_e6820cbe",
+      "target": "file_62b44478",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_032___闲情偶寄_别解务头__.md"
+    },
+    {
+      "source": "file_62b44478",
+      "target": "file_85c6660a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_033__一__飞动之美.md"
+    },
+    {
+      "source": "file_85c6660a",
+      "target": "file_9e6c3ea6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_034__二__空间的美感之一.md"
+    },
+    {
+      "source": "file_9e6c3ea6",
+      "target": "file_a84d7ef4",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_035_北京颐和园.md"
+    },
+    {
+      "source": "file_a84d7ef4",
+      "target": "file_0823498a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_036__三__空间的美感之二.md"
+    },
+    {
+      "source": "file_0823498a",
+      "target": "file_fd2a031d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_037_引言.md"
+    },
+    {
+      "source": "file_fd2a031d",
+      "target": "file_14dc82f0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_038_意境的意义.md"
+    },
+    {
+      "source": "file_14dc82f0",
+      "target": "file_120c294d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_039_断肠人在天涯_.md"
+    },
+    {
+      "source": "file_120c294d",
+      "target": "file_c48d1f04",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_040_一岸冷云何处香_.md"
+    },
+    {
+      "source": "file_c48d1f04",
+      "target": "file_508cdea4",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_041_意境与山水.md"
+    },
+    {
+      "source": "file_508cdea4",
+      "target": "file_e15e7f67",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_042_元_董其昌_山水图.md"
+    },
+    {
+      "source": "file_e15e7f67",
+      "target": "file_bfc865ab",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_043_三__意境创造与人格涵养.md"
+    },
+    {
+      "source": "file_bfc865ab",
+      "target": "file_bc641f18",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_044_四__禅境的表现.md"
+    },
+    {
+      "source": "file_bc641f18",
+      "target": "file_7bef1bd3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_045_五_道_舞__空白_中国艺术意境结构的特点.md"
+    },
+    {
+      "source": "file_7bef1bd3",
+      "target": "file_d8997f12",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_046_冥____郭若虚的__图画见闻志__上说_.md"
+    },
+    {
+      "source": "file_d8997f12",
+      "target": "file_ca410d60",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_047_剑器行__首段云_.md"
+    },
+    {
+      "source": "file_ca410d60",
+      "target": "file_b1cbd9ea",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_048_美.md"
+    },
+    {
+      "source": "file_b1cbd9ea",
+      "target": "file_f68edecc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_049_美喝.md"
+    },
+    {
+      "source": "file_f68edecc",
+      "target": "file_b1cbd9ea",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_050_美.md"
+    },
+    {
+      "source": "file_b1cbd9ea",
+      "target": "file_c7c23e17",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_051_美邮.md"
+    },
+    {
+      "source": "file_c7c23e17",
+      "target": "file_a791f460",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_052_美写_1.md"
+    },
+    {
+      "source": "file_a791f460",
+      "target": "file_e067a828",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_052_美写_2.md"
+    },
+    {
+      "source": "file_e067a828",
+      "target": "file_01c3e9b5",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_053__希腊__巴泰龙神庙.md"
+    },
+    {
+      "source": "file_01c3e9b5",
+      "target": "file_9a25aa23",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_054_华严寺辽塑.md"
+    },
+    {
+      "source": "file_9a25aa23",
+      "target": "file_8de82607",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_055_元_董其昌_高逸图.md"
+    },
+    {
+      "source": "file_8de82607",
+      "target": "file_a791f460",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_056_美写.md"
+    },
+    {
+      "source": "file_a791f460",
+      "target": "file_1463e697",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_057__三__空气的透视法__1.md"
+    },
+    {
+      "source": "file_1463e697",
+      "target": "file_264f27fe",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_057__三__空气的透视法__2.md"
+    },
+    {
+      "source": "file_264f27fe",
+      "target": "file_edf0dd20",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_058_徐悲鸿_漓江山水.md"
+    },
+    {
+      "source": "file_edf0dd20",
+      "target": "file_86b40567",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_059_龙门石窟.md"
+    },
+    {
+      "source": "file_86b40567",
+      "target": "file_ab7a226a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_060_敦煌_飞天.md"
+    },
+    {
+      "source": "file_ab7a226a",
+      "target": "file_9fb2787c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_061___W多_.md"
+    },
+    {
+      "source": "file_9fb2787c",
+      "target": "file_6308faf6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_062_用笔.md"
+    },
+    {
+      "source": "file_6308faf6",
+      "target": "file_a5c642ef",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_063_4_结构.md"
+    },
+    {
+      "source": "file_a5c642ef",
+      "target": "file_ddf0aedf",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_064_精_r_董.md"
+    },
+    {
+      "source": "file_ddf0aedf",
+      "target": "file_636ed126",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_065__2__避就.md"
+    },
+    {
+      "source": "file_636ed126",
+      "target": "file_eff432fc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_066__3__顶戴.md"
+    },
+    {
+      "source": "file_eff432fc",
+      "target": "file_3174bc26",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_067__4__穿插.md"
+    },
+    {
+      "source": "file_3174bc26",
+      "target": "file_7b215a9f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_068__5__向背.md"
+    },
+    {
+      "source": "file_7b215a9f",
+      "target": "file_6eb6b440",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_069__6__偏侧.md"
+    },
+    {
+      "source": "file_6eb6b440",
+      "target": "file_96dec065",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_070__7__挑攘.md"
+    },
+    {
+      "source": "file_96dec065",
+      "target": "file_06dc1bc3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_071__8__相让.md"
+    },
+    {
+      "source": "file_06dc1bc3",
+      "target": "file_2f39af7b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_072__9__补空.md"
+    },
+    {
+      "source": "file_2f39af7b",
+      "target": "file_20c09e8a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_073__10__覆盖.md"
+    },
+    {
+      "source": "file_20c09e8a",
+      "target": "file_6e6a3afe",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_074__11__贴零.md"
+    },
+    {
+      "source": "file_6e6a3afe",
+      "target": "file_f1e4d454",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_075_火臥.md"
+    },
+    {
+      "source": "file_f1e4d454",
+      "target": "file_cccf533e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_076__13__捷速.md"
+    },
+    {
+      "source": "file_cccf533e",
+      "target": "file_d96f9c18",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_077__14__满不要虛.md"
+    },
+    {
+      "source": "file_d96f9c18",
+      "target": "file_4f95b74b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_078__15__意连.md"
+    },
+    {
+      "source": "file_4f95b74b",
+      "target": "file_ff0b0386",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_079__16__复置.md"
+    },
+    {
+      "source": "file_ff0b0386",
+      "target": "file_78c7e112",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_080__17__垂曳.md"
+    },
+    {
+      "source": "file_78c7e112",
+      "target": "file_76e7a3db",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_081__18__借换.md"
+    },
+    {
+      "source": "file_76e7a3db",
+      "target": "file_c1622bba",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_082__20__应副.md"
+    },
+    {
+      "source": "file_c1622bba",
+      "target": "file_f146acfc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_083__21__撑拄.md"
+    },
+    {
+      "source": "file_f146acfc",
+      "target": "file_100d3ad9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_084__22__朝揖.md"
+    },
+    {
+      "source": "file_100d3ad9",
+      "target": "file_77b8d67a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_085__23__救应.md"
+    },
+    {
+      "source": "file_77b8d67a",
+      "target": "file_abb79ba4",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_086_都.md"
+    },
+    {
+      "source": "file_abb79ba4",
+      "target": "file_8018a3dc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_087__25__回抱.md"
+    },
+    {
+      "source": "file_8018a3dc",
+      "target": "file_173e56eb",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_088__26__包裹.md"
+    },
+    {
+      "source": "file_173e56eb",
+      "target": "file_3769e7f6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_089__27__小成大.md"
+    },
+    {
+      "source": "file_3769e7f6",
+      "target": "file_e4ea27a5",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_090__28__小大成形.md"
+    },
+    {
+      "source": "file_e4ea27a5",
+      "target": "file_5a55d2a7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_091__29__小大与大小.md"
+    },
+    {
+      "source": "file_5a55d2a7",
+      "target": "file_e9bb8493",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_092__31__相管领.md"
+    },
+    {
+      "source": "file_e9bb8493",
+      "target": "file_19ba3bcb",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_093__32__应接.md"
+    },
+    {
+      "source": "file_19ba3bcb",
+      "target": "file_a5647466",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_094__33__褊.md"
+    },
+    {
+      "source": "file_a5647466",
+      "target": "file_dd801a17",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_095__34__左小右大.md"
+    },
+    {
+      "source": "file_dd801a17",
+      "target": "file_2d122009",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_096__36__却好.md"
+    },
+    {
+      "source": "file_2d122009",
+      "target": "file_f1ff1025",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_097_三__章法.md"
+    },
+    {
+      "source": "file_f1ff1025",
+      "target": "file_9001f4ab",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_098_宋_米芾_向乱帖.md"
+    },
+    {
+      "source": "file_9001f4ab",
+      "target": "file_589db226",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_099_宋_马远_孔子像.md"
+    },
+    {
+      "source": "file_589db226",
+      "target": "file_a791f460",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_100_美写.md"
+    },
+    {
+      "source": "file_a791f460",
+      "target": "file_a791f460",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_101_美写.md"
+    },
+    {
+      "source": "file_a791f460",
+      "target": "file_82d1dba9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_102_宋_钱舜举_山居图.md"
+    },
+    {
+      "source": "file_82d1dba9",
+      "target": "file_55aaac4b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_103_宋_欧阳修_书法.md"
+    },
+    {
+      "source": "file_55aaac4b",
+      "target": "file_a06bf990",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_104__三__晋人艺术境界造诣的高_不仅是基于他们的意.md"
+    },
+    {
+      "source": "file_a06bf990",
+      "target": "file_cae9401d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_105_象更大__.md"
+    },
+    {
+      "source": "file_cae9401d",
+      "target": "file_c5298767",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_106_附_清谈与析理.md"
+    },
+    {
+      "source": "file_c5298767",
+      "target": "file_aca5abfe",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_107_形式与表现.md"
+    },
+    {
+      "source": "file_aca5abfe",
+      "target": "file_a9eae36c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_108_古希腊遗迹.md"
+    },
+    {
+      "source": "file_a9eae36c",
+      "target": "file_fc3d4154",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_109_原始美与艺术创造.md"
+    },
+    {
+      "source": "file_fc3d4154",
+      "target": "file_7daff365",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_110_三__艺术家在社会上的地位.md"
+    },
+    {
+      "source": "file_7daff365",
+      "target": "file_0d813932",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_111_四__中庸与净化.md"
+    },
+    {
+      "source": "file_0d813932",
+      "target": "file_2c5a22e1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_112_五__艺术与模仿自然.md"
+    },
+    {
+      "source": "file_2c5a22e1",
+      "target": "file_6f84d1f8",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_113_六__艺术与艺术家.md"
+    },
+    {
+      "source": "file_6f84d1f8",
+      "target": "file_4bb45352",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_114_三.md"
+    },
+    {
+      "source": "file_4bb45352",
+      "target": "file_532e5401",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_115_四_1.md"
+    },
+    {
+      "source": "file_532e5401",
+      "target": "file_8e0a579e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_115_四_2.md"
+    },
+    {
+      "source": "file_8e0a579e",
+      "target": "file_63e61a02",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_116_五.md"
+    },
+    {
+      "source": "file_63e61a02",
+      "target": "file_535fc2ff",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_117__二__照片所摄的自然之影比以上诸公的艺术杰作更.md"
+    },
+    {
+      "source": "file_535fc2ff",
+      "target": "file_b45ed002",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_118__见__三叶集__.md"
+    },
+    {
+      "source": "file_b45ed002",
+      "target": "file_f681d675",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_119__一_.md"
+    },
+    {
+      "source": "file_f681d675",
+      "target": "file_47d36a83",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_120__二_.md"
+    },
+    {
+      "source": "file_47d36a83",
+      "target": "file_cd08079e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_121__生命之窗的内外_.md"
+    },
+    {
+      "source": "file_cd08079e",
+      "target": "file_58d4588a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_122_文学与民族的关系.md"
+    },
+    {
+      "source": "file_58d4588a",
+      "target": "file_46b204ed",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_123_唐代诗坛的特质与其时代背景.md"
+    },
+    {
+      "source": "file_46b204ed",
+      "target": "file_84d22eba",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_124_三__初唐时期_民族诗歌的萌芽.md"
+    },
+    {
+      "source": "file_84d22eba",
+      "target": "file_1e388167",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_125__述怀_.md"
+    },
+    {
+      "source": "file_1e388167",
+      "target": "file_6d294022",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_126__送魏大从军_.md"
+    },
+    {
+      "source": "file_6d294022",
+      "target": "file_22f382f6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_127__东征答朝臣相送_.md"
+    },
+    {
+      "source": "file_22f382f6",
+      "target": "file_3fad5885",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_128__从军行_.md"
+    },
+    {
+      "source": "file_3fad5885",
+      "target": "file_1174edaa",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_129__侠客远从容_.md"
+    },
+    {
+      "source": "file_1174edaa",
+      "target": "file_3fad5885",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_130__从军行_.md"
+    },
+    {
+      "source": "file_3fad5885",
+      "target": "file_3fad5885",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_131__从军行_.md"
+    },
+    {
+      "source": "file_3fad5885",
+      "target": "file_308e2ab4",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_132__刘生_.md"
+    },
+    {
+      "source": "file_308e2ab4",
+      "target": "file_761b3e40",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_133__望蓟门_.md"
+    },
+    {
+      "source": "file_761b3e40",
+      "target": "file_1a7c4f59",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_134_四__盛唐时期一_民族诗歌的成熟.md"
+    },
+    {
+      "source": "file_1a7c4f59",
+      "target": "file_4d132c4e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_135__喜闻盗贼总退口号_.md"
+    },
+    {
+      "source": "file_4d132c4e",
+      "target": "file_ed23d1f8",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_136__走马川行奉送封大夫出师西征_.md"
+    },
+    {
+      "source": "file_ed23d1f8",
+      "target": "file_3d249dc2",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_137__封大夫破播仙凯歌_.md"
+    },
+    {
+      "source": "file_3d249dc2",
+      "target": "file_749c32f7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_138_王摩诘_维_两首_.md"
+    },
+    {
+      "source": "file_749c32f7",
+      "target": "file_41461e4e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_139__平戎辞_.md"
+    },
+    {
+      "source": "file_41461e4e",
+      "target": "file_7d4867f8",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_140__出塞_.md"
+    },
+    {
+      "source": "file_7d4867f8",
+      "target": "file_f2349fbf",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_141__赴邠宁留别_.md"
+    },
+    {
+      "source": "file_f2349fbf",
+      "target": "file_43603d70",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_142__采桑_.md"
+    },
+    {
+      "source": "file_43603d70",
+      "target": "file_54fecd09",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_143__赠李将军_.md"
+    },
+    {
+      "source": "file_54fecd09",
+      "target": "file_39ed52e2",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_144__蓟门行_.md"
+    },
+    {
+      "source": "file_39ed52e2",
+      "target": "file_e7033204",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_145__送征夫_.md"
+    },
+    {
+      "source": "file_e7033204",
+      "target": "file_9242ae63",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_146_五__民族诗歌的结晶一_一出塞曲.md"
+    },
+    {
+      "source": "file_9242ae63",
+      "target": "file_561eb4db",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_147__出塞曲_.md"
+    },
+    {
+      "source": "file_561eb4db",
+      "target": "file_499611c9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_148_杨炯___出塞_.md"
+    },
+    {
+      "source": "file_499611c9",
+      "target": "file_9967b676",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_149_沈佺期___塞北_.md"
+    },
+    {
+      "source": "file_9967b676",
+      "target": "file_1f69c40a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_150_王维___出塞_.md"
+    },
+    {
+      "source": "file_1f69c40a",
+      "target": "file_b044df4d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_151_陈子昂___和陆明府贈将军重出塞_.md"
+    },
+    {
+      "source": "file_b044df4d",
+      "target": "file_3857be21",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_152_王涯___塞上曲_.md"
+    },
+    {
+      "source": "file_3857be21",
+      "target": "file_75d2d016",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_153_王涯___从军词_.md"
+    },
+    {
+      "source": "file_75d2d016",
+      "target": "file_11d80ff2",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_154_薛奇重___塞下曲_.md"
+    },
+    {
+      "source": "file_11d80ff2",
+      "target": "file_f0aaf3a7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_155_张仲素___塞下曲_.md"
+    },
+    {
+      "source": "file_f0aaf3a7",
+      "target": "file_11720466",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_156_六_尾语一唐代的没落与没落的诗人.md"
+    },
+    {
+      "source": "file_11720466",
+      "target": "file_89a25071",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_157__寄令狐中郎_.md"
+    },
+    {
+      "source": "file_89a25071",
+      "target": "file_934a87bb",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_158__经五丈原_.md"
+    },
+    {
+      "source": "file_934a87bb",
+      "target": "file_1d0cda4d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_159__贈蜀将_.md"
+    },
+    {
+      "source": "file_1d0cda4d",
+      "target": "file_dba92448",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_160__夜看牡丹_.md"
+    },
+    {
+      "source": "file_dba92448",
+      "target": "file_601a9c54",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_161__崔珏和人鸳鸯之什_.md"
+    },
+    {
+      "source": "file_601a9c54",
+      "target": "file_78f09adb",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_162_无情最是台城柳__依旧烟笼十里堤_.md"
+    },
+    {
+      "source": "file_78f09adb",
+      "target": "file_ca6a12a3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "宗白华 - 2005 - 美学散步_chunk_163_后记.md"
+    }
+  ]
+}

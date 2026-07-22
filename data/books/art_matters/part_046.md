@@ -1,0 +1,39 @@
+## Part 46
+
+> [BREADCRUMB_CTX: 《art_matters》 > Part 46]
+
+Significantly Heidegger here also names words as the poet’s material, a formulation that forces us to question an understanding of language that tries to align it too closely with logic, for logic knows nothing of the earth. A profound distance would thus seem to separate logical space and language. Buried in all language is the rift between world and earth. Poetry reveals that rift. Revealing that rift poetry lets words speak. How does it do that? We are given a hint by the way Heidegger here draws a distinction between the way an artist uses his materials and the way a craftsman does. On Heidegger’s view the artist represents his medium and thereby makes it conspicuous.10 Similarly the poet re-presents his medium, makes it conspicuous.
+
+According to Heidegger the work moves the earth itself into the Open of a world. In the world it asserts the usually passed over earth. How does it accomplish this?
+
+A stone presses downward and manifests its heaviness. But while this heaviness exerts an opposing pressure upon us it denies us any penetration into it. If we attempt such a penetration by breaking open the rock, it still does not display in its fragments anything inward that has been disclosed. The stone has instantly withdrawn again into the same dull pressure and bulk of its fragments. If we try to lay hold of the stone’s heaviness in another way, by placing the stone on a balance, we merely bring the heaviness into the form of a calculated weight. This perhaps very precise determination of the stone remains a number, but the weight’s burden has escaped us. Color shines and wants only to shine. When we analyze it in rational terms by measuring its wavelength, it is gone. It shows itself only when it remains undisclosed and unexplained. Earth thus shatters every attempt to penetrate into it. It causes every merely calculating importunity upon it to turn into a destruction. This destruction may herald itself under the appearance of mastery and of progress in the form of the technicalscientific objectivation of nature, but this mastery nevertheless remains an impotence of will. The earth appears openly cleared as itself only when it is perceived and preserved as that which is by nature undisclosable, that which shrinks from every disclosure and constantly keeps itself closed up (G5, 33/46–47).
+
+To say that the work of art sets forth the earth is to say that the artist lets us understand in some sense what the earth is. And yet this is a very peculiar kind of understanding, an understanding that is more like tasting or smelling than like clearly seeing what is before one’s eyes. We can say that this is an understanding that knows that Seyn transcends Sein, knows about the impotence of knowledge, that accepts what in Being and Time is said to be Dasein’s essential guilt: an authentic understanding.
+
+The understanding of the earth granted by art thus challenges the kind of understanding that tries to lay hold of the stone’s heaviness by measuring it, that does not let the matter be, but seeks to master it, to overpower it by subjecting it to human measures. The artwork thus challenges that access to reality that claims that it is clear and distinct reasoning that presents to us things as they are. Art teaches us that such reasoning replaces what is with constructions of the human spirit. To be open to the reality of things is to be open to that dimension of things that will always resist human mastery. It is this dimension Heidegger calls the earth. Art recalls us to the earth.
+
+Heidegger’s earth thus names what I have come to call “material transcendence.”11 By that term I mean to refer to that aspect of things that makes them incapable of being adequately expressed in some clear and distinct discourse.
+
+Difficult to understand are the lines that follow the cited passage:
+
+All things of earth, and the earth itself as a whole, flow together in a reciprocal accord. But this confluence is not a blurring of their outlines. Here there flows the stream, restful within itself, of the setting of bounds, which delimits everything within its presence. Thus in each of the selfsecluding things there is the same not-knowing-of-one-another. The earth is essentially self-secluding. To set forth the earth means to bring it into the Open as self-secluding (G5, 33/47).
+
+How are we to understand the Heraclitean metaphor: earth as a flow with many rivulets, each preserving its distinctive outline? This suggests that the earth holds the secret to each thing’s unique identity. The artist preserves that identity.
+
+To be sure, the sculptor uses stone just as the mason uses it, in his own way. But he does not use it up. That happens in a certain way only where the work miscarries. To be sure, the painter also uses pigments, but in such a way that color is not used up but rather only now comes to shine forth. To be sure, the poet also uses the word— not, however, like ordinary speakers and writers who have to use them up, but rather in such a way that the word only now becomes and remains truly a word (G5, 34/47– 48).
+
+To build a temple is, among other things, to re-present the sky under which it stands, the ground that supports it, the marble of which it is made. Thus re-presented, the sky, ground, and marble are revealed as what they are. Note how different such art is from representational painting that uses paint and canvas as means of pictorial representation. Ideally such representation lets you forget the medium. In this sense it wants to deceive the eye. A mimetic, representational art of this sort is not at all what Heidegger has in mind. He call for an art able to re-present the earth. Much art of the sixties and seventies sought to return to art this re-presentational function: the painter tries to do little more than to reveal paint as paint, canvas as canvas.12 It is this material aspect of the work of art that Heidegger also terms its thingly aspect.
+
+Heidegger began the essay, trying to understand the work of art as a thing, a made thing, a made thing that has a certain meaning. We can now say that a successful work of art re-presents itself as the unique thing it is. In this sense art can be said to keep us open to material transcendence, and perhaps it can do so even when it lacks the strength to establish a world: art can open an already established world up to the earth— that power it has not lost. By so doing it also opens us to what Heidegger terms the Ereignis.
+
+Heidegger concludes this discussion of “earth” by returning to the meaning of material, Werkstoff.
+
+Nowhere in the work is there any trace of a work-material. It even remains doubtful whether, in the essential definition of equipment, what the equipment consists of is properly described in its equipmental nature as matter (G5, 34/48).
+
+Interesting here is the comparison of “Nowhere in the work is there any trace of a work-material” with the German: U¨ berall west im Werk nichts von einem Werkstoff. Wesen suggests presencing. What is presencing in the work is this nichts von einem Werkstoff. That is to say, we experience the distance of such work from mere equipment. The world in which equipment and the material of which it is made have their home has been left behind.
+
+# 4. The Strife of Earth and World
+
+Having developed his understanding of the world as a setting up of a world and a setting forth of the earth, Heidegger returns to the self-subsistence (Insichstehen) of the art work:
+
+The setting up of a world and the setting forth of earth are two essential features in the work-being of the work. They belong together, however, in the unity of work-being. This is the unity we seek when we ponder the self-subsistence of the work and try to express in words this closed, unitary repose of self-support (G5, 34/48).

@@ -1,0 +1,76 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Digital Cinema",
+      "description": "Cinema created using digital technologies like 3D animation, digital compositing, and painting, changing its identity from indexical recording to a subset of animation."
+    },
+    {
+      "id": "n2",
+      "label": "Computer-based Image",
+      "description": "An image that is discrete, modular, mathematically defined, and functions as both a representation and an interactive interface."
+    },
+    {
+      "id": "n3",
+      "label": "Traditional Cinema",
+      "description": "The art of the index based on photographic recording, sequence narrative, and temporal montage."
+    },
+    {
+      "id": "n4",
+      "label": "Animation",
+      "description": "A form relying on constructed, modified, or hand-painted images, discontinuous space, and discrete motion, which now forms the basis of digital cinema."
+    },
+    {
+      "id": "n5",
+      "label": "Loop",
+      "description": "A repetitive temporal structure used in early moving pictures, computer programming, and new media narrative as an engine for interactive story progression."
+    },
+    {
+      "id": "n6",
+      "label": "Spatial Montage",
+      "description": "A mode of juxtaposition where multiple images co-exist simultaneously on a screen, mirroring GUI logic and challenging linear cinematic narrative."
+    },
+    {
+      "id": "n7",
+      "label": "Cinegratography",
+      "description": "A hybrid language merging cinematic illusionism and graphic collage aesthetics, heavily explored in CD-ROM interactive media."
+    },
+    {
+      "id": "n8",
+      "label": "Database Narrative",
+      "description": "A narrative formed by accessing and streaming records from a database in real time."
+    }
+  ],
+  "edges": [
+    {
+      "source": "n1",
+      "target": "n3",
+      "label": "redefines"
+    },
+    {
+      "source": "n1",
+      "target": "n4",
+      "label": "is a subset of"
+    },
+    {
+      "source": "n1",
+      "target": "n2",
+      "label": "is composed of"
+    },
+    {
+      "source": "n7",
+      "target": "n1",
+      "label": "is a visual language of"
+    },
+    {
+      "source": "n5",
+      "target": "n8",
+      "label": "acts as narrative engine for"
+    },
+    {
+      "source": "n6",
+      "target": "n1",
+      "label": "represents a new spatial dimension for"
+    }
+  ]
+}

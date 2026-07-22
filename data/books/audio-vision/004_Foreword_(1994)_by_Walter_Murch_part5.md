@@ -1,0 +1,9 @@
+## Foreword (1994) by Walter Murch (Part 5)
+
+> [BREADCRUMB_CTX: 《Audio-Vision: Sound on Screen》 > Foreword (1994) by Walter Murch (Part 5)]
+
+And yet there is an echo here of our earliest experience of the world: the revelation at birth (or soon after) that the song that sang to us from the very dawn of our consciousness in the womb—a song that seemed to come from everywhere and to be part of us before we had any conception of what “us” meant—that this song is the voice of another and that she is now separate from us and we from her. We regret the loss of former unity—some say that our lives are a ceaseless quest to retrieve it—and yet we delight in seeing the face of our mother: the one is the price to be paid for the other.
+
+•
+
+This earliest, most powerful fusion of sound and image sets the tone for all that are to come. One of the dominant themes of my experience with sound, ever since that first encounter at age ten, has been continual discovery—the exhilaration forty years later of coming upon new features of a landscape that has still not been entirely mapped out. Chion’s contributions here and in his previous books combine a serious attempt to discover the true coordinates and features of this continent of sound with the excitement of those early explorers who have forged their own path through the forests and return with tales of wonderful things seen for the first time. For all that Chion pursues the goal of a coherent theory, though, perhaps his theory’s greatest attribute is its recognition that within that coherence there is no place for completeness—that there will always be something about sound that “bypasses and surprises us,” and that we must never entirely succeed in taming the dancing shadow and the singing soul.

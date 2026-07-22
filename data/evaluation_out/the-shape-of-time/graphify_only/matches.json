@@ -1,0 +1,66 @@
+{
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "Prime Objects",
+      "aliases": ["原生造物", "Prime Object", "Inventions"],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "Replications",
+      "aliases": ["复制与变异", "Mutants", "Replicas", "Variation"],
+      "weight": 9
+    },
+    {
+      "id": "c3",
+      "name": "Formal Sequences",
+      "aliases": ["形式序列", "Linked Solutions", "Form Classes"],
+      "weight": 9
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "e1",
+      "name": "Prime Object",
+      "type": "Entity"
+    },
+    {
+      "id": "e2",
+      "name": "Replica-mass",
+      "type": "Entity"
+    },
+    {
+      "id": "e3",
+      "name": "Formal Sequence",
+      "type": "Entity"
+    }
+  ],
+  "mappings": [
+    {
+      "gt_id": "c1",
+      "extracted_id": "e1",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Direct match to Prime Objects as an entity.",
+      "evidence": "Prime objects resemble the prime numbers of mathematics because no conclusive rule is known to govern the appearance of either..."
+    },
+    {
+      "gt_id": "c2",
+      "extracted_id": "e2",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Replica-mass directly relates to Replications and Replicas.",
+      "evidence": "Prime objects and replications denote principal inventions, and the entire system of replicas, reproductions, copies, reductions, transfers, and derivations, floating in the wake of an important work of art. The replica-mass resembles certain habits of popular speech..."
+    },
+    {
+      "gt_id": "c3",
+      "extracted_id": "e3",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Direct match to Formal Sequences.",
+      "evidence": "Every important work of art can be regarded both as a historical event and as a hard-won solution to some problem. ... The chain of solutions nevertheless discloses the problem."
+    }
+  ],
+  "artifact_usability": 0.8
+}

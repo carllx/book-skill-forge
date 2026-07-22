@@ -1,0 +1,14 @@
+name: "Graphify Only Recipe"
+description: "Pipeline using only Graphify for structural extraction"
+version: "1.0"
+
+pipeline:
+  - agent: "graphify-agent"
+    role: "Extract structural knowledge graph"
+  - agent: "book-to-skill-agent"
+    role: "Assemble final SKILL.md artifact"
+
+evaluation:
+  agent: "judge-agent"
+  ground_truth_path: "data/ground_truth/{book_id}/concepts.json"
+  output_format: "matches.json"

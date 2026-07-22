@@ -1,0 +1,6 @@
+{"timestamp": "2026-07-21T22:01:54.621396", "book_id": "the-shape-of-time", "recipe": "graphify_only", "recall": 0.0, "precision": 1.0, "usability": 0.8, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:01:54.803633", "book_id": "the-shape-of-time", "recipe": "cangjie_only", "recall": 0.0, "precision": 1.0, "usability": 0.9, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:01:55.047785", "book_id": "the-shape-of-time", "recipe": "parallel_hybrid", "recall": 0.0, "precision": 1.0, "usability": 0.95, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:03:04.647815", "book_id": "the-shape-of-time", "recipe": "graphify_only", "recall": 1.0, "precision": 1.0, "usability": 0.8, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:03:04.836359", "book_id": "the-shape-of-time", "recipe": "cangjie_only", "recall": 1.0, "precision": 1.0, "usability": 0.9, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:03:05.077589", "book_id": "the-shape-of-time", "recipe": "parallel_hybrid", "recall": 1.0, "precision": 1.0, "usability": 0.95, "artifact_size_bytes": 0}

@@ -1,0 +1,78 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Database",
+      "description": "A structured collection of data where every item has the same significance, emerging as a dominant cultural form of the computer age.",
+      "mental_model": "Database Logic"
+    },
+    {
+      "id": "n2",
+      "label": "Narrative",
+      "description": "A cause-and-effect trajectory of events that creates a unique trajectory through a database, often de-materialized in new media.",
+      "mental_model": "Database Logic"
+    },
+    {
+      "id": "n3",
+      "label": "Algorithm",
+      "description": "A final sequence of simple operations executed by a computer to accomplish a task. Drives interactive narratives and games.",
+      "mental_model": "Computer Ontology"
+    },
+    {
+      "id": "n4",
+      "label": "Data Structure",
+      "description": "Data organized in a particular way for efficient search and retrieval, complementary to algorithms.",
+      "mental_model": "Computer Ontology"
+    },
+    {
+      "id": "n5",
+      "label": "Paradigm",
+      "description": "A set of related elements from which choices are made (implicit in traditional media, explicitly materialized in new media databases).",
+      "mental_model": "Semiology"
+    },
+    {
+      "id": "n6",
+      "label": "Syntagm",
+      "description": "A linear sequence or combination of signs, representing the actualized narrative trajectory.",
+      "mental_model": "Semiology"
+    },
+    {
+      "id": "n7",
+      "label": "Navigable Space",
+      "description": "A 3D virtual environment where navigation through space becomes a central action for narrative and exploration.",
+      "mental_model": "Navigable Space"
+    }
+  ],
+  "edges": [
+    {
+      "source": "n1",
+      "target": "n2",
+      "label": "Natural Enemies / Competing Imaginations"
+    },
+    {
+      "source": "n3",
+      "target": "n4",
+      "label": "Symbiotic Relationship / Ontology Halves"
+    },
+    {
+      "source": "n1",
+      "target": "n5",
+      "label": "Corresponds to"
+    },
+    {
+      "source": "n2",
+      "target": "n6",
+      "label": "Corresponds to"
+    },
+    {
+      "source": "n7",
+      "target": "n2",
+      "label": "Replaces or Drives Plot"
+    },
+    {
+      "source": "n7",
+      "target": "n1",
+      "label": "Serves as Interface for Data Visualization"
+    }
+  ]
+}

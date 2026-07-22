@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Antigravity & BSF Sandbox
+data/evaluation_runs/
+scratch/
+*.matches.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Generated docs
+lib/writing-great-skills-framework-scraper/docs/UML/html/
+
+# Large files
+archive/
+*.epub
+*.pdf

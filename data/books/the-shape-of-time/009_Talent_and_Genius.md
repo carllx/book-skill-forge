@@ -1,0 +1,14 @@
+> [BREADCRUMB_CTX: 《The Shape of Time》 > Talent and Genius]
+
+# Talent and Genius
+
+Talent and Genius
+
+By this view, the great differences between artists are not so much those of talent as of entrance and position in sequence. Talent is a predisposition: a talented pupil begins younger; he masters the tradition more quickly; his inventions come more fluently than those of his untalented fellows. But undiscovered talents abound as well among people whose schooling failed to gear with their abilities, as among people whose abilities were unrequited in spite of their talent. Predispositions are probably much more numerous than actual vocations allow us to suppose. The quality talented people share is a matter of kind more than degree, because the gradations of talent signify less than its presence.
+
+It is meaningless to debate whether Leonardo was more talented than Raphael. Both were talented. Bernardino Luini and Giulio Romano also were talented. But the followers had bad luck. They came late when the feast was over through no fault of their own. The mechanics of fame are such that their predecessors’ talent is magnified, and their own is diminished, when talent itself is only a relatively common predisposition for visual order, without a wide range of differentiation. Times and opportunities differ more than the degree of talent.
+
+Of course many other conditions must reinforce talent: physical energy, durable health, powers of concentration, are a few of the gifts of fortune with which the artist is best endowed. But our conceptions of artistic genius underwent such fantastic transformations in the romantic agony of the nineteenth century that we still today unthinkingly identify “genius” as a congenital disposition and as an inborn difference of kind among men, instead of as a fortuitous keying together of disposition and situation into an exceptionally efficient entity. There is no clear evidence that “genius” is inheritable. Its incidence under nurture, in situations favorable to craft learning, as with adopted children reared in the 
+families of professional musicians, marks “genius” as a phenomenon of learning rather than of genetics.
+
+Purpose has no place in biology, but history has no meaning without it. In that earlier transfer of biological ideas to historical events, of which so many traces survive in the historian’s diction, both typology (which is the study of kinds and varieties) and morphology (the study of forms) were misunderstood. Because these modes of biological description cannot be made to account for purpose, the historian working with biological ideas avoided the principal aim of history, which usually has been to identify and reconstruct the particular problem to which any action or thing must correspond as a solution. Sometimes the problem is a rational one, and sometimes it is an artistic one: we always may be sure that every man-made thing arises from a problem as a purposeful solution.

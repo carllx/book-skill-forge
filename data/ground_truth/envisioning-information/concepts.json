@@ -1,0 +1,44 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "name": "Escaping Flatland",
+      "aliases": [
+        "逃离扁平国",
+        "Multivariate data",
+        "High-dimensional"
+      ],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "Micro/Macro Readings",
+      "aliases": [
+        "微观与宏观阅读",
+        "Micro-macro",
+        "Detail and overall"
+      ],
+      "weight": 9
+    },
+    {
+      "id": "c3",
+      "name": "Layering and Separation",
+      "aliases": [
+        "分层与分隔",
+        "Visual noise",
+        "Layering"
+      ],
+      "weight": 9
+    },
+    {
+      "id": "c4",
+      "name": "Small Multiples",
+      "aliases": [
+        "小多图",
+        "Multiple variations",
+        "Comparative"
+      ],
+      "weight": 8
+    }
+  ]
+}

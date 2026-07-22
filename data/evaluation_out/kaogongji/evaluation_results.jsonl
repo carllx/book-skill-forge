@@ -1,0 +1,3 @@
+{"timestamp": "2026-07-21T22:08:44.423518", "book_id": "kaogongji", "recipe": "graphify_only", "recall": 1.0, "precision": 1.0, "usability": 0.6, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:08:44.609543", "book_id": "kaogongji", "recipe": "cangjie_only", "recall": 1.0, "precision": 1.0, "usability": 0.7, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:08:44.804397", "book_id": "kaogongji", "recipe": "parallel_hybrid", "recall": 1.0, "precision": 1.0, "usability": 1.0, "artifact_size_bytes": 0}

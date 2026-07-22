@@ -1,0 +1,9 @@
+{"timestamp": "2026-07-21T18:38:33.993611", "book_id": "visual-display", "recipe": "Graphify Only", "recall": 0.0, "precision": 0.9230769230769231, "usability": 0.7533333333333334, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T18:38:34.220467", "book_id": "visual-display", "recipe": "Cangjie Only", "recall": 0.0, "precision": 0.9166666666666666, "usability": 0.9066666666666666, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T18:38:34.426483", "book_id": "visual-display", "recipe": "Parallel Hybrid", "recall": 0.0, "precision": 0.9375, "usability": 0.9800000000000001, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T18:39:23.997587", "book_id": "visual-display", "recipe": "Graphify Only", "recall": 0.0, "precision": 0.9230769230769231, "usability": 0.7533333333333334, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T18:39:24.191290", "book_id": "visual-display", "recipe": "Cangjie Only", "recall": 0.0, "precision": 0.9166666666666666, "usability": 0.9066666666666666, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T18:39:24.375869", "book_id": "visual-display", "recipe": "Parallel Hybrid", "recall": 0.0, "precision": 0.9375, "usability": 0.9800000000000001, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T18:39:56.190766", "book_id": "visual-display", "recipe": "Graphify Only", "recall": 0.7829457364341084, "precision": 0.9230769230769231, "usability": 0.7533333333333334, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T18:39:56.497293", "book_id": "visual-display", "recipe": "Cangjie Only", "recall": 0.7674418604651162, "precision": 0.9166666666666666, "usability": 0.9066666666666666, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T18:39:56.702096", "book_id": "visual-display", "recipe": "Parallel Hybrid", "recall": 1.0, "precision": 0.9375, "usability": 0.9800000000000001, "artifact_size_bytes": 0}

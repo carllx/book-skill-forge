@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    {"id": "n1", "label": "Graphical Excellence", "description": "Well-designed presentation of interesting data—a matter of substance, of statistics, and of design. Consists of complex ideas communicated with clarity, precision, and efficiency."},
+    {"id": "n2", "label": "Graphical Integrity", "description": "Telling the truth about the data. Avoiding distortion and deception in visual representation."},
+    {"id": "n3", "label": "Lie Factor", "description": "The ratio of the size of the effect shown in the graphic to the size of the effect in the data. Should be around 1.0."},
+    {"id": "n4", "label": "Data-Ink Ratio", "description": "The proportion of a graphic's ink devoted to the non-redundant display of data-information."},
+    {"id": "n5", "label": "Chartjunk", "description": "Non-data-ink or redundant data-ink that clutters the graphic and distracts the viewer. Includes moiré effects, heavy grids, and 'ducks'."},
+    {"id": "n6", "label": "Small Multiples", "description": "A series of similar graphics or charts, using the same scale and axes, allowing them to be easily compared."},
+    {"id": "n7", "label": "Data Density", "description": "The number of data points per square inch. High data density graphics are usually better."},
+    {"id": "n8", "label": "Multifunctioning Graphical Elements", "description": "Graphical elements that can convey data information and also perform a design function (e.g., forming a grid)."}
+  ],
+  "edges": [
+    {"source": "n1", "target": "n2", "relation": "requires"},
+    {"source": "n2", "target": "n3", "relation": "measured by"},
+    {"source": "n1", "target": "n4", "relation": "maximized by"},
+    {"source": "n4", "target": "n5", "relation": "opposes"},
+    {"source": "n1", "target": "n6", "relation": "exemplified by"},
+    {"source": "n1", "target": "n7", "relation": "improved by"},
+    {"source": "n4", "target": "n8", "relation": "supported by"}
+  ]
+}

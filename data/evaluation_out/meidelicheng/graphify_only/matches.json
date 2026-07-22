@@ -1,0 +1,75 @@
+{
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "有意味的形式",
+      "aliases": [
+        "Significant Form",
+        "积淀",
+        "历史形式"
+      ],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "青铜饕餮",
+      "aliases": [
+        "狞厉的美",
+        "原始宗教",
+        "神秘恐怖"
+      ],
+      "weight": 9
+    },
+    {
+      "id": "c3",
+      "name": "魏晋风度",
+      "aliases": [
+        "人的觉醒",
+        "个体生命",
+        "自然人格"
+      ],
+      "weight": 9
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "ext_g1",
+      "name": "有意味的形式",
+      "description": "克莱夫·贝尔提出的概念，在本书中指代远古图腾艺术经过历史沉淀后的形式美。"
+    },
+    {
+      "id": "ext_g2",
+      "name": "青铜饕餮",
+      "description": "商周青铜器上的典型纹饰，具有神秘恐怖的特征。"
+    },
+    {
+      "id": "ext_g3",
+      "name": "魏晋风度",
+      "description": "魏晋时期的士人风貌，代表了人的觉醒。"
+    }
+  ],
+  "mappings": [
+    {
+      "gt_id": "c1",
+      "extracted_id": "ext_g1",
+      "is_matched": true,
+      "reasoning": "Graphify成功提取了核心节点'有意味的形式'，这是独立成章的标题实体。"
+    },
+    {
+      "gt_id": "c2",
+      "extracted_id": "ext_g2",
+      "is_matched": true,
+      "reasoning": "Graphify作为实体抽取器，明确捕捉到了'青铜饕餮'这一具体物件/图案实体。"
+    },
+    {
+      "gt_id": "c3",
+      "extracted_id": "ext_g3",
+      "is_matched": true,
+      "reasoning": "Graphify提取了历史文化名词'魏晋风度'作为核心节点。"
+    }
+  ],
+  "artifact_usability": {
+    "score": 8,
+    "comments": "纯图谱方案很好地保留了书中的核心专有名词，但在体现深层审美原则（如‘积淀’、‘狞厉的美’）的内涵上略显单薄。"
+  }
+}

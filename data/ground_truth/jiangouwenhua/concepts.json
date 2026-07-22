@@ -1,0 +1,198 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "domain": "建构文化研究 (Studies in Tectonic Culture)",
+  "version": "1.0",
+  "concepts": [
+    {
+      "id": "c_tectonics",
+      "name": "建构 (Tectonics)",
+      "aliases": [
+        "Tectonic"
+      ],
+      "description": "The art and science of construction, emphasizing the expressive potential of structure and joinery.",
+      "weight": 1.0,
+      "source_references": [],
+      "sub_concepts": [
+        {
+          "id": "c_poetics",
+          "name": "建造诗学 (Poetics of construction)",
+          "aliases": [],
+          "description": "The expressive and poetic articulation of structural elements.",
+          "weight": 0.9,
+          "source_references": [],
+          "sub_concepts": [],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        },
+        {
+          "id": "c_kernform",
+          "name": "核心形式 (Kernform)",
+          "aliases": [
+            "Core Form"
+          ],
+          "description": "The structural and technical core of a building element.",
+          "weight": 0.8,
+          "source_references": [],
+          "sub_concepts": [],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        },
+        {
+          "id": "c_kunstform",
+          "name": "艺术形式 (Kunstform)",
+          "aliases": [
+            "Art Form"
+          ],
+          "description": "The symbolic, representational, and aesthetic aspect of a building element.",
+          "weight": 0.8,
+          "source_references": [],
+          "sub_concepts": [],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        }
+      ],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_four_elements",
+      "name": "建筑艺术四要素 (Four elements of architecture)",
+      "aliases": [],
+      "description": "Gottfried Semper's classification of architecture into earthwork, hearth, framework/roof, and enclosing membrane.",
+      "weight": 1.0,
+      "source_references": [],
+      "sub_concepts": [
+        {
+          "id": "c_tectonics_frame",
+          "name": "构架体系 (Tectonics of the frame)",
+          "aliases": [
+            "Framework"
+          ],
+          "description": "Lightweight, linear elements joined to form a spatial matrix.",
+          "weight": 0.8,
+          "source_references": [],
+          "sub_concepts": [],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        },
+        {
+          "id": "c_stereotomics",
+          "name": "砌体结构 (Stereotomics of the earthwork)",
+          "aliases": [
+            "Earthwork",
+            "Stereotomic"
+          ],
+          "description": "Heavy, compressive mass structures.",
+          "weight": 0.8,
+          "source_references": [],
+          "sub_concepts": [],
+          "importance": "CORE",
+          "source_chapter": "Unknown Chapter"
+        }
+      ],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_empathy",
+      "name": "移情 (Empathy / Formgefühl)",
+      "aliases": [
+        "Formgefühl"
+      ],
+      "description": "The psychological projection of human feeling into architectural form.",
+      "weight": 0.7,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_ontological_form",
+      "name": "本体形式 (Ontological form)",
+      "aliases": [],
+      "description": "The inherent truth and necessity of a form derived from its material and making.",
+      "weight": 0.8,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_joint",
+      "name": "节点崇拜 (Adoration of the joint)",
+      "aliases": [
+        "The Joint"
+      ],
+      "description": "The articulation of connections as the primary locus of architectural meaning.",
+      "weight": 0.9,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_stoffwechsel",
+      "name": "材料置换理论 (Stoffwechseltheorie)",
+      "aliases": [
+        "Material Transformation"
+      ],
+      "description": "Semper's theory that formal motifs persist across changes in physical materials over time.",
+      "weight": 0.8,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_topography",
+      "name": "地形学与场所 (Topography and Place)",
+      "aliases": [],
+      "description": "The anchoring of architecture into its specific cultural and physical ground.",
+      "weight": 0.8,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_body_metaphor",
+      "name": "身体性想像 (Metaphorical process of the body)",
+      "aliases": [],
+      "description": "Understanding architectural elements through analogy to the human body.",
+      "weight": 0.7,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_textile",
+      "name": "织理性建构 (Text-ile Tectonic)",
+      "aliases": [
+        "Textile Motif"
+      ],
+      "description": "The origins of enclosing walls in weaving and textile arts.",
+      "weight": 0.8,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    },
+    {
+      "id": "c_rationalism",
+      "name": "古典理性主义 (Classical Rationalism)",
+      "aliases": [],
+      "description": "The logical, structural tradition underlying neoclassical architecture.",
+      "weight": 0.7,
+      "source_references": [],
+      "sub_concepts": [],
+      "importance": "CORE",
+      "source_chapter": "Unknown Chapter"
+    }
+  ],
+  "book": "jiangouwenhua",
+  "author": "Unknown",
+  "edition": "Unknown",
+  "gt_version": "2.0",
+  "source_completeness": "COMPLETE"
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "gt_01",
+    "name": "家屋 (The House)",
+    "aliases": ["家", "庇护所", "House", "Home"],
+    "importance": 10,
+    "description": "人类最初的宇宙，提供身体的庇护与心灵的安顿。垂直性（阁楼与地窖）与集中性是其核心特征。"
+  },
+  {
+    "id": "gt_02",
+    "name": "抽屉、箱子与衣橱 (Drawers, Chests, and Wardrobes)",
+    "aliases": ["抽屉", "箱子", "衣橱", "隐藏的空间"],
+    "importance": 8,
+    "description": "隐藏与守护秘密的空间，存放记忆、梦想与个人的私密宇宙。"
+  },
+  {
+    "id": "gt_03",
+    "name": "巢与贝壳 (Nests and Shells)",
+    "aliases": ["巢", "贝壳", "Nests", "Shells"],
+    "importance": 9,
+    "description": "自然界中提供庇护的模型，象征着绝对的退隐与原生安全感。"
+  },
+  {
+    "id": "gt_04",
+    "name": "角落 (Corners)",
+    "aliases": ["角落", "隅", "Corners"],
+    "importance": 8,
+    "description": "半隐藏的退隐之所，提供孤立的庇护，使人在有限空间内体验安静与安全感。"
+  },
+  {
+    "id": "gt_05",
+    "name": "微观世界 (Miniature)",
+    "aliases": ["缩影", "微缩模型", "Miniature"],
+    "importance": 7,
+    "description": "通过微小的物理尺寸投射巨大的想象空间，在微观中见宏观。"
+  },
+  {
+    "id": "gt_06",
+    "name": "亲密与浩瀚 (Intimate Immensity)",
+    "aliases": ["浩瀚", "亲密空间", "Intimate Immensity"],
+    "importance": 9,
+    "description": "外部的浩瀚无垠与内心的亲密情感相互交织，巨大的空间引发深层的内心体验。"
+  },
+  {
+    "id": "gt_07",
+    "name": "内与外 (Inside and Outside)",
+    "aliases": ["内与外", "内部与外部", "Inside and Outside"],
+    "importance": 8,
+    "description": "并非绝对对立的概念，而是充满辩证关系。边界是渗透的，内外在想象中可以相互转化。"
+  },
+  {
+    "id": "gt_08",
+    "name": "圆的现象学 (The Phenomenology of Roundness)",
+    "aliases": ["圆", "圆满", "Roundness"],
+    "importance": 7,
+    "description": "生命和存在的原始形态，象征着自足、完整与宇宙的和谐。"
+  }
+]

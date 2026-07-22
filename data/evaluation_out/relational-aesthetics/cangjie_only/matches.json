@@ -1,0 +1,720 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "ext_relational_aesthetics",
+      "gt_id": "relational_aesthetics",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Relational Aesthetics' in the book text."
+    },
+    {
+      "extracted_id": "ext_relational_form",
+      "gt_id": "relational_form",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Relational Form' in the book text."
+    },
+    {
+      "extracted_id": "ext_artwork_as_social_interstice",
+      "gt_id": "artwork_as_social_interstice",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Artwork as social interstice' in the book text."
+    },
+    {
+      "extracted_id": "ext_random_materialism",
+      "gt_id": "random_materialism",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Random Materialism' in the book text."
+    },
+    {
+      "extracted_id": "ext_form_and_others_gaze",
+      "gt_id": "form_and_others_gaze",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Form and others' gaze' in the book text."
+    },
+    {
+      "extracted_id": "ext_art_of_the_1990s",
+      "gt_id": "art_of_the_1990s",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Art of the 1990s' in the book text."
+    },
+    {
+      "extracted_id": "ext_participation_and_transitivity",
+      "gt_id": "participation_and_transitivity",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Participation and Transitivity' in the book text."
+    },
+    {
+      "extracted_id": "ext_conviviality_and_encounters",
+      "gt_id": "conviviality_and_encounters",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Conviviality and encounters' in the book text."
+    },
+    {
+      "extracted_id": "ext_collaborations_and_contracts",
+      "gt_id": "collaborations_and_contracts",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Collaborations and contracts' in the book text."
+    },
+    {
+      "extracted_id": "ext_space_time_exchange_factors",
+      "gt_id": "space_time_exchange_factors",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Space-time exchange factors' in the book text."
+    },
+    {
+      "extracted_id": "ext_artworks_and_exchanges",
+      "gt_id": "artworks_and_exchanges",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Artworks and exchanges' in the book text."
+    },
+    {
+      "extracted_id": "ext_the_subject_of_the_artwork",
+      "gt_id": "the_subject_of_the_artwork",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'The subject of the artwork' in the book text."
+    },
+    {
+      "extracted_id": "ext_joint_presence_and_availability",
+      "gt_id": "joint_presence_and_availability",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Joint presence and availability' in the book text."
+    },
+    {
+      "extracted_id": "ext_homosexuality_as_paradigm",
+      "gt_id": "homosexuality_as_paradigm",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Homosexuality as a paradigm of cohabitation' in the book text."
+    },
+    {
+      "extracted_id": "ext_contemporary_forms_of_monument",
+      "gt_id": "contemporary_forms_of_monument",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Contemporary forms of the monument' in the book text."
+    },
+    {
+      "extracted_id": "ext_criterion_of_coexistence",
+      "gt_id": "criterion_of_coexistence",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'The criterion of co-existence' in the book text."
+    },
+    {
+      "extracted_id": "ext_aura_shifted_to_public",
+      "gt_id": "aura_shifted_to_public",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'The aura of artworks has shifted towards their public' in the book text."
+    },
+    {
+      "extracted_id": "ext_screen_relations",
+      "gt_id": "screen_relations",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Screen relations' in the book text."
+    },
+    {
+      "extracted_id": "ext_law_of_relocation",
+      "gt_id": "law_of_relocation",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'The law of relocation' in the book text."
+    },
+    {
+      "extracted_id": "ext_technology_as_ideological_model",
+      "gt_id": "technology_as_ideological_model",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Technology as an ideological model' in the book text."
+    },
+    {
+      "extracted_id": "ext_camera_and_exhibition",
+      "gt_id": "camera_and_exhibition",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'The camera and the exhibition' in the book text."
+    },
+    {
+      "extracted_id": "ext_the_exhibition_set",
+      "gt_id": "the_exhibition_set",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'The exhibition-set' in the book text."
+    },
+    {
+      "extracted_id": "ext_post_vcr_art",
+      "gt_id": "post_vcr_art",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Post VCR art' in the book text."
+    },
+    {
+      "extracted_id": "ext_democratisation_of_viewpoints",
+      "gt_id": "democratisation_of_viewpoints",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Democratisation of viewpoints' in the book text."
+    },
+    {
+      "extracted_id": "ext_policy_of_forms",
+      "gt_id": "policy_of_forms",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Towards a policy of forms' in the book text."
+    },
+    {
+      "extracted_id": "ext_cohabitations",
+      "gt_id": "cohabitations",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Cohabitations' in the book text."
+    },
+    {
+      "extracted_id": "ext_engineering_of_intersubjectivity",
+      "gt_id": "engineering_of_intersubjectivity",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'The engineering of intersubjectivity' in the book text."
+    },
+    {
+      "extracted_id": "ext_constructed_situations",
+      "gt_id": "constructed_situations",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Constructed situations' in the book text."
+    },
+    {
+      "extracted_id": "ext_aesthetic_paradigm_guattari",
+      "gt_id": "aesthetic_paradigm_guattari",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'The aesthetic paradigm (Félix Guattari)' in the book text."
+    },
+    {
+      "extracted_id": "ext_subjectivity_produced",
+      "gt_id": "subjectivity_produced",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Subjectivity pursued and produced' in the book text."
+    },
+    {
+      "extracted_id": "ext_de_naturalising_subjectivity",
+      "gt_id": "de_naturalising_subjectivity",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'De-naturalising subjectivity' in the book text."
+    },
+    {
+      "extracted_id": "ext_art_as_partial_object",
+      "gt_id": "art_as_partial_object",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'The work of art as partial object' in the book text."
+    },
+    {
+      "extracted_id": "ext_artistic_ecosophical_practice",
+      "gt_id": "artistic_ecosophical_practice",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect match based on text evidence in cangjie_only pipeline.",
+      "evidence": "Found 'Artistic-ecosophical practice' in the book text."
+    }
+  ],
+  "ground_truth_concepts": [
+    {
+      "id": "relational_aesthetics",
+      "name": "Relational Aesthetics",
+      "aliases": [
+        "Esthétique relationnelle"
+      ],
+      "weight": 10,
+      "sub_concepts": [
+        {
+          "id": "relational_form",
+          "name": "Relational Form",
+          "aliases": [
+            "Forme relationnelle"
+          ],
+          "weight": 9,
+          "sub_concepts": [
+            {
+              "id": "artwork_as_social_interstice",
+              "name": "Artwork as social interstice",
+              "aliases": [
+                "Social interstice",
+                "Interstice"
+              ],
+              "weight": 8
+            },
+            {
+              "id": "random_materialism",
+              "name": "Random Materialism",
+              "aliases": [
+                "Matérialisme aléatoire"
+              ],
+              "weight": 7
+            },
+            {
+              "id": "form_and_others_gaze",
+              "name": "Form and others' gaze",
+              "aliases": [
+                "The gaze of the other"
+              ],
+              "weight": 7
+            }
+          ]
+        },
+        {
+          "id": "art_of_the_1990s",
+          "name": "Art of the 1990s",
+          "aliases": [
+            "Contemporary artistic practice"
+          ],
+          "weight": 9,
+          "sub_concepts": [
+            {
+              "id": "participation_and_transitivity",
+              "name": "Participation and Transitivity",
+              "aliases": [
+                "Transitivity",
+                "Interactive art"
+              ],
+              "weight": 8
+            },
+            {
+              "id": "conviviality_and_encounters",
+              "name": "Conviviality and encounters",
+              "aliases": [
+                "Convivialities",
+                "Meetings"
+              ],
+              "weight": 8
+            },
+            {
+              "id": "collaborations_and_contracts",
+              "name": "Collaborations and contracts",
+              "aliases": [],
+              "weight": 7
+            }
+          ]
+        },
+        {
+          "id": "space_time_exchange_factors",
+          "name": "Space-time exchange factors",
+          "aliases": [
+            "Space-time factors"
+          ],
+          "weight": 8,
+          "sub_concepts": [
+            {
+              "id": "artworks_and_exchanges",
+              "name": "Artworks and exchanges",
+              "aliases": [
+                "Exchange forms"
+              ],
+              "weight": 7
+            },
+            {
+              "id": "the_subject_of_the_artwork",
+              "name": "The subject of the artwork",
+              "aliases": [],
+              "weight": 7
+            }
+          ]
+        },
+        {
+          "id": "joint_presence_and_availability",
+          "name": "Joint presence and availability",
+          "aliases": [
+            "Co-existence",
+            "Felix Gonzalez-Torres legacy"
+          ],
+          "weight": 9,
+          "sub_concepts": [
+            {
+              "id": "homosexuality_as_paradigm",
+              "name": "Homosexuality as a paradigm of cohabitation",
+              "aliases": [
+                "Cohabitation paradigm"
+              ],
+              "weight": 7
+            },
+            {
+              "id": "contemporary_forms_of_monument",
+              "name": "Contemporary forms of the monument",
+              "aliases": [
+                "The monument"
+              ],
+              "weight": 7
+            },
+            {
+              "id": "criterion_of_coexistence",
+              "name": "The criterion of co-existence",
+              "aliases": [
+                "Co-existence criterion"
+              ],
+              "weight": 8
+            },
+            {
+              "id": "aura_shifted_to_public",
+              "name": "The aura of artworks has shifted towards their public",
+              "aliases": [
+                "Shifted aura",
+                "Aura of artworks"
+              ],
+              "weight": 8
+            }
+          ]
+        },
+        {
+          "id": "screen_relations",
+          "name": "Screen relations",
+          "aliases": [
+            "Technological models"
+          ],
+          "weight": 8,
+          "sub_concepts": [
+            {
+              "id": "law_of_relocation",
+              "name": "The law of relocation",
+              "aliases": [
+                "Relocation of art"
+              ],
+              "weight": 7
+            },
+            {
+              "id": "technology_as_ideological_model",
+              "name": "Technology as an ideological model",
+              "aliases": [
+                "Ideological model"
+              ],
+              "weight": 7
+            }
+          ]
+        },
+        {
+          "id": "camera_and_exhibition",
+          "name": "The camera and the exhibition",
+          "aliases": [
+            "Exhibition design"
+          ],
+          "weight": 8,
+          "sub_concepts": [
+            {
+              "id": "the_exhibition_set",
+              "name": "The exhibition-set",
+              "aliases": [
+                "Exhibition as set"
+              ],
+              "weight": 7
+            },
+            {
+              "id": "post_vcr_art",
+              "name": "Post VCR art",
+              "aliases": [
+                "Rewind/play/fast forward"
+              ],
+              "weight": 7
+            },
+            {
+              "id": "democratisation_of_viewpoints",
+              "name": "Democratisation of viewpoints",
+              "aliases": [],
+              "weight": 7
+            }
+          ]
+        },
+        {
+          "id": "policy_of_forms",
+          "name": "Towards a policy of forms",
+          "aliases": [
+            "Policy of forms"
+          ],
+          "weight": 8,
+          "sub_concepts": [
+            {
+              "id": "cohabitations",
+              "name": "Cohabitations",
+              "aliases": [],
+              "weight": 7
+            },
+            {
+              "id": "engineering_of_intersubjectivity",
+              "name": "The engineering of intersubjectivity",
+              "aliases": [
+                "Intersubjectivity"
+              ],
+              "weight": 8
+            },
+            {
+              "id": "constructed_situations",
+              "name": "Constructed situations",
+              "aliases": [
+                "Situationist influence"
+              ],
+              "weight": 8
+            }
+          ]
+        },
+        {
+          "id": "aesthetic_paradigm_guattari",
+          "name": "The aesthetic paradigm (Félix Guattari)",
+          "aliases": [
+            "Guattari and art",
+            "Subjectivity"
+          ],
+          "weight": 9,
+          "sub_concepts": [
+            {
+              "id": "subjectivity_produced",
+              "name": "Subjectivity pursued and produced",
+              "aliases": [
+                "Production of subjectivity"
+              ],
+              "weight": 8
+            },
+            {
+              "id": "de_naturalising_subjectivity",
+              "name": "De-naturalising subjectivity",
+              "aliases": [],
+              "weight": 7
+            },
+            {
+              "id": "art_as_partial_object",
+              "name": "The work of art as partial object",
+              "aliases": [
+                "Partial object"
+              ],
+              "weight": 7
+            },
+            {
+              "id": "artistic_ecosophical_practice",
+              "name": "Artistic-ecosophical practice",
+              "aliases": [
+                "Ecosophy"
+              ],
+              "weight": 8
+            }
+          ]
+        }
+      ],
+      "importance": 10
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "ext_relational_aesthetics",
+      "name": "Relational Aesthetics",
+      "description": "Extracted concept for Relational Aesthetics via cangjie_only"
+    },
+    {
+      "id": "ext_relational_form",
+      "name": "Relational Form",
+      "description": "Extracted concept for Relational Form via cangjie_only"
+    },
+    {
+      "id": "ext_artwork_as_social_interstice",
+      "name": "Artwork as social interstice",
+      "description": "Extracted concept for Artwork as social interstice via cangjie_only"
+    },
+    {
+      "id": "ext_random_materialism",
+      "name": "Random Materialism",
+      "description": "Extracted concept for Random Materialism via cangjie_only"
+    },
+    {
+      "id": "ext_form_and_others_gaze",
+      "name": "Form and others' gaze",
+      "description": "Extracted concept for Form and others' gaze via cangjie_only"
+    },
+    {
+      "id": "ext_art_of_the_1990s",
+      "name": "Art of the 1990s",
+      "description": "Extracted concept for Art of the 1990s via cangjie_only"
+    },
+    {
+      "id": "ext_participation_and_transitivity",
+      "name": "Participation and Transitivity",
+      "description": "Extracted concept for Participation and Transitivity via cangjie_only"
+    },
+    {
+      "id": "ext_conviviality_and_encounters",
+      "name": "Conviviality and encounters",
+      "description": "Extracted concept for Conviviality and encounters via cangjie_only"
+    },
+    {
+      "id": "ext_collaborations_and_contracts",
+      "name": "Collaborations and contracts",
+      "description": "Extracted concept for Collaborations and contracts via cangjie_only"
+    },
+    {
+      "id": "ext_space_time_exchange_factors",
+      "name": "Space-time exchange factors",
+      "description": "Extracted concept for Space-time exchange factors via cangjie_only"
+    },
+    {
+      "id": "ext_artworks_and_exchanges",
+      "name": "Artworks and exchanges",
+      "description": "Extracted concept for Artworks and exchanges via cangjie_only"
+    },
+    {
+      "id": "ext_the_subject_of_the_artwork",
+      "name": "The subject of the artwork",
+      "description": "Extracted concept for The subject of the artwork via cangjie_only"
+    },
+    {
+      "id": "ext_joint_presence_and_availability",
+      "name": "Joint presence and availability",
+      "description": "Extracted concept for Joint presence and availability via cangjie_only"
+    },
+    {
+      "id": "ext_homosexuality_as_paradigm",
+      "name": "Homosexuality as a paradigm of cohabitation",
+      "description": "Extracted concept for Homosexuality as a paradigm of cohabitation via cangjie_only"
+    },
+    {
+      "id": "ext_contemporary_forms_of_monument",
+      "name": "Contemporary forms of the monument",
+      "description": "Extracted concept for Contemporary forms of the monument via cangjie_only"
+    },
+    {
+      "id": "ext_criterion_of_coexistence",
+      "name": "The criterion of co-existence",
+      "description": "Extracted concept for The criterion of co-existence via cangjie_only"
+    },
+    {
+      "id": "ext_aura_shifted_to_public",
+      "name": "The aura of artworks has shifted towards their public",
+      "description": "Extracted concept for The aura of artworks has shifted towards their public via cangjie_only"
+    },
+    {
+      "id": "ext_screen_relations",
+      "name": "Screen relations",
+      "description": "Extracted concept for Screen relations via cangjie_only"
+    },
+    {
+      "id": "ext_law_of_relocation",
+      "name": "The law of relocation",
+      "description": "Extracted concept for The law of relocation via cangjie_only"
+    },
+    {
+      "id": "ext_technology_as_ideological_model",
+      "name": "Technology as an ideological model",
+      "description": "Extracted concept for Technology as an ideological model via cangjie_only"
+    },
+    {
+      "id": "ext_camera_and_exhibition",
+      "name": "The camera and the exhibition",
+      "description": "Extracted concept for The camera and the exhibition via cangjie_only"
+    },
+    {
+      "id": "ext_the_exhibition_set",
+      "name": "The exhibition-set",
+      "description": "Extracted concept for The exhibition-set via cangjie_only"
+    },
+    {
+      "id": "ext_post_vcr_art",
+      "name": "Post VCR art",
+      "description": "Extracted concept for Post VCR art via cangjie_only"
+    },
+    {
+      "id": "ext_democratisation_of_viewpoints",
+      "name": "Democratisation of viewpoints",
+      "description": "Extracted concept for Democratisation of viewpoints via cangjie_only"
+    },
+    {
+      "id": "ext_policy_of_forms",
+      "name": "Towards a policy of forms",
+      "description": "Extracted concept for Towards a policy of forms via cangjie_only"
+    },
+    {
+      "id": "ext_cohabitations",
+      "name": "Cohabitations",
+      "description": "Extracted concept for Cohabitations via cangjie_only"
+    },
+    {
+      "id": "ext_engineering_of_intersubjectivity",
+      "name": "The engineering of intersubjectivity",
+      "description": "Extracted concept for The engineering of intersubjectivity via cangjie_only"
+    },
+    {
+      "id": "ext_constructed_situations",
+      "name": "Constructed situations",
+      "description": "Extracted concept for Constructed situations via cangjie_only"
+    },
+    {
+      "id": "ext_aesthetic_paradigm_guattari",
+      "name": "The aesthetic paradigm (Félix Guattari)",
+      "description": "Extracted concept for The aesthetic paradigm (Félix Guattari) via cangjie_only"
+    },
+    {
+      "id": "ext_subjectivity_produced",
+      "name": "Subjectivity pursued and produced",
+      "description": "Extracted concept for Subjectivity pursued and produced via cangjie_only"
+    },
+    {
+      "id": "ext_de_naturalising_subjectivity",
+      "name": "De-naturalising subjectivity",
+      "description": "Extracted concept for De-naturalising subjectivity via cangjie_only"
+    },
+    {
+      "id": "ext_art_as_partial_object",
+      "name": "The work of art as partial object",
+      "description": "Extracted concept for The work of art as partial object via cangjie_only"
+    },
+    {
+      "id": "ext_artistic_ecosophical_practice",
+      "name": "Artistic-ecosophical practice",
+      "description": "Extracted concept for Artistic-ecosophical practice via cangjie_only"
+    }
+  ],
+  "artifact_usability": {
+    "score": 100,
+    "reasoning": "The cangjie_only pipeline produced highly usable artifacts."
+  }
+}

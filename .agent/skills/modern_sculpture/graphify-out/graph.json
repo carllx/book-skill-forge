@@ -1,0 +1,1471 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "file_54229ad2",
+      "label": "Passages in Modern Sculpture Rosalind E Krauss",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_000_Passages_in_Modern_Sculpture_R.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9d6f6c93",
+      "label": "acknowledgments",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_001_acknowledgments.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7d63d790",
+      "label": "introduction 1",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_002_introduction_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b6176e38",
+      "label": "introduction",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_003_introduction_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d431674b",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 003 introduction 2",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_003_introduction_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4ad4916b",
+      "label": "Narrative Time: the question of the Gates of Hell",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_40637c3c",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 004 Narrative Time  the question o 10",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_10.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_618ed89f",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 004 Narrative Time  the question o 2",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_194c0fde",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 004 Narrative Time  the question o 3",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_21e4fbf7",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 004 Narrative Time  the question o 4",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d1cb9eef",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 004 Narrative Time  the question o 5",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_580d9281",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 004 Narrative Time  the question o 6",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_446da3b4",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 004 Narrative Time  the question o 7",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_7.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9fa87bd9",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 004 Narrative Time  the question o 8",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_8.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8dedc21d",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 004 Narrative Time  the question o 9",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_9.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c034dad9",
+      "label": "futurism and constructivism",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_005_futurism_and_constructivism_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b2bee2fa",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 005 futurism and constructivism 2",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_005_futurism_and_constructivism_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9e18fb5f",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 005 futurism and constructivism 3",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_005_futurism_and_constructivism_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_17b21566",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 005 futurism and constructivism 4",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_005_futurism_and_constructivism_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c2f26ec2",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 005 futurism and constructivism 5",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_005_futurism_and_constructivism_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_11f281ef",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 005 futurism and constructivism 6",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_005_futurism_and_constructivism_6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a5cb15c7",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 005 futurism and constructivism 7",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_005_futurism_and_constructivism_7.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f1d972a6",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 005 futurism and constructivism 8",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_005_futurism_and_constructivism_8.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_30b666cd",
+      "label": "Forms of Readymade: Duchamp and Brancusi",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_402c8694",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 006 Forms of Readymade  Duchamp an 10",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_10.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a471e7f2",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 006 Forms of Readymade  Duchamp an 2",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b2ba32fa",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 006 Forms of Readymade  Duchamp an 3",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c1067029",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 006 Forms of Readymade  Duchamp an 4",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5cf78a4b",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 006 Forms of Readymade  Duchamp an 5",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2ae6f7bf",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 006 Forms of Readymade  Duchamp an 6",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_94049139",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 006 Forms of Readymade  Duchamp an 7",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_7.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_22eb744d",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 006 Forms of Readymade  Duchamp an 8",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_8.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_923298c1",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 006 Forms of Readymade  Duchamp an 9",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_9.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_875003e1",
+      "label": "the terms of surrealism",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_edcacaee",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 007 the terms of surrealism 10",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_10.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_cb5c8dcc",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 007 the terms of surrealism 2",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1ffa7309",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 007 the terms of surrealism 3",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_76fd0136",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 007 the terms of surrealism 4",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5ad6fb76",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 007 the terms of surrealism 5",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_aec021ff",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 007 the terms of surrealism 6",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e75b57e2",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 007 the terms of surrealism 7",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_7.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d0782bcb",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 007 the terms of surrealism 8",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_8.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_551c827a",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 007 the terms of surrealism 9",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_9.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4dd8d5c5",
+      "label": "107. Barbara Hepworth (1903- 75) : Pelagos, 1946. Wood with strings, 16\". The Tate Gallery, London.",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9c255945",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 10",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_10.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_382b70f0",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 11",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_11.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d4637d10",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 12",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_12.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_cb4e818e",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 13",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_13.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e2e9b825",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 14",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_14.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_03107f12",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 15",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_15.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_0df50cf8",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 16",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_16.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_41d7eab3",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 17",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_17.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_be9cced2",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 18",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_18.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_639947bd",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 19",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_19.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1b3cf756",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 2",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4d37ce18",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 20",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_20.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a007faa0",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 21",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_21.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6fbdbb61",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 3",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_aabb0e0e",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 4",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c22ae5d9",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 5",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5ea6b188",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 6",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c124ddf6",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 7",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_7.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f3eec3e0",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 8",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_8.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_dd2d0bd1",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 9",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_9.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e70c262b",
+      "label": "The Double Negative: a new syntax for sculpture",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_009_The_Double_Negative__a_new_syn_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_079bd548",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 009 The Double Negative  a new syn 2",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_009_The_Double_Negative__a_new_syn_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6a4b615c",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 009 The Double Negative  a new syn 3",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_009_The_Double_Negative__a_new_syn_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_60b8b3ed",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 009 The Double Negative  a new syn 4",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_009_The_Double_Negative__a_new_syn_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e5e2d688",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 009 The Double Negative  a new syn 5",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_009_The_Double_Negative__a_new_syn_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_70635fb4",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 009 The Double Negative  a new syn 6",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_009_The_Double_Negative__a_new_syn_6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ba9d3328",
+      "label": "1",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_010_1_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_236aff0d",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 010 1 2",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_010_1_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e6be1dbc",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 010 1 3",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_010_1_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7bda5d5d",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 010 1 4",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_010_1_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ff3eaf6e",
+      "label": "Introduction",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_011_Introduction.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_21bcc00b",
+      "label": "Chapter 2 Analytic Space: f uturism and constructivism",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_012_Chapter_2_Analytic_Space__f_ut_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_729281a7",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 012 Chapter 2 Analytic Space  f ut 2",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_012_Chapter_2_Analytic_Space__f_ut_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b55ae62d",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 012 Chapter 2 Analytic Space  f ut 3",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_012_Chapter_2_Analytic_Space__f_ut_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a192b220",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 012 Chapter 2 Analytic Space  f ut 4",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_012_Chapter_2_Analytic_Space__f_ut_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6dc9f808",
+      "label": "Chapter 5 Tanktotem welded images",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_013_Chapter_5_Tanktotem_welded_ima.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8550dff1",
+      "label": "Chapter 6 Mechanical Ballets : light, motion, theater",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_014_Chapter_6_Mechanical_Ballets__.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ba91339b",
+      "label": "Chapter 7 The Double Negative: a new syntax for sculpture",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_015_Chapter_7_The_Double_Negative_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_acb5cd83",
+      "label": "bibliography",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_016_bibliography_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_0bcefac3",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 016 bibliography 2",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_016_bibliography_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2eae82fd",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 016 bibliography 3",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_016_bibliography_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e2898a9c",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 016 bibliography 4",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_016_bibliography_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_550cfc0d",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 016 bibliography 5",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_016_bibliography_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8c4aa210",
+      "label": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 016 bibliography 6",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_016_bibliography_6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_929ac05e",
+      "label": "Passages in Modern Sculpture by Rosalind E. Krauss",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_017_Passages_in_Modern_Sculpture_b.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_34f7c499",
+      "label": "Terminal Iron Works:",
+      "file_type": "concept",
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_018_Terminal_Iron_Works_.md",
+      "description": "Primary concept extracted from chunk"
+    }
+  ],
+  "links": [
+    {
+      "source": "file_54229ad2",
+      "target": "file_9d6f6c93",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_001_acknowledgments.md"
+    },
+    {
+      "source": "file_9d6f6c93",
+      "target": "file_7d63d790",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_002_introduction_1.md"
+    },
+    {
+      "source": "file_7d63d790",
+      "target": "file_b6176e38",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_003_introduction_1.md"
+    },
+    {
+      "source": "file_b6176e38",
+      "target": "file_d431674b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_003_introduction_2.md"
+    },
+    {
+      "source": "file_d431674b",
+      "target": "file_4ad4916b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_1.md"
+    },
+    {
+      "source": "file_4ad4916b",
+      "target": "file_40637c3c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_10.md"
+    },
+    {
+      "source": "file_40637c3c",
+      "target": "file_618ed89f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_2.md"
+    },
+    {
+      "source": "file_618ed89f",
+      "target": "file_194c0fde",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_3.md"
+    },
+    {
+      "source": "file_194c0fde",
+      "target": "file_21e4fbf7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_4.md"
+    },
+    {
+      "source": "file_21e4fbf7",
+      "target": "file_d1cb9eef",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_5.md"
+    },
+    {
+      "source": "file_d1cb9eef",
+      "target": "file_580d9281",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_6.md"
+    },
+    {
+      "source": "file_580d9281",
+      "target": "file_446da3b4",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_7.md"
+    },
+    {
+      "source": "file_446da3b4",
+      "target": "file_9fa87bd9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_8.md"
+    },
+    {
+      "source": "file_9fa87bd9",
+      "target": "file_8dedc21d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_9.md"
+    },
+    {
+      "source": "file_8dedc21d",
+      "target": "file_c034dad9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_005_futurism_and_constructivism_1.md"
+    },
+    {
+      "source": "file_c034dad9",
+      "target": "file_b2bee2fa",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_005_futurism_and_constructivism_2.md"
+    },
+    {
+      "source": "file_b2bee2fa",
+      "target": "file_9e18fb5f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_005_futurism_and_constructivism_3.md"
+    },
+    {
+      "source": "file_9e18fb5f",
+      "target": "file_17b21566",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_005_futurism_and_constructivism_4.md"
+    },
+    {
+      "source": "file_17b21566",
+      "target": "file_c2f26ec2",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_005_futurism_and_constructivism_5.md"
+    },
+    {
+      "source": "file_c2f26ec2",
+      "target": "file_11f281ef",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_005_futurism_and_constructivism_6.md"
+    },
+    {
+      "source": "file_11f281ef",
+      "target": "file_a5cb15c7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_005_futurism_and_constructivism_7.md"
+    },
+    {
+      "source": "file_a5cb15c7",
+      "target": "file_f1d972a6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_005_futurism_and_constructivism_8.md"
+    },
+    {
+      "source": "file_f1d972a6",
+      "target": "file_30b666cd",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_1.md"
+    },
+    {
+      "source": "file_30b666cd",
+      "target": "file_402c8694",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_10.md"
+    },
+    {
+      "source": "file_402c8694",
+      "target": "file_a471e7f2",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_2.md"
+    },
+    {
+      "source": "file_a471e7f2",
+      "target": "file_b2ba32fa",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_3.md"
+    },
+    {
+      "source": "file_b2ba32fa",
+      "target": "file_c1067029",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_4.md"
+    },
+    {
+      "source": "file_c1067029",
+      "target": "file_5cf78a4b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_5.md"
+    },
+    {
+      "source": "file_5cf78a4b",
+      "target": "file_2ae6f7bf",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_6.md"
+    },
+    {
+      "source": "file_2ae6f7bf",
+      "target": "file_94049139",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_7.md"
+    },
+    {
+      "source": "file_94049139",
+      "target": "file_22eb744d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_8.md"
+    },
+    {
+      "source": "file_22eb744d",
+      "target": "file_923298c1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_006_Forms_of_Readymade__Duchamp_an_9.md"
+    },
+    {
+      "source": "file_923298c1",
+      "target": "file_875003e1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_1.md"
+    },
+    {
+      "source": "file_875003e1",
+      "target": "file_edcacaee",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_10.md"
+    },
+    {
+      "source": "file_edcacaee",
+      "target": "file_cb5c8dcc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_2.md"
+    },
+    {
+      "source": "file_cb5c8dcc",
+      "target": "file_1ffa7309",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_3.md"
+    },
+    {
+      "source": "file_1ffa7309",
+      "target": "file_76fd0136",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_4.md"
+    },
+    {
+      "source": "file_76fd0136",
+      "target": "file_5ad6fb76",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_5.md"
+    },
+    {
+      "source": "file_5ad6fb76",
+      "target": "file_aec021ff",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_6.md"
+    },
+    {
+      "source": "file_aec021ff",
+      "target": "file_e75b57e2",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_7.md"
+    },
+    {
+      "source": "file_e75b57e2",
+      "target": "file_d0782bcb",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_8.md"
+    },
+    {
+      "source": "file_d0782bcb",
+      "target": "file_551c827a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_007_the_terms_of_surrealism_9.md"
+    },
+    {
+      "source": "file_551c827a",
+      "target": "file_4dd8d5c5",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_1.md"
+    },
+    {
+      "source": "file_4dd8d5c5",
+      "target": "file_9c255945",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_10.md"
+    },
+    {
+      "source": "file_9c255945",
+      "target": "file_382b70f0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_11.md"
+    },
+    {
+      "source": "file_382b70f0",
+      "target": "file_d4637d10",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_12.md"
+    },
+    {
+      "source": "file_d4637d10",
+      "target": "file_cb4e818e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_13.md"
+    },
+    {
+      "source": "file_cb4e818e",
+      "target": "file_e2e9b825",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_14.md"
+    },
+    {
+      "source": "file_e2e9b825",
+      "target": "file_03107f12",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_15.md"
+    },
+    {
+      "source": "file_03107f12",
+      "target": "file_0df50cf8",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_16.md"
+    },
+    {
+      "source": "file_0df50cf8",
+      "target": "file_41d7eab3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_17.md"
+    },
+    {
+      "source": "file_41d7eab3",
+      "target": "file_be9cced2",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_18.md"
+    },
+    {
+      "source": "file_be9cced2",
+      "target": "file_639947bd",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_19.md"
+    },
+    {
+      "source": "file_639947bd",
+      "target": "file_1b3cf756",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_2.md"
+    },
+    {
+      "source": "file_1b3cf756",
+      "target": "file_4d37ce18",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_20.md"
+    },
+    {
+      "source": "file_4d37ce18",
+      "target": "file_a007faa0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_21.md"
+    },
+    {
+      "source": "file_a007faa0",
+      "target": "file_6fbdbb61",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_3.md"
+    },
+    {
+      "source": "file_6fbdbb61",
+      "target": "file_aabb0e0e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_4.md"
+    },
+    {
+      "source": "file_aabb0e0e",
+      "target": "file_c22ae5d9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_5.md"
+    },
+    {
+      "source": "file_c22ae5d9",
+      "target": "file_5ea6b188",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_6.md"
+    },
+    {
+      "source": "file_5ea6b188",
+      "target": "file_c124ddf6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_7.md"
+    },
+    {
+      "source": "file_c124ddf6",
+      "target": "file_f3eec3e0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_8.md"
+    },
+    {
+      "source": "file_f3eec3e0",
+      "target": "file_dd2d0bd1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_9.md"
+    },
+    {
+      "source": "file_dd2d0bd1",
+      "target": "file_e70c262b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_009_The_Double_Negative__a_new_syn_1.md"
+    },
+    {
+      "source": "file_e70c262b",
+      "target": "file_079bd548",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_009_The_Double_Negative__a_new_syn_2.md"
+    },
+    {
+      "source": "file_079bd548",
+      "target": "file_6a4b615c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_009_The_Double_Negative__a_new_syn_3.md"
+    },
+    {
+      "source": "file_6a4b615c",
+      "target": "file_60b8b3ed",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_009_The_Double_Negative__a_new_syn_4.md"
+    },
+    {
+      "source": "file_60b8b3ed",
+      "target": "file_e5e2d688",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_009_The_Double_Negative__a_new_syn_5.md"
+    },
+    {
+      "source": "file_e5e2d688",
+      "target": "file_70635fb4",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_009_The_Double_Negative__a_new_syn_6.md"
+    },
+    {
+      "source": "file_70635fb4",
+      "target": "file_ba9d3328",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_010_1_1.md"
+    },
+    {
+      "source": "file_ba9d3328",
+      "target": "file_236aff0d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_010_1_2.md"
+    },
+    {
+      "source": "file_236aff0d",
+      "target": "file_e6be1dbc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_010_1_3.md"
+    },
+    {
+      "source": "file_e6be1dbc",
+      "target": "file_7bda5d5d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_010_1_4.md"
+    },
+    {
+      "source": "file_7bda5d5d",
+      "target": "file_ff3eaf6e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_011_Introduction.md"
+    },
+    {
+      "source": "file_ff3eaf6e",
+      "target": "file_21bcc00b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_012_Chapter_2_Analytic_Space__f_ut_1.md"
+    },
+    {
+      "source": "file_21bcc00b",
+      "target": "file_729281a7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_012_Chapter_2_Analytic_Space__f_ut_2.md"
+    },
+    {
+      "source": "file_729281a7",
+      "target": "file_b55ae62d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_012_Chapter_2_Analytic_Space__f_ut_3.md"
+    },
+    {
+      "source": "file_b55ae62d",
+      "target": "file_a192b220",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_012_Chapter_2_Analytic_Space__f_ut_4.md"
+    },
+    {
+      "source": "file_a192b220",
+      "target": "file_6dc9f808",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_013_Chapter_5_Tanktotem_welded_ima.md"
+    },
+    {
+      "source": "file_6dc9f808",
+      "target": "file_8550dff1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_014_Chapter_6_Mechanical_Ballets__.md"
+    },
+    {
+      "source": "file_8550dff1",
+      "target": "file_ba91339b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_015_Chapter_7_The_Double_Negative_.md"
+    },
+    {
+      "source": "file_ba91339b",
+      "target": "file_acb5cd83",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_016_bibliography_1.md"
+    },
+    {
+      "source": "file_acb5cd83",
+      "target": "file_0bcefac3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_016_bibliography_2.md"
+    },
+    {
+      "source": "file_0bcefac3",
+      "target": "file_2eae82fd",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_016_bibliography_3.md"
+    },
+    {
+      "source": "file_2eae82fd",
+      "target": "file_e2898a9c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_016_bibliography_4.md"
+    },
+    {
+      "source": "file_e2898a9c",
+      "target": "file_550cfc0d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_016_bibliography_5.md"
+    },
+    {
+      "source": "file_550cfc0d",
+      "target": "file_8c4aa210",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_016_bibliography_6.md"
+    },
+    {
+      "source": "file_8c4aa210",
+      "target": "file_929ac05e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_017_Passages_in_Modern_Sculpture_b.md"
+    },
+    {
+      "source": "file_929ac05e",
+      "target": "file_34f7c499",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_018_Terminal_Iron_Works_.md"
+    },
+    {
+      "source": "file_54229ad2",
+      "target": "file_acb5cd83",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_000_Passages_in_Modern_Sculpture_R.md"
+    },
+    {
+      "source": "file_7d63d790",
+      "target": "file_b6176e38",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_002_introduction_1.md"
+    },
+    {
+      "source": "file_7d63d790",
+      "target": "file_c034dad9",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_002_introduction_1.md"
+    },
+    {
+      "source": "file_7d63d790",
+      "target": "file_875003e1",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_002_introduction_1.md"
+    },
+    {
+      "source": "file_7d63d790",
+      "target": "file_ff3eaf6e",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_002_introduction_1.md"
+    },
+    {
+      "source": "file_7d63d790",
+      "target": "file_acb5cd83",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_002_introduction_1.md"
+    },
+    {
+      "source": "file_b6176e38",
+      "target": "file_ff3eaf6e",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_003_introduction_1.md"
+    },
+    {
+      "source": "file_21e4fbf7",
+      "target": "file_b6176e38",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_4.md"
+    },
+    {
+      "source": "file_21e4fbf7",
+      "target": "file_ff3eaf6e",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_004_Narrative_Time__the_question_o_4.md"
+    },
+    {
+      "source": "file_ff3eaf6e",
+      "target": "file_b6176e38",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_011_Introduction.md"
+    },
+    {
+      "source": "file_729281a7",
+      "target": "file_875003e1",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_012_Chapter_2_Analytic_Space__f_ut_2.md"
+    },
+    {
+      "source": "file_6dc9f808",
+      "target": "file_34f7c499",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_013_Chapter_5_Tanktotem_welded_ima.md"
+    },
+    {
+      "source": "file_929ac05e",
+      "target": "file_b6176e38",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_017_Passages_in_Modern_Sculpture_b.md"
+    },
+    {
+      "source": "file_929ac05e",
+      "target": "file_ff3eaf6e",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_017_Passages_in_Modern_Sculpture_b.md"
+    },
+    {
+      "source": "file_929ac05e",
+      "target": "file_34f7c499",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_017_Passages_in_Modern_Sculpture_b.md"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "name": "Primary Elements",
+      "aliases": [
+        "基本元素",
+        "Point",
+        "Line",
+        "Plane",
+        "Volume"
+      ],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "Form and Space",
+      "aliases": [
+        "形与空间的对立统一",
+        "正负空间",
+        "Positive and Negative Space"
+      ],
+      "weight": 10
+    },
+    {
+      "id": "c3",
+      "name": "Ordering Principles",
+      "aliases": [
+        "秩序原则",
+        "Axis",
+        "Symmetry",
+        "Hierarchy",
+        "Rhythm",
+        "Datum"
+      ],
+      "weight": 9
+    }
+  ]
+}

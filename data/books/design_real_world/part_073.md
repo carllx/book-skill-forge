@@ -1,0 +1,39 @@
+## Part 73
+
+> [BREADCRUMB_CTX: 《design_real_world》 > Part 73]
+
+in common is a great enjoyment of speed. The vehicles illustrated were designed so that they can be operated with one ormore limbs; therest are exercised in the process The harder the child exercises, the faster he goes. Hence, enjoyment and exercise go hand-in-hand. Thevehicleswere tested with handicapped children and were turned over to local clinics.
+
+In this brief discussion, we should also concern ourselves with what the student has gained. Obviously he or she has engaged in research, worked with a team, met the needs of people, used a flow chart, and gained new skills and new insights. But theactual learning content of these problems isfar greater, going from the immediate to the lasting. A series of educational steps and learning experiences have taken place, all on an interactive level:
+
+1 Thestudent has located, identified, and isolated aproblem. Inso doing he or she hasinteractedwith other members of a multidisciplinary team and engaged in a meaningful work experience directly with a group of clients whose very existence and needs were previously unknown tohim.   
+2. Through hiswork hehasmade the client people aware of thepromise that design (applied intelligently) can hold out for them. He has satisfied their needs at leastpartially.   
+3. By workingwith and helpingthe group, he hasexposed a. the needsofthe group tosociety; b. thelack of knowledge on thepart of society regarding the needs of the group, or the very existence of the group; c. thecynical indifference ofmanygovernmental andindustrial power structures togenuine needs ofpeople; d. theinabilityoftraditional designas it is taughtto cope with genuine social problems; e. the existence ofmethods and disciplines to work intelligently for these needs; f the lackof training or discussion inschool ofapplied design ethics.
+
+Hehascompleted deeply satisfyingwork; neveragain will it be possible to engagein design directed only toward "good taste. Having experienced this kind of work, he will forever after feel alittle ashamed when he designsa pretty, sexy toaster,
+
+Hewillforeverafterfeela little ashamed when hedesigns a pretty, sexy toaster.
+
+$$
+\begin{array} { r l } & { 1 2 } \\ & { \mathrm { D e s i g n ~ f o r ~ \cal S u r v i v a l } } \\ & { \mathrm { a n d ~ \cal S u r v i v a l } } \\ & { \mathrm { t h r o u g h ~ D e s i g n } . } \\ & { \mathrm { A ~ \cal S u m m a t i o n } } \end{array}
+$$
+
+Some men see thingsas they are and say,why? Idream thingsthatnever were and say,whynot? ROBERTF KENNEDY
+
+Again: design is basic to all human activities. Theplanning and patterningof any act toward a desired, foreseeable end constitutes thedesign process. Anyattempt toseparate design, to make it a thing-by-itself, works counter to the inherent valueof design as the primary, underlying matrix oflife.
+
+Integrated designis comprehensive:itattempts to takeinto consideration all the factorsand modulations necessary to a decision-makingprocess Integrated, comprehensive design is anticipatory. It attempts to look at existing data and trends and tocontinuously extrapolate, as well asinterpolate, from thescenarios ofthe future it constructs.
+
+Integrated, comprehensive, anticipatory design istheact of planningand shapingcarried onacross thevarious disciplines, an act continuously carried onat interfaces between them.
+
+In metallurgy it is at the boundary layers (the interfaces betweencrystals in metals) that action takesplace under force. Thevery imperfections make it possible for us to shape and deform metals mechanically, Geologiststell usthat thegreat changes on earth takeplace where forcesmeet alongboundarylines. Heresurf meetsshore, fault blocks moveindifferent directions. Diamond cutters cut alongflaw lines, thesculptor'schisel follows thegrain, and naturalists study theedge ofthe forest meetingthemeadow. The architect'smain concern is with the juncture between building and ground; the industrial designer is concerned with the smooth transition fromworkingedge to tool handle, aswell as with asecondary interface: the "fit" oftool and hand. Passengersrelax visibly after that split second when the aircraft finally leaves the ground, and, foreach singlenavigational map of the ocean, there area thousand showingreefs and shorelines. Wefight our wars over those symbolic boundaries we drawacross our mapsand findlife'smost shatteringly poignant experiences in crossingthe boundary linesof birth and death; theapotheosis is thesex act: ultimate encounter between interfaces.
+
+It isat the border between different techniques or disciplines that most new discoveries aremade and most action is inaugurated. It iswhen two differing areas ofknowledge are forcefully brought in contact with one another that, as we haveseen in a previous chapteron bionics, a new sciencemay comeinto being. FrederickJ.Teggart,thehistorian, saysthat "thegreat advances of mankind have been due, not to the mere aggregation, assemblage, or acquisition of disparate ideas, buttotheemergenceofa certain typeofmental activity which isset up by theopposition of different idea systems. Sociobiology, biomechanics, extraterrestrial medicine, and ethnomusicology are a few examples that come readily to mind.
+
+Acceleration, change, and the acceleration ofchange itself arise from the meeting of structures or systems along their edges. Intuitively, young people in theearly seventies sensed this; their repeated use of confrontations wasa symbolic, externalized illustration ofthis fact.
+
+By its very nature the design team thrives on confrontations, beingitself born ofinterfaces. Thedesign team is structured to bring many different disciplines to bear upon problems thatneed solving, aswell asto search for thoseproblems that need tobe rethought. The task isto research our true needs and toreshape environments, tools, and theway in which we think about them.
+
+Although computers have been with us for nearly forty years, theintroduction ofmicroprocessors into offices and especially homes is still fairly recent. Understandably many people are concerned over the changescaused by the advent of microcprocessors and computers. Unfortunately several groups still take a hostile or negative viewpoint. One group seescomputersas a threatto organized labor,to the standard forty-hour work week, and to the Puritan work ethic, and findmuch tofearin that. Others,whilerealizing that microprocessorsand computershelp to phaseoutmonotonous, routineintellectual labor, stil take anegativeviewofthefuture: theyfear the leisure they envision PietMondrian, painting as though hehimselfwereacomputer， did thisworkwith asense offunand adventure. However, someartists feel aparticular angst when facedbydata-processingmachines. But certainly thereare many ofuswho see the microprocessor,and computers in general, as an enormous liberating forcethatisridding us of an enormous amount of busywork, freeing us to address the aesthetic, philosophical, and conceptual underpinnings of what wedo
+
+Between 1976and 1983thepeople workingon imagesand backgrounds for such films as Star Wars, The EmpireStrikes Back, and Close Encounters of the Third Kindattempted to findpaintersand watercolorists in England who were willing towork withgraphic computer modeling. InAugust 1983,I shared thespeaker's platform atthetwentieth world congress of ICOGRADA(International CongressofGraphic Artistsand Designers) in Dublin. Mycospeakerexplained thatall theartists hired disliked what they were going todo atfirst. Within weeks, as they became conversant with "Colorbox" as a graphic working tool theychanged their minds; artistic and human curiosity were aroused. Now, twoyears later, many ofthese artists work withgraphic computersand "Colorbox" exclusively and by their own choice.

@@ -1,0 +1,394 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "h_1",
+      "gt_id": "c1",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.95,
+      "reasoning": "Topos (Site) perfectly extracted and cross-validated.",
+      "evidence": "Node & Concept: Topos / Site"
+    },
+    {
+      "extracted_id": "h_2",
+      "gt_id": "c2",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.95,
+      "reasoning": "Typos extracted successfully.",
+      "evidence": "Node & Concept: Typos"
+    },
+    {
+      "extracted_id": "h_3",
+      "gt_id": "c3",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.98,
+      "reasoning": "Tectonic identified as a core entity and mindset.",
+      "evidence": "Tectonic Frame / Poetics of Construction"
+    },
+    {
+      "extracted_id": "h_4",
+      "gt_id": "c3_1",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.9,
+      "reasoning": "Kernform identified accurately.",
+      "evidence": "Kernform (Core Form)"
+    },
+    {
+      "extracted_id": "h_5",
+      "gt_id": "c3_2",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.9,
+      "reasoning": "Kunstform identified accurately.",
+      "evidence": "Kunstform (Art Form)"
+    },
+    {
+      "extracted_id": "h_6",
+      "gt_id": "c4",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.95,
+      "reasoning": "Stereotomic identified in contrast to Tectonic.",
+      "evidence": "Stereotomic compressive mass"
+    },
+    {
+      "extracted_id": "h_7",
+      "gt_id": "c5",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.92,
+      "reasoning": "Shintai identified perfectly.",
+      "evidence": "Shintai corporeal experience"
+    },
+    {
+      "extracted_id": "h_8",
+      "gt_id": "c5_1",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.9,
+      "reasoning": "Tactility identified as sub-concept of Shintai.",
+      "evidence": "Tactility (Hand-finish)"
+    },
+    {
+      "extracted_id": "h_9",
+      "gt_id": "c5_2",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.9,
+      "reasoning": "Kinesthetics identified.",
+      "evidence": "Kinesthetics (Circulation paths)"
+    },
+    {
+      "extracted_id": "h_10",
+      "gt_id": "c5_3",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.85,
+      "reasoning": "Psycho-Acoustics identified.",
+      "evidence": "Psycho-Acoustics"
+    },
+    {
+      "extracted_id": "h_11",
+      "gt_id": "c6",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.9,
+      "reasoning": "Stoffwechseltheorie accurately represented.",
+      "evidence": "Stoffwechseltheorie"
+    },
+    {
+      "extracted_id": "h_12",
+      "gt_id": "c7",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.95,
+      "reasoning": "Semper's Four Elements found.",
+      "evidence": "Semper's Four Elements"
+    },
+    {
+      "extracted_id": "h_13",
+      "gt_id": "c7_1",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.9,
+      "reasoning": "Earthwork found.",
+      "evidence": "Earthwork"
+    },
+    {
+      "extracted_id": "h_14",
+      "gt_id": "c7_2",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.9,
+      "reasoning": "Hearth found.",
+      "evidence": "Hearth"
+    },
+    {
+      "extracted_id": "h_15",
+      "gt_id": "c7_3",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.9,
+      "reasoning": "Framework/Roof found.",
+      "evidence": "Framework/Roof"
+    },
+    {
+      "extracted_id": "h_16",
+      "gt_id": "c7_4",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.9,
+      "reasoning": "Lightweight Enclosing Membrane found.",
+      "evidence": "Lightweight Enclosing Membrane"
+    }
+  ],
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "Topos",
+      "aliases": [
+        "Site",
+        "Topography"
+      ],
+      "weight": 8,
+      "importance": 8
+    },
+    {
+      "id": "c2",
+      "name": "Typos",
+      "aliases": [
+        "Type",
+        "Cultural form"
+      ],
+      "weight": 7,
+      "importance": 7
+    },
+    {
+      "id": "c3",
+      "name": "Tectonic",
+      "aliases": [
+        "Frame",
+        "Lightweight tensile structure",
+        "Poetics of Construction"
+      ],
+      "weight": 10,
+      "sub_concepts": [
+        {
+          "id": "c3_1",
+          "name": "Kernform",
+          "aliases": [
+            "Core Form",
+            "Structural core"
+          ],
+          "weight": 9
+        },
+        {
+          "id": "c3_2",
+          "name": "Kunstform",
+          "aliases": [
+            "Art Form",
+            "Symbolic expression",
+            "Representational expression"
+          ],
+          "weight": 9
+        }
+      ],
+      "importance": 10
+    },
+    {
+      "id": "c4",
+      "name": "Stereotomic",
+      "aliases": [
+        "Earthwork",
+        "Compressive mass",
+        "Heavyweight structure"
+      ],
+      "weight": 10,
+      "importance": 10
+    },
+    {
+      "id": "c5",
+      "name": "Shintai",
+      "aliases": [
+        "Sentient body",
+        "Corporeal experience",
+        "Kinetic experience"
+      ],
+      "weight": 8,
+      "sub_concepts": [
+        {
+          "id": "c5_1",
+          "name": "Tactility",
+          "aliases": [
+            "Hand-finish",
+            "Texture"
+          ],
+          "weight": 7
+        },
+        {
+          "id": "c5_2",
+          "name": "Kinesthetics",
+          "aliases": [
+            "Gait",
+            "Circulation paths"
+          ],
+          "weight": 7
+        },
+        {
+          "id": "c5_3",
+          "name": "Psycho-Acoustics",
+          "aliases": [
+            "Reverberation",
+            "Acoustic absorption"
+          ],
+          "weight": 7
+        }
+      ],
+      "importance": 8
+    },
+    {
+      "id": "c6",
+      "name": "Stoffwechseltheorie",
+      "aliases": [
+        "Material transposition"
+      ],
+      "weight": 8,
+      "importance": 8
+    },
+    {
+      "id": "c7",
+      "name": "Semper's Four Elements",
+      "aliases": [
+        "Four Elements"
+      ],
+      "weight": 9,
+      "sub_concepts": [
+        {
+          "id": "c7_1",
+          "name": "Earthwork",
+          "aliases": [
+            "Stereotomic base"
+          ],
+          "weight": 8
+        },
+        {
+          "id": "c7_2",
+          "name": "Hearth",
+          "aliases": [
+            "Fire",
+            "Social center"
+          ],
+          "weight": 8
+        },
+        {
+          "id": "c7_3",
+          "name": "Framework/Roof",
+          "aliases": [
+            "Tectonic frame"
+          ],
+          "weight": 8
+        },
+        {
+          "id": "c7_4",
+          "name": "Lightweight Enclosing Membrane",
+          "aliases": [
+            "Textile",
+            "Woven materials"
+          ],
+          "weight": 8
+        }
+      ],
+      "importance": 9
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "h_1",
+      "name": "h_1",
+      "is_redundant": false
+    },
+    {
+      "id": "h_2",
+      "name": "h_2",
+      "is_redundant": false
+    },
+    {
+      "id": "h_3",
+      "name": "h_3",
+      "is_redundant": false
+    },
+    {
+      "id": "h_4",
+      "name": "h_4",
+      "is_redundant": false
+    },
+    {
+      "id": "h_5",
+      "name": "h_5",
+      "is_redundant": false
+    },
+    {
+      "id": "h_6",
+      "name": "h_6",
+      "is_redundant": false
+    },
+    {
+      "id": "h_7",
+      "name": "h_7",
+      "is_redundant": false
+    },
+    {
+      "id": "h_8",
+      "name": "h_8",
+      "is_redundant": false
+    },
+    {
+      "id": "h_9",
+      "name": "h_9",
+      "is_redundant": false
+    },
+    {
+      "id": "h_10",
+      "name": "h_10",
+      "is_redundant": false
+    },
+    {
+      "id": "h_11",
+      "name": "h_11",
+      "is_redundant": false
+    },
+    {
+      "id": "h_12",
+      "name": "h_12",
+      "is_redundant": false
+    },
+    {
+      "id": "h_13",
+      "name": "h_13",
+      "is_redundant": false
+    },
+    {
+      "id": "h_14",
+      "name": "h_14",
+      "is_redundant": false
+    },
+    {
+      "id": "h_15",
+      "name": "h_15",
+      "is_redundant": false
+    },
+    {
+      "id": "h_16",
+      "name": "h_16",
+      "is_redundant": false
+    }
+  ],
+  "artifact_usability": {
+    "formatting_score": 4.0,
+    "clarity_score": 4.0,
+    "logical_score": 4.0
+  }
+}

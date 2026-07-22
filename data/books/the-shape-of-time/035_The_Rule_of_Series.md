@@ -1,0 +1,15 @@
+> [BREADCRUMB_CTX: 《The Shape of Time》 > The Rule of Series]
+
+# The Rule of Series
+
+The Rule of Series
+
+Every succession may be stated in the following propositions: (1) in the course of an irreversible finite series the use of any position reduces the number of remaining positions; (2) each position in a series affords only a limited number of possibilities of action; (3) the choice of an action commits the corresponding position; (4) taking a position both defines and reduces the range of possibilities in the succeeding position.
+
+Stated differently: every new form limits the succeeding innovations in the same series. Every such form is itself one of a finite number of possibilities open in any temporal situation. Hence every innovation reduces the duration of its class. The boundaries of a class are fixed by the presence of a problem requiring linked solutions: classes may be small or large: we are here concerned only with their internal relationships and not with their dimensions or magnitudes.
+
+One more proposition allows us to qualify the mode of duration. Each series, originating in its own class of forms, has its own 
+minimal duration for each position, depending upon the effort required. Small problems require small effort; large ones demand more effort and so consume more time. Any effort to shortcut the circuit leads to failure. The rule of series requires each position to be occupied for its corresponding period before the next position can be taken. In purely technological domains this is selfevident: the steam engine was invented before the locomotive, but the mise au point
+of a locomotive required many more parts, each consuming its portion in the economy of the time sequence, than a steam engine alone. In works of art the rule of minimal durations is even more rigorous, marked by collective attitudes of acceptance or rejection, which we shall discuss later. These cannot be short-circuited by fortuitous discoveries as in the technological fields. For example, the discovery of a luminous paint was no help to the painter engaged in an attempt to record on canvas the play of light in nature: he was bound to achieve his unconventional aim with conventional materials.
+
+Our procedure is rather to recognize the recurrence of a need in differing stages of its gratification, and the persistence of a problem throughout various efforts to solve it. Every need evokes a problem. The juncture of each need with successive solutions leads to the conception of sequence. It is a conception much narrower yet more labile than that of any biological metaphor, for it considers only human needs and their satisfaction, in a one-to-one correspondence between needs and things, without the intermediary of any other irrelevant entity like “life-cycle.” The main difficulty arises in the specification of “needs,” but we have carefully sidestepped that question by restricting the discussion to relationships rather than to magnitudes.

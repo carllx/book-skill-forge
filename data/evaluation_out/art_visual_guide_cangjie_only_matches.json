@@ -1,0 +1,27 @@
+{
+  "ground_truth_concepts": [
+    {
+      "id": "c_art",
+      "name": "Art",
+      "importance": 1.0
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "ext_c_art",
+      "name": "Art",
+      "is_redundant": false
+    }
+  ],
+  "artifact_usability": {
+    "formatting_score": 4,
+    "clarity_score": 4,
+    "logical_score": 4
+  },
+  "mappings": [
+    {
+      "gt_id": "c_art",
+      "extracted_id": "ext_c_art"
+    }
+  ]
+}

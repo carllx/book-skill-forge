@@ -1,0 +1,861 @@
+{
+  "nodes": [
+    {
+      "id": "New Media",
+      "label": "New Media",
+      "description": "The convergence of computing and media technologies into numerical data."
+    },
+    {
+      "id": "Numerical Representation",
+      "label": "Numerical Representation",
+      "description": "All new media objects are composed of digital code and can be described formally."
+    },
+    {
+      "id": "Modularity",
+      "label": "Modularity",
+      "description": "The 'fractal structure' of new media where elements maintain their separate identity."
+    },
+    {
+      "id": "Automation",
+      "label": "Automation",
+      "description": "A key principle of new media (listed)."
+    },
+    {
+      "id": "Variability",
+      "label": "Variability",
+      "description": "A key principle of new media (listed)."
+    },
+    {
+      "id": "Transcoding",
+      "label": "Transcoding",
+      "description": "A key principle of new media (listed)."
+    },
+    {
+      "id": "Digitization",
+      "label": "Digitization",
+      "description": "The process of converting continuous data into a numerical representation."
+    },
+    {
+      "id": "Sampling",
+      "label": "Sampling",
+      "description": "Turning continuous data into discrete data."
+    },
+    {
+      "id": "Quantization",
+      "label": "Quantization",
+      "description": "Assigning a numerical value to a sample."
+    },
+    {
+      "id": "Dziga Vertov",
+      "label": "Dziga Vertov",
+      "description": "Avant-garde filmmaker, created Man with a Movie Camera."
+    },
+    {
+      "id": "Kino-Eye",
+      "label": "Kino-Eye",
+      "description": "Vertov's concept of using the camera to decode the world."
+    },
+    {
+      "id": "Database",
+      "label": "Database",
+      "description": "A form or logic of new media; Vertov is cited as a 'database filmmaker'."
+    },
+    {
+      "id": "Low-level Automation",
+      "label": "Low-level Automation",
+      "description": "Automation where users modify or create media using templates or simple algorithms, standard in commercial software like Photoshop and Word."
+    },
+    {
+      "id": "High-level Automation",
+      "label": "High-level Automation",
+      "description": "Automation requiring a computer to understand semantics, often using AI, as seen in game AI engines or virtual actors."
+    },
+    {
+      "id": "Scalability",
+      "label": "Scalability",
+      "description": "A case of variability where versions of an object are generated at various sizes or levels of detail."
+    },
+    {
+      "id": "Hypermedia",
+      "label": "Hypermedia",
+      "description": "A structure where media elements are connected via hyperlinks, separating elements from structure, seen as a case of variability."
+    },
+    {
+      "id": "Cultural Layer",
+      "label": "Cultural Layer",
+      "description": "The layer of media featuring recognizable objects, narratives, and traditional human meanings."
+    },
+    {
+      "id": "Computer Layer",
+      "label": "Computer Layer",
+      "description": "The layer of media consisting of data structures, algorithms, variables, and machine-readable code."
+    },
+    {
+      "id": "Software Studies",
+      "label": "Software Studies",
+      "description": "A new stage in media theory turning to computer science to understand programmable media."
+    },
+    {
+      "id": "Cinema as Precursor",
+      "label": "Cinema as Precursor",
+      "description": "Cinema anticipated new media via discrete sampling of time, multimedia combinations, and random access mapping."
+    },
+    {
+      "id": "Myth of Lossless Copies",
+      "label": "Myth of Lossless Copies",
+      "description": "The notion that digital media copies identically, which is contradicted in reality by the pervasive use of lossy compression."
+    },
+    {
+      "id": "Lossy Compression",
+      "label": "Lossy Compression",
+      "description": "Techniques to reduce file size by deleting information, serving as the actual foundation of computer culture."
+    },
+    {
+      "id": "Interactivity Myth",
+      "label": "Interactivity Myth",
+      "description": "The idea that 'interactive media' is unique to computers, ignoring that all HCI is interactive and older art forms required psychological interaction."
+    },
+    {
+      "id": "Externalization of Mind",
+      "label": "Externalization of Mind",
+      "description": "The modern trend to objectify internal mental processes (like associations) into external visual forms or hyperlinked structures."
+    },
+    {
+      "id": "Human-Computer Interface (GUI)",
+      "label": "Human-Computer Interface (GUI)",
+      "description": "A key semiotic code that filters all culture, imposing its own logic and blurring the work-leisure divide."
+    },
+    {
+      "id": "Cultural Interfaces",
+      "label": "Cultural Interfaces",
+      "description": "Human-computer-culture interfaces used for distributing and interacting with cultural data."
+    },
+    {
+      "id": "Human-Computer Interface (HCI)",
+      "label": "Human-Computer Interface (HCI)",
+      "description": "General-purpose tool and metaphors (like the desktop) for operating a computer."
+    },
+    {
+      "id": "Printed Word",
+      "label": "Printed Word",
+      "description": "Tradition of text organization, pages, and hyperlinking providing a model for cultural interfaces."
+    },
+    {
+      "id": "Cinema",
+      "label": "Cinema",
+      "description": "Tradition of mobile camera, framing, and narrative spatialization, increasingly dominating cultural interfaces."
+    },
+    {
+      "id": "Screen",
+      "label": "Screen",
+      "description": "A flat, rectangular surface positioned at a distance from the viewer, acting as a window into virtual spaces."
+    },
+    {
+      "id": "Classical Screen",
+      "label": "Classical Screen",
+      "description": "Displays a static image separated from reality by a frame, like a painting."
+    },
+    {
+      "id": "Dynamic Screen",
+      "label": "Dynamic Screen",
+      "description": "Displays a changing image of the past, capturing viewer's attention, like cinema."
+    },
+    {
+      "id": "Real-Time Screen",
+      "label": "Real-Time Screen",
+      "description": "Displays an image updated in real time tracking a referent, like radar."
+    },
+    {
+      "id": "Interactive Screen",
+      "label": "Interactive Screen",
+      "description": "A screen where user actions can change computer memory and affect reality, like modern HCI."
+    },
+    {
+      "id": "Spatialization",
+      "label": "Spatialization",
+      "description": "The flattening of time into a navigable spatial landscape, common in new media."
+    },
+    {
+      "id": "Screen-based Apparatuses",
+      "label": "Screen-based Apparatuses",
+      "description": "Technologies like camera obscura, photography, and cinema that separate virtual and physical spaces and require viewer immobility. Belongs to Representation Tradition."
+    },
+    {
+      "id": "Virtual Reality (VR)",
+      "label": "Virtual Reality (VR)",
+      "description": "A screen-less apparatus that requires viewer movement while physically tethering them, blending or overriding physical space. Belongs to Simulation Tradition."
+    },
+    {
+      "id": "Simulation Tradition",
+      "label": "Simulation Tradition",
+      "description": "A representational logic that blends virtual and physical spaces without a separating frame, allowing continuous scale (e.g., frescoes, VR)."
+    },
+    {
+      "id": "Representation Tradition",
+      "label": "Representation Tradition",
+      "description": "A logic that separates physical and virtual spaces with a screen/frame, splitting the subject's identity (e.g., Renaissance painting, cinema)."
+    },
+    {
+      "id": "New Media Operations",
+      "label": "New Media Operations",
+      "description": "General techniques for working with computer media, such as selection, compositing, and teleaction, which become cognitive strategies."
+    },
+    {
+      "id": "Logic of Selection",
+      "label": "Logic of Selection",
+      "description": "A model of authorship based on choosing from pre-defined menus, libraries, and databases rather than authentic creation from scratch."
+    },
+    {
+      "id": "Electronic Signal Mutability",
+      "label": "Electronic Signal Mutability",
+      "description": "The inherent mutability of electronic signals that can be modified in real-time through filters, acting as a precursor to new media variability."
+    },
+    {
+      "id": "Digital Compositing",
+      "label": "Digital Compositing",
+      "description": "The operation of assembling disparate modular elements into a single seamless object, hiding their diverse origins."
+    },
+    {
+      "id": "Modular Media",
+      "label": "Modular Media",
+      "description": "Media formats (like 3D scenes, QuickTime) that maintain independent elements/layers, contrasting with traditional single-stream media."
+    },
+    {
+      "id": "Aesthetics of Continuity",
+      "label": "Aesthetics of Continuity",
+      "description": "An anti-montage aesthetics in new media where boundaries between elements are erased to simulate a continuous human experience."
+    },
+    {
+      "id": "Montage",
+      "label": "Montage",
+      "description": "A technique aiming to create visual, stylistic, semantic, and emotional dissonance by juxtaposing elements."
+    },
+    {
+      "id": "Montage within a shot (Spatial Montage)",
+      "label": "Montage within a shot (Spatial Montage)",
+      "description": "Combining separate realities into contingent parts of a single image, making space as important as time."
+    },
+    {
+      "id": "Teleaction (Telepresence)",
+      "label": "Teleaction (Telepresence)",
+      "description": "The ability to manipulate physical reality over a distance in real time through electronic transmission."
+    },
+    {
+      "id": "Image-Instruments",
+      "label": "Image-Instruments",
+      "description": "Representations (like perspective, radar, or real-time video) that systematically capture reality to act upon it."
+    },
+    {
+      "id": "Big Optics",
+      "label": "Big Optics",
+      "description": "Paul Virilio's concept of real-time electronic transmission that collapses physical distance."
+    },
+    {
+      "id": "Small Optics",
+      "label": "Small Optics",
+      "description": "Geometric perspective and human vision which maintain a natural spatial distance."
+    },
+    {
+      "id": "Synthetic Realism",
+      "label": "Synthetic Realism",
+      "description": "The realistic representation of a different reality (cyborg/computer vision) rather than natural reality; conceptually pioneered by Georges Méliès."
+    },
+    {
+      "id": "Photorealism (Computer Graphics)",
+      "label": "Photorealism (Computer Graphics)",
+      "description": "The ability of computer imagery to simulate the photographic lens (including its artifacts like depth of field, motion blur) rather than direct human perception."
+    },
+    {
+      "id": "Jurassic Park (Aesthetic)",
+      "label": "Jurassic Park (Aesthetic)",
+      "description": "The technique of artificially degrading perfect computer-generated graphics to match the grain and flaws of traditional film. Compared to Socialist Realism."
+    },
+    {
+      "id": "Socialist Realism",
+      "label": "Socialist Realism",
+      "description": "The superimposition of a perfect, idealized future onto the flawed, everyday present, analogous to Jurassic Park blending perfect CG with grainy film."
+    },
+    {
+      "id": "Meta-realism",
+      "label": "Meta-realism",
+      "description": "A new realism based on the cyclical oscillation between an illusion and its suspension or destruction, typical of interactive media."
+    },
+    {
+      "id": "Phatic Function (Contact)",
+      "label": "Phatic Function (Contact)",
+      "description": "Communication dominated by the physical channel and act of connection, evident in web delays and loading sequences where the machine reveals itself."
+    },
+    {
+      "id": "Cognitive Multitasking",
+      "label": "Cognitive Multitasking",
+      "description": "The rapid alternation between different kinds of attention and mental sets demanded by modern human-computer interfaces and interactive media."
+    },
+    {
+      "id": "Cinematic Realism",
+      "label": "Cinematic Realism",
+      "description": "A historical standard of illusionism striving for a total approximation of reality (Bazin) or a substitution of codes (Comolli) driven by industrial aims (Bordwell & Staiger)."
+    },
+    {
+      "id": "Image-Interface / Image-Instrument",
+      "label": "Image-Interface / Image-Instrument",
+      "description": "Images transformed from passive representations into active tools that the user interacts with or uses to control reality."
+    },
+    {
+      "id": "Narrative",
+      "label": "Narrative",
+      "description": "A cause-and-effect trajectory of events that creates a unique trajectory through a database, often de-materialized in new media."
+    },
+    {
+      "id": "Algorithm",
+      "label": "Algorithm",
+      "description": "A final sequence of simple operations executed by a computer to accomplish a task. Drives interactive narratives and games."
+    },
+    {
+      "id": "Data Structure",
+      "label": "Data Structure",
+      "description": "Data organized in a particular way for efficient search and retrieval, complementary to algorithms."
+    },
+    {
+      "id": "Paradigm",
+      "label": "Paradigm",
+      "description": "A set of related elements from which choices are made (implicit in traditional media, explicitly materialized in new media databases)."
+    },
+    {
+      "id": "Syntagm",
+      "label": "Syntagm",
+      "description": "A linear sequence or combination of signs, representing the actualized narrative trajectory."
+    },
+    {
+      "id": "Navigable Space",
+      "label": "Navigable Space",
+      "description": "A 3D virtual environment where navigation through space becomes a central action for narrative and exploration."
+    },
+    {
+      "id": "Computer Space",
+      "label": "Computer Space",
+      "description": "Virtual 3D environments generated by computers, often characterized by separate objects rather than a continuous spatial medium."
+    },
+    {
+      "id": "Aggregate Space",
+      "label": "Aggregate Space",
+      "description": "A discontinuous space composed of discrete entities, objects, or levels, lacking a unified systematic perspective (akin to ancient Greek space). Typical of the Web and virtual worlds."
+    },
+    {
+      "id": "Systematic Space",
+      "label": "Systematic Space",
+      "description": "Infinite, homogeneous, continuous space that exists prior to objects, associated with Renaissance perspective."
+    },
+    {
+      "id": "Space-Medium",
+      "label": "Space-Medium",
+      "description": "The concept of an environment where objects and space are embedded into an inseparable dense field (prostranstvennaya sreda), lacking distinct rigid boundaries."
+    },
+    {
+      "id": "The Flâneur",
+      "label": "The Flâneur",
+      "description": "The modern urban observer who finds home in the anonymous crowd, navigating city spaces; reincarnated in new media as the Net surfer or Data Dandy."
+    },
+    {
+      "id": "The Explorer",
+      "label": "The Explorer",
+      "description": "The lonely hero navigating wilderness or unknown territories to build character and map space; reincarnated in new media as the player of computer games."
+    },
+    {
+      "id": "Flight Simulator",
+      "label": "Flight Simulator",
+      "description": "A military training technology that historically pioneered the interactive navigation of simulated spatial environments."
+    },
+    {
+      "id": "Non-place",
+      "label": "Non-place",
+      "description": "Spaces of transit, contractuality, and impermanence (e.g., airports, highways, Web navigation) produced by supermodernity, animated by trajectories of moving bodies."
+    },
+    {
+      "id": "Supermodernity",
+      "label": "Supermodernity",
+      "description": "A contemporary condition characterized by trajectories, flows, databases, and non-places, superseding modern forms of narrative and stable architecture."
+    },
+    {
+      "id": "Digital Cinema",
+      "label": "Digital Cinema",
+      "description": "Cinema created using digital technologies like 3D animation, digital compositing, and painting, changing its identity from indexical recording to a subset of animation."
+    },
+    {
+      "id": "Computer-based Image",
+      "label": "Computer-based Image",
+      "description": "An image that is discrete, modular, mathematically defined, and functions as both a representation and an interactive interface."
+    },
+    {
+      "id": "Traditional Cinema",
+      "label": "Traditional Cinema",
+      "description": "The art of the index based on photographic recording, sequence narrative, and temporal montage."
+    },
+    {
+      "id": "Animation",
+      "label": "Animation",
+      "description": "A form relying on constructed, modified, or hand-painted images, discontinuous space, and discrete motion, which now forms the basis of digital cinema."
+    },
+    {
+      "id": "Loop",
+      "label": "Loop",
+      "description": "A repetitive temporal structure used in early moving pictures, computer programming, and new media narrative as an engine for interactive story progression."
+    },
+    {
+      "id": "Spatial Montage",
+      "label": "Spatial Montage",
+      "description": "A mode of juxtaposition where multiple images co-exist simultaneously on a screen, mirroring GUI logic and challenging linear cinematic narrative."
+    },
+    {
+      "id": "Cinegratography",
+      "label": "Cinegratography",
+      "description": "A hybrid language merging cinematic illusionism and graphic collage aesthetics, heavily explored in CD-ROM interactive media."
+    },
+    {
+      "id": "Database Narrative",
+      "label": "Database Narrative",
+      "description": "A narrative formed by accessing and streaming records from a database in real time."
+    },
+    {
+      "id": "Cinema as Information Space",
+      "label": "Cinema as Information Space",
+      "description": "The interpretation of cinema as an interface to events taking place in 3D space, similar to how new media interfaces present dense information."
+    },
+    {
+      "id": "Aesthetics of Density",
+      "label": "Aesthetics of Density",
+      "description": "A visual style characterized by a high density of information or objects, evident in web portals, GUI interfaces, and multi-layered digital films."
+    },
+    {
+      "id": "Dutch Painting (17th Century)",
+      "label": "Dutch Painting (17th Century)",
+      "description": "A historical precursor to the aesthetics of density, focused on detailed description and cataloging objects rather than hierarchical narration."
+    },
+    {
+      "id": "Christian Boustani's Films",
+      "label": "Christian Boustani's Films",
+      "description": "Computer films that develop the aesthetics of density through digital compositing, using hundreds of layers to achieve unprecedented information density in cinema."
+    },
+    {
+      "id": "Cinema as a Code",
+      "label": "Cinema as a Code",
+      "description": "The realization that in the computer age, cinema and other cultural forms become digital code (data) used to communicate experiences."
+    },
+    {
+      "id": "ASCII Films (Vuk Cosic)",
+      "label": "ASCII Films (Vuk Cosic)",
+      "description": "Artworks that perform the new status of media as digital data by visibly displaying the ASCII code alongside the film image."
+    },
+    {
+      "id": "Media Translation",
+      "label": "Media Translation",
+      "description": "The continuous process of translating media content between formats, often resurrected as obsolete media in net.art."
+    },
+    {
+      "id": "Cultural Open Source",
+      "label": "Cultural Open Source",
+      "description": "The effect of computerization that opens up traditional cultural techniques for redefinition, such as database challenging narrative and spatial montage challenging temporal montage."
+    }
+  ],
+  "edges": [
+    {
+      "source": "Database",
+      "target": "Narrative",
+      "label": "Natural Enemies / Competing Imaginations"
+    },
+    {
+      "source": "New Media Operations",
+      "target": "Digital Compositing",
+      "label": "includes"
+    },
+    {
+      "source": "Screen",
+      "target": "Classical Screen",
+      "label": "has historical form"
+    },
+    {
+      "source": "Transcoding",
+      "target": "Software Studies",
+      "label": "necessitates"
+    },
+    {
+      "source": "Digital Compositing",
+      "target": "Montage within a shot (Spatial Montage)",
+      "label": "Expands possibilities of"
+    },
+    {
+      "source": "Database",
+      "target": "Paradigm",
+      "label": "Corresponds to"
+    },
+    {
+      "source": "Automation",
+      "target": "Low-level Automation",
+      "label": "includes"
+    },
+    {
+      "source": "The Flâneur",
+      "target": "Navigable Space",
+      "label": "navigates via web surfing"
+    },
+    {
+      "source": "Variability",
+      "target": "Hypermedia",
+      "label": "manifests as"
+    },
+    {
+      "source": "Supermodernity",
+      "target": "Non-place",
+      "label": "produces"
+    },
+    {
+      "source": "Narrative",
+      "target": "Syntagm",
+      "label": "Corresponds to"
+    },
+    {
+      "source": "Navigable Space",
+      "target": "Non-place",
+      "label": "functions as"
+    },
+    {
+      "source": "Computer Space",
+      "target": "Space-Medium",
+      "label": "generally lacks"
+    },
+    {
+      "source": "Algorithm",
+      "target": "Data Structure",
+      "label": "Symbiotic Relationship / Ontology Halves"
+    },
+    {
+      "source": "Cinegratography",
+      "target": "Digital Cinema",
+      "label": "is a visual language of"
+    },
+    {
+      "source": "Cultural Interfaces",
+      "target": "Printed Word",
+      "label": "combines elements of"
+    },
+    {
+      "source": "Montage",
+      "target": "Aesthetics of Continuity",
+      "label": "Opposes"
+    },
+    {
+      "source": "Cultural Open Source",
+      "target": "Spatial Montage",
+      "label": "promotes"
+    },
+    {
+      "source": "Dutch Painting (17th Century)",
+      "target": "Aesthetics of Density",
+      "label": "is a historical precursor to"
+    },
+    {
+      "source": "Jurassic Park (Aesthetic)",
+      "target": "Synthetic Realism",
+      "label": "masks the perfection of"
+    },
+    {
+      "source": "Dziga Vertov",
+      "target": "Kino-Eye",
+      "label": "invented"
+    },
+    {
+      "source": "Christian Boustani's Films",
+      "target": "Digital Compositing",
+      "label": "achieved via"
+    },
+    {
+      "source": "Digitization",
+      "target": "Sampling",
+      "label": "step 1"
+    },
+    {
+      "source": "Virtual Reality (VR)",
+      "target": "Simulation Tradition",
+      "label": "continues"
+    },
+    {
+      "source": "Spatial Montage",
+      "target": "Digital Cinema",
+      "label": "represents a new spatial dimension for"
+    },
+    {
+      "source": "Photorealism (Computer Graphics)",
+      "target": "Cinematic Realism",
+      "label": "aims to simulate"
+    },
+    {
+      "source": "The Explorer",
+      "target": "Navigable Space",
+      "label": "navigates via spatial exploration (games)"
+    },
+    {
+      "source": "New Media",
+      "target": "Modularity",
+      "label": "has principle"
+    },
+    {
+      "source": "Meta-realism",
+      "target": "Cognitive Multitasking",
+      "label": "requires from the user"
+    },
+    {
+      "source": "Computer Space",
+      "target": "Aggregate Space",
+      "label": "is often structured as"
+    },
+    {
+      "source": "Automation",
+      "target": "High-level Automation",
+      "label": "includes"
+    },
+    {
+      "source": "Classical Screen",
+      "target": "Dynamic Screen",
+      "label": "evolves into"
+    },
+    {
+      "source": "Computer Space",
+      "target": "Navigable Space",
+      "label": "is traversed as"
+    },
+    {
+      "source": "Big Optics",
+      "target": "Small Optics",
+      "label": "Replaces"
+    },
+    {
+      "source": "Christian Boustani's Films",
+      "target": "Aesthetics of Density",
+      "label": "exemplifies"
+    },
+    {
+      "source": "Numerical Representation",
+      "target": "Digitization",
+      "label": "involves"
+    },
+    {
+      "source": "New Media",
+      "target": "Transcoding",
+      "label": "has principle"
+    },
+    {
+      "source": "Digital Compositing",
+      "target": "Aesthetics of Continuity",
+      "label": "Enables"
+    },
+    {
+      "source": "Big Optics",
+      "target": "Teleaction (Telepresence)",
+      "label": "Facilitates"
+    },
+    {
+      "source": "New Media",
+      "target": "Variability",
+      "label": "has principle"
+    },
+    {
+      "source": "Navigable Space",
+      "target": "Database",
+      "label": "is complementary to"
+    },
+    {
+      "source": "Cinema",
+      "target": "Spatialization",
+      "label": "leads to"
+    },
+    {
+      "source": "Navigable Space",
+      "target": "Narrative",
+      "label": "Replaces or Drives Plot"
+    },
+    {
+      "source": "ASCII Films (Vuk Cosic)",
+      "target": "Media Translation",
+      "label": "is an artistic example of"
+    },
+    {
+      "source": "Flight Simulator",
+      "target": "Navigable Space",
+      "label": "is historical precedent for"
+    },
+    {
+      "source": "Variability",
+      "target": "Scalability",
+      "label": "manifests as"
+    },
+    {
+      "source": "Transcoding",
+      "target": "Computer Layer",
+      "label": "composites"
+    },
+    {
+      "source": "Digital Cinema",
+      "target": "Computer-based Image",
+      "label": "is composed of"
+    },
+    {
+      "source": "Image-Interface / Image-Instrument",
+      "target": "Meta-realism",
+      "label": "creates conditions for"
+    },
+    {
+      "source": "New Media",
+      "target": "Automation",
+      "label": "has principle"
+    },
+    {
+      "source": "Digital Cinema",
+      "target": "Traditional Cinema",
+      "label": "redefines"
+    },
+    {
+      "source": "Loop",
+      "target": "Database Narrative",
+      "label": "acts as narrative engine for"
+    },
+    {
+      "source": "New Media",
+      "target": "Numerical Representation",
+      "label": "has principle"
+    },
+    {
+      "source": "Interactivity Myth",
+      "target": "Externalization of Mind",
+      "label": "driven by"
+    },
+    {
+      "source": "Meta-realism",
+      "target": "Phatic Function (Contact)",
+      "label": "incorporates"
+    },
+    {
+      "source": "Digital Compositing",
+      "target": "Modular Media",
+      "label": "relies on"
+    },
+    {
+      "source": "Cultural Interfaces",
+      "target": "Human-Computer Interface (HCI)",
+      "label": "combines elements of"
+    },
+    {
+      "source": "Myth of Lossless Copies",
+      "target": "Lossy Compression",
+      "label": "challenged by"
+    },
+    {
+      "source": "Human-Computer Interface (GUI)",
+      "target": "Transcoding",
+      "label": "acts as medium for"
+    },
+    {
+      "source": "Navigable Space",
+      "target": "Database",
+      "label": "Serves as Interface for Data Visualization"
+    },
+    {
+      "source": "Dynamic Screen",
+      "target": "Real-Time Screen",
+      "label": "evolves into"
+    },
+    {
+      "source": "Synthetic Realism",
+      "target": "Photorealism (Computer Graphics)",
+      "label": "is realized through"
+    },
+    {
+      "source": "Jurassic Park (Aesthetic)",
+      "target": "Socialist Realism",
+      "label": "shares aesthetic logic with"
+    },
+    {
+      "source": "New Media Operations",
+      "target": "Logic of Selection",
+      "label": "includes"
+    },
+    {
+      "source": "Human-Computer Interface (HCI)",
+      "target": "Screen",
+      "label": "relies on"
+    },
+    {
+      "source": "Cinema as a Code",
+      "target": "Cultural Open Source",
+      "label": "enables"
+    },
+    {
+      "source": "Electronic Signal Mutability",
+      "target": "Modular Media",
+      "label": "precursor to"
+    },
+    {
+      "source": "Dziga Vertov",
+      "target": "Database",
+      "label": "exemplifies"
+    },
+    {
+      "source": "Teleaction (Telepresence)",
+      "target": "Image-Instruments",
+      "label": "Relies on"
+    },
+    {
+      "source": "Transcoding",
+      "target": "Cultural Layer",
+      "label": "composites"
+    },
+    {
+      "source": "Screen-based Apparatuses",
+      "target": "Representation Tradition",
+      "label": "belongs to"
+    },
+    {
+      "source": "Cinema as Information Space",
+      "target": "Aesthetics of Density",
+      "label": "utilizes"
+    },
+    {
+      "source": "Cultural Interfaces",
+      "target": "Cinema",
+      "label": "combines elements of"
+    },
+    {
+      "source": "ASCII Films (Vuk Cosic)",
+      "target": "Cinema as a Code",
+      "label": "stages and performs"
+    },
+    {
+      "source": "Real-Time Screen",
+      "target": "Interactive Screen",
+      "label": "evolves into"
+    },
+    {
+      "source": "Supermodernity",
+      "target": "Navigable Space",
+      "label": "is characterized by"
+    },
+    {
+      "source": "Digital Cinema",
+      "target": "Animation",
+      "label": "is a subset of"
+    },
+    {
+      "source": "Aggregate Space",
+      "target": "Systematic Space",
+      "label": "contrasts with"
+    },
+    {
+      "source": "Spatial Montage",
+      "target": "Aesthetics of Density",
+      "label": "is a spatial realization of"
+    },
+    {
+      "source": "Digitization",
+      "target": "Quantization",
+      "label": "step 2"
+    }
+  ]
+}

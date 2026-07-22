@@ -1,0 +1,2119 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "file_113ae4ad",
+      "label": "Victor Papanek",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_000_Victor_Papanek.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e376365d",
+      "label": "Contents",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_001_Contents.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6db74dd3",
+      "label": "Preface to the First Edition",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_002_Preface_to_the_First_Edition_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_32378e5a",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 002 Preface to the First Edition 2",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_002_Preface_to_the_First_Edition_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f73c99ad",
+      "label": "Preface to the Second Edition",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_003_Preface_to_the_Second_Edition_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6f004471",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 003 Preface to the Second Edition 2",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_003_Preface_to_the_Second_Edition_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_53731124",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 003 Preface to the Second Edition 3",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_003_Preface_to_the_Second_Edition_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5bb16caa",
+      "label": "What ls Design?",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_004_What_ls_Design__1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b29dbef3",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 004 What ls Design  2",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_004_What_ls_Design__2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2e03a82c",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 004 What ls Design  3",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_004_What_ls_Design__3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_800a7517",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 004 What ls Design  4",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_004_What_ls_Design__4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8791d1b8",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 004 What ls Design  5",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_004_What_ls_Design__5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f3cadbc7",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 004 What ls Design  6",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_004_What_ls_Design__6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7c0495ec",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 004 What ls Design  7",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_004_What_ls_Design__7.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f5ba4853",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 004 What ls Design  8",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_004_What_ls_Design__8.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ae44967e",
+      "label": "Phylogenocide:",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b4eafec7",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 005 Phylogenocide  10",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__10.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a3ee5630",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 005 Phylogenocide  11",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__11.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2e14a688",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 005 Phylogenocide  12",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__12.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f2530d28",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 005 Phylogenocide  13",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__13.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6b03af69",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 005 Phylogenocide  14",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__14.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b6c44308",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 005 Phylogenocide  15",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__15.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d14c74ae",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 005 Phylogenocide  16",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__16.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_067c8881",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 005 Phylogenocide  17",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__17.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3583bc08",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 005 Phylogenocide  2",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d379eca3",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 005 Phylogenocide  3",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e6286424",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 005 Phylogenocide  4",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_711112bb",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 005 Phylogenocide  5",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f373c3cd",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 005 Phylogenocide  6",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b4689d59",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 005 Phylogenocide  7",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__7.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e5799b5d",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 005 Phylogenocide  8",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__8.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_254a45bc",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 005 Phylogenocide  9",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__9.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_86a27d35",
+      "label": "Low-cost educational TV set to be built by Africans in Africa. Designed by Richard Powers, as a student atPurdue University.",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_006_Low_cost_educational_TV_set_to.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7d18878d",
+      "label": "Another version of African TVproposal. Designed by Michael Crotty, asa student atPurdue University.",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_aab1baee",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 10",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_10.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_410a2dd8",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 11",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_11.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_fc46222d",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 12",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_12.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5f7e8d47",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 13",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_13.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_26c36b7b",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 14",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_14.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9f7c215a",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 15",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_15.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_737c2d58",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 16",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_16.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a68727b7",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 17",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_17.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3f490c8a",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 18",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_18.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_791628a9",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 19",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_19.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_07b31f2d",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 2",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_37031404",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 20",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_20.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_df47520b",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 21",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_21.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b0258fee",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 22",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_22.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a3f1c78f",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 23",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_23.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5bc6ff24",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 24",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_24.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_744b5ec6",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 25",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_25.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6de46281",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 26",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_26.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b8371805",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 27",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_27.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_dfcf327f",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 28",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_28.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3be54f50",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 29",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_29.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d7b9a66e",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 3",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_77129841",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 30",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_30.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_22f2e161",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 31",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_31.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e4dd95ea",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 32",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_32.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_0fa9d708",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 33",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_33.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_22a967f1",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 34",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_34.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_15b9d059",
+      "label": "Three examples ofresearch into aerodynamic behavior of seeds. Graduateteam research under the author's supervision by Robert Toering, John K. Miller, and Jolan Truan, asstudents atPurdue University.",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_35.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2ec9c6fc",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 36",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_36.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8990033f",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 37",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_37.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_aae7a0ba",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 38",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_38.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_978efdb4",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 39",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_39.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_86006376",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 4",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_efb22bee",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 40",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_40.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_779bd8d8",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 41",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_41.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3343fcfa",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 42",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_42.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9eb501ab",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 43",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_43.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_70195bba",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 44",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_44.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_fd87904d",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 5",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_67f8db25",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 6",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4b1abd3f",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 7",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_7.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a17672a8",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 8",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_8.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f1a3c302",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 007 Another version of African TVp 9",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_9.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_27523b46",
+      "label": "Where are they now?",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_008_Where_are_they_now__1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b0f7cce0",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 008 Where are they now  2",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_008_Where_are_they_now__2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_98d05fec",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 008 Where are they now  3",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_008_Where_are_they_now__3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b88dac66",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 008 Where are they now  4",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_008_Where_are_they_now__4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b8fcd436",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 008 Where are they now  5",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_008_Where_are_they_now__5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c4305f60",
+      "label": "Environmental Design:",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b1f7beef",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 009 Environmental Design  10",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__10.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_51d70125",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 009 Environmental Design  11",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__11.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_cb9074e4",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 009 Environmental Design  12",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__12.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b387d140",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 009 Environmental Design  2",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a186be8b",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 009 Environmental Design  3",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7e2a339e",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 009 Environmental Design  4",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_0c0063c8",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 009 Environmental Design  5",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_10190b9b",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 009 Environmental Design  6",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_215db066",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 009 Environmental Design  7",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__7.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2f60f721",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 009 Environmental Design  8",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__8.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_fa3b64ce",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 009 Environmental Design  9",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__9.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_84e8a4c1",
+      "label": "The Neon Blackboard:",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f84a3856",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 010 The Neon Blackboard  10",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__10.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_de2d3c8f",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 010 The Neon Blackboard  11",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__11.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3f233810",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 010 The Neon Blackboard  12",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__12.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_0a152ccb",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 010 The Neon Blackboard  13",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__13.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_caec1767",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 010 The Neon Blackboard  14",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__14.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_0e32668c",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 010 The Neon Blackboard  15",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__15.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5908e741",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 010 The Neon Blackboard  16",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__16.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6b6b0aaf",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 010 The Neon Blackboard  2",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e29bcddb",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 010 The Neon Blackboard  3",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_0bc2e967",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 010 The Neon Blackboard  4",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f82ff65e",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 010 The Neon Blackboard  5",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9a0c00d5",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 010 The Neon Blackboard  6",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ace595db",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 010 The Neon Blackboard  7",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__7.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_30a69e1b",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 010 The Neon Blackboard  8",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__8.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_097549bf",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 010 The Neon Blackboard  9",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__9.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c9f93462",
+      "label": "A MANIFESTO OF CONSUMER RIGHTS",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_011_A_MANIFESTO_OF_CONSUMER_RIGHTS_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4be11018",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 011 A MANIFESTO OF CONSUMER RIGHTS 2",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_011_A_MANIFESTO_OF_CONSUMER_RIGHTS_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c620bff9",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 011 A MANIFESTO OF CONSUMER RIGHTS 3",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_011_A_MANIFESTO_OF_CONSUMER_RIGHTS_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_80528c04",
+      "label": "BIBLIOGRAPHY",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_012_BIBLIOGRAPHY_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b81e3e84",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 012 BIBLIOGRAPHY 2",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_012_BIBLIOGRAPHY_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3cd92a1e",
+      "label": "DESIGN AND THE ENVIRONMENT",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_013_DESIGN_AND_THE_ENVIRONMENT.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6a4a31da",
+      "label": "DESIGN AND THE FUTURE",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_014_DESIGN_AND_THE_FUTURE.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4e3eeb7d",
+      "label": "AGGRESSION, TERRITORIALITY, BIOLOGICAL SYSTEMS, AND DESIGN",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_015_AGGRESSION__TERRITORIALITY__BI_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_86bbb673",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 015 AGGRESSION  TERRITORIALITY  BI 2",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_015_AGGRESSION__TERRITORIALITY__BI_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3c32940e",
+      "label": "ERGONOMICS, HUMAN ENGINEERING, AND HUMAN FACTORS DESIGN",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_016_ERGONOMICS__HUMAN_ENGINEERING_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5ecdeccd",
+      "label": "GESTALT, PERCEPTION, CREATIVITY, AND RELATED FIELDS",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_017_GESTALT__PERCEPTION__CREATIVIT.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3d95e6b1",
+      "label": "POPULAR CULTURE, SOCIAL PRESSURES, AND DESIGN",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_018_POPULAR_CULTURE__SOCIAL_PRESSU.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7cc9772b",
+      "label": "DESIGN AND OTHER CULTURES",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_019_DESIGN_AND_OTHER_CULTURES.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_0026d73a",
+      "label": "PERSONAL STATEMENTS BY DESIGNERS AND OTHERS",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_020_PERSONAL_STATEMENTS_BY_DESIGNE.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b237ea63",
+      "label": "THE BACKGROUND OF DESIGN",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_021_THE_BACKGROUND_OF_DESIGN.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9d7aed11",
+      "label": "THE PRACTICE OF DESIGN AND ITS PHILOSOPHY",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_022_THE_PRACTICE_OF_DESIGN_AND_ITS.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9b7998bd",
+      "label": "INDUSTRIAL AND PRODUCT DESIGN",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_023_INDUSTRIAL_AND_PRODUCT_DESIGN_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_05d54482",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 023 INDUSTRIAL AND PRODUCT DESIGN 2",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_023_INDUSTRIAL_AND_PRODUCT_DESIGN_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_78ffbac9",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 023 INDUSTRIAL AND PRODUCT DESIGN 3",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_023_INDUSTRIAL_AND_PRODUCT_DESIGN_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_fd35f762",
+      "label": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change chunk 023 INDUSTRIAL AND PRODUCT DESIGN 4",
+      "file_type": "concept",
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_023_INDUSTRIAL_AND_PRODUCT_DESIGN_4.md",
+      "description": "Primary concept extracted from chunk"
+    }
+  ],
+  "links": [
+    {
+      "source": "file_113ae4ad",
+      "target": "file_e376365d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_001_Contents.md"
+    },
+    {
+      "source": "file_e376365d",
+      "target": "file_6db74dd3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_002_Preface_to_the_First_Edition_1.md"
+    },
+    {
+      "source": "file_6db74dd3",
+      "target": "file_32378e5a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_002_Preface_to_the_First_Edition_2.md"
+    },
+    {
+      "source": "file_32378e5a",
+      "target": "file_f73c99ad",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_003_Preface_to_the_Second_Edition_1.md"
+    },
+    {
+      "source": "file_f73c99ad",
+      "target": "file_6f004471",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_003_Preface_to_the_Second_Edition_2.md"
+    },
+    {
+      "source": "file_6f004471",
+      "target": "file_53731124",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_003_Preface_to_the_Second_Edition_3.md"
+    },
+    {
+      "source": "file_53731124",
+      "target": "file_5bb16caa",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_004_What_ls_Design__1.md"
+    },
+    {
+      "source": "file_5bb16caa",
+      "target": "file_b29dbef3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_004_What_ls_Design__2.md"
+    },
+    {
+      "source": "file_b29dbef3",
+      "target": "file_2e03a82c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_004_What_ls_Design__3.md"
+    },
+    {
+      "source": "file_2e03a82c",
+      "target": "file_800a7517",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_004_What_ls_Design__4.md"
+    },
+    {
+      "source": "file_800a7517",
+      "target": "file_8791d1b8",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_004_What_ls_Design__5.md"
+    },
+    {
+      "source": "file_8791d1b8",
+      "target": "file_f3cadbc7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_004_What_ls_Design__6.md"
+    },
+    {
+      "source": "file_f3cadbc7",
+      "target": "file_7c0495ec",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_004_What_ls_Design__7.md"
+    },
+    {
+      "source": "file_7c0495ec",
+      "target": "file_f5ba4853",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_004_What_ls_Design__8.md"
+    },
+    {
+      "source": "file_f5ba4853",
+      "target": "file_ae44967e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__1.md"
+    },
+    {
+      "source": "file_ae44967e",
+      "target": "file_b4eafec7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__10.md"
+    },
+    {
+      "source": "file_b4eafec7",
+      "target": "file_a3ee5630",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__11.md"
+    },
+    {
+      "source": "file_a3ee5630",
+      "target": "file_2e14a688",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__12.md"
+    },
+    {
+      "source": "file_2e14a688",
+      "target": "file_f2530d28",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__13.md"
+    },
+    {
+      "source": "file_f2530d28",
+      "target": "file_6b03af69",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__14.md"
+    },
+    {
+      "source": "file_6b03af69",
+      "target": "file_b6c44308",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__15.md"
+    },
+    {
+      "source": "file_b6c44308",
+      "target": "file_d14c74ae",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__16.md"
+    },
+    {
+      "source": "file_d14c74ae",
+      "target": "file_067c8881",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__17.md"
+    },
+    {
+      "source": "file_067c8881",
+      "target": "file_3583bc08",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__2.md"
+    },
+    {
+      "source": "file_3583bc08",
+      "target": "file_d379eca3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__3.md"
+    },
+    {
+      "source": "file_d379eca3",
+      "target": "file_e6286424",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__4.md"
+    },
+    {
+      "source": "file_e6286424",
+      "target": "file_711112bb",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__5.md"
+    },
+    {
+      "source": "file_711112bb",
+      "target": "file_f373c3cd",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__6.md"
+    },
+    {
+      "source": "file_f373c3cd",
+      "target": "file_b4689d59",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__7.md"
+    },
+    {
+      "source": "file_b4689d59",
+      "target": "file_e5799b5d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__8.md"
+    },
+    {
+      "source": "file_e5799b5d",
+      "target": "file_254a45bc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__9.md"
+    },
+    {
+      "source": "file_254a45bc",
+      "target": "file_86a27d35",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_006_Low_cost_educational_TV_set_to.md"
+    },
+    {
+      "source": "file_86a27d35",
+      "target": "file_7d18878d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_1.md"
+    },
+    {
+      "source": "file_7d18878d",
+      "target": "file_aab1baee",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_10.md"
+    },
+    {
+      "source": "file_aab1baee",
+      "target": "file_410a2dd8",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_11.md"
+    },
+    {
+      "source": "file_410a2dd8",
+      "target": "file_fc46222d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_12.md"
+    },
+    {
+      "source": "file_fc46222d",
+      "target": "file_5f7e8d47",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_13.md"
+    },
+    {
+      "source": "file_5f7e8d47",
+      "target": "file_26c36b7b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_14.md"
+    },
+    {
+      "source": "file_26c36b7b",
+      "target": "file_9f7c215a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_15.md"
+    },
+    {
+      "source": "file_9f7c215a",
+      "target": "file_737c2d58",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_16.md"
+    },
+    {
+      "source": "file_737c2d58",
+      "target": "file_a68727b7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_17.md"
+    },
+    {
+      "source": "file_a68727b7",
+      "target": "file_3f490c8a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_18.md"
+    },
+    {
+      "source": "file_3f490c8a",
+      "target": "file_791628a9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_19.md"
+    },
+    {
+      "source": "file_791628a9",
+      "target": "file_07b31f2d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_2.md"
+    },
+    {
+      "source": "file_07b31f2d",
+      "target": "file_37031404",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_20.md"
+    },
+    {
+      "source": "file_37031404",
+      "target": "file_df47520b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_21.md"
+    },
+    {
+      "source": "file_df47520b",
+      "target": "file_b0258fee",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_22.md"
+    },
+    {
+      "source": "file_b0258fee",
+      "target": "file_a3f1c78f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_23.md"
+    },
+    {
+      "source": "file_a3f1c78f",
+      "target": "file_5bc6ff24",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_24.md"
+    },
+    {
+      "source": "file_5bc6ff24",
+      "target": "file_744b5ec6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_25.md"
+    },
+    {
+      "source": "file_744b5ec6",
+      "target": "file_6de46281",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_26.md"
+    },
+    {
+      "source": "file_6de46281",
+      "target": "file_b8371805",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_27.md"
+    },
+    {
+      "source": "file_b8371805",
+      "target": "file_dfcf327f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_28.md"
+    },
+    {
+      "source": "file_dfcf327f",
+      "target": "file_3be54f50",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_29.md"
+    },
+    {
+      "source": "file_3be54f50",
+      "target": "file_d7b9a66e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_3.md"
+    },
+    {
+      "source": "file_d7b9a66e",
+      "target": "file_77129841",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_30.md"
+    },
+    {
+      "source": "file_77129841",
+      "target": "file_22f2e161",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_31.md"
+    },
+    {
+      "source": "file_22f2e161",
+      "target": "file_e4dd95ea",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_32.md"
+    },
+    {
+      "source": "file_e4dd95ea",
+      "target": "file_0fa9d708",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_33.md"
+    },
+    {
+      "source": "file_0fa9d708",
+      "target": "file_22a967f1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_34.md"
+    },
+    {
+      "source": "file_22a967f1",
+      "target": "file_15b9d059",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_35.md"
+    },
+    {
+      "source": "file_15b9d059",
+      "target": "file_2ec9c6fc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_36.md"
+    },
+    {
+      "source": "file_2ec9c6fc",
+      "target": "file_8990033f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_37.md"
+    },
+    {
+      "source": "file_8990033f",
+      "target": "file_aae7a0ba",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_38.md"
+    },
+    {
+      "source": "file_aae7a0ba",
+      "target": "file_978efdb4",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_39.md"
+    },
+    {
+      "source": "file_978efdb4",
+      "target": "file_86006376",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_4.md"
+    },
+    {
+      "source": "file_86006376",
+      "target": "file_efb22bee",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_40.md"
+    },
+    {
+      "source": "file_efb22bee",
+      "target": "file_779bd8d8",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_41.md"
+    },
+    {
+      "source": "file_779bd8d8",
+      "target": "file_3343fcfa",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_42.md"
+    },
+    {
+      "source": "file_3343fcfa",
+      "target": "file_9eb501ab",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_43.md"
+    },
+    {
+      "source": "file_9eb501ab",
+      "target": "file_70195bba",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_44.md"
+    },
+    {
+      "source": "file_70195bba",
+      "target": "file_fd87904d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_5.md"
+    },
+    {
+      "source": "file_fd87904d",
+      "target": "file_67f8db25",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_6.md"
+    },
+    {
+      "source": "file_67f8db25",
+      "target": "file_4b1abd3f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_7.md"
+    },
+    {
+      "source": "file_4b1abd3f",
+      "target": "file_a17672a8",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_8.md"
+    },
+    {
+      "source": "file_a17672a8",
+      "target": "file_f1a3c302",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_9.md"
+    },
+    {
+      "source": "file_f1a3c302",
+      "target": "file_27523b46",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_008_Where_are_they_now__1.md"
+    },
+    {
+      "source": "file_27523b46",
+      "target": "file_b0f7cce0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_008_Where_are_they_now__2.md"
+    },
+    {
+      "source": "file_b0f7cce0",
+      "target": "file_98d05fec",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_008_Where_are_they_now__3.md"
+    },
+    {
+      "source": "file_98d05fec",
+      "target": "file_b88dac66",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_008_Where_are_they_now__4.md"
+    },
+    {
+      "source": "file_b88dac66",
+      "target": "file_b8fcd436",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_008_Where_are_they_now__5.md"
+    },
+    {
+      "source": "file_b8fcd436",
+      "target": "file_c4305f60",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__1.md"
+    },
+    {
+      "source": "file_c4305f60",
+      "target": "file_b1f7beef",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__10.md"
+    },
+    {
+      "source": "file_b1f7beef",
+      "target": "file_51d70125",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__11.md"
+    },
+    {
+      "source": "file_51d70125",
+      "target": "file_cb9074e4",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__12.md"
+    },
+    {
+      "source": "file_cb9074e4",
+      "target": "file_b387d140",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__2.md"
+    },
+    {
+      "source": "file_b387d140",
+      "target": "file_a186be8b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__3.md"
+    },
+    {
+      "source": "file_a186be8b",
+      "target": "file_7e2a339e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__4.md"
+    },
+    {
+      "source": "file_7e2a339e",
+      "target": "file_0c0063c8",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__5.md"
+    },
+    {
+      "source": "file_0c0063c8",
+      "target": "file_10190b9b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__6.md"
+    },
+    {
+      "source": "file_10190b9b",
+      "target": "file_215db066",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__7.md"
+    },
+    {
+      "source": "file_215db066",
+      "target": "file_2f60f721",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__8.md"
+    },
+    {
+      "source": "file_2f60f721",
+      "target": "file_fa3b64ce",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__9.md"
+    },
+    {
+      "source": "file_fa3b64ce",
+      "target": "file_84e8a4c1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__1.md"
+    },
+    {
+      "source": "file_84e8a4c1",
+      "target": "file_f84a3856",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__10.md"
+    },
+    {
+      "source": "file_f84a3856",
+      "target": "file_de2d3c8f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__11.md"
+    },
+    {
+      "source": "file_de2d3c8f",
+      "target": "file_3f233810",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__12.md"
+    },
+    {
+      "source": "file_3f233810",
+      "target": "file_0a152ccb",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__13.md"
+    },
+    {
+      "source": "file_0a152ccb",
+      "target": "file_caec1767",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__14.md"
+    },
+    {
+      "source": "file_caec1767",
+      "target": "file_0e32668c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__15.md"
+    },
+    {
+      "source": "file_0e32668c",
+      "target": "file_5908e741",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__16.md"
+    },
+    {
+      "source": "file_5908e741",
+      "target": "file_6b6b0aaf",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__2.md"
+    },
+    {
+      "source": "file_6b6b0aaf",
+      "target": "file_e29bcddb",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__3.md"
+    },
+    {
+      "source": "file_e29bcddb",
+      "target": "file_0bc2e967",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__4.md"
+    },
+    {
+      "source": "file_0bc2e967",
+      "target": "file_f82ff65e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__5.md"
+    },
+    {
+      "source": "file_f82ff65e",
+      "target": "file_9a0c00d5",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__6.md"
+    },
+    {
+      "source": "file_9a0c00d5",
+      "target": "file_ace595db",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__7.md"
+    },
+    {
+      "source": "file_ace595db",
+      "target": "file_30a69e1b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__8.md"
+    },
+    {
+      "source": "file_30a69e1b",
+      "target": "file_097549bf",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__9.md"
+    },
+    {
+      "source": "file_097549bf",
+      "target": "file_c9f93462",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_011_A_MANIFESTO_OF_CONSUMER_RIGHTS_1.md"
+    },
+    {
+      "source": "file_c9f93462",
+      "target": "file_4be11018",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_011_A_MANIFESTO_OF_CONSUMER_RIGHTS_2.md"
+    },
+    {
+      "source": "file_4be11018",
+      "target": "file_c620bff9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_011_A_MANIFESTO_OF_CONSUMER_RIGHTS_3.md"
+    },
+    {
+      "source": "file_c620bff9",
+      "target": "file_80528c04",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_012_BIBLIOGRAPHY_1.md"
+    },
+    {
+      "source": "file_80528c04",
+      "target": "file_b81e3e84",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_012_BIBLIOGRAPHY_2.md"
+    },
+    {
+      "source": "file_b81e3e84",
+      "target": "file_3cd92a1e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_013_DESIGN_AND_THE_ENVIRONMENT.md"
+    },
+    {
+      "source": "file_3cd92a1e",
+      "target": "file_6a4a31da",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_014_DESIGN_AND_THE_FUTURE.md"
+    },
+    {
+      "source": "file_6a4a31da",
+      "target": "file_4e3eeb7d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_015_AGGRESSION__TERRITORIALITY__BI_1.md"
+    },
+    {
+      "source": "file_4e3eeb7d",
+      "target": "file_86bbb673",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_015_AGGRESSION__TERRITORIALITY__BI_2.md"
+    },
+    {
+      "source": "file_86bbb673",
+      "target": "file_3c32940e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_016_ERGONOMICS__HUMAN_ENGINEERING_.md"
+    },
+    {
+      "source": "file_3c32940e",
+      "target": "file_5ecdeccd",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_017_GESTALT__PERCEPTION__CREATIVIT.md"
+    },
+    {
+      "source": "file_5ecdeccd",
+      "target": "file_3d95e6b1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_018_POPULAR_CULTURE__SOCIAL_PRESSU.md"
+    },
+    {
+      "source": "file_3d95e6b1",
+      "target": "file_7cc9772b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_019_DESIGN_AND_OTHER_CULTURES.md"
+    },
+    {
+      "source": "file_7cc9772b",
+      "target": "file_0026d73a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_020_PERSONAL_STATEMENTS_BY_DESIGNE.md"
+    },
+    {
+      "source": "file_0026d73a",
+      "target": "file_b237ea63",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_021_THE_BACKGROUND_OF_DESIGN.md"
+    },
+    {
+      "source": "file_b237ea63",
+      "target": "file_9d7aed11",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_022_THE_PRACTICE_OF_DESIGN_AND_ITS.md"
+    },
+    {
+      "source": "file_9d7aed11",
+      "target": "file_9b7998bd",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_023_INDUSTRIAL_AND_PRODUCT_DESIGN_1.md"
+    },
+    {
+      "source": "file_9b7998bd",
+      "target": "file_05d54482",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_023_INDUSTRIAL_AND_PRODUCT_DESIGN_2.md"
+    },
+    {
+      "source": "file_05d54482",
+      "target": "file_78ffbac9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_023_INDUSTRIAL_AND_PRODUCT_DESIGN_3.md"
+    },
+    {
+      "source": "file_78ffbac9",
+      "target": "file_fd35f762",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_023_INDUSTRIAL_AND_PRODUCT_DESIGN_4.md"
+    },
+    {
+      "source": "file_e376365d",
+      "target": "file_6db74dd3",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_001_Contents.md"
+    },
+    {
+      "source": "file_e376365d",
+      "target": "file_f73c99ad",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_001_Contents.md"
+    },
+    {
+      "source": "file_e376365d",
+      "target": "file_ae44967e",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_001_Contents.md"
+    },
+    {
+      "source": "file_e376365d",
+      "target": "file_c4305f60",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_001_Contents.md"
+    },
+    {
+      "source": "file_e376365d",
+      "target": "file_84e8a4c1",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_001_Contents.md"
+    },
+    {
+      "source": "file_f73c99ad",
+      "target": "file_80528c04",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_003_Preface_to_the_Second_Edition_1.md"
+    },
+    {
+      "source": "file_7c0495ec",
+      "target": "file_113ae4ad",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_004_What_ls_Design__7.md"
+    },
+    {
+      "source": "file_a3ee5630",
+      "target": "file_80528c04",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__11.md"
+    },
+    {
+      "source": "file_e6286424",
+      "target": "file_9b7998bd",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_005_Phylogenocide__4.md"
+    },
+    {
+      "source": "file_aab1baee",
+      "target": "file_80528c04",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_10.md"
+    },
+    {
+      "source": "file_22f2e161",
+      "target": "file_c4305f60",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_31.md"
+    },
+    {
+      "source": "file_0fa9d708",
+      "target": "file_c4305f60",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_33.md"
+    },
+    {
+      "source": "file_978efdb4",
+      "target": "file_c4305f60",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_39.md"
+    },
+    {
+      "source": "file_3343fcfa",
+      "target": "file_113ae4ad",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_007_Another_version_of_African_TVp_42.md"
+    },
+    {
+      "source": "file_b88dac66",
+      "target": "file_c4305f60",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_008_Where_are_they_now__4.md"
+    },
+    {
+      "source": "file_2f60f721",
+      "target": "file_113ae4ad",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_009_Environmental_Design__8.md"
+    },
+    {
+      "source": "file_f84a3856",
+      "target": "file_113ae4ad",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__10.md"
+    },
+    {
+      "source": "file_9a0c00d5",
+      "target": "file_c4305f60",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_010_The_Neon_Blackboard__6.md"
+    },
+    {
+      "source": "file_4be11018",
+      "target": "file_c4305f60",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_011_A_MANIFESTO_OF_CONSUMER_RIGHTS_2.md"
+    },
+    {
+      "source": "file_78ffbac9",
+      "target": "file_c4305f60",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_023_INDUSTRIAL_AND_PRODUCT_DESIGN_3.md"
+    },
+    {
+      "source": "file_fd35f762",
+      "target": "file_ae44967e",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Victor J. Papanek - 1985 - Design for the Real World Human Ecology and Social Change_chunk_023_INDUSTRIAL_AND_PRODUCT_DESIGN_4.md"
+    }
+  ]
+}

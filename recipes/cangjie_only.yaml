@@ -1,0 +1,14 @@
+name: "Cangjie Only Recipe"
+description: "Pipeline using only Cangjie for mental model extraction"
+version: "1.0"
+
+pipeline:
+  - agent: "cangjie-agent"
+    role: "Distill mental models and principles"
+  - agent: "book-to-skill-agent"
+    role: "Assemble final SKILL.md artifact"
+
+evaluation:
+  agent: "judge-agent"
+  ground_truth_path: "data/ground_truth/{book_id}/concepts.json"
+  output_format: "matches.json"

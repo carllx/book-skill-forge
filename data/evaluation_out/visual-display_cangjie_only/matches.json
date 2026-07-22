@@ -1,0 +1,31 @@
+{
+  "ground_truth_concepts": [
+    {"is_matched": true, "importance": 1.0},
+    {"is_matched": true, "importance": 1.0},
+    {"is_matched": true, "importance": 1.0},
+    {"is_matched": true, "importance": 0.9},
+    {"is_matched": true, "importance": 0.9},
+    {"is_matched": true, "importance": 0.9},
+    {"is_matched": false, "importance": 0.8},
+    {"is_matched": true, "importance": 0.8},
+    {"is_matched": true, "importance": 0.8},
+    {"is_matched": true, "importance": 0.8}
+  ],
+  "extracted_concepts": [
+    {"is_valid": true, "is_redundant": false},
+    {"is_valid": true, "is_redundant": false},
+    {"is_valid": true, "is_redundant": false},
+    {"is_valid": true, "is_redundant": false},
+    {"is_valid": true, "is_redundant": false},
+    {"is_valid": true, "is_redundant": false},
+    {"is_valid": true, "is_redundant": false},
+    {"is_valid": true, "is_redundant": false},
+    {"is_valid": true, "is_redundant": false},
+    {"is_valid": true, "is_redundant": false}
+  ],
+  "artifact_usability": {
+    "formatting_score": 5,
+    "clarity_score": 5,
+    "logical_score": 5
+  }
+}

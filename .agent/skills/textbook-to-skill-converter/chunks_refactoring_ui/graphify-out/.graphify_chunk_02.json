@@ -1,0 +1,911 @@
+{
+  "nodes": [
+    {
+      "id": "chunks_refactoring_ui_chapter_18_relative_sizing_doesn_t_scale_relative_sizing",
+      "label": "Relative Sizing",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_18_Relative_sizing_doesn_t_scale.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_18_relative_sizing_doesn_t_scale_independent_scaling",
+      "label": "Independent Scaling",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_18_Relative_sizing_doesn_t_scale.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_19_avoid_ambiguous_spacing_ambiguous_spacing",
+      "label": "Ambiguous Spacing",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_19_Avoid_ambiguous_spacing.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_19_avoid_ambiguous_spacing_space_around_groups",
+      "label": "Space Around Groups",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_19_Avoid_ambiguous_spacing.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_20_designing_text_type_scale",
+      "label": "Type Scale",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_20_Designing_Text.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_20_designing_text_modular_scales",
+      "label": "Modular Scales",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_20_Designing_Text.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_20_designing_text_hand_crafted_scales",
+      "label": "Hand Crafted Scales",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_20_Designing_Text.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_20_designing_text_avoid_em_units",
+      "label": "Avoid Em Units For Font Size",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_20_Designing_Text.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_21_use_good_fonts_neutral_sans_serif",
+      "label": "Neutral Sans Serif",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_21_Use_good_fonts.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_21_use_good_fonts_system_font_stack",
+      "label": "System Font Stack",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_21_Use_good_fonts.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_21_use_good_fonts_optimizing_for_legibility",
+      "label": "Optimizing for Legibility",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_21_Use_good_fonts.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_21_use_good_fonts_ignore_typefaces_few_weights",
+      "label": "Ignore Typefaces With Less Than Five Weights",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_21_Use_good_fonts.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_22_keep_your_line_length_in_check_line_length",
+      "label": "Line Length",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_22_Keep_your_line_length_in_check.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_22_keep_your_line_length_in_check_paragraph_width_range",
+      "label": "Paragraph Width Range 45-75",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_22_Keep_your_line_length_in_check.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_23_baseline_not_center_mixed_font_sizes",
+      "label": "Mixed Font Sizes",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_23_Baseline_not_center.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_23_baseline_not_center_baseline_alignment",
+      "label": "Baseline Alignment",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_23_Baseline_not_center.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_24_line_height_is_proportional_line_height_proportional_to_length",
+      "label": "Line Height Proportional to Line Length",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_24_Line_height_is_proportional.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_24_line_height_is_proportional_line_height_inversely_proportional_to_size",
+      "label": "Line Height Inversely Proportional to Font Size",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_24_Line_height_is_proportional.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_25_not_every_link_needs_a_color_link_color_treatment",
+      "label": "Link Color Treatment",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_25_Not_every_link_needs_a_color.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_25_not_every_link_needs_a_color_subtle_link_emphasis",
+      "label": "Subtle Link Emphasis",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_25_Not_every_link_needs_a_color.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_26_part_of_the_main_path_a_user_takes_through_the_app_hover_only_links",
+      "label": "Hover Only Links",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_26_part_of_the_main_path_a_user_takes_through_the_app.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_27_align_with_readability_in_mind_text_alignment",
+      "label": "Text Alignment",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_27_Align_with_readability_in_mind.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_27_align_with_readability_in_mind_left_align_for_english",
+      "label": "Left Align For English",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_27_Align_with_readability_in_mind.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_27_align_with_readability_in_mind_dont_center_long_form_text",
+      "label": "Don't Center Long Form Text",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_27_Align_with_readability_in_mind.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_27_align_with_readability_in_mind_right_align_numbers",
+      "label": "Right Align Numbers",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_27_Align_with_readability_in_mind.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_27_align_with_readability_in_mind_hyphenate_justified_text",
+      "label": "Hyphenate Justified Text",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_27_Align_with_readability_in_mind.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_28_use_letter_spacing_effectively_letter_spacing",
+      "label": "Letter Spacing",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_28_Use_letter_spacing_effectively.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_28_use_letter_spacing_effectively_tighten_headlines",
+      "label": "Tighten Headlines",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_28_Use_letter_spacing_effectively.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_28_use_letter_spacing_effectively_increase_spacing_for_all_caps",
+      "label": "Increase Spacing For All Caps",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_28_Use_letter_spacing_effectively.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_29_working_with_color_hsl_color_format",
+      "label": "HSL Color Format",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_29_Working_with_Color.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_29_working_with_color_hue",
+      "label": "Hue",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_29_Working_with_Color.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_29_working_with_color_saturation",
+      "label": "Saturation",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_29_Working_with_Color.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_29_working_with_color_lightness",
+      "label": "Lightness",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_29_Working_with_Color.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_29_working_with_color_ditch_hex_for_hsl",
+      "label": "Ditch Hex For HSL",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_29_Working_with_Color.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_30_you_need_more_colors_than_you_think_color_palette_categories",
+      "label": "Color Palette Categories",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_30_You_need_more_colors_than_you_think.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_30_you_need_more_colors_than_you_think_greys",
+      "label": "Greys",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_30_You_need_more_colors_than_you_think.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_30_you_need_more_colors_than_you_think_primary_colors",
+      "label": "Primary Colors",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_30_You_need_more_colors_than_you_think.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_30_you_need_more_colors_than_you_think_accent_colors",
+      "label": "Accent Colors",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_30_You_need_more_colors_than_you_think.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_31_define_your_shades_up_front_fixed_shade_sets",
+      "label": "Fixed Shade Sets",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_31_Define_your_shades_up_front.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_31_define_your_shades_up_front_avoid_lighten_darken_functions",
+      "label": "Avoid Lighten Darken Functions",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_31_Define_your_shades_up_front.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_31_define_your_shades_up_front_base_color",
+      "label": "Base Color",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_31_Define_your_shades_up_front.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_31_define_your_shades_up_front_edges_of_scale",
+      "label": "Edges Of Scale",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_31_Define_your_shades_up_front.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_31_define_your_shades_up_front_filling_in_gaps",
+      "label": "Filling In Gaps",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_31_Define_your_shades_up_front.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_32_don_t_let_lightness_kill_your_saturation_perceived_brightness",
+      "label": "Perceived Brightness",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_32_Don_t_let_lightness_kill_your_saturation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_32_don_t_let_lightness_kill_your_saturation_rotate_hue_for_brightness",
+      "label": "Rotate Hue For Brightness",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_32_Don_t_let_lightness_kill_your_saturation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_32_don_t_let_lightness_kill_your_saturation_increase_saturation_towards_edges",
+      "label": "Increase Saturation Towards Edges",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_32_Don_t_let_lightness_kill_your_saturation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_33_greys_don_t_have_to_be_grey_saturated_greys",
+      "label": "Saturated Greys",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_33_Greys_don_t_have_to_be_grey.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_33_greys_don_t_have_to_be_grey_color_temperature",
+      "label": "Color Temperature",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_33_Greys_don_t_have_to_be_grey.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_33_greys_don_t_have_to_be_grey_warm_vs_cool_greys",
+      "label": "Warm Vs Cool Greys",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_33_Greys_don_t_have_to_be_grey.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_34_accessible_doesn_t_have_to_mean_ugly_contrast_ratio",
+      "label": "Contrast Ratio",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_34_Accessible_doesn_t_have_to_mean_ugly.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_34_accessible_doesn_t_have_to_mean_ugly_flipping_the_contrast",
+      "label": "Flipping The Contrast",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_34_Accessible_doesn_t_have_to_mean_ugly.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_34_accessible_doesn_t_have_to_mean_ugly_rotating_hue_for_contrast",
+      "label": "Rotating Hue For Contrast",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_34_Accessible_doesn_t_have_to_mean_ugly.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_35_don_t_rely_on_color_alone_color_accessibility",
+      "label": "Color Accessibility",
+      "file_type": "concept",
+      "source_file": "relative/path/to/chapter_35_Don_t_rely_on_color_alone.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_35_don_t_rely_on_color_alone_add_icons_for_indicators",
+      "label": "Add Icons For Indicators",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_35_Don_t_rely_on_color_alone.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_35_don_t_rely_on_color_alone_use_contrast_instead_of_color_distinctions",
+      "label": "Use Contrast Instead Of Color Distinctions",
+      "file_type": "rationale",
+      "source_file": "relative/path/to/chapter_35_Don_t_rely_on_color_alone.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "chunks_refactoring_ui_chapter_18_relative_sizing_doesn_t_scale_independent_scaling",
+      "target": "chunks_refactoring_ui_chapter_18_relative_sizing_doesn_t_scale_relative_sizing",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "relative/path/to/chapter_18_Relative_sizing_doesn_t_scale.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_19_avoid_ambiguous_spacing_space_around_groups",
+      "target": "chunks_refactoring_ui_chapter_19_avoid_ambiguous_spacing_ambiguous_spacing",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "relative/path/to/chapter_19_Avoid_ambiguous_spacing.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_20_designing_text_modular_scales",
+      "target": "chunks_refactoring_ui_chapter_20_designing_text_type_scale",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_20_Designing_Text.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_20_designing_text_hand_crafted_scales",
+      "target": "chunks_refactoring_ui_chapter_20_designing_text_type_scale",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_20_Designing_Text.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_20_designing_text_avoid_em_units",
+      "target": "chunks_refactoring_ui_chapter_20_designing_text_type_scale",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_20_Designing_Text.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_22_keep_your_line_length_in_check_paragraph_width_range",
+      "target": "chunks_refactoring_ui_chapter_22_keep_your_line_length_in_check_line_length",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_22_Keep_your_line_length_in_check.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_23_baseline_not_center_baseline_alignment",
+      "target": "chunks_refactoring_ui_chapter_23_baseline_not_center_mixed_font_sizes",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_23_Baseline_not_center.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_25_not_every_link_needs_a_color_subtle_link_emphasis",
+      "target": "chunks_refactoring_ui_chapter_25_not_every_link_needs_a_color_link_color_treatment",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_25_Not_every_link_needs_a_color.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_26_part_of_the_main_path_a_user_takes_through_the_app_hover_only_links",
+      "target": "chunks_refactoring_ui_chapter_25_not_every_link_needs_a_color_link_color_treatment",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "relative/path/to/chapter_26_part_of_the_main_path_a_user_takes_through_the_app.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_27_align_with_readability_in_mind_left_align_for_english",
+      "target": "chunks_refactoring_ui_chapter_27_align_with_readability_in_mind_text_alignment",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_27_Align_with_readability_in_mind.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_27_align_with_readability_in_mind_dont_center_long_form_text",
+      "target": "chunks_refactoring_ui_chapter_27_align_with_readability_in_mind_text_alignment",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_27_Align_with_readability_in_mind.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_27_align_with_readability_in_mind_right_align_numbers",
+      "target": "chunks_refactoring_ui_chapter_27_align_with_readability_in_mind_text_alignment",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_27_Align_with_readability_in_mind.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_27_align_with_readability_in_mind_hyphenate_justified_text",
+      "target": "chunks_refactoring_ui_chapter_27_align_with_readability_in_mind_text_alignment",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_27_Align_with_readability_in_mind.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_28_use_letter_spacing_effectively_tighten_headlines",
+      "target": "chunks_refactoring_ui_chapter_28_use_letter_spacing_effectively_letter_spacing",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_28_Use_letter_spacing_effectively.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_28_use_letter_spacing_effectively_increase_spacing_for_all_caps",
+      "target": "chunks_refactoring_ui_chapter_28_use_letter_spacing_effectively_letter_spacing",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_28_Use_letter_spacing_effectively.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_29_working_with_color_ditch_hex_for_hsl",
+      "target": "chunks_refactoring_ui_chapter_29_working_with_color_hsl_color_format",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_29_Working_with_Color.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_31_define_your_shades_up_front_avoid_lighten_darken_functions",
+      "target": "chunks_refactoring_ui_chapter_31_define_your_shades_up_front_fixed_shade_sets",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_31_Define_your_shades_up_front.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_31_define_your_shades_up_front_base_color",
+      "target": "chunks_refactoring_ui_chapter_31_define_your_shades_up_front_fixed_shade_sets",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_31_Define_your_shades_up_front.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_32_don_t_let_lightness_kill_your_saturation_rotate_hue_for_brightness",
+      "target": "chunks_refactoring_ui_chapter_32_don_t_let_lightness_kill_your_saturation_perceived_brightness",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_32_Don_t_let_lightness_kill_your_saturation.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_32_don_t_let_lightness_kill_your_saturation_increase_saturation_towards_edges",
+      "target": "chunks_refactoring_ui_chapter_29_working_with_color_saturation",
+      "relation": "rationale_for",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "relative/path/to/chapter_32_Don_t_let_lightness_kill_your_saturation.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_33_greys_don_t_have_to_be_grey_warm_vs_cool_greys",
+      "target": "chunks_refactoring_ui_chapter_33_greys_don_t_have_to_be_grey_saturated_greys",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_33_Greys_don_t_have_to_be_grey.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_33_greys_don_t_have_to_be_grey_saturated_greys",
+      "target": "chunks_refactoring_ui_chapter_30_you_need_more_colors_than_you_think_greys",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "relative/path/to/chapter_33_Greys_don_t_have_to_be_grey.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_34_accessible_doesn_t_have_to_mean_ugly_flipping_the_contrast",
+      "target": "chunks_refactoring_ui_chapter_34_accessible_doesn_t_have_to_mean_ugly_contrast_ratio",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_34_Accessible_doesn_t_have_to_mean_ugly.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_34_accessible_doesn_t_have_to_mean_ugly_rotating_hue_for_contrast",
+      "target": "chunks_refactoring_ui_chapter_34_accessible_doesn_t_have_to_mean_ugly_contrast_ratio",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_34_Accessible_doesn_t_have_to_mean_ugly.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_34_accessible_doesn_t_have_to_mean_ugly_rotating_hue_for_contrast",
+      "target": "chunks_refactoring_ui_chapter_32_don_t_let_lightness_kill_your_saturation_rotate_hue_for_brightness",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "relative/path/to/chapter_34_Accessible_doesn_t_have_to_mean_ugly.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_35_don_t_rely_on_color_alone_add_icons_for_indicators",
+      "target": "chunks_refactoring_ui_chapter_35_don_t_rely_on_color_alone_color_accessibility",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_35_Don_t_rely_on_color_alone.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_35_don_t_rely_on_color_alone_use_contrast_instead_of_color_distinctions",
+      "target": "chunks_refactoring_ui_chapter_35_don_t_rely_on_color_alone_color_accessibility",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_35_Don_t_rely_on_color_alone.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "hsl_components",
+      "label": "HSL Components",
+      "nodes": [
+        "chunks_refactoring_ui_chapter_29_working_with_color_hue",
+        "chunks_refactoring_ui_chapter_29_working_with_color_saturation",
+        "chunks_refactoring_ui_chapter_29_working_with_color_lightness"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_29_Working_with_Color.md"
+    },
+    {
+      "id": "color_palette",
+      "label": "Color Palette",
+      "nodes": [
+        "chunks_refactoring_ui_chapter_30_you_need_more_colors_than_you_think_greys",
+        "chunks_refactoring_ui_chapter_30_you_need_more_colors_than_you_think_primary_colors",
+        "chunks_refactoring_ui_chapter_30_you_need_more_colors_than_you_think_accent_colors"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "relative/path/to/chapter_30_You_need_more_colors_than_you_think.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

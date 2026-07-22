@@ -1,0 +1,296 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "g_1",
+      "gt_id": "c1",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.9,
+      "reasoning": "The extracted node 'Topos' directly maps to the ground truth concept c1.",
+      "evidence": "Topos is extracted as a core geographical entity."
+    },
+    {
+      "extracted_id": "g_2",
+      "gt_id": "c2",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.9,
+      "reasoning": "The extracted node 'Typos' directly maps to c2.",
+      "evidence": "Typos is identified as a cultural form node."
+    },
+    {
+      "extracted_id": "g_3",
+      "gt_id": "c3",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.9,
+      "reasoning": "Tectonic frame node.",
+      "evidence": "Node: Tectonic."
+    },
+    {
+      "extracted_id": "g_4",
+      "gt_id": "c4",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.9,
+      "reasoning": "Stereotomic mass node.",
+      "evidence": "Node: Stereotomic."
+    },
+    {
+      "extracted_id": "g_5",
+      "gt_id": "c7",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.95,
+      "reasoning": "Semper's Four Elements found as a key cluster.",
+      "evidence": "Cluster: Semper's Four Elements."
+    },
+    {
+      "extracted_id": "g_6",
+      "gt_id": "c7_1",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.9,
+      "reasoning": "Earthwork element found.",
+      "evidence": "Node: Earthwork."
+    },
+    {
+      "extracted_id": "g_7",
+      "gt_id": "c3_1",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.9,
+      "reasoning": "Kernform found.",
+      "evidence": "Node: Kernform."
+    },
+    {
+      "extracted_id": "g_8",
+      "gt_id": "c3_2",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.9,
+      "reasoning": "Kunstform found.",
+      "evidence": "Node: Kunstform."
+    },
+    {
+      "extracted_id": "g_9",
+      "gt_id": "c6",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.8,
+      "reasoning": "Stoffwechseltheorie found as a material theory node.",
+      "evidence": "Node: Stoffwechseltheorie."
+    }
+  ],
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "Topos",
+      "aliases": [
+        "Site",
+        "Topography"
+      ],
+      "weight": 8,
+      "importance": 8
+    },
+    {
+      "id": "c2",
+      "name": "Typos",
+      "aliases": [
+        "Type",
+        "Cultural form"
+      ],
+      "weight": 7,
+      "importance": 7
+    },
+    {
+      "id": "c3",
+      "name": "Tectonic",
+      "aliases": [
+        "Frame",
+        "Lightweight tensile structure",
+        "Poetics of Construction"
+      ],
+      "weight": 10,
+      "sub_concepts": [
+        {
+          "id": "c3_1",
+          "name": "Kernform",
+          "aliases": [
+            "Core Form",
+            "Structural core"
+          ],
+          "weight": 9
+        },
+        {
+          "id": "c3_2",
+          "name": "Kunstform",
+          "aliases": [
+            "Art Form",
+            "Symbolic expression",
+            "Representational expression"
+          ],
+          "weight": 9
+        }
+      ],
+      "importance": 10
+    },
+    {
+      "id": "c4",
+      "name": "Stereotomic",
+      "aliases": [
+        "Earthwork",
+        "Compressive mass",
+        "Heavyweight structure"
+      ],
+      "weight": 10,
+      "importance": 10
+    },
+    {
+      "id": "c5",
+      "name": "Shintai",
+      "aliases": [
+        "Sentient body",
+        "Corporeal experience",
+        "Kinetic experience"
+      ],
+      "weight": 8,
+      "sub_concepts": [
+        {
+          "id": "c5_1",
+          "name": "Tactility",
+          "aliases": [
+            "Hand-finish",
+            "Texture"
+          ],
+          "weight": 7
+        },
+        {
+          "id": "c5_2",
+          "name": "Kinesthetics",
+          "aliases": [
+            "Gait",
+            "Circulation paths"
+          ],
+          "weight": 7
+        },
+        {
+          "id": "c5_3",
+          "name": "Psycho-Acoustics",
+          "aliases": [
+            "Reverberation",
+            "Acoustic absorption"
+          ],
+          "weight": 7
+        }
+      ],
+      "importance": 8
+    },
+    {
+      "id": "c6",
+      "name": "Stoffwechseltheorie",
+      "aliases": [
+        "Material transposition"
+      ],
+      "weight": 8,
+      "importance": 8
+    },
+    {
+      "id": "c7",
+      "name": "Semper's Four Elements",
+      "aliases": [
+        "Four Elements"
+      ],
+      "weight": 9,
+      "sub_concepts": [
+        {
+          "id": "c7_1",
+          "name": "Earthwork",
+          "aliases": [
+            "Stereotomic base"
+          ],
+          "weight": 8
+        },
+        {
+          "id": "c7_2",
+          "name": "Hearth",
+          "aliases": [
+            "Fire",
+            "Social center"
+          ],
+          "weight": 8
+        },
+        {
+          "id": "c7_3",
+          "name": "Framework/Roof",
+          "aliases": [
+            "Tectonic frame"
+          ],
+          "weight": 8
+        },
+        {
+          "id": "c7_4",
+          "name": "Lightweight Enclosing Membrane",
+          "aliases": [
+            "Textile",
+            "Woven materials"
+          ],
+          "weight": 8
+        }
+      ],
+      "importance": 9
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "g_1",
+      "name": "g_1",
+      "is_redundant": false
+    },
+    {
+      "id": "g_2",
+      "name": "g_2",
+      "is_redundant": false
+    },
+    {
+      "id": "g_3",
+      "name": "g_3",
+      "is_redundant": false
+    },
+    {
+      "id": "g_4",
+      "name": "g_4",
+      "is_redundant": false
+    },
+    {
+      "id": "g_5",
+      "name": "g_5",
+      "is_redundant": false
+    },
+    {
+      "id": "g_6",
+      "name": "g_6",
+      "is_redundant": false
+    },
+    {
+      "id": "g_7",
+      "name": "g_7",
+      "is_redundant": false
+    },
+    {
+      "id": "g_8",
+      "name": "g_8",
+      "is_redundant": false
+    },
+    {
+      "id": "g_9",
+      "name": "g_9",
+      "is_redundant": false
+    }
+  ],
+  "artifact_usability": {
+    "formatting_score": 4.0,
+    "clarity_score": 4.0,
+    "logical_score": 4.0
+  }
+}

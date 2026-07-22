@@ -1,0 +1,155 @@
+{
+  "nodes": [
+    {
+      "id": "new_media",
+      "label": "New Media",
+      "description": "Media based on digital computation.",
+      "category": "Core Concept"
+    },
+    {
+      "id": "numerical_representation",
+      "label": "Numerical Representation",
+      "description": "All new media objects are composed of digital code.",
+      "category": "Principle"
+    },
+    {
+      "id": "modularity",
+      "label": "Modularity",
+      "description": "The fractal structure of new media where elements are assembled but maintain their independent structure.",
+      "category": "Principle"
+    },
+    {
+      "id": "automation",
+      "label": "Automation",
+      "description": "Numerical coding and modular structure allow for the automation of many operations involved in media creation, manipulation, and access.",
+      "category": "Principle"
+    },
+    {
+      "id": "variability",
+      "label": "Variability",
+      "description": "A new media object is not something fixed once and for all, but something that can exist in different, potentially infinite versions.",
+      "category": "Principle"
+    },
+    {
+      "id": "transcoding",
+      "label": "Transcoding",
+      "description": "The translation of media into another format, typically reflecting the influence of the computer's logic on cultural logic.",
+      "category": "Principle"
+    },
+    {
+      "id": "cultural_interfaces",
+      "label": "Cultural Interfaces",
+      "description": "Interfaces to cultural data shaped by the printed word, cinema, and human-computer interaction (HCI).",
+      "category": "Interface"
+    },
+    {
+      "id": "compositing",
+      "label": "Compositing",
+      "description": "The process of combining various digital media elements into a single, seamless moving image or virtual space.",
+      "category": "Operation"
+    },
+    {
+      "id": "teleaction",
+      "label": "Teleaction",
+      "description": "Acting at a distance in real time, shifting from representation to communication.",
+      "category": "Operation"
+    },
+    {
+      "id": "synthetic_realism",
+      "label": "Synthetic Realism",
+      "description": "The visual style and illusionism specific to computer-generated 3D graphics.",
+      "category": "Illusion"
+    },
+    {
+      "id": "database_logic",
+      "label": "Database Logic",
+      "description": "Structuring cultural objects as collections of individual items rather than sequential narratives.",
+      "category": "Form"
+    },
+    {
+      "id": "navigable_space",
+      "label": "Navigable Space",
+      "description": "Organizing data or virtual worlds as architectural spaces that the user can explore.",
+      "category": "Form"
+    },
+    {
+      "id": "digital_cinema",
+      "label": "Digital Cinema",
+      "description": "Moving images constructed or heavily manipulated through digital software, merging live-action with animation and painting.",
+      "category": "Form"
+    },
+    {
+      "id": "spatial_montage",
+      "label": "Spatial Montage",
+      "description": "Presenting different images or media elements simultaneously on a single screen rather than sequentially in time.",
+      "category": "Technique"
+    }
+  ],
+  "edges": [
+    {
+      "source": "new_media",
+      "target": "numerical_representation",
+      "relation": "has_principle"
+    },
+    {
+      "source": "new_media",
+      "target": "modularity",
+      "relation": "has_principle"
+    },
+    {
+      "source": "new_media",
+      "target": "automation",
+      "relation": "has_principle"
+    },
+    {
+      "source": "new_media",
+      "target": "variability",
+      "relation": "has_principle"
+    },
+    {
+      "source": "new_media",
+      "target": "transcoding",
+      "relation": "has_principle"
+    },
+    {
+      "source": "new_media",
+      "target": "cultural_interfaces",
+      "relation": "is_accessed_through"
+    },
+    {
+      "source": "new_media",
+      "target": "compositing",
+      "relation": "utilizes_operation"
+    },
+    {
+      "source": "new_media",
+      "target": "teleaction",
+      "relation": "enables"
+    },
+    {
+      "source": "new_media",
+      "target": "synthetic_realism",
+      "relation": "creates_illusion"
+    },
+    {
+      "source": "new_media",
+      "target": "database_logic",
+      "relation": "is_structured_by"
+    },
+    {
+      "source": "new_media",
+      "target": "navigable_space",
+      "relation": "is_structured_by"
+    },
+    {
+      "source": "digital_cinema",
+      "target": "new_media",
+      "relation": "is_a_form_of"
+    },
+    {
+      "source": "spatial_montage",
+      "target": "digital_cinema",
+      "relation": "is_technique_in"
+    }
+  ]
+}

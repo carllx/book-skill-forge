@@ -1,0 +1,324 @@
+{
+  "ground_truth_concepts": [
+    {
+      "id": "function_complex",
+      "name": "The Function Complex",
+      "importance": 10
+    },
+    {
+      "id": "method",
+      "name": "Method",
+      "importance": 8
+    },
+    {
+      "id": "use",
+      "name": "Use",
+      "importance": 8
+    },
+    {
+      "id": "need",
+      "name": "Need",
+      "importance": 9
+    },
+    {
+      "id": "telesis",
+      "name": "Telesis",
+      "importance": 9
+    },
+    {
+      "id": "association",
+      "name": "Association",
+      "importance": 8
+    },
+    {
+      "id": "aesthetics",
+      "name": "Aesthetics",
+      "importance": 8
+    },
+    {
+      "id": "social_moral_responsibility",
+      "name": "Social and Moral Responsibility of Design",
+      "importance": 10
+    },
+    {
+      "id": "design_for_third_world",
+      "name": "Design for the Third World",
+      "importance": 9
+    },
+    {
+      "id": "design_for_handicapped",
+      "name": "Design for the Handicapped",
+      "importance": 9
+    },
+    {
+      "id": "kymmenykset",
+      "name": "Kymmenykset",
+      "importance": 7
+    },
+    {
+      "id": "kleenex_culture",
+      "name": "Kleenex Culture",
+      "importance": 9
+    },
+    {
+      "id": "artificial_obsolescence",
+      "name": "Artificial Obsolescence",
+      "importance": 8
+    },
+    {
+      "id": "myth_of_wants",
+      "name": "Myth of People's Wants",
+      "importance": 8
+    },
+    {
+      "id": "bionics",
+      "name": "Bionics",
+      "importance": 9
+    },
+    {
+      "id": "principle_of_least_effort",
+      "name": "Principle of Least Effort",
+      "importance": 8
+    },
+    {
+      "id": "integrated_design",
+      "name": "Integrated Design",
+      "importance": 10
+    },
+    {
+      "id": "cross_disciplinary_teams",
+      "name": "Cross-disciplinary Teams",
+      "importance": 8
+    },
+    {
+      "id": "creative_problem_solving",
+      "name": "Creative Problem Solving",
+      "importance": 9
+    },
+    {
+      "id": "design_blocks",
+      "name": "Design Blocks",
+      "importance": 8
+    },
+    {
+      "id": "bisociation",
+      "name": "Bisociation",
+      "importance": 7
+    },
+    {
+      "id": "morphological_analysis",
+      "name": "Morphological Analysis",
+      "importance": 7
+    },
+    {
+      "id": "environmental_design",
+      "name": "Environmental Design",
+      "importance": 9
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "ext_function_complex",
+      "name": "The Function Complex",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_method",
+      "name": "Method",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_use",
+      "name": "Use",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_need",
+      "name": "Need",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_telesis",
+      "name": "Telesis",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_association",
+      "name": "Association",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_aesthetics",
+      "name": "Aesthetics",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_social_moral_responsibility",
+      "name": "Social and Moral Responsibility of Design",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_design_for_third_world",
+      "name": "Design for the Third World",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_design_for_handicapped",
+      "name": "Design for the Handicapped",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_kymmenykset",
+      "name": "Kymmenykset",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_kleenex_culture",
+      "name": "Kleenex Culture",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_artificial_obsolescence",
+      "name": "Artificial Obsolescence",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_myth_of_wants",
+      "name": "Myth of People's Wants",
+      "is_redundant": false
+    },
+    {
+      "id": "junk_0",
+      "name": "Junk Concept 0",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_1",
+      "name": "Junk Concept 1",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_2",
+      "name": "Junk Concept 2",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_3",
+      "name": "Junk Concept 3",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_4",
+      "name": "Junk Concept 4",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_5",
+      "name": "Junk Concept 5",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_6",
+      "name": "Junk Concept 6",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_7",
+      "name": "Junk Concept 7",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_8",
+      "name": "Junk Concept 8",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_9",
+      "name": "Junk Concept 9",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_10",
+      "name": "Junk Concept 10",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_11",
+      "name": "Junk Concept 11",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_12",
+      "name": "Junk Concept 12",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_13",
+      "name": "Junk Concept 13",
+      "is_redundant": true
+    }
+  ],
+  "artifact_usability": {
+    "formatting_score": 3,
+    "clarity_score": 3,
+    "logical_score": 3
+  },
+  "mappings": [
+    {
+      "gt_id": "function_complex",
+      "extracted_id": "ext_function_complex"
+    },
+    {
+      "gt_id": "method",
+      "extracted_id": "ext_method"
+    },
+    {
+      "gt_id": "use",
+      "extracted_id": "ext_use"
+    },
+    {
+      "gt_id": "need",
+      "extracted_id": "ext_need"
+    },
+    {
+      "gt_id": "telesis",
+      "extracted_id": "ext_telesis"
+    },
+    {
+      "gt_id": "association",
+      "extracted_id": "ext_association"
+    },
+    {
+      "gt_id": "aesthetics",
+      "extracted_id": "ext_aesthetics"
+    },
+    {
+      "gt_id": "social_moral_responsibility",
+      "extracted_id": "ext_social_moral_responsibility"
+    },
+    {
+      "gt_id": "design_for_third_world",
+      "extracted_id": "ext_design_for_third_world"
+    },
+    {
+      "gt_id": "design_for_handicapped",
+      "extracted_id": "ext_design_for_handicapped"
+    },
+    {
+      "gt_id": "kymmenykset",
+      "extracted_id": "ext_kymmenykset"
+    },
+    {
+      "gt_id": "kleenex_culture",
+      "extracted_id": "ext_kleenex_culture"
+    },
+    {
+      "gt_id": "artificial_obsolescence",
+      "extracted_id": "ext_artificial_obsolescence"
+    },
+    {
+      "gt_id": "myth_of_wants",
+      "extracted_id": "ext_myth_of_wants"
+    }
+  ]
+}

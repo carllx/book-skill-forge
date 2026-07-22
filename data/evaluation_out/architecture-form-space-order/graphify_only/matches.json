@@ -1,0 +1,52 @@
+{
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "Primary Elements",
+      "aliases": ["基本元素", "Point", "Line", "Plane", "Volume"],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "Form and Space",
+      "aliases": ["形与空间的对立统一", "正负空间", "Positive and Negative Space"],
+      "weight": 10
+    },
+    {
+      "id": "c3",
+      "name": "Ordering Principles",
+      "aliases": ["秩序原则", "Axis", "Symmetry", "Hierarchy", "Rhythm", "Datum"],
+      "weight": 9
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "e1",
+      "name": "Primary Elements",
+      "evidence": "Point, Line, Plane, Volume are discussed as fundamental building blocks in Chapter 1."
+    },
+    {
+      "id": "e2",
+      "name": "Ordering Principles",
+      "evidence": "Axis, Symmetry, Hierarchy are identified as principles of organization in Chapter 7."
+    }
+  ],
+  "mappings": [
+    {
+      "extracted_id": "e1",
+      "gt_id": "c1",
+      "is_matched": true,
+      "reasoning": "Graphify extracted entities corresponding to Primary Elements directly from the headings and bold text."
+    },
+    {
+      "extracted_id": "e2",
+      "gt_id": "c3",
+      "is_matched": true,
+      "reasoning": "Graphify extracted structural relationships representing Ordering Principles as nodes and edges."
+    }
+  ],
+  "artifact_usability": {
+    "score": 7,
+    "reasoning": "Graphify creates a dense structural graph of entities, but fails to capture the abstract philosophical framework of Form and Space duality, as it's harder to represent as simple nodes."
+  }
+}

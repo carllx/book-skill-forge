@@ -1,0 +1,116 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "New Media",
+      "description": "The convergence of computing and media technologies into numerical data."
+    },
+    {
+      "id": "n2",
+      "label": "Numerical Representation",
+      "description": "All new media objects are composed of digital code and can be described formally."
+    },
+    {
+      "id": "n3",
+      "label": "Modularity",
+      "description": "The 'fractal structure' of new media where elements maintain their separate identity."
+    },
+    {
+      "id": "n4",
+      "label": "Automation",
+      "description": "A key principle of new media (listed)."
+    },
+    {
+      "id": "n5",
+      "label": "Variability",
+      "description": "A key principle of new media (listed)."
+    },
+    {
+      "id": "n6",
+      "label": "Transcoding",
+      "description": "A key principle of new media (listed)."
+    },
+    {
+      "id": "n7",
+      "label": "Digitization",
+      "description": "The process of converting continuous data into a numerical representation."
+    },
+    {
+      "id": "n8",
+      "label": "Sampling",
+      "description": "Turning continuous data into discrete data."
+    },
+    {
+      "id": "n9",
+      "label": "Quantization",
+      "description": "Assigning a numerical value to a sample."
+    },
+    {
+      "id": "n10",
+      "label": "Dziga Vertov",
+      "description": "Avant-garde filmmaker, created Man with a Movie Camera."
+    },
+    {
+      "id": "n11",
+      "label": "Kino-Eye",
+      "description": "Vertov's concept of using the camera to decode the world."
+    },
+    {
+      "id": "n12",
+      "label": "Database",
+      "description": "A form or logic of new media; Vertov is cited as a 'database filmmaker'."
+    }
+  ],
+  "edges": [
+    {
+      "source": "n1",
+      "target": "n2",
+      "label": "has principle"
+    },
+    {
+      "source": "n1",
+      "target": "n3",
+      "label": "has principle"
+    },
+    {
+      "source": "n1",
+      "target": "n4",
+      "label": "has principle"
+    },
+    {
+      "source": "n1",
+      "target": "n5",
+      "label": "has principle"
+    },
+    {
+      "source": "n1",
+      "target": "n6",
+      "label": "has principle"
+    },
+    {
+      "source": "n2",
+      "target": "n7",
+      "label": "involves"
+    },
+    {
+      "source": "n7",
+      "target": "n8",
+      "label": "step 1"
+    },
+    {
+      "source": "n7",
+      "target": "n9",
+      "label": "step 2"
+    },
+    {
+      "source": "n10",
+      "target": "n11",
+      "label": "invented"
+    },
+    {
+      "source": "n10",
+      "target": "n12",
+      "label": "exemplifies"
+    }
+  ]
+}

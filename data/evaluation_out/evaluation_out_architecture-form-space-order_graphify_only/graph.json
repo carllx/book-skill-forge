@@ -1,0 +1,335 @@
+{
+  "nodes": [
+    {
+      "id": "book_1",
+      "label": "Architecture: Form, Space, & Order",
+      "description": "A comprehensive primer on the ways form and space are interrelated and organized in the shaping of the architectural environment.",
+      "category": "Core Domain"
+    },
+    {
+      "id": "ch_1",
+      "label": "Primary Elements",
+      "description": "The foundational geometric entities that generate form, starting from the point to one-dimensional, two-dimensional, and three-dimensional elements.",
+      "category": "Thinking Model"
+    },
+    {
+      "id": "pe_point",
+      "label": "Point",
+      "description": "Marks a position in space. Conceptually has no length, width, or depth; static, centralized, and directionless.",
+      "category": "Concept"
+    },
+    {
+      "id": "pe_line",
+      "label": "Line",
+      "description": "A point extended in space, possessing length, direction, and position.",
+      "category": "Concept"
+    },
+    {
+      "id": "pe_plane",
+      "label": "Plane",
+      "description": "A line extended in a direction other than its intrinsic direction, possessing length, width, shape, surface, orientation, and position.",
+      "category": "Concept"
+    },
+    {
+      "id": "pe_volume",
+      "label": "Volume",
+      "description": "A plane extended in a direction other than its intrinsic direction, possessing length, width, depth, form and space.",
+      "category": "Concept"
+    },
+    {
+      "id": "ch_2",
+      "label": "Form",
+      "description": "The formal structure of a work, the manner of arranging elements to produce a coherent image.",
+      "category": "Thinking Model"
+    },
+    {
+      "id": "f_shape",
+      "label": "Shape",
+      "description": "The characteristic outline or surface configuration of a particular form.",
+      "category": "Concept"
+    },
+    {
+      "id": "f_size",
+      "label": "Size",
+      "description": "The physical dimensions of length, width, and depth of a form.",
+      "category": "Concept"
+    },
+    {
+      "id": "f_color",
+      "label": "Color",
+      "description": "The attribute that most clearly distinguishes a form from its environment.",
+      "category": "Concept"
+    },
+    {
+      "id": "f_texture",
+      "label": "Texture",
+      "description": "The visual and tactile quality given to a surface.",
+      "category": "Concept"
+    },
+    {
+      "id": "ch_3",
+      "label": "Form and Space",
+      "description": "The symbiotic relationship where forms define and enclose spaces.",
+      "category": "Thinking Model"
+    },
+    {
+      "id": "fs_horizontal",
+      "label": "Horizontal Elements Defining Space",
+      "description": "Base planes, elevated base planes, depressed base planes, and overhead planes.",
+      "category": "Principle"
+    },
+    {
+      "id": "fs_vertical",
+      "label": "Vertical Elements Defining Space",
+      "description": "Vertical linear elements, single vertical planes, L-shaped planes, parallel planes, U-shaped planes, and four planes (enclosure).",
+      "category": "Principle"
+    },
+    {
+      "id": "ch_4",
+      "label": "Organization",
+      "description": "The spatial relationships and configurations of spaces within a building.",
+      "category": "Thinking Model"
+    },
+    {
+      "id": "org_centralized",
+      "label": "Centralized Organization",
+      "description": "A central, dominant space about which a number of secondary spaces are grouped.",
+      "category": "Principle"
+    },
+    {
+      "id": "org_linear",
+      "label": "Linear Organization",
+      "description": "A linear sequence of repetitive spaces.",
+      "category": "Principle"
+    },
+    {
+      "id": "org_radial",
+      "label": "Radial Organization",
+      "description": "A central space from which linear organizations of space extend in a radial manner.",
+      "category": "Principle"
+    },
+    {
+      "id": "org_clustered",
+      "label": "Clustered Organization",
+      "description": "Spaces grouped by proximity or the sharing of a common visual trait or relationship.",
+      "category": "Principle"
+    },
+    {
+      "id": "org_grid",
+      "label": "Grid Organization",
+      "description": "Spaces organized within the field of a structural grid or another three-dimensional framework.",
+      "category": "Principle"
+    },
+    {
+      "id": "ch_5",
+      "label": "Circulation",
+      "description": "The movement through space, elements including approach, entrance, configuration of the path, path-space relationships, and form of the circulation space.",
+      "category": "Thinking Model"
+    },
+    {
+      "id": "ch_6",
+      "label": "Proportion and Scale",
+      "description": "Systems that govern the visual and structural scale of forms, including the Golden Section, Modulor, and anthropometry.",
+      "category": "Thinking Model"
+    },
+    {
+      "id": "ch_7",
+      "label": "Principles",
+      "description": "Ordering principles that orchestrate form and space into a unified whole.",
+      "category": "Thinking Model"
+    },
+    {
+      "id": "prin_axis",
+      "label": "Axis",
+      "description": "A line established by two points in space, about which forms and spaces can be arranged in a symmetrical or balanced manner.",
+      "category": "Principle"
+    },
+    {
+      "id": "prin_symmetry",
+      "label": "Symmetry",
+      "description": "The balanced distribution and arrangement of equivalent forms and spaces on opposite sides of a dividing line or plane.",
+      "category": "Principle"
+    },
+    {
+      "id": "prin_hierarchy",
+      "label": "Hierarchy",
+      "description": "The articulation of the importance or significance of a form or space by its size, shape, or placement relative to the other forms and spaces.",
+      "category": "Principle"
+    },
+    {
+      "id": "prin_rhythm",
+      "label": "Rhythm",
+      "description": "A unifying movement characterized by a patterned repetition or alternation of formal elements or motifs.",
+      "category": "Principle"
+    },
+    {
+      "id": "prin_datum",
+      "label": "Datum",
+      "description": "A line, plane, or volume that, by its continuity and regularity, serves to gather, measure, and organize a pattern of forms and spaces.",
+      "category": "Principle"
+    },
+    {
+      "id": "prin_transformation",
+      "label": "Transformation",
+      "description": "The principle that an architectural concept, structure, or organization can be altered through a series of discrete manipulations in response to a specific context.",
+      "category": "Principle"
+    }
+  ],
+  "edges": [
+    {
+      "source": "book_1",
+      "target": "ch_1",
+      "relation": "contains"
+    },
+    {
+      "source": "book_1",
+      "target": "ch_2",
+      "relation": "contains"
+    },
+    {
+      "source": "book_1",
+      "target": "ch_3",
+      "relation": "contains"
+    },
+    {
+      "source": "book_1",
+      "target": "ch_4",
+      "relation": "contains"
+    },
+    {
+      "source": "book_1",
+      "target": "ch_5",
+      "relation": "contains"
+    },
+    {
+      "source": "book_1",
+      "target": "ch_6",
+      "relation": "contains"
+    },
+    {
+      "source": "book_1",
+      "target": "ch_7",
+      "relation": "contains"
+    },
+    {
+      "source": "ch_1",
+      "target": "pe_point",
+      "relation": "includes_concept"
+    },
+    {
+      "source": "ch_1",
+      "target": "pe_line",
+      "relation": "includes_concept"
+    },
+    {
+      "source": "ch_1",
+      "target": "pe_plane",
+      "relation": "includes_concept"
+    },
+    {
+      "source": "ch_1",
+      "target": "pe_volume",
+      "relation": "includes_concept"
+    },
+    {
+      "source": "pe_point",
+      "target": "pe_line",
+      "relation": "generates"
+    },
+    {
+      "source": "pe_line",
+      "target": "pe_plane",
+      "relation": "generates"
+    },
+    {
+      "source": "pe_plane",
+      "target": "pe_volume",
+      "relation": "generates"
+    },
+    {
+      "source": "ch_2",
+      "target": "f_shape",
+      "relation": "includes_property"
+    },
+    {
+      "source": "ch_2",
+      "target": "f_size",
+      "relation": "includes_property"
+    },
+    {
+      "source": "ch_2",
+      "target": "f_color",
+      "relation": "includes_property"
+    },
+    {
+      "source": "ch_2",
+      "target": "f_texture",
+      "relation": "includes_property"
+    },
+    {
+      "source": "ch_3",
+      "target": "fs_horizontal",
+      "relation": "defines_method"
+    },
+    {
+      "source": "ch_3",
+      "target": "fs_vertical",
+      "relation": "defines_method"
+    },
+    {
+      "source": "ch_4",
+      "target": "org_centralized",
+      "relation": "includes_typology"
+    },
+    {
+      "source": "ch_4",
+      "target": "org_linear",
+      "relation": "includes_typology"
+    },
+    {
+      "source": "ch_4",
+      "target": "org_radial",
+      "relation": "includes_typology"
+    },
+    {
+      "source": "ch_4",
+      "target": "org_clustered",
+      "relation": "includes_typology"
+    },
+    {
+      "source": "ch_4",
+      "target": "org_grid",
+      "relation": "includes_typology"
+    },
+    {
+      "source": "ch_7",
+      "target": "prin_axis",
+      "relation": "includes_rule"
+    },
+    {
+      "source": "ch_7",
+      "target": "prin_symmetry",
+      "relation": "includes_rule"
+    },
+    {
+      "source": "ch_7",
+      "target": "prin_hierarchy",
+      "relation": "includes_rule"
+    },
+    {
+      "source": "ch_7",
+      "target": "prin_rhythm",
+      "relation": "includes_rule"
+    },
+    {
+      "source": "ch_7",
+      "target": "prin_datum",
+      "relation": "includes_rule"
+    },
+    {
+      "source": "ch_7",
+      "target": "prin_transformation",
+      "relation": "includes_rule"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "nodes": [
+    {
+      "id": "audiovisual_contract",
+      "label": "视听契约 (Audiovisual Contract)",
+      "description": "视听元素之间相互影响和妥协的“心理契约”，观众据此将声音和画面融合为一个整体的感知经验。",
+      "category": "核心思维模型"
+    },
+    {
+      "id": "added_value",
+      "label": "附加值 (Added Value)",
+      "description": "声音赋予画面的额外表现力和信息量，让观众误以为这些信息原本就自然包含在画面之中。",
+      "category": "核心原则"
+    },
+    {
+      "id": "synchresis",
+      "label": "同步凝结 (Synchresis)",
+      "description": "当声音和视觉事件在同一瞬间发生时，人类大脑会自发且不可抗拒地将两者“焊死”在一起的现象。",
+      "category": "感知机制"
+    },
+    {
+      "id": "vococentrism",
+      "label": "人声中心主义 (Vococentrism)",
+      "description": "电影声音的本能偏好，在复杂的声景中会自发地突出并聚焦于人类的声音，就像镜头聚焦人脸一样。",
+      "category": "声音偏好"
+    },
+    {
+      "id": "verbocentrism",
+      "label": "语词中心主义 (Verbocentrism)",
+      "description": "在人声中心主义下，进一步偏重于口头语言及其传达的具体语义。",
+      "category": "声音偏好"
+    },
+    {
+      "id": "acousmetre",
+      "label": "无身之音 (Acousmêtre)",
+      "description": "只闻其声不见其人的角色或实体，这种游离于画面之外的声音往往带有一种全知全能的神圣感或压迫感。",
+      "category": "角色与声源关系"
+    },
+    {
+      "id": "anempathetic_sound",
+      "label": "非共情声音 (Anempathetic Sound)",
+      "description": "对画面中的惨烈或激动情况表现出明显“冷漠”的声音（如机械的八音盒），反而能衬托出更强烈的戏剧张力。",
+      "category": "表达手法"
+    },
+    {
+      "id": "empathetic_sound",
+      "label": "共情声音 (Empathetic Sound)",
+      "description": "直接反映、顺应或强化角色当前情感或场景氛围的声音与音乐。",
+      "category": "表达手法"
+    },
+    {
+      "id": "rendered_sound",
+      "label": "渲染声音 (Rendered Sound)",
+      "description": "不追求物理真实，而是追求“心理真实”或质感的声音设计（例如用捏碎西瓜的声音来表现砸碎头骨）。",
+      "category": "声音设计原则"
+    },
+    {
+      "id": "materializing_sound_indices",
+      "label": "物质化声音线索 (Materializing Sound Indices)",
+      "description": "让观众能感受到声源材质或所处物理空间的声音细节（如喘息声中的颗粒感、空间的回音）。",
+      "category": "声音设计原则"
+    },
+    {
+      "id": "internal_sound",
+      "label": "内在声音 (Internal Sound)",
+      "description": "直接对应角色内心世界或生理内部的声音，如心跳声、呼吸声或内心独白。",
+      "category": "叙事维度"
+    },
+    {
+      "id": "phantom_audio_vision",
+      "label": "幻象视听 (Phantom Audio-Vision)",
+      "description": "由于画面的强烈心理暗示，导致观众觉得自己“听”到了实际上并不存在的缺席声音。",
+      "category": "感知机制"
+    }
+  ],
+  "edges": [
+    {
+      "source": "audiovisual_contract",
+      "target": "added_value",
+      "label": "孕育了"
+    },
+    {
+      "source": "added_value",
+      "target": "synchresis",
+      "label": "强依赖于"
+    },
+    {
+      "source": "vococentrism",
+      "target": "verbocentrism",
+      "label": "包含并递进至"
+    },
+    {
+      "source": "acousmetre",
+      "target": "vococentrism",
+      "label": "力量来源于"
+    },
+    {
+      "source": "anempathetic_sound",
+      "target": "audiovisual_contract",
+      "label": "挑战与反向利用"
+    },
+    {
+      "source": "empathetic_sound",
+      "target": "audiovisual_contract",
+      "label": "顺应与强化"
+    },
+    {
+      "source": "rendered_sound",
+      "target": "materializing_sound_indices",
+      "label": "通过其实现"
+    },
+    {
+      "source": "phantom_audio_vision",
+      "target": "added_value",
+      "label": "是其极端表现"
+    },
+    {
+      "source": "acousmetre",
+      "target": "audiovisual_contract",
+      "label": "重构了"
+    },
+    {
+      "source": "synchresis",
+      "target": "audiovisual_contract",
+      "label": "作为底层支撑"
+    }
+  ]
+}

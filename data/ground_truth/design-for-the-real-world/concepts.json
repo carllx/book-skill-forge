@@ -1,0 +1,154 @@
+{
+  "concepts": [
+    {
+      "id": "function_complex",
+      "name": "The Function Complex",
+      "aliases": ["Function Complex", "Six-sided Function Complex"],
+      "weight": 10,
+      "sub_concepts": [
+        {
+          "id": "method",
+          "name": "Method",
+          "aliases": ["Interaction of tools, processes, and materials"],
+          "weight": 8
+        },
+        {
+          "id": "use",
+          "name": "Use",
+          "aliases": ["Utility", "Does it work?"],
+          "weight": 8
+        },
+        {
+          "id": "need",
+          "name": "Need",
+          "aliases": ["Genuine Needs", "Survival, Identity, and Goals"],
+          "weight": 9
+        },
+        {
+          "id": "telesis",
+          "name": "Telesis",
+          "aliases": ["Socioeconomic order", "Purposeful utilization of nature and society"],
+          "weight": 9
+        },
+        {
+          "id": "association",
+          "name": "Association",
+          "aliases": ["Psychological conditioning", "Associational values"],
+          "weight": 8
+        },
+        {
+          "id": "aesthetics",
+          "name": "Aesthetics",
+          "aliases": ["Theory of the beautiful", "Form", "Meaningful order"],
+          "weight": 8
+        }
+      ]
+    },
+    {
+      "id": "social_moral_responsibility",
+      "name": "Social and Moral Responsibility of Design",
+      "aliases": ["Do-it-Yourself Murder", "Design Responsibility", "Design Ethics"],
+      "weight": 10,
+      "sub_concepts": [
+        {
+          "id": "design_for_third_world",
+          "name": "Design for the Third World",
+          "aliases": ["Designing for the needy", "Underdeveloped countries"],
+          "weight": 9
+        },
+        {
+          "id": "design_for_handicapped",
+          "name": "Design for the Handicapped",
+          "aliases": ["Design for the sick and disabled", "Medical equipment"],
+          "weight": 9
+        },
+        {
+          "id": "kymmenykset",
+          "name": "Kymmenykset",
+          "aliases": ["Tithing", "Social self-tithing"],
+          "weight": 7
+        }
+      ]
+    },
+    {
+      "id": "kleenex_culture",
+      "name": "Kleenex Culture",
+      "aliases": ["Our Kleenex Culture", "Disposable society", "Obsolescence"],
+      "weight": 9,
+      "sub_concepts": [
+        {
+          "id": "artificial_obsolescence",
+          "name": "Artificial Obsolescence",
+          "aliases": ["Forced obsolescence", "Death-rating of a product", "Stylistic obsolescence"],
+          "weight": 8
+        },
+        {
+          "id": "myth_of_wants",
+          "name": "Myth of People's Wants",
+          "aliases": ["Manufactured trivia", "Toys for adults"],
+          "weight": 8
+        }
+      ]
+    },
+    {
+      "id": "bionics",
+      "name": "Bionics",
+      "aliases": ["Biological Prototypes in Design", "Tree of Knowledge"],
+      "weight": 9,
+      "sub_concepts": [
+        {
+          "id": "principle_of_least_effort",
+          "name": "Principle of Least Effort",
+          "aliases": ["Doing the most with the least", "Maximum diversity with minimum inventory"],
+          "weight": 8
+        }
+      ]
+    },
+    {
+      "id": "integrated_design",
+      "name": "Integrated Design",
+      "aliases": ["Comprehensive Anticipatory Design", "Design for Survival"],
+      "weight": 10,
+      "sub_concepts": [
+        {
+          "id": "cross_disciplinary_teams",
+          "name": "Cross-disciplinary Teams",
+          "aliases": ["Multidisciplinary design teams", "Synthesists"],
+          "weight": 8
+        }
+      ]
+    },
+    {
+      "id": "creative_problem_solving",
+      "name": "Creative Problem Solving",
+      "aliases": ["Invention and Innovation", "Rebel with a Cause"],
+      "weight": 9,
+      "sub_concepts": [
+        {
+          "id": "design_blocks",
+          "name": "Design Blocks",
+          "aliases": ["Perceptual Blocks", "Emotional Blocks", "Associational Blocks", "Cultural Blocks", "Professional Blocks", "Intellectual Blocks", "Environmental Blocks"],
+          "weight": 8
+        },
+        {
+          "id": "bisociation",
+          "name": "Bisociation",
+          "aliases": ["Trisociation", "Bi-association"],
+          "weight": 7
+        },
+        {
+          "id": "morphological_analysis",
+          "name": "Morphological Analysis",
+          "aliases": ["Sliding Scales", "Three-dimensional graph"],
+          "weight": 7
+        }
+      ]
+    },
+    {
+      "id": "environmental_design",
+      "name": "Environmental Design",
+      "aliases": ["Pollution", "Crowding", "Ecology"],
+      "weight": 9
+    }
+  ]
+}

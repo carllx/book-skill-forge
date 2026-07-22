@@ -1,0 +1,249 @@
+{
+  "ground_truth_concepts": [
+    {
+      "id": "audiovisual_contract",
+      "name": "Audiovisual Contract",
+      "importance": 10
+    },
+    {
+      "id": "added_value",
+      "name": "Added Value",
+      "importance": 10
+    },
+    {
+      "id": "empathetic_sound",
+      "name": "Empathetic Sound",
+      "importance": 8
+    },
+    {
+      "id": "anempathetic_sound",
+      "name": "Anempathetic Sound",
+      "importance": 9
+    },
+    {
+      "id": "synchresis",
+      "name": "Synchresis",
+      "importance": 10
+    },
+    {
+      "id": "vococentrism",
+      "name": "Vococentrism",
+      "importance": 8
+    },
+    {
+      "id": "acousmatic",
+      "name": "Acousmatic",
+      "importance": 9
+    },
+    {
+      "id": "acousmetre",
+      "name": "Acousmêtre",
+      "importance": 10
+    },
+    {
+      "id": "de-acousmatization",
+      "name": "De-acousmatization",
+      "importance": 7
+    },
+    {
+      "id": "visualized_sound",
+      "name": "Visualized Sound",
+      "importance": 8
+    },
+    {
+      "id": "spatial_magnetization",
+      "name": "Spatial Magnetization",
+      "importance": 7
+    },
+    {
+      "id": "materializing_sound_indices",
+      "name": "Materializing Sound Indices",
+      "importance": 8
+    },
+    {
+      "id": "extension",
+      "name": "Extension",
+      "importance": 8
+    },
+    {
+      "id": "null_extension",
+      "name": "Null Extension",
+      "importance": 6
+    },
+    {
+      "id": "vast_extension",
+      "name": "Vast Extension",
+      "importance": 6
+    },
+    {
+      "id": "point_of_audition",
+      "name": "Point of Audition",
+      "importance": 9
+    },
+    {
+      "id": "subjective_sound",
+      "name": "Subjective Sound",
+      "importance": 7
+    },
+    {
+      "id": "soundscape",
+      "name": "Soundscape",
+      "importance": 7
+    },
+    {
+      "id": "rendering",
+      "name": "Rendering",
+      "importance": 9
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "ext_audiovisual_contract",
+      "name": "Audiovisual Contract",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_added_value",
+      "name": "Added Value",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_empathetic_sound",
+      "name": "Empathetic Sound",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_anempathetic_sound",
+      "name": "Anempathetic Sound",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_synchresis",
+      "name": "Synchresis",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_vococentrism",
+      "name": "Vococentrism",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_acousmatic",
+      "name": "Acousmatic",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_acousmetre",
+      "name": "Acousmêtre",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_de-acousmatization",
+      "name": "De-acousmatization",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_visualized_sound",
+      "name": "Visualized Sound",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_spatial_magnetization",
+      "name": "Spatial Magnetization",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_materializing_sound_indices",
+      "name": "Materializing Sound Indices",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_extension",
+      "name": "Extension",
+      "is_redundant": false
+    },
+    {
+      "id": "ext_null_extension",
+      "name": "Null Extension",
+      "is_redundant": false
+    },
+    {
+      "id": "junk_0",
+      "name": "Junk Concept 0",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_1",
+      "name": "Junk Concept 1",
+      "is_redundant": true
+    },
+    {
+      "id": "junk_2",
+      "name": "Junk Concept 2",
+      "is_redundant": true
+    }
+  ],
+  "artifact_usability": {
+    "formatting_score": 4,
+    "clarity_score": 4,
+    "logical_score": 4
+  },
+  "mappings": [
+    {
+      "gt_id": "audiovisual_contract",
+      "extracted_id": "ext_audiovisual_contract"
+    },
+    {
+      "gt_id": "added_value",
+      "extracted_id": "ext_added_value"
+    },
+    {
+      "gt_id": "empathetic_sound",
+      "extracted_id": "ext_empathetic_sound"
+    },
+    {
+      "gt_id": "anempathetic_sound",
+      "extracted_id": "ext_anempathetic_sound"
+    },
+    {
+      "gt_id": "synchresis",
+      "extracted_id": "ext_synchresis"
+    },
+    {
+      "gt_id": "vococentrism",
+      "extracted_id": "ext_vococentrism"
+    },
+    {
+      "gt_id": "acousmatic",
+      "extracted_id": "ext_acousmatic"
+    },
+    {
+      "gt_id": "acousmetre",
+      "extracted_id": "ext_acousmetre"
+    },
+    {
+      "gt_id": "de-acousmatization",
+      "extracted_id": "ext_de-acousmatization"
+    },
+    {
+      "gt_id": "visualized_sound",
+      "extracted_id": "ext_visualized_sound"
+    },
+    {
+      "gt_id": "spatial_magnetization",
+      "extracted_id": "ext_spatial_magnetization"
+    },
+    {
+      "gt_id": "materializing_sound_indices",
+      "extracted_id": "ext_materializing_sound_indices"
+    },
+    {
+      "gt_id": "extension",
+      "extracted_id": "ext_extension"
+    },
+    {
+      "gt_id": "null_extension",
+      "extracted_id": "ext_null_extension"
+    }
+  ]
+}

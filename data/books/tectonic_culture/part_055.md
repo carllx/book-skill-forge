@@ -1,0 +1,38 @@
+## Part 55
+
+> [BREADCRUMB_CTX: 《tectonic_culture》 > Part 55]
+
+The columns and mullions determine window width. The two central windows are, therefore, wider than those adjacent to the column. These variants produce visual cadences of expanding and contracting intervals: column一narrow window-wide window, then reversing, wide window一narrow window一column, and so on, of an extraordinarily subtle richness. And to this is added the alternating opacity of the steel and reflectivity of the glass caused by theblinker quality of the mullions en masse. Before Mies's "860" solution, there were two clear basic possibilities for the enclosure of skeleton frame buildings. Either the skin acted as aninfill between the structure or hung in front of it. ... While acceptable on their own pragmatic terms, these solutions have, with the exception of the Seagram Buiding, rarely been touched by the magic of great architecture. At
+
+![](images/e5c88ae59100595cc4b9b59289841e16ddc3a1859a341c669925464d28f14afa.jpg)  
+6.43 Miesvan der Rohe, Library and Administration Building, Illinois Institute of Technology, Chicago, 1944.
+
+![](images/1a1416c73510b3252f73905cdd7844571836ec4bf73f23534c300bb1f89d2121.jpg)  
+6.45 Mies van der Rohe, MineralsandMetals Research Building, Illinois Institute of Technology, Chicago, 1943. Laboratory.
+
+6.46 Mies van der Rohe, Library and Administration Building, vertical and horizontal details.
+
+![](images/bd5bc003f7c710d3a080ff1a2337254cb45ebef4555dff944ae4546a5120fddf.jpg)
+
+"860" the solution has come directly out of the problem of finding a single archiD   
+tectural expression which would embrace both skin and structure. At “860" the structure and the skin retain much of their individual identities but theapplication of the mullion has caused aphilosophical transformation from pluralistic to a monotheistic character.33
+
+Mies's neo-Suprematist sensibility assumes a perceptually dynamic character in the foreshortening of the mullioned facades of 860 Lake Shore Drive, where the mutual positioning of the two slabs is such as to engender a constantly changing three-quarters view of either the one or the other facade (fig. 6.57). As one moves around this rotational composition, the projecting mullions either open out to reveal the full extent of the infill glazing or close up to present the illusion of being a twenty-six-story relief construction in opaque steel. Viewed from a distance, the building appears as an assembly of virtual volumes and planes in space, whereas when approached frontally each slab and structural bay assumes the format of a symmetrical composition.
+
+This generic curtain wall changes markedly in its tectonic attributes as Mies passes from one high rise building to the next. No two treatments are perhaps more contrasting in this regard than 860 Lake Shore Drive and the Seagram Building. In 860, the concrete fireproofed structural floors and columns are covered in steel plates onto which the mullions are face-welded, whereas in the Seagram the fireproofed frame is set back from the curtain wall, with the result that the floors are suppressed behind a continuous skin of brown-tinted glass, with the mullions running uninterruptedly across glazed spandrel panels (fig. 6.58). Equally hybrid, given the perceptual fusion of bronze anodized fenestration with brown glass, are the reentrant corners of the service shaft to the rear of the Seagram Building, where very dark green marble sheeting is used to give the im
+
+![](images/e63c4707573a8abd9642f2dcbe7d99314dd4c342a3eb00f2d1352c51923992b0.jpg)
+
+6.47 Miesvan der Rohe, Minerats and Metals Research Building, horizontal details.
+
+6.48 Miesvander Rohe, Minerals and Metals Research Building, vertical exterior details.
+
+![](images/d53a93820330327f47bae580f386b174de0f0bdaf844d4a8c8a1384ee5d84553.jpg)
+
+pression of a vertically striated, monolithic metal box. From this point of view we may claim that Seagram is the more membranous of the two works, substituting the steel-plated representation of the structural frame in 860 Lake Shore Drive with a plate glass curtain wall that does no more than represent its own tectonic autonomy.
+
+The unrealized Hi-Way drive-in restaurant, designed for Joseph Cantor of Indianapolis in 1946, introduces the long-span trussed structure that Mies will explore, in various ways, during the remainder of his career. The roof of the Hi-Way Restaurant was to have been hung from the underside of two exposed lattice trusses, each spanning 150 feet. This format appears in two subsequent works, first in the Mannheim Theater proposal of 1952 (figs. 6.59, 6.60) and then in Crown Hall, built at IIT in 1956 (fig. 6.61). In the first instance 15-foot-deep exposed lattice trusses are projected across 266 feet, while in the second, twofoot-deep stiffened steel beams span 150 feet. Within the glass cage of the former, Mies intended to suspend two theaters, set back to back and surrounded by a continuous foyer. Of these three works, Crown Hall is perhaps the most canonical, not only because it was the only one to be realized, but also because it combined the sectional schema of the Farnsworth House with the mullionframing system of 860 Lake Shore Drive (figs. 6.62, 6.63). At the same time,in being analogously structured about a corps de logis, Crown Hall makes a distant allusion to Schinkel's Altes Museum, however much this axial order is mediated by the general diffusion of space throughout its interior. As Colin Rowe has written:
+
+Like the characteristic Palladian composition, Crown Hall is a symmetrical and, probably, a mathematically regulated volume. But, unlike the characteristic Palladian composition, it is not an hierarchically ordered organization which projects its centralized theme vertically in the form of apyramidal roof or dome. Unlike the Villa Rotonda, but like so many of the compositions of the twenties, Crown Hall is provided with no effective central area within which the observer can stand and comprehend the whole. The observer may understand a good deal of theinterior while he is external toit (although even this Mies is disposed to disallow by planting a screen of trees across the front); but, once inside, rather than any spatial climax, the building offers a central solid, not energetically stated it is true, but still an insulated core around which the space travels laterally with the enclosing windows. A/so, the flat slab of the roof induces a certain outward pull; and for this reason, in spite of the centralizing activity of the entrance vestibule, the space still remains, though in very much simplified form, the rotary peripheric organization of the twenties, rather than the predominantly centralized composition of the true Palladian or classical plan.34
+
+The other long-span type favored by Mies comprised a two-way， space frame roof carried on perimeter point supports, set in from the corners. This type was first broached in his Fifty by Fifty House, projected in 1950, the name deriving from the fact that the house was roofed by a 50-by-50-foot space frame carried on four central columns, each being set at the midpoint of one side (figs. 6.64, 6.65). Mies was to project a similar cantilevered space frame roof on four subsequent occasions. The first of these was his 1953 project for a convention hall for Chicago, accommodating 79,000 people and measuring 720 feet along each of its sides. There followed three more modest variations on the same theme: the Bacardi Office Building, Santiago, Cuba, of 1957 (figs. 6.66, 6.67), the Georg Schafer Museum proposal of 1960, and finally, the Neue Nationalgalerie in Berlin dating from 1962.

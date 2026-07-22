@@ -1,0 +1,15 @@
+> [BREADCRUMB_CTX: 《The Shape of Time》 > Biological and Physical Metaphors]
+
+# Biological and Physical Metaphors
+
+Biological and Physical Metaphors
+
+However useful it is for pedagogical purposes, the biological metaphor of style as a sequence of life-stages was historically misleading, for it bestowed upon the flux of events the shapes and the behavior of organisms. By the metaphor of the life-cycle a style behaves like a plant. Its first leaves are small and tentatively shaped; the leaves of its middle life are fully formed; and the last leaves it puts forth are small again but intricately shaped. All are sustained by one unchanging principle of organization common to all members of that species, with variants of race occurring in different environments. By the biological metaphor of art and history, style is the species, and historical styles are its taxonomic varieties. As an approximation, nevertheless, this metaphor recognized the recurrence of certain kinds of events, and it offered at least a provisional explanation of them, instead of treating each event as an unprecedented, never-to-be-repeated unicum
+.
+
+The biological model was not the most appropriate one for a history of things. Perhaps a system of metaphors drawn from physical science would have clothed the situation of art more adequately than the prevailing biological metaphors: especially if we 
+are dealing in art with the transmission of some kind of energy; with impulses, generating centers, and relay points; with increments and losses in transit; with resistances and transformers in the circuit. In short, the language of electrodynamics might have suited us better than the language of botany; and Michael Faraday might have been a better mentor than Linnaeus for the study of material culture.
+
+Our choice of the “history of things” is more than a euphemism to replace the bristling ugliness of “material culture.” This term is used by anthropologists to distinguish ideas, or “mental culture,” from artifacts. But the “history of things” is intended to reunite ideas and objects under the rubric of visual forms: the term includes both artifacts and works of art, both replicas and unique examples, both tools and expressions—in short all materials worked by human hands under the guidance of connected ideas developed in temporal sequence. From all these things a shape in time emerges. A visible portrait of the collective identity, whether tribe, class, or nation, comes into being. This self-image reflected in things is a guide and a point of reference to the group for the future, and it eventually becomes the portrait given to posterity.
+
+Although both the history of art and the history of science have the same recent origins in the eighteenth-century learning of the European Enlightenment, our inherited habit of separating art from science goes back to the ancient division between liberal and mechanical arts. The separation has had most regrettable consequences. A principal one is our long reluctance to view the processes common to both art and science in the same historical perspective.

@@ -1,0 +1,1317 @@
+Task 1
+qa_type: hallucination_check
+ID: file_03107f12
+prompt: Role: QA Agent. Task: Determine if the 'Node Info' is purely hallucinated or accurately derived from the 'Source Text'. Return exactly 'PASS' if accurate, or 'FAIL: <reason>' if hallucinated.
+context:
+Source Text:  As a function of a given ideology, works of art project a
+particular picture of the world,or what it is liketo bein the world; but "world"
+in this context is understood as being fundamentally different as viewed from
+different ideological vantages. And these vantages are themselves thoroughly
+structured or impregnated by systems of values, s0 that art is in this sense
+never morally neutral, but is involved, willfully or not, in upholding or
+maintaining those values, or—in certain extreme caseschallenging or subverting
+them. For Eisenstein, the golden automaton of the clockwork peacock was made in
+the service ofan idealist position. Insofar as the peacock and Kerensky served
+as the images of one another, the bird symbolized a system of thought which the
+Russian Revolution viewed as its enemy. Eisenstein insisted that, no matter how
+much the peacock looked like a trivial toy, it was not value-free.  The
+technocratic premise of Beyond Modern Sculpture regards the aim ofre-creating
+life, "of controlling human destiny, as natural to both science and artand
+therefore as morally neutral. But many liberal and Marxist historians and social
+philosophers have labored to show us that these technocratic goals are not
+value-free, but are products of a social and economic system for which "control'
+of that kind is the logical corollary.8 Burnham's book is one of the most
+extensively and closely argued presentations of sculpture made in the service of
+a mechanistic view of the world. But th  Node Info: Label: Rosalind E. Krauss -
+1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 15
+Desc: Primary concept extracted from chunk
+
+================================================================================
+
+Task 2
+qa_type: hallucination_check
+ID: file_550cfc0d
+prompt: Role: QA Agent. Task: Determine if the 'Node Info' is purely hallucinated or accurately derived from the 'Source Text'. Return exactly 'PASS' if accurate, or 'FAIL: <reason>' if hallucinated.
+context:
+Source Text: ulpture; Viewing sculpture Segal, George, 221, 226 Self, notion of
+the,28,30, 256, 258, 259, 266, 267,270, 279,280 Sentinel (von Schlegell), 180
+Serf (Matisse)，36 Serpentine, The (Matisse), 36 Serra, Richard,
+vi,243,244,245,246-47,269-70, 271,272, 275- -76, 277, 279, 282, 286,287 Service
+for the Dead, A （Kaprow）,234 Shadows, sculptural, 22-23 Shapiro,Joel,288
+Shchukin, Sergei, 53 Shift (Serra) 282, 286-87 Sick Boy (Rosso), 88, 89 Signs,
+148, 150-52,264-66，270 Simultaneity, 3,4,5, 12, 19, 45, 117 Site (Morris),238-39
+Sketches (Smith), 169-70, 172 Slant (King), 197 Sleeping Figure (Bour rgeois),
+151 Sleeping Muse (Brancusi),89 Smith, David, 147, 149, 152, 153, 154, 155,
+156-58, 160, 161, 162, 163, 165,166,167,168, 169, 170,171,172, 173,175,
+178,181-82, 183, 186 Smith, Tony, 198 Smithson, Robert, vi, 4-5,245,248,281,
+282- 283,284,285,286 Socrate (Satie) 219 Soffci, 47 Some Shadows: Portrait of
+Tristan Tzara (Arp)，136, 137 Sontag, Susan, 232 Soupault，Philippe,108 Space in
+art, 7-8,17, 41, 55, 64-65, 114-15, 117, 204, 239-40, 259,262,266,270,279, 280
+Spatial aspects of sculpture, 3-4, 12, 17,23, 45, 51, 53, 55, 56, 58,60,
+61,64-65,81,106,114, 118, 128, 146, 191, 204,250,253,266, 270-71, 272, 279,280,
+282 Specter of War (Smith), 169 Spinning (Eakins),21 Spiral Jetty (Smithson),
+4–5,281, 282-83 Spring Happening, A (Kaprow)，232 Stacked Steel Slabs (Serra),
+272-75, 277 Standing Nude with Arms Raised (Matisse),36 Standing Personage
+(Lipchitz), 59 Star Cradle (Lassaw), 159, 161 Steinber  Node Info: Label:
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 016 bibliography
+5 Desc: Primary concept extracted from chunk
+
+================================================================================
+
+Task 3
+qa_type: hallucination_check
+ID: file_e70c262b
+prompt: Role: QA Agent. Task: Determine if the 'Node Info' is purely hallucinated or accurately derived from the 'Source Text'. Return exactly 'PASS' if accurate, or 'FAIL: <reason>' if hallucinated.
+context:
+Source Text: ed, then aspace, thena pair of tubes, and then, after another
+interval of wall, a triple unit. What is characteristic ofthe approach taken by
+the minimalist sculptors is that they exploited akind of found object for its
+possibilities as an element in a repetitive structure. Thisis true not only of
+the works just described but also of Carl Andre's rows of Styrofoam planks (fig.
+183) or fire-bricks, and of Robert Smithson's stacks of plate-glass panes (fig.
+184). In the late 1960s one finds it as well in certain of the works of Serra
+and in Mel Bochner's use of written numbers extended in a chain across the space
+of a wall (fig. 185). "One thing after another” was undeniably present as a
+compositional strategy, but that it might be in Judd's words, “a way of finding
+out what the world's like,” is far more open to doubt.  That is because we tend
+to think that the act of finding out what something is like means that we give
+it a shape, propose for it a model or an image thatwill organize what seems on
+the surface merely an incoherent array of phenomena. This was obviously the
+conviction held by the constructivists as they proceeded to build abstract
+models through which to depict the organization of matter. "One thing after
+another"' seems, on the other hand, like days simply following each other
+without anything having given them a form or a direction, without their being
+![](images/45470d248e4cc21bd07820aa60f08d3cc1f310ab9bd7854e9cda0a50747bd065.jpg)
+![](images/95bd2941330918  Node Info: Label: The Double Negative: a new syntax
+for sculpture Desc: Primary concept extracted from chunk
+
+================================================================================
+
+Task 4
+qa_type: omission_check
+ID: Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_012_Chapter_2_Analytic_Space__f_ut_2.md
+prompt: Role: QA Agent. Task: Determine if the core concepts from the 'Source Text' are represented in the 'Graph Node Labels'. Return exactly 'PASS' if the main knowledge is captured, or 'FAIL: <reason>' if critical concepts are missing.
+context:
+Source Text:     4. Ibid., p. 34.    5. For a discussion of Roussel's methods of
+writing see Rayner Heppenstall. Raymond Roussel (Berkeley: University of
+California Press, 1967). The account of this particular transformation is on
+page 40.    6. Ibid., p. 28.    7. Cabanne, op. cit. In discussing Duchamp's use
+of homophones and puns, Arturo Schwarz quotes the artist's references to Roussel
+and to Jean-Pierre Brisset, whose work Duchamp described as“a philological
+analysis of language —an analysis worked out by means of an incredible network
+of puns.” See Schwarz, Marcel Duchamp (New York: Harry N. Abrams, 1969), p. 80.
+8. In 1926 Duchamp used these discs, along with ones carrying graphic designs,
+in the film Anemic-Cinéma which he made in collaboration with Man Ray and Marc
+Allegret.    9. The sentence roughly translates as: The aspiring one lives in
+Javel and me I (was living） in the spiral. An amalgam of syllables. the line is
+symmetrical around "et moi." Because the first syllable corresponds to the last,
+and so on inward toward the center, the sentence itself takes a spiral form.
+10. In the quoted sentence there is, for example. the pun on "l'habite” which
+sounds like la bitte, French slang for penis. This causes the sentence to read ·
+and me, I had my penis in the spiral.” In an essay on the puns in Anemic-Cinéma,
+Katrina Martin further analyzes the erotic subtext of this line : "Javel is the
+place where eau de Javel. a bleach, comes from. It can be that water itself. In
+slang,  Graph Node Labels: Passages in Modern Sculpture Rosalind E Krauss,
+acknowledgments, introduction 1, introduction, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 003 introduction 2, Narrative Time: the
+question of the Gates of Hell, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 004 Narrative Time  the question o 10, Rosalind E. Krauss - 1981
+- Passages in Modern Sculpture chunk 004 Narrative Time  the question o 2,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 004 Narrative
+Time  the question o 3, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 004 Narrative Time  the question o 4, Rosalind E. Krauss - 1981 - Passages
+in Modern Sculpture chunk 004 Narrative Time  the question o 5, Rosalind E.
+Krauss - 1981 - Passages in Modern Sculpture chunk 004 Narrative Time  the
+question o 6, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 004
+Narrative Time  the question o 7, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 004 Narrative Time  the question o 8, Rosalind E. Krauss - 1981
+- Passages in Modern Sculpture chunk 004 Narrative Time  the question o 9,
+futurism and constructivism, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 005 futurism and constructivism 2, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 005 futurism and constructivism 3, Rosalind
+E. Krauss - 1981 - Passages in Modern Sculpture chunk 005 futurism and
+constructivism 4, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk
+005 futurism and constructivism 5, Rosalind E. Krauss - 1981 - Passages in
+Modern Sculpture chunk 005 futurism and constructivism 6, Rosalind E. Krauss -
+1981 - Passages in Modern Sculpture chunk 005 futurism and constructivism 7,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 005 futurism and
+constructivism 8, Forms of Readymade: Duchamp and Brancusi, Rosalind E. Krauss -
+1981 - Passages in Modern Sculpture chunk 006 Forms of Readymade  Duchamp an 10,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 006 Forms of
+Readymade  Duchamp an 2, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 006 Forms of Readymade  Duchamp an 3, Rosalind E. Krauss - 1981
+- Passages in Modern Sculpture chunk 006 Forms of Readymade  Duchamp an 4,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 006 Forms of
+Readymade  Duchamp an 5, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 006 Forms of Readymade  Duchamp an 6, Rosalind E. Krauss - 1981
+- Passages in Modern Sculpture chunk 006 Forms of Readymade  Duchamp an 7,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 006 Forms of
+Readymade  Duchamp an 8, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 006 Forms of Readymade  Duchamp an 9, the terms of surrealism,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 007 the terms of
+surrealism 10, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk
+007 the terms of surrealism 2, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 007 the terms of surrealism 3, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 007 the terms of surrealism 4, Rosalind E.
+Krauss - 1981 - Passages in Modern Sculpture chunk 007 the terms of surrealism
+5, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 007 the terms
+of surrealism 6, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk
+007 the terms of surrealism 7, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 007 the terms of surrealism 8, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 007 the terms of surrealism 9, 107. Barbara
+Hepworth (1903- 75) : Pelagos, 1946. Wood with strings, 16". The Tate Gallery,
+London., Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107
+Barbara Hepworth  1903  7 10, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 008 107  Barbara Hepworth  1903  7 11, Rosalind E. Krauss - 1981
+- Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 12,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara
+Hepworth  1903  7 13, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 008 107  Barbara Hepworth  1903  7 14, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 15,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara
+Hepworth  1903  7 16, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 008 107  Barbara Hepworth  1903  7 17, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 18,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara
+Hepworth  1903  7 19, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 008 107  Barbara Hepworth  1903  7 2, Rosalind E. Krauss - 1981 - Passages
+in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 20, Rosalind E.
+Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth
+1903  7 21, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008
+107  Barbara Hepworth  1903  7 3, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 008 107  Barbara Hepworth  1903  7 4, Rosalind E. Krauss - 1981
+- Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 5,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara
+Hepworth  1903  7 6, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 008 107  Barbara Hepworth  1903  7 7, Rosalind E. Krauss - 1981 - Passages
+in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 8, Rosalind E.
+Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth
+1903  7 9, The Double Negative: a new syntax for sculpture, Rosalind E. Krauss -
+1981 - Passages in Modern Sculpture chunk 009 The Double Negative  a new syn 2,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 009 The Double
+Negative  a new syn 3, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 009 The Double Negative  a new syn 4, Rosalind E. Krauss - 1981 - Passages
+in Modern Sculpture chunk 009 The Double Negative  a new syn 5, Rosalind E.
+Krauss - 1981 - Passages in Modern Sculpture chunk 009 The Double Negative  a
+new syn 6, 1, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 010
+1 2, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 010 1 3,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 010 1 4,
+Introduction, Chapter 2 Analytic Space: f uturism and constructivism, Rosalind
+E. Krauss - 1981 - Passages in Modern Sculpture chunk 012 Chapter 2 Analytic
+Space  f ut 2, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk
+012 Chapter 2 Analytic Space  f ut 3, Rosalind E. Krauss - 1981 - Passages in
+Modern Sculpture chunk 012 Chapter 2 Analytic Space  f ut 4, Chapter 5 Tanktotem
+welded images, Chapter 6 Mechanical Ballets : light, motion, theater, Chapter 7
+The Double Negative: a new syntax for sculpture, bibliography, Rosalind E.
+Krauss - 1981 - Passages in Modern Sculpture chunk 016 bibliography 2, Rosalind
+E. Krauss - 1981 - Passages in Modern Sculpture chunk 016 bibliography 3,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 016 bibliography
+4, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 016
+bibliography 5, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk
+016 bibliography 6, Passages in Modern Sculpture by Rosalind E. Krauss, Terminal
+Iron Works:
+
+================================================================================
+
+Task 5
+qa_type: omission_check
+ID: Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_016_bibliography_1.md
+prompt: Role: QA Agent. Task: Determine if the core concepts from the 'Source Text' are represented in the 'Graph Node Labels'. Return exactly 'PASS' if the main knowledge is captured, or 'FAIL: <reason>' if critical concepts are missing.
+context:
+Source Text: # bibliography  Graph Node Labels: Passages in Modern Sculpture
+Rosalind E Krauss, acknowledgments, introduction 1, introduction, Rosalind E.
+Krauss - 1981 - Passages in Modern Sculpture chunk 003 introduction 2, Narrative
+Time: the question of the Gates of Hell, Rosalind E. Krauss - 1981 - Passages in
+Modern Sculpture chunk 004 Narrative Time  the question o 10, Rosalind E. Krauss
+- 1981 - Passages in Modern Sculpture chunk 004 Narrative Time  the question o
+2, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 004 Narrative
+Time  the question o 3, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 004 Narrative Time  the question o 4, Rosalind E. Krauss - 1981 - Passages
+in Modern Sculpture chunk 004 Narrative Time  the question o 5, Rosalind E.
+Krauss - 1981 - Passages in Modern Sculpture chunk 004 Narrative Time  the
+question o 6, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 004
+Narrative Time  the question o 7, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 004 Narrative Time  the question o 8, Rosalind E. Krauss - 1981
+- Passages in Modern Sculpture chunk 004 Narrative Time  the question o 9,
+futurism and constructivism, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 005 futurism and constructivism 2, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 005 futurism and constructivism 3, Rosalind
+E. Krauss - 1981 - Passages in Modern Sculpture chunk 005 futurism and
+constructivism 4, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk
+005 futurism and constructivism 5, Rosalind E. Krauss - 1981 - Passages in
+Modern Sculpture chunk 005 futurism and constructivism 6, Rosalind E. Krauss -
+1981 - Passages in Modern Sculpture chunk 005 futurism and constructivism 7,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 005 futurism and
+constructivism 8, Forms of Readymade: Duchamp and Brancusi, Rosalind E. Krauss -
+1981 - Passages in Modern Sculpture chunk 006 Forms of Readymade  Duchamp an 10,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 006 Forms of
+Readymade  Duchamp an 2, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 006 Forms of Readymade  Duchamp an 3, Rosalind E. Krauss - 1981
+- Passages in Modern Sculpture chunk 006 Forms of Readymade  Duchamp an 4,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 006 Forms of
+Readymade  Duchamp an 5, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 006 Forms of Readymade  Duchamp an 6, Rosalind E. Krauss - 1981
+- Passages in Modern Sculpture chunk 006 Forms of Readymade  Duchamp an 7,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 006 Forms of
+Readymade  Duchamp an 8, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 006 Forms of Readymade  Duchamp an 9, the terms of surrealism,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 007 the terms of
+surrealism 10, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk
+007 the terms of surrealism 2, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 007 the terms of surrealism 3, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 007 the terms of surrealism 4, Rosalind E.
+Krauss - 1981 - Passages in Modern Sculpture chunk 007 the terms of surrealism
+5, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 007 the terms
+of surrealism 6, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk
+007 the terms of surrealism 7, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 007 the terms of surrealism 8, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 007 the terms of surrealism 9, 107. Barbara
+Hepworth (1903- 75) : Pelagos, 1946. Wood with strings, 16". The Tate Gallery,
+London., Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107
+Barbara Hepworth  1903  7 10, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 008 107  Barbara Hepworth  1903  7 11, Rosalind E. Krauss - 1981
+- Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 12,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara
+Hepworth  1903  7 13, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 008 107  Barbara Hepworth  1903  7 14, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 15,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara
+Hepworth  1903  7 16, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 008 107  Barbara Hepworth  1903  7 17, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 18,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara
+Hepworth  1903  7 19, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 008 107  Barbara Hepworth  1903  7 2, Rosalind E. Krauss - 1981 - Passages
+in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 20, Rosalind E.
+Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth
+1903  7 21, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008
+107  Barbara Hepworth  1903  7 3, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 008 107  Barbara Hepworth  1903  7 4, Rosalind E. Krauss - 1981
+- Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 5,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara
+Hepworth  1903  7 6, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 008 107  Barbara Hepworth  1903  7 7, Rosalind E. Krauss - 1981 - Passages
+in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 8, Rosalind E.
+Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth
+1903  7 9, The Double Negative: a new syntax for sculpture, Rosalind E. Krauss -
+1981 - Passages in Modern Sculpture chunk 009 The Double Negative  a new syn 2,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 009 The Double
+Negative  a new syn 3, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 009 The Double Negative  a new syn 4, Rosalind E. Krauss - 1981 - Passages
+in Modern Sculpture chunk 009 The Double Negative  a new syn 5, Rosalind E.
+Krauss - 1981 - Passages in Modern Sculpture chunk 009 The Double Negative  a
+new syn 6, 1, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 010
+1 2, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 010 1 3,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 010 1 4,
+Introduction, Chapter 2 Analytic Space: f uturism and constructivism, Rosalind
+E. Krauss - 1981 - Passages in Modern Sculpture chunk 012 Chapter 2 Analytic
+Space  f ut 2, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk
+012 Chapter 2 Analytic Space  f ut 3, Rosalind E. Krauss - 1981 - Passages in
+Modern Sculpture chunk 012 Chapter 2 Analytic Space  f ut 4, Chapter 5 Tanktotem
+welded images, Chapter 6 Mechanical Ballets : light, motion, theater, Chapter 7
+The Double Negative: a new syntax for sculpture, bibliography, Rosalind E.
+Krauss - 1981 - Passages in Modern Sculpture chunk 016 bibliography 2, Rosalind
+E. Krauss - 1981 - Passages in Modern Sculpture chunk 016 bibliography 3,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 016 bibliography
+4, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 016
+bibliography 5, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk
+016 bibliography 6, Passages in Modern Sculpture by Rosalind E. Krauss, Terminal
+Iron Works:
+
+================================================================================
+
+Task 6
+qa_type: omission_check
+ID: Rosalind E. Krauss - 1981 - Passages in Modern Sculpture_chunk_008_107__Barbara_Hepworth__1903__7_6.md
+prompt: Role: QA Agent. Task: Determine if the core concepts from the 'Source Text' are represented in the 'Graph Node Labels'. Return exactly 'PASS' if the main knowledge is captured, or 'FAIL: <reason>' if critical concepts are missing.
+context:
+Source Text: symbol { \times } \boldsymbol { \cal { I } } \boldsymbol { I } _ {
+2 } ^ { 1 / 2 } . \boldsymbol { \prime \prime }$    The Museum ofModern Art, New
+York. (Photo, Rudolph    Burckhardt)  sion that came out ofhis own private cycle
+of desire and remorse. The formal and ethical commands his work tries to encode
+are thus interrelated; their effectiveness as sculpture depends on their
+simultaneous maturation (figs. 13la and 131b). By the beginning of the 1950s,
+the comparative realism of these first works with the cannon/ phallus is
+absorbed into the characteristic assemblage of machine parts that makes up the
+Tanktotem figures.  As I have said, it is the relationship between the
+disjunctive syntax of this assemblage and the thematic material that constitutes
+Smith's originality- -and sets him apart from his American contemporaries. For
+it is in this relationship that he is able to qualify the meaning that such
+images as the totem or the sacrificial object have within his work.  In the
+hands of Lipton, Ferber, and Hare, very similar themes were elaborated into
+sculpture, but in a way that was still dependent on the aesthetic forces that
+shaped their original surrealist formulation. Ferber's 1947 Surrational Zeus $I
+I$ (fig. 132) not only asks, by means of its name, to be understood within the
+context of the European movement but it has also absorbed the formal language
+for entrapment and containment that characterizes Giacometti's sculpture of the
+1930s. With its protracted central  Graph Node Labels: Passages in Modern
+Sculpture Rosalind E Krauss, acknowledgments, introduction 1, introduction,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 003 introduction
+2, Narrative Time: the question of the Gates of Hell, Rosalind E. Krauss - 1981
+- Passages in Modern Sculpture chunk 004 Narrative Time  the question o 10,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 004 Narrative
+Time  the question o 2, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 004 Narrative Time  the question o 3, Rosalind E. Krauss - 1981 - Passages
+in Modern Sculpture chunk 004 Narrative Time  the question o 4, Rosalind E.
+Krauss - 1981 - Passages in Modern Sculpture chunk 004 Narrative Time  the
+question o 5, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 004
+Narrative Time  the question o 6, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 004 Narrative Time  the question o 7, Rosalind E. Krauss - 1981
+- Passages in Modern Sculpture chunk 004 Narrative Time  the question o 8,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 004 Narrative
+Time  the question o 9, futurism and constructivism, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 005 futurism and constructivism 2, Rosalind
+E. Krauss - 1981 - Passages in Modern Sculpture chunk 005 futurism and
+constructivism 3, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk
+005 futurism and constructivism 4, Rosalind E. Krauss - 1981 - Passages in
+Modern Sculpture chunk 005 futurism and constructivism 5, Rosalind E. Krauss -
+1981 - Passages in Modern Sculpture chunk 005 futurism and constructivism 6,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 005 futurism and
+constructivism 7, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk
+005 futurism and constructivism 8, Forms of Readymade: Duchamp and Brancusi,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 006 Forms of
+Readymade  Duchamp an 10, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 006 Forms of Readymade  Duchamp an 2, Rosalind E. Krauss - 1981
+- Passages in Modern Sculpture chunk 006 Forms of Readymade  Duchamp an 3,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 006 Forms of
+Readymade  Duchamp an 4, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 006 Forms of Readymade  Duchamp an 5, Rosalind E. Krauss - 1981
+- Passages in Modern Sculpture chunk 006 Forms of Readymade  Duchamp an 6,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 006 Forms of
+Readymade  Duchamp an 7, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 006 Forms of Readymade  Duchamp an 8, Rosalind E. Krauss - 1981
+- Passages in Modern Sculpture chunk 006 Forms of Readymade  Duchamp an 9, the
+terms of surrealism, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 007 the terms of surrealism 10, Rosalind E. Krauss - 1981 - Passages in
+Modern Sculpture chunk 007 the terms of surrealism 2, Rosalind E. Krauss - 1981
+- Passages in Modern Sculpture chunk 007 the terms of surrealism 3, Rosalind E.
+Krauss - 1981 - Passages in Modern Sculpture chunk 007 the terms of surrealism
+4, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 007 the terms
+of surrealism 5, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk
+007 the terms of surrealism 6, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 007 the terms of surrealism 7, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 007 the terms of surrealism 8, Rosalind E.
+Krauss - 1981 - Passages in Modern Sculpture chunk 007 the terms of surrealism
+9, 107. Barbara Hepworth (1903- 75) : Pelagos, 1946. Wood with strings, 16". The
+Tate Gallery, London., Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 008 107  Barbara Hepworth  1903  7 10, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 11,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara
+Hepworth  1903  7 12, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 008 107  Barbara Hepworth  1903  7 13, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 14,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara
+Hepworth  1903  7 15, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 008 107  Barbara Hepworth  1903  7 16, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 17,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara
+Hepworth  1903  7 18, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 008 107  Barbara Hepworth  1903  7 19, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 2,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara
+Hepworth  1903  7 20, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 008 107  Barbara Hepworth  1903  7 21, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 3,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara
+Hepworth  1903  7 4, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 008 107  Barbara Hepworth  1903  7 5, Rosalind E. Krauss - 1981 - Passages
+in Modern Sculpture chunk 008 107  Barbara Hepworth  1903  7 6, Rosalind E.
+Krauss - 1981 - Passages in Modern Sculpture chunk 008 107  Barbara Hepworth
+1903  7 7, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 008
+107  Barbara Hepworth  1903  7 8, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 008 107  Barbara Hepworth  1903  7 9, The Double Negative: a new
+syntax for sculpture, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture
+chunk 009 The Double Negative  a new syn 2, Rosalind E. Krauss - 1981 - Passages
+in Modern Sculpture chunk 009 The Double Negative  a new syn 3, Rosalind E.
+Krauss - 1981 - Passages in Modern Sculpture chunk 009 The Double Negative  a
+new syn 4, Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 009
+The Double Negative  a new syn 5, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 009 The Double Negative  a new syn 6, 1, Rosalind E. Krauss -
+1981 - Passages in Modern Sculpture chunk 010 1 2, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 010 1 3, Rosalind E. Krauss - 1981 - Passages
+in Modern Sculpture chunk 010 1 4, Introduction, Chapter 2 Analytic Space: f
+uturism and constructivism, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 012 Chapter 2 Analytic Space  f ut 2, Rosalind E. Krauss - 1981
+- Passages in Modern Sculpture chunk 012 Chapter 2 Analytic Space  f ut 3,
+Rosalind E. Krauss - 1981 - Passages in Modern Sculpture chunk 012 Chapter 2
+Analytic Space  f ut 4, Chapter 5 Tanktotem welded images, Chapter 6 Mechanical
+Ballets : light, motion, theater, Chapter 7 The Double Negative: a new syntax
+for sculpture, bibliography, Rosalind E. Krauss - 1981 - Passages in Modern
+Sculpture chunk 016 bibliography 2, Rosalind E. Krauss - 1981 - Passages in
+Modern Sculpture chunk 016 bibliography 3, Rosalind E. Krauss - 1981 - Passages
+in Modern Sculpture chunk 016 bibliography 4, Rosalind E. Krauss - 1981 -
+Passages in Modern Sculpture chunk 016 bibliography 5, Rosalind E. Krauss - 1981
+- Passages in Modern Sculpture chunk 016 bibliography 6, Passages in Modern
+Sculpture by Rosalind E. Krauss, Terminal Iron Works:
+
+================================================================================
+
+Task 7
+qa_type: progressive_disclosure_check
+ID: c1_context.md
+prompt: Role: Strict QA Agent checking "Progressive Disclosure".
+Task: Evaluate the provided workflow document. It MUST be an actionable guide with heuristics and steps. 
+It MUST NOT be a dump of heavy, dry, academic theory. Background theory should be delegated to graphify searches.
+If it contains excessive theory or lacks actionability, return exactly 'FAIL: <critique explaining what is too theoretical and needs to be hidden>'.
+If it's actionable and good, return exactly 'PASS'.
+context:
+# Workflow: Evaluating Narrative Time and Surface in Modern Sculpture  This
+workflow provides actionable heuristics for analyzing or creating sculptural
+forms, focusing on the shift from classical anatomical logic to modern surface
+opacity and process-driven meaning.  ## Prerequisites & Context  - **Goal:**
+Analyze or design sculptural objects where meaning emerges from the surface and
+process, rather than relying on an underlying, hidden structure. - **Mental
+Model:** Move from "meaning precedes experience" (classical, analytical) to
+"meaning is synchronous with experience" (phenomenological, experiential). -
+**Background Theory:** For deeper academic context regarding Canova, Rodin,
+Husserl, or the paradox of the alter ego, delegate to `graphify_query`.  ##
+Comprehensive Guide & Best Practices  ### Step 1: Assess Contour and Structural
+Logic Instead of relying on a single, resolved vantage point, evaluate how the
+form resists easy consumption. - **Heuristic:** Does the contour immediately
+reveal the internal mechanics (e.g., bone structure, weight distribution)? If
+yes, it is classical. Introduce ambiguity. - **Action:** Obscure the clarity of
+the contour. Fuse bodies or elements so their reciprocal gestures become
+ambiguous (e.g., both rising and falling simultaneously).  > **Example:** In
+traditional analysis (like Canova's work), a wedge shape perfectly explains the
+opposing forces. In modern application (like Rodin's *Je suis belle*), bodies
+are seamed together so the viewer cannot penetrate to a logical skeletal core.
+### Step 2: Emphasize Surface Opacity and Process Marks The surface should not
+act as a transparent window into an anatomical or mechanical truth. It must
+become the primary locus of meaning. - **Heuristic:** Look for evidence of the
+"making" process. Are there foundry accidents, tool marks, or intentional
+abrasions? - **Action:** Retain process artifacts. Leave air-pocket holes,
+unfiled ridges, or knife cuts. Let the surface testify to the passage of time
+and the artist's manipulation.  > **Example:** Leaving a deep gouge in malleable
+clay unfilled, or allowing accidental bubbles from bronze-casting to remain,
+forces the viewer to acknowledge the work as an event shaped over time.  ###
+Step 3: Dismantle the "Correct" Vantage Point Force the viewer to engage with
+the object without a privileged viewpoint that explains everything. -
+**Heuristic:** Can the viewer find one spot where the object's narrative
+"clicks" logically? - **Action:** Design the object so that it lacks a single
+correct angle of view. Create opacity between the gestures and their internal
+explanations.  ## If/Then Troubleshooting Logic  - **IF** the object feels too
+predictable or easily "read" by the viewer, **THEN** disrupt the underlying
+anatomical or structural cues. Thicken or deform limbs to defy natural
+contrapposto. - **IF** the viewer is searching for a sequential narrative or
+historical cause, **THEN** collapse the narrative into the surface. Use drapery
+or texture to swallow the body, reducing the form to a single, momentary
+expression of will. - **IF** the surface feels too polished and divorced from
+its creation, **THEN** introduce artifacts of external forces (e.g.,
+thumbprints, tooling marks, or simulated erosion).  ## Verification Checklists
+### Structural Ambiguity - [ ] Is the single, defining contour broken or
+obscured? - [ ] Are gestures ambivalent (e.g., both buoyant and heavy)? - [ ]
+Does the piece resist being explained purely by its internal armature?  ###
+Surface and Process - [ ] Does the surface clearly document the procedures of
+its formation? - [ ] Are accidents of the medium (e.g., casting flaws, tooling
+drag) preserved? - [ ] Is the surface opaque, functioning as the primary site of
+meaning rather than a transparent boundary?  ### Viewer Experience - [ ] Is the
+viewer forced to experience the piece in real time rather than decoding a
+preexisting message? - [ ] Have "correct" vantage points been eliminated?
+
+================================================================================
+
+Task 8
+qa_type: progressive_disclosure_check
+ID: chapter_2_analytic_space__f_ut_c6.md
+prompt: Role: Strict QA Agent checking "Progressive Disclosure".
+Task: Evaluate the provided workflow document. It MUST be an actionable guide with heuristics and steps. 
+It MUST NOT be a dump of heavy, dry, academic theory. Background theory should be delegated to graphify searches.
+If it contains excessive theory or lacks actionability, return exactly 'FAIL: <critique explaining what is too theoretical and needs to be hidden>'.
+If it's actionable and good, return exactly 'PASS'.
+context:
+# Workflow: Analyzing Analytic Space in Futurism and Constructivism  ##
+Prerequisites & Context - **Objective:** Evaluate how an artwork or sculpture
+dismantles traditional monolithic mass to integrate or structure surrounding
+space, specifically applying the paradigms of **Futurism** (dynamic
+interpenetration) and **Constructivism** (structural volume). - **Core
+Principle:** Treat space as an active material rather than a passive void.  -
+**Knowledge Delegation:** For historical context or deep theoretical grounding
+on specific manifestos (e.g., Marinetti's *Futurist Manifestos*, Boccioni's
+*Technical Manifesto*), do not dump theory here. Delegate those inquiries using
+`graphify_query`.  ## Comprehensive Guide & Best Practices  **Step 1: Determine
+the Primary Spatial Strategy** Evaluate whether the object prioritizes motion
+and temporal flux (Futurism) or static, structural articulation of space
+(Constructivism).  **Step 2: Heuristics for Futurist Analysis (Dynamic
+Interpenetration)** - Look for the breakdown of the object's closed boundary.  -
+Identify "lines of force" that suggest movement and connect the object to its
+environment. > Example: "When analyzing a Futurist piece, track how the contour
+lines shatter or blur, forcing the viewer to perceive the object and the
+surrounding atmosphere as a single, continuous field of energy."  **Step 3:
+Heuristics for Constructivist Analysis (Virtual Volume)** - Focus on the use of
+planar elements and industrial materials (e.g., glass, metal, wire) rather than
+carved or modeled mass. - Analyze how intersecting planes create "virtual
+volumes" without filling them with solid matter. > Example: "Examine a
+Constructivist structure by tracing its internal voids; the negative space
+should read as an actively defined volume held together by the tension of the
+intersecting planes."  ## If/Then Troubleshooting Logic  - **If** the artwork
+presents a closed, uninterrupted surface, **Then** it defies the "Analytic
+Space" framework. Pivot your analysis to traditional models of mass and
+monumental sculpture. - **If** a Futurist piece appears to depict motion but
+retains a solid, separable boundary, **Then** evaluate it as a representation
+*of* speed rather than a true spatial interpenetration. - **If** a
+Constructivist work uses industrial materials but fills its core with solid
+mass, **Then** question its adherence to the principle of "volume without mass"
+and assess whether the materials are merely decorative. - **If** you lack
+sufficient theoretical context to explain an artist's intent, **Then** use
+`graphify_query` to retrieve insights from the relevant primary manifestos.  ##
+Verification Checklists  - [ ] Did you identify whether the object utilizes
+Futurist lines of force or Constructivist stereometry? - [ ] Is the analysis
+focused on the *interaction* between the object and space, rather than just the
+object's surface? - [ ] Are examples used to ground abstract concepts in the
+specific physical traits of the artwork? - [ ] Have you successfully delegated
+heavy historical and theoretical background to `graphify_query`? - [ ] Does the
+evaluation avoid treating space as a passive void?
+
+================================================================================
+
+Task 9
+qa_type: progressive_disclosure_check
+ID: forms_of_readymade__duchamp_an_c4.md
+prompt: Role: Strict QA Agent checking "Progressive Disclosure".
+Task: Evaluate the provided workflow document. It MUST be an actionable guide with heuristics and steps. 
+It MUST NOT be a dump of heavy, dry, academic theory. Background theory should be delegated to graphify searches.
+If it contains excessive theory or lacks actionability, return exactly 'FAIL: <critique explaining what is too theoretical and needs to be hidden>'.
+If it's actionable and good, return exactly 'PASS'.
+context:
+# Workflow: Forms of Readymade (Duchamp and Brancusi)  ## Prerequisites &
+Context **WHY & WHEN to use this workflow:** Trigger this workflow when
+analyzing modern sculptures or conceptual pieces that utilize found objects,
+mechanistic logic, or extreme depersonalization (e.g., Duchamp's readymades,
+Brancusi's hyper-polished geometries). This framework provides heuristics for
+decoding art that deliberately short-circuits traditional "autographic" meaning,
+substituting emotional expression with strategic, impersonal inquiry.   > **Deep
+Theory Lookup**: For exhaustive historical context on Roussel’s *Impressions of
+Africa*, the phonetic mechanics of Duchamp's *Rrose Sélavy*, or the "truth-to-
+materials" debate surrounding Brancusi, invoke the `graphify_query` MCP tool
+with the target node `Forms of Readymade: Duchamp and Brancusi`.  ---  ##
+Comprehensive Guide & Best Practices  ### 1. The Strategy of Depersonalization
+When evaluating readymades or hyper-polished forms, recognize their intentional
+severance from the artist's psychological "signature."  - **Identify the
+Mechanized Process**: Look for rules, homophonic puns, or arbitrary systems that
+generate the work without the artist's emotional intervention.  - **Subvert
+Formal Analysis**: Do not attempt to decode formal relationships (part-to-part
+composition) in works like the *Fountain* or Brancusi's *Bird in Space*. They
+are designed to be formally irreducible.  > *Example (Mechanized Authorship)*:
+"But by automating the production of art, the machines arrive at a result in
+which the structure of the image is absolutely disconnected from the
+psychological and emotional structure of the person who initiates the art..."
+### 2. Contextual Transposition as the "Work" Recognize that in these forms, the
+act of physical creation is replaced by the act of selection, inversion, and
+placement. - **Analyze the Inversion**: Note how a 90-degree rotation (as in
+*Fountain*) transforms an ordinary industrial object into a theoretical
+question. - **Placement Dictates Meaning**: For unitary objects (like Brancusi's
+*Beginning of the World*), evaluate how placement on a specific pedestal or
+reflective disk alters its geometry through environmental reflection rather than
+internal sculpting.  > *Example (Placement & Geometry)*: "Polished to mirrorlike
+smoothness, the bronze 'egg' is placed in the center of a circular metal disk...
+Where the object touches base with the disk, the reflection it receives is the
+shadow of its own nether side... placement is all."  ### 3. The Fusion of the
+Mechanical and the Erotic Detect the recurring synthesis of industrial, machine-
+like forms with veiled or overt eroticism, a common throughline for both Duchamp
+and Brancusi. - **Trace the Anthropomorphic**: Observe how sleek, manufactured
+items are forced to read as human or sexual forms (e.g., *Fountain* as a uterine
+form, Brancusi's *Torso of a Young Man* reading as a sublimated phallus). -
+**Evaluate the Subtext**: Use the erotic layer not as a definitive metaphor, but
+as a mechanism that creates tension with the object's cold, impersonal origin.
+> *Visual Evidence (Sublimated Eroticism & the Machine)*:   > ![Brancusi: Torso
+of a Young Man](../../images/97d1137c2bd55f750ca2b29dea5ca037e0c2ae4e5718c987f07
+0de56742b93ff.jpg)   > *Brancusi's Torso of a Young Man exhibits joints with the
+"naturalness of pipe fittings" and the sleek streamlining of an industrial
+part.*  ---  ## If/Then Troubleshooting Logic  | Condition / Observation |
+Action / Heuristic | | :--- | :--- | | **IF** you attempt a standard formal
+analysis (e.g., mass vs. void) and find no internal relationships (the object is
+a pure ovoid or unmodified bottle rack)... | **THEN** pivot from *structural*
+analysis to *strategic* analysis. Ask: What act of transposition or selection
+occurred? Defer to `graphify_query` for the object's exhibition history. | |
+**IF** the narrative seems cyclical, turning the viewer back to the question of
+"Why is this art?" without resolution... | **THEN** identify this as the
+"circular shape of a quandary" characteristic of the readymade. The object is a
+strategy to question the aesthetic context, not an end-product. | | **IF** the
+work relies on a physically transparent ground (e.g., Duchamp's *Glider*)... |
+**THEN** recognize the rejection of the illusionistic matrix. The transparent
+ground exposes the object to the real space of the viewer, destroying the
+"suspension of disbelief." | | **IF** you encounter Brancusi using industrial
+materials (polished bronze) in defiance of natural wood or stone properties... |
+**THEN** reject the "truth-to-materials" hypothesis. Frame the finish as an
+active pursuit of machine-made sleekness and an "effacement of self." |  ---  ##
+Verification Checklists  - [ ] **Context Integrity**: Has the distinction
+between the object's physical reality and its theoretical transposition been
+clearly defined without over-relying on traditional formal analysis? - [ ]
+**Methodological Shift**: Is the evaluation explicitly avoiding "part-to-part"
+composition breakdowns for irreducible geometries? - [ ] **Conceptual Tension**:
+Does the assessment capture the tension between the work's
+disembodied/mechanical nature and its erotic subtext? - [ ] **Image
+References**: Are all necessary visual examples properly pathed to
+`../../images/<hash>.jpg` to prevent broken links? - [ ] **Deep Dive
+Delegation**: Are exhaustive historical and biographical inquiries actively
+deferred to the `graphify_query` MCP tool?  > *Visual Evidence (Unitary Geometry
+vs. Narrative Structure)*:   > ![Brancusi: Princess X](../../images/10b5d6570f00
+fdb87dd6aea6fc3b9601108c73b4ae4a3c4c46bbe8494b5c8e4b.jpg)   > *Like Duchamp,
+Brancusi rejected technologically based structural analysis, gravitating toward
+the unitary and unanalyzable.*
+
+================================================================================
+
+Task 10
+qa_type: progressive_disclosure_check
+ID: introduction_c0.md
+prompt: Role: Strict QA Agent checking "Progressive Disclosure".
+Task: Evaluate the provided workflow document. It MUST be an actionable guide with heuristics and steps. 
+It MUST NOT be a dump of heavy, dry, academic theory. Background theory should be delegated to graphify searches.
+If it contains excessive theory or lacks actionability, return exactly 'FAIL: <critique explaining what is too theoretical and needs to be hidden>'.
+If it's actionable and good, return exactly 'PASS'.
+context:
+# Workflow: Introduction to Modern Sculpture Analysis  ## Prerequisites &
+Context  Before applying this workflow, establish the foundational aesthetic
+context of the sculpture. Deep background theory on Gotthold Lessing's *Laocoon*
+and spatial vs. temporal arts should be accessed dynamically.  - **Check
+Background Theory:** Run a `graphify_query` for "Gotthold Lessing Laocoon
+spatial vs temporal art" or "twentieth-century sculpture nature and experience"
+if you need deeper context. - Ensure you have the target artwork details
+(artist, medium, year, dimensions) ready.  ## Comprehensive Guide & Best
+Practices  When analyzing the nature and unique experience of a twentieth-
+century sculpture, follow these steps:  1. **Define the Medium's Boundaries:**
+Assess how the sculpture exists in space. Does it assert its physical mass, or
+does it incorporate void and light as primary materials?    > "Example: A
+classic bronze sculpture asserts mass, whereas a kinetic mobile or wire
+construction defines space without occupying it solidly."  2. **Evaluate the
+Temporal Experience:**    Determine whether the sculpture demands movement from
+the viewer. How does the piece change as one walks around it?    > "Example: A
+minimalist cube requires the viewer to perceive its hidden sides through memory
+and movement, introducing a temporal dimension to a spatial object."  3.
+**Identify the Core Aesthetic Problem:**    Ask what boundary the artist is
+pushing. Are they challenging the traditional pedestal? Are they experimenting
+with non-art materials (e.g., felt, industrial steel)?  4. **Map the
+Phenomenological Impact:**    Document how the piece alters the environment it
+is placed in and how it manipulates the viewer's physical sense of scale and
+presence.  ## If/Then Troubleshooting Logic  - **If** the artwork appears
+entirely static and traditional, **then** focus your analysis on its surface
+texture and the tension between its implied narrative and frozen state (a
+classic Lessing problem). - **If** the artwork uses non-traditional, ephemeral
+materials (like ice or light), **then** analyze it as a challenge to the
+permanence traditionally associated with sculpture. - **If** the viewer's
+physical interaction is required (e.g., walking through it), **then** frame the
+analysis around environmental or installation art principles.  ## Verification
+Checklists  - [ ] Has the distinction between the sculpture's physical form and
+the viewer's temporal experience been clearly articulated? - [ ] Are references
+to heavy academic theory deferred to `graphify_query` rather than dumped into
+the analysis? - [ ] Did you use specific blockquote examples to anchor abstract
+concepts in physical reality? - [ ] Is the analysis actionable for someone
+trying to curate, critique, or understand the piece practically?
+
+================================================================================
+
+Task 11
+qa_type: progressive_disclosure_check
+ID: passages_in_modern_sculpture_r_c7.md
+prompt: Role: Strict QA Agent checking "Progressive Disclosure".
+Task: Evaluate the provided workflow document. It MUST be an actionable guide with heuristics and steps. 
+It MUST NOT be a dump of heavy, dry, academic theory. Background theory should be delegated to graphify searches.
+If it contains excessive theory or lacks actionability, return exactly 'FAIL: <critique explaining what is too theoretical and needs to be hidden>'.
+If it's actionable and good, return exactly 'PASS'.
+context:
+# Workflow: Knowledge Map & Structural Indexing for "Passages in Modern
+Sculpture" (Rosalind E. Krauss)  ## 1. Prerequisites & Context  **Why & When:**
+This workflow is triggered when an agent or user needs to navigate the
+theoretical landscape, structural methodology, or specific historical case
+studies (e.g., Rodin, Duchamp, Constructivism, Minimalism) in Rosalind E.
+Krauss's *Passages in Modern Sculpture*. This specific cluster acts as the
+structural spine—comprising the table of contents, acknowledgments,
+bibliography, and the first half of the index (A-M).  **Contextual Grounding:**
+Krauss's text is a foundational critical history of 20th-century sculpture. It
+systematically dismantles the traditional view (dating back to Lessing's
+*Laocoon*) that sculpture is purely an art of static space. Instead, Krauss
+emphasizes the shift from spatial organization to temporal experience,
+phenomenology, and structural linguistics.   > **Progressive Disclosure
+Directive:** Do not attempt to reconstruct the entire theoretical argument from
+the index alone. Use the index and bibliography provided here to pinpoint exact
+concepts and structural nodes, then defer to the `graphify_query` MCP tool for
+bulk theory extraction on specific artists or aesthetic philosophies.  ---  ##
+2. Comprehensive Guide & Best Practices  ### Step 2.1: Mapping the Theoretical
+Framework (Table of Contents) Use the book's core chapters as a macro-heuristic
+for understanding the evolution of modern sculpture. When evaluating a
+sculptural work, align it with the appropriate historical/theoretical passage: -
+**Narrative Time:** Use for questions regarding Auguste Rodin and the *Gates of
+Hell*. - **Analytic Space:** Use when analyzing Futurism (Boccioni) and
+Constructivism (Gabo, Tatlin). - **Forms of Readymade:** Apply to Marcel Duchamp
+and Constantin Brancusi. - **A Game Plan:** Use for Surrealist objects and
+chance procedures (Arp, Giacometti). - **Tanktotem:** Apply to welded images and
+abstract expressionist sculpture (David Smith). - **Mechanical Ballets:** Use
+for kinetic art, light, motion, and theater (Calder, Schöffer, Tinguely). -
+**The Double Negative:** Apply to Minimalist and Earthwork syntax (Robert
+Morris, Robert Smithson, Michael Heizer, Richard Serra).  ### Step 2.2: Cross-
+Referencing Artists and Concepts (Index Navigation) When investigating a
+specific artist or concept, use the index to locate their primary concept
+clusters and map out the conceptual web.  > [!TIP] > **Show, Don't Tell:** If
+tasked with analyzing "Constructivism," do not invent theory. Note its index
+clusters (e.g., 4, 55-56, 57-58, 67, 77-78, 103, 110, 124, 132, 134, 141-42,
+143, 146, 156, 157, 158, 159, 161, 173, 178, 216, 240, 245, 253) and cross-
+reference with key figures like Naum Gabo and Vladimir Tatlin. Then construct a
+highly targeted query for the MCP tool.  **Key clusters extracted from the A-M
+index:** - **Brancusi, Constantin:** Focus on aesthetic transformation, bases,
+composition, and specific works (*Bird in Space*, *Beginning of the World*). -
+**Duchamp, Marcel:** Link to readymades, chance, and linguistic paradigms. Note
+his subversion of the "creative act." - **Constructivism:** Note the tension
+between analytical space and kineticism (discontinuities, syntactic structures).
+- **Minimal Art:** Connect to Gestalt forms, theatricality, and the activation
+of the audience's physical space (Morris, Judd, Andre, Flavin).  ### Step 2.3:
+Leveraging the Bibliography for Deep Dives When the user requires external
+validation or deeper exploration of an artist's specific period, consult the
+bibliography to recommend canonical secondary literature. - *Example:* For Gabo
+and Pevsner, reference Ruth Olson and Abraham Chanin's *Naum Gabo-Antoine
+Pevsner* (MoMA, 1948). - *Example:* For David Smith, reference Krauss's own
+*Terminal Iron Works* (1971). - *Actionable Heuristic:* Always verify the
+availability of these secondary sources via the `graphify_query` MCP tool if
+requested by the user.  ---  ## 3. If/Then Troubleshooting Logic  | Condition
+(If...) | Action (Then...) | Rationale | | :--- | :--- | :--- | | **If** the
+user asks for a deep theoretical explanation of Krauss's view on Minimal Art
+(e.g., Robert Morris, Donald Judd)... | **Then** extract the page references
+from the index (e.g., Minimal art: 181, 198-99, 236, 245...) and invoke the
+`graphify_query` MCP tool with these specific locators. | The index provides the
+map, but the raw theory must be dynamically fetched to avoid hallucination and
+over-compression. | | **If** asked about the influence of phenomenology or
+structural linguistics on sculpture... | **Then** immediately reference the
+Introduction and the index entries for Merleau-Ponty, Bergson, and structural
+linguistics, then defer to the MCP tool for the philosophical arguments. |
+Krauss's unique contribution is folding these linguistic and temporal models
+into spatial analysis. | | **If** an image reference like `images/img.png` is
+needed to illustrate a work (e.g., Boccioni's *Development of a Bottle in
+Space*)... | **Then** rewrite the path strictly as `../../images/img.png`. |
+Ensures compatibility and prevents broken visual links within the agent's
+workflow architecture. | | **If** you encounter an artist/concept not listed in
+this index chunk (e.g., Picasso, Rodin beyond A-M)... | **Then** rely on the
+macro-structure (Table of Contents) to infer the context and query the MCP tool
+for the missing theoretical blocks. | This specific knowledge cluster only
+contains detailed index entries up to "M" (Motion pictures). |  ---  ## 4.
+Verification Checklists  - [ ] **Structural Alignment:** Have you identified
+which "passage" (chapter) the sculpture belongs to based on the Table of
+Contents? - [ ] **Index Verification:** Did you check the A-M index for exact
+terminology, pages, or artist names before generating an analysis? - [ ]
+**Progressive Disclosure:** Is the theoretical output concise, using blockquotes
+for concrete examples while explicitly leaving bulk theory generation to the
+`graphify_query` MCP tool? - [ ] **Image Path Compliance:** Are all referenced
+images formatted with the `../../images/` prefix? - [ ] **Bibliographic
+Grounding:** Have you suggested secondary literature from the bibliography when
+deeper art-historical context is required by the user?
+
+================================================================================
+
+Task 12
+qa_type: progressive_disclosure_check
+ID: passages_in_modern_sculpture_r_ctheory.md
+prompt: Role: Strict QA Agent checking "Progressive Disclosure".
+Task: Evaluate the provided workflow document. It MUST be an actionable guide with heuristics and steps. 
+It MUST NOT be a dump of heavy, dry, academic theory. Background theory should be delegated to graphify searches.
+If it contains excessive theory or lacks actionability, return exactly 'FAIL: <critique explaining what is too theoretical and needs to be hidden>'.
+If it's actionable and good, return exactly 'PASS'.
+context:
+# Passages in Modern Sculpture: Narrative Time and Analytic Space  ##
+Prerequisites & Context  **Why and When to use this workflow:** This workflow
+serves as a heuristic guide for analyzing and evaluating sculptural works,
+specifically focusing on the transition from classical/neoclassical narrative
+structures to modern, self-referential, and temporally complex sculptural forms
+as discussed in Rosalind E. Krauss's *Passages in Modern Sculpture*. Use this
+guide when assessing the temporal consequences of spatial arrangements, the use
+of narrative vs. opacity, and the transition from relief to full-round or
+fragmented sculpture.   For deep theoretical dives into Lessing's *Laocoon*,
+Carola Giedion-Welcker's *Modern Plastic Art*, or Eisenstein's ideological use
+of sculpture in *October*, defer to the `graphify_query` MCP tool.  ##
+Comprehensive Guide & Best Practices  ### 1. Assessing the Relationship Between
+Time and Space Do not separate space and time when analyzing a sculptural
+object. Remember that every spatial organization implicitly folds in a statement
+about temporal experience.  * **Heuristic:** Look for how the form balances
+stillness and motion. Is the material dense and immobile, or does light and
+structural arrangement disintegrate mass to imply motion? * **Example:**   >
+"Brancusi's arrangement of form implies a different temporal condition from that
+of Gabo: its meaning arises from an entirely different set of appeals to the
+viewer's consciousness of his own time as he experiences the work."  ### 2.
+Identifying Narrative Relief vs. Self-Referential Opacity Evaluate whether the
+sculpture depends on the conventions of narrative relief (where a "pregnant
+moment" knifes through historical incident) or if it dams up the flow of
+sequential time.  * **Heuristic:** Check for single, ideal vantage points. If a
+sculpture (like Rude's *La Marseillaise*) organizes itself around intersecting
+axes meant to be read from the front, it is conveying a logical narrative. If it
+repeats identical markers without rhythmic poise (like Rodin's *The Three
+Shades*), it destroys temporal sequence. * **Image Reference:**    ![Lessing
+Laocoon context image](../../images/3a216196e765d2d0d54402a0ba8318df5ff1b63800b0
+c977197817c25e783bf1.jpg)   ![Robert Smithson Spiral Jetty](../../images/6a8f7fe
+fac0d382404a570358f781ba7e9e67f4ab1e14e1cdf6954bc8eab7c8b.jpg)   ![Rude's La Mar
+seillaise](../../images/fb63d4a5ef18e4b16b89b7cd83446a0395601a91eb994454cfb28e67
+15ac166b.jpg)   ![Rodin's The Three Shades](../../images/7d2ac592362e6b07df02c24
+aa1ce0dc0b52543f37520bb99ea7920c69e52f87c.jpg)  ### 3. Evaluating the "Correct
+Angle of View" Determine whether the sculptural arrangement offers a transparent
+sign of its meaning through multiple views or an opaque, ambivalent contour.  *
+**Heuristic:** Can you visually trace the internal skeletal structure driving
+the external gesture? Neoclassical works (Canova) use "angle/reverse-angle"
+symmetry to provide total conceptual grasp. Modern works (Rodin) fuse bodies and
+obscure contours, removing any single "correct" angle of view. * **Example:**
+> "The opacity that Rodin imposes on the relief ground of the Gates... is the
+same opacity that he here builds into the bodies of his figures: an opacity
+between the gestures through which they surface into the world and the internal
+anatomical system by which those gestures would be 'explained.'" * **Image
+Reference:**   ![Pollaiuolo's Hercules and Antaeus](../../images/ad36478754aa31b
+40dc14eb1a9fae034fbdfb122d128bcc8e3eb364516295033.jpg)   ![Canova's Hercules and
+Lichas](../../images/9f7ef17cbc94e034ade31b65b2f9ff0eff194a8bed82121e574ff91809e
+eea14.jpg)  ### 4. Analyzing the Role of Cast Shadows and Relief Ground Examine
+how shadows function in the composition. Do they provide information about the
+unseeable side, or do they sever the figure from the illusionary space?  *
+**Heuristic:** In traditional relief (or Medardo Rosso's work), cast shadow
+testifies to the existence of buried, contiguous forms. In Rodin's work, shadows
+emphasize truncation, fragmentation, and the literal solidity of the relief
+ground.  ## If/Then Troubleshooting Logic  * **IF** the sculpture utilizes a
+repetitive element (e.g., repeating the exact same body cast multiple times),
+**THEN** it is likely rejecting neoclassical composition and narrative
+progression in favor of self-referential process marking. * **IF** a sculpture's
+gesture seems anatomically contradictory (e.g., both falling and rising
+simultaneously), **THEN** do not attempt to find a resolving "front view."
+Understand that the sculptor is intentionally creating opacity between outward
+appearance and inner structure. * **IF** the relief ground appears impenetrable
+and shadows segment the figures, **THEN** the narrative space has been arrested;
+do not read it as a virtual space continuing backward into depth.  ##
+Verification Checklists  - [x] Have you evaluated the object's deployment of
+space in relation to the viewer's experience of time? - [x] Have you determined
+whether the work relies on a "pregnant moment" (narrative) or
+serialization/repetition (analytic progression)? - [x] Are all included images
+correctly referenced with `../../images/` paths? - [x] Have you identified the
+function of cast shadows within the relief or full-round context? - [x] Did you
+check if the sculpture forces a single, frontal vantage point or lacks a
+resolving angle entirely? - [x] For deep dives into specific historical contexts
+(e.g., Eisenstein's use of automata, Lessing's *Laocoon*), did you trigger the
+`graphify_query` MCP tool?
+
+================================================================================
+
+Task 13
+qa_type: progressive_disclosure_check
+ID: rosalind_e__krauss___1981___pa_c1.md
+prompt: Role: Strict QA Agent checking "Progressive Disclosure".
+Task: Evaluate the provided workflow document. It MUST be an actionable guide with heuristics and steps. 
+It MUST NOT be a dump of heavy, dry, academic theory. Background theory should be delegated to graphify searches.
+If it contains excessive theory or lacks actionability, return exactly 'FAIL: <critique explaining what is too theoretical and needs to be hidden>'.
+If it's actionable and good, return exactly 'PASS'.
+context:
+# Workflow: Analyzing Sculptural Narrative & Temporality (Krauss, Community 1)
+## 1. Prerequisites & Context **WHEN TO USE:** Execute this workflow when
+evaluating a modern sculpture's approach to temporality, narrative sequence, or
+its phenomenological impact on the viewer. It is particularly useful for
+analyzing the transition from classical, structurally legible statuary to
+modern, surface-oriented objects.  **WHY IT MATTERS:** Modern sculpture shifts
+away from traditional "classical" legibility—where internal anatomical logic
+dictates outward form—toward a modern "opaque" or "synchronous" temporality.
+Here, meaning does not precede experience but coalesces *within* the act of
+perception on the surface itself.  > **Deep Dive Notice:** > For extensive
+theoretical background, including Edmund Husserl’s phenomenology of the alter
+ego or the full text of Gotthold Lessing's *Laocoon*, defer to the
+`graphify_query` MCP tool querying `Passages in Modern Sculpture Rosalind E
+Krauss`.  ---  ## 2. Comprehensive Guide & Best Practices  ### Heuristic 1:
+Assess Contour Clarity vs. Surface Fusion Evaluate whether the sculptural form
+allows the viewer to "read back" from the surface configuration to an underlying
+skeletal or structural core. * **Classical Approach:** Bodies are deployed with
+explicit frontality and clear contours. The mechanics of stress and weight are
+logically resolved (e.g., Canova's *Hercules and Lichas* forms a single
+wedgelike shape defining structural stress). * **Modern Approach (Rodin):**
+Contours are fused and bodies are seamed together, creating ambiguity.    >
+**Show, Don't Tell:** In Rodin's *Je suis belle*, the bodies of the male and
+female figures are fused into a single contour. The gesture reads simultaneously
+as collapse and expansion, creating an opacity that your anatomical knowledge
+cannot rationally penetrate.  ### Heuristic 2: Identify the Temporal Condition
+of the Surface Investigate if the surface acts as an "event" itself, documenting
+the temporal *process* of making rather than purely describing an underlying
+anatomy. * **Guideline:** Look for retained casting flaws, untempered modeling
+marks, or deep gouges that force the viewer to acknowledge the work as the
+result of an act over time.   > **Show, Don't Tell:** Rodin’s *Man's Torso*
+(1877) retains air-pocket holes and casting ridges, while his *Flying Figure*
+shows an unpatched knife cut on the calf muscle. The surface meaning occurs
+where the externalization of gesture meets the imprint of the artist's
+manipulation. * **Surface Coalescence (Rosso & Art Nouveau):** Apply this to
+surfaces that shroud the underlying object to capture a fleeting moment or
+external force (e.g., wind or water erosion in Guimard's furniture, or the
+momentary fusion of timidity and curiosity in Medardo Rosso's *Ecce Puer!*).
+### Heuristic 3: Contrast "Synthetic Vision" with "Immanent Logic" Determine if
+the object attempts to transcend physical limitations via an ideal form, or if
+it fully embraces literal space by combining physical textures and descriptive
+language. * **Futurist Synthetic Vision:** Attempts to give the stationary
+viewer a conceptual omnipotence over the object, collapsing space and time.   >
+**Show, Don't Tell:** Boccioni's *Development of a Bottle in Space* presents
+nested, revolving half-cylinders around an ideal, static concavity. The
+stationary viewer is conceptually freed to grasp the object from all sides
+simultaneously. * **Cubist Immanent Logic:** Disperses the object's contour into
+tactile cues and decorative pieces on a literal surface.   > **Show, Don't
+Tell:** In Picasso's *Violin* (1914) or *Guitar*, traditional illusionistic
+devices (like crosshatching or converging perspective lines) are rendered
+physically. Because they exist in 3D space, these elements become redundant for
+describing volume and turn into "ossified" decorative fragments of a descriptive
+language.  ---  ## 3. If/Then Troubleshooting Logic  * **IF** a figure's gesture
+appears anatomically awkward, unbalanced, or distorted (e.g., Rodin's *Adam*),
+**THEN** do not dismiss it as a failure of anatomical representation.
+**Action:** Analyze the opacity as an intentional assertion. The figure's
+torment is an effect functioning without a logical anatomical cause, demanding
+that meaning be experienced synchronously with the viewing.  * **IF** you
+encounter identical, repetitive sculptural units within a single work (e.g., the
+threefold appearance of *The Shades* on the *Gates of Hell*),    **THEN** shift
+your analysis away from linear narrative progression. **Action:** Evaluate how
+the repetition halts the narrative, forcing a self-conscious focus on the
+process of creation and replication itself.  * **IF** traditional 2D
+illusionistic elements (perspective lines, shading marks) are found on a 3D
+constructed object,    **THEN** recognize them as displaced descriptive cues.
+**Action:** Interpret these as frozen linguistic fragments that Picasso forces
+to exist in literal, rather than virtual, space.  ---  ## 4. Verification
+Checklists  - [ ] **Phenomenological Check:** Have you analyzed the sculpture's
+surface as a locus of meaning (the juncture between internal force and external
+artist manipulation)? - [ ] **Structural Legibility:** Is the contour clarity
+explicitly contrasted with classical norms? - [ ] **Temporal Analysis:** Have
+you mapped Boccioni’s concepts of "absolute motion" (structural essence) and
+"relative motion" (contingent existence in real space)? - [ ] **Image Pathing
+Compliance:** Are any referenced images correctly routed using relative paths?
+(e.g., `![](../../images/c71b4f286c53b5b88827b8700bae210c24390485bd4c9b8b1e3a45e
+3d6b5494b.jpg)`) - [ ] **Theoretical Offloading:** Have you avoided pasting
+large blocks of theory, deferring deep dives on Lessing’s *Laocoon* or Husserl’s
+"alter ego" to the `graphify_query` MCP tool?
+
+================================================================================
+
+Task 14
+qa_type: progressive_disclosure_check
+ID: rosalind_e__krauss___1981___pa_c2.md
+prompt: Role: Strict QA Agent checking "Progressive Disclosure".
+Task: Evaluate the provided workflow document. It MUST be an actionable guide with heuristics and steps. 
+It MUST NOT be a dump of heavy, dry, academic theory. Background theory should be delegated to graphify searches.
+If it contains excessive theory or lacks actionability, return exactly 'FAIL: <critique explaining what is too theoretical and needs to be hidden>'.
+If it's actionable and good, return exactly 'PASS'.
+context:
+# Modern Sculpture: Theatricality, Discontinuity, and Anti-Illusionism  ##
+Prerequisites & Context **Why & When:** Use this workflow when designing,
+analyzing, or evaluating modern sculptural installations, performative
+interventions, or object-based art that seeks to challenge classical illusionism
+and the passive viewer paradigm. It provides guidelines for implementing
+theatricality (e.g., Happenings), "task performance" from the New Dance, and the
+radical spatial discontinuity modeled by David Smith.  **Thematic Core:** This
+workflow addresses the historical shift where sculpture began utilizing
+"theater" and situational dependency to disrupt the viewer’s assumed "axiomatic
+space." Instead of treating the artwork as a transparent, logically derivable
+volume (as in classical constructivism), this methodology emphasizes localized
+phenomenology, real-time experience, and structural taboos against intellectual
+appropriation.  > **Deep Dives:** For extensive theoretical background regarding
+Maurice Merleau-Ponty's *Phenomenology of Perception*, Sigmund Freud's *Totem
+and Taboo* (in the context of David Smith), or the evolution of Judson Theatre
+choreographies, use the `graphify_query` MCP tool (e.g., `graphify_query: "David
+Smith totem and taboo Krauss"` or `graphify_query: "Robert Morris column
+phenomenology"`).  ---  ## Comprehensive Guide & Best Practices  ### 1.
+Implement Theatricality and the "Assault" on the Audience To break traditional
+viewer-object relations, inject the alogic of the "Happening." The goal is not a
+coherent narrative arc, but an experiential matrix that frustrates totalizing
+passive viewing. *   **Alogical Pacing:** Remove structural climax or
+consummation. Leave the audience suspended without definitive structural
+closures.  *   **Depersonalization & Task-Centrism:** Treat performers as
+inanimate props or depersonalized instruments. Emphasize the sensuous repetition
+of materials rather than conventional symbolic uses. *   **Direct Engagement:**
+Force the audience to grapple with their environment (e.g., restricted
+viewpoints, overlapping audio, spatial confinement).  > **Show, Don't Tell:** >
+"The Happening operates by creating an asymmetrical network of surprises,
+without climax or consummation... Lacking a plot and continuous rational
+discourse, they have no past. And this withholding of a sense of structure is,
+if sublimated, as much an attack on the audience as the physical menace of the
+power mower."  *Visual Reference (Allan Kaprow / Robert Rauschenberg):* ![](../.
+./images/c8a865e83372a113b7a4d7b8f57cda32afdd6f588b58307c310037f95035786b.jpg) !
+[](../../images/a550168634865998ef27ea07bf21ff9351f9e96b5b3fce59ea0675933926d1f1
+.jpg)  ### 2. Operationalize Real-Time Over Synthetic Illusion Eliminate the
+aesthetic hierarchies of classical dance or composed movement by embracing
+"ordinary language" and task performance.  *   **Lived Perspective:** Anchor
+meaning in the viewer's immediate physical position. Reject the "syncretic
+vision" which assumes an object's essence can be transferred intact across
+different orientations. *   **Task Over Rhetoric:** Movements should stem from
+carrying out physical rules or handling literal weight (e.g., moving mattresses,
+dropping bread in water) rather than emoting.  > **Show, Don't Tell:** >
+Upright, Robert Morris’s column reads as weightless, fluid, and linear. Laid
+prone, it instantly transforms into an object fundamentally about weight, mass,
+and constriction. Meaning is specific to its orientation and lived time,
+rejecting the notion that an abstract shape retains a detached, universal
+identity.  *Visual Reference (Robert Morris - Site):* ![](../../images/ee33c4925
+9a01c530fcd8e0c892c1b9419fcb08fd4d761fd48ac921b15fc58b9.jpg)  ### 3. Radical
+Discontinuity as "Taboo" (David Smith's Model) Counter the "internal
+transparency" of constructivism (where the front logically predicts the sides
+and core) by generating schismatic breaks between facets. This prevents the
+viewer from easily appropriating or consuming the form. *   **Frontal Emblem:**
+Use extreme two-dimensionality on the primary axis to create a signpost effect—a
+directive addressed aggressively to the viewer. *   **Profile Disjunction:** The
+profile should not be deducible from the front. If the front is an open, serene
+frame, the profile should be clotted with rich, jagged, noisy incidents. *
+**Anti-Core:** Avoid thematic cores or intersecting silhouettes that reveal the
+internal volume. Let details push outward to the peripheries.  > **Show, Don't
+Tell:** > "If the side view of *Blackburn* cannot be calculated from the front,
+this is because the side view contains a whole complex of expression which the
+front face of the work has both negated and disdained... Confronted by the
+profile of *Blackburn* one feels that one is not so much seeing another view of
+the work, as that one is almost seeing another work."  *Visual Reference
+(Smith's Blackburn vs. Lipchitz's Figure):* ![](../../images/d18c4c612688d42d8e9
+5ec2d22308886e6380d75cfa7d393cec2a2866678a1f0.jpg) ![](../../images/2cc8a5f05a75
+cbb4f9b501c90a7b147b49ac42c5391a9adbfd991ab85523a72c.jpg)  ### 4. Centering the
+Viewer’s Moving Body Use the architecture of the installation to actively
+interrogate the viewer's phenomenological presence.  *   **Feedback Loops:**
+Like Bruce Nauman's corridors, where walking toward a camera produces a
+retreating image of one's own back, engineer environments that displace the
+"axiomatic coordinate" stability of the viewer.  *Visual Reference (Bruce Nauman
+Corridor):* ![](../../images/6b18701207cc1a61835c5057687de2bb850d7b5b7ea8c944ce2
+06e41bef0de5a.jpg)  ---  ## If/Then Troubleshooting Logic  *   **IF** a
+sculpture is too easily "possessed" or intellectually resolved from a single
+vantage point, **THEN** inject radical discontinuity. Break the logical
+continuity between X and Y axes by contrasting a flat, sign-like front with a
+chaotic, non-derivative profile. *   **IF** a performative element feels too
+emotionally rhetorical or relies on synthetic time, **THEN** revert to "task
+performance." Force performers to execute literal operations (stacking,
+balancing, waiting) and treat them as inanimate, de-psychologized props. *
+**IF** the work implies an ideal viewer positioned outside the frame (an
+"omniscient grid"), **THEN** employ "theatricality" to implicate the viewer
+directly. Use physical bottlenecks or phenomenological feedback loops to enforce
+a localized, lived perspective. *   **IF** the thematic material risks
+romanticizing its own narrative (like the surrealist "drama of possession" in
+Lipton or Ferber), **THEN** encode it with a strict formal "taboo." Use
+disparate machine parts, abrasive surfaces, or a denial of central organic cores
+to enforce aesthetic distance.  ---  ## Verification Checklists  - [ ]
+**Theatrical Implication:** Does the piece assault, frustrate, or directly
+address the audience rather than cater to their comfort? - [ ] **Operational
+Time:** Are actions and durations defined by literal tasks and material
+interactions rather than theatrical climax? - [ ] **Formal Taboo / Distance:**
+Does the form actively resist total intellectual or sensuous appropriation? - [
+] **View Disjunction:** Is there a deliberate, premeditated schism between
+different axes of the object (front vs. profile)? - [ ] **Lived Perspective:**
+Does the work deny the "syncretic vision" of axiomatic space, instead insisting
+on meaning derived from the viewer's specific situatedness? - [ ] **De-
+psychologization:** Are objects and performers treated with a supra-personal
+objectivity, eschewing expressive psychology for material reality?
+
+================================================================================
+
+Task 15
+qa_type: progressive_disclosure_check
+ID: rosalind_e__krauss___1981___pa_c3.md
+prompt: Role: Strict QA Agent checking "Progressive Disclosure".
+Task: Evaluate the provided workflow document. It MUST be an actionable guide with heuristics and steps. 
+It MUST NOT be a dump of heavy, dry, academic theory. Background theory should be delegated to graphify searches.
+If it contains excessive theory or lacks actionability, return exactly 'FAIL: <critique explaining what is too theoretical and needs to be hidden>'.
+If it's actionable and good, return exactly 'PASS'.
+context:
+# Workflow: The Terms of Surrealism & Constructivist Vitalism  ## Prerequisites
+& Context **Why & When to use this workflow:** This workflow is designed for
+structural analysis, critique, or generation of forms that balance organic
+"vitalism" and rationalized geometry. Use it when evaluating sculptural forms,
+architectural masses, or complex 3D relationships that rely on "truth to
+material" or seek to evoke a sensation of enclosed volume.   > **Deep Theory
+Reference**: For extended theoretical background on Arp's vitalist position,
+Moore's conceptual tactility, or Giacometti's surrealist time vs. constructivist
+space, defer to the `graphify_query` MCP tool.   ## Comprehensive Guide & Best
+Practices  ### 1. Form Generation vs. Replication (The Vitalist Heuristic) Do
+not replicate given objects; instead, add new forms to the repertory of nature.
+Form should act as if impregnated with a vital essence that renders it organic.
+- **Actionable Step**: Treat your medium not as a blank canvas, but as a
+biological entity capable of "subdividing" and "fecundating." - **Reference**:
+Jean Arp's *Growth* (1938). > *Example (Arp)*: The sculptor acts as the original
+Creator, evolving new forms rather than abstracting existing ones.  ![Arp:
+Growth, 1938](../../images/77b63539a560984c3e3fffa71ee3bce2ea83c90d571b2066be5e8
+e4a61e20776.jpg)  ### 2. "Truth to Material" & The Core-Mass Reciprocity (The
+Moore Heuristic) Ensure that the organic development of the material directly
+influences the organic form of the object. - **Actionable Step**: Identify the
+inherent maps within your material (e.g., grain of wood, veining of marble). Let
+these guide your carving or subtraction process toward the center. -
+**Actionable Step**: Establish a contrapuntal relationship between the shape of
+the hollow core and the resulting exterior mass. The exterior mass should cradle
+the void "like a vital organ."  ![Moore: Reclining Figure, 1945-
+46](../../images/bf5ae0a46e7f2e3ea96d7f8c2d9039a70df589492f2d46cd4846963b186cd09
+d.jpg) ![Moore: Internal and External Forms](../../images/c0f3a4dbb07fe962ef2204
+2953e088c4da98455789850064789dcaad89c890cc.jpg)  ### 3. Tactility and
+Rationalized Volume Sculpture must be an "art of palpation." A viewer must be
+able to mentally hold the form, regardless of its scale. - **Actionable Step**:
+Visualize your complex form from all around. Identify its center of gravity and
+weight. Calculate its volume strictly as the space the shape displaces in the
+air.   ### 4. Constructivist Space vs. Surrealist Time Differentiate between the
+temporal and spatial logic of the form. - **Constructivist/Rationalist (e.g.,
+Moore)**: Position the work in the "pregnant moment of rational sequential,
+causal time." Form it as if it emerged at intersecting points of a continuous
+axial grid. - **Surrealist (e.g., Giacometti)**: Abandon rationalized geometry
+for an alternate order of perception (psychological time).  ## If/Then
+Troubleshooting Logic  | Condition / Symptom | Diagnosis | Recommended Action |
+|---------------------|-----------|--------------------| | **If** the form feels
+arbitrarily imposed on the medium... | You have violated "Truth to Material." |
+**Then** re-examine the material's grain or stratification. Erode the mass
+guided by its structural geometry rather than an external template. | | **If**
+the void appears as an empty hole rather than a vital organ... | There is no
+reciprocity between container and contained. | **Then** re-shape the hollow core
+to act as the generative premise of the entire sculptural form. | | **If** the
+work feels disjointed when viewed from different angles... | Lacking a "unitary,
+all-inclusive judgment of depth." | **Then** synthesize the facets so the viewer
+can mentally grasp the solid shape from a single fixed vantage point. | | **If**
+the piece operates in surreal, psychological time rather than geometric space...
+| You are applying Constructivist rules to a Surrealist object. | **Then** defer
+to Surrealist heuristics (e.g., *Suspended Ball* logic). Do not attempt to align
+it with a continuous axial grid. |  ## Verification Checklists  ### Pre-
+Execution (Material & Concept) - [ ] Is the inherent geometry (grain, veins,
+strata) of the material identified? - [ ] Is the intention to evolve a new
+organic form rather than replicate an existing object? - [ ] Have you mapped the
+central void or core before defining the exterior boundary?  ### Mid-Execution
+(Process & Tactility) - [ ] Are the carving tools following the natural
+striations of the material? - [ ] Can the solid shape be mentally enclosed "in
+the hollow of the hand"? - [ ] Does the exterior mass actively cradle the
+interior void?  ### Post-Execution (Review & Analysis) - [ ] Does the work exist
+in a rational, sequential "pregnant moment"? - [ ] Is the volume accurately
+perceived as the space it displaces in the air? - [ ] *For deeper theoretical
+alignment:* Have you validated your structural logic against `graphify_query`
+for constructivist vs. surrealist categorizations?
+
+================================================================================
+
+Task 16
+qa_type: progressive_disclosure_check
+ID: rosalind_e__krauss___1981___pa_c5.md
+prompt: Role: Strict QA Agent checking "Progressive Disclosure".
+Task: Evaluate the provided workflow document. It MUST be an actionable guide with heuristics and steps. 
+It MUST NOT be a dump of heavy, dry, academic theory. Background theory should be delegated to graphify searches.
+If it contains excessive theory or lacks actionability, return exactly 'FAIL: <critique explaining what is too theoretical and needs to be hidden>'.
+If it's actionable and good, return exactly 'PASS'.
+context:
+# Workflow: The Double Negative - A New Syntax (Krauss, 1981)  ## Prerequisites
+& Context To successfully execute this workflow, you need a basic understanding
+of minimalist sculpture, seriality, and the refusal of internal composition.  >
+Deep background theory (e.g., Rosalind Krauss's detailed analysis of the Double
+Negative, Flavin's and Andre's use of seriality, and the historical context of
+late 1960s sculpture) should be delegated to `graphify_query` if deeper
+theoretical grounding is required before proceeding.  ## Comprehensive Guide &
+Best Practices Follow these steps and heuristics when analyzing or constructing
+works modeled after "The Double Negative" and serial minimalist syntax.  **1.
+Identify or Create the Modular Unit** - **Heuristic:** Ensure the unit is
+standardized, pre-fabricated, or identical in nature (e.g., standard fluorescent
+tubes, identical styrofoam planks). - **Action:** Document the exact physical
+parameters of the module.  **2. Establish the Principle of Repetition** -
+**Heuristic:** The arrangement must follow a simple, externalized, logical
+sequence (like arithmetic progression: 1, 2, 3) rather than an organic,
+internal, or relational composition. - **Action:** Map the spatial progression
+or mathematical logic of the layout.  > **Example Application:** > Dan Flavin's
+*The Nominal Three (To William of Ockham)* uses a 1, then 2, then 3 arrangement
+of standard fluorescent lights. The composition is driven entirely by numerical
+sequence, not by balancing shapes or colors. > Carl Andre's *Reef* uses
+identical Styrofoam planks lined up sequentially.  **3. Refuse Internal Syntax**
+- **Heuristic:** Eliminate any hierarchical relationship between parts. No focal
+point, no base, no pedestal. The syntax must be 'negative'—it denies traditional
+sculptural composition. - **Action:** Check the structure for unintended focal
+points or narrative hierarchies and remove them.  ## If/Then Troubleshooting
+Logic - **If** the composition feels unbalanced or "organic" rather than
+"logical", **Then** you have likely introduced traditional relational
+composition. Revert to a strict, pre-determined numerical or spatial grid. -
+**If** the modular units vary in size, shape, or material, **Then** the
+seriality is broken. Replace them with strictly identical, non-hierarchical
+units. - **If** the viewer is drawn to a single "front" or "center" of the work,
+**Then** the work still operates on traditional sculpture logic. Rearrange the
+modules to encourage environmental or temporal reading rather than a static
+focal point.  ## Verification Checklists **Pre-Execution Checklist:** - [ ] Has
+the baseline modular unit been defined and standardized? - [ ] Is the
+sequence/repetition rule clearly formulated (e.g., arithmetic, grid)? - [ ] Has
+background theory been queried via `graphify_query` if context is lacking?
+**Post-Execution Checklist:** - [ ] Does the arrangement successfully avoid
+hierarchical or organic relationships? - [ ] Is the logic of the composition
+completely external to the individual units? - [ ] Are examples (e.g., Flavin,
+Andre) referenced to ensure adherence to the Double Negative syntax?
+
+================================================================================
+
+Task 17
+qa_type: progressive_disclosure_check
+ID: rosalind_e__krauss___1981___pa_c8.md
+prompt: Role: Strict QA Agent checking "Progressive Disclosure".
+Task: Evaluate the provided workflow document. It MUST be an actionable guide with heuristics and steps. 
+It MUST NOT be a dump of heavy, dry, academic theory. Background theory should be delegated to graphify searches.
+If it contains excessive theory or lacks actionability, return exactly 'FAIL: <critique explaining what is too theoretical and needs to be hidden>'.
+If it's actionable and good, return exactly 'PASS'.
+context:
+# Theatricality and the Temporal Experience in Modern Sculpture  ##
+Prerequisites & Context **When to Use This Workflow:**   Trigger this workflow
+when analyzing, designing, or evaluating sculpture, installations, or
+environmental art that engage with kinetics, light, time-based progression, or
+explicit audience interaction. This is essential for works that cross the
+boundary into "theatricality"—whether through physical motion (automata) or
+environmental staging (tableaux).  **Why It Matters:**   Modern sculpture
+shifted from static, instantaneous objects to forms that unfold over time. The
+concept of "theatricality" is not uniform; it spans from technocratic
+celebrations of cybernetics to radical, Artaudian attacks on the viewer's
+assumptions. Understanding where a work falls on this spectrum is critical for
+proper structural and ideological critique.  > **Deep Dive:** For bulk
+theoretical context regarding Michael Fried's "Art and Objecthood," Jack
+Burnham's *Beyond Modern Sculpture* (mimesis and cybernetics), or Rosalind
+Krauss's phenomenological temporal frameworks, use the `graphify_query` MCP
+tool.   ---  ## Comprehensive Guide & Best Practices  ### 1. Identifying the
+Mode of Theatricality Determine if the sculpture acts as an isolated performer
+on a stage or if it weaponizes its environment to implicate the viewer.  *
+**The Surrogate Performer (Conventional Theatricality):**       Works like
+Moholy-Nagy's *Light Prop* or Calder's mobiles function as stand-ins for human
+actors. They occupy their own space and operate on predictable, internal logic,
+leaving the spectator as an external, analytic observer.     > *Example:*
+Moholy-Nagy's *Light Prop* weaves an environment of reflection and shadow,
+acting like a robot or mechanical actor fulfilling a programmed destiny.     > !
+[](../../images/a2a1fc991b92dd08cb59c8521159af7234f4c4a941decb3e25ef9a7deaa279e5
+.jpg)  *   **The Environmental Attack (Radical Theatricality):**       Works
+like Picabia's *Relâche* drop curtain or Oldenburg's colossal objects disrupt
+the viewer's safe distance. They are abrupt, unmotivated, and physically
+incorporate the viewer into the spectacle, thereby disabling objective, detached
+analysis.     > *Example:* Picabia's bank of 370 spotlights blinds the audience,
+turning illumination into a form of Artaudian "Theater of Cruelty."     > ![](..
+/../images/352084d20f2b77d9c4611f44dfba7e368169b60ad57a33067d1004008d816628.jpg)
+### 2. Evaluating the Spectrum of Kinetics and Automata When encountering
+kinetic work, assess its technological ambition and the ideological stance it
+takes regarding the imitation of life.  *   **Subliminal vs. Explicit Action:**
+Contrast the exuberant, aggressive calisthenics of Len Lye's *Loop* with the
+barely perceptible, repressed tremors of Pol Bury's wood structures. *
+**Viewer Complicity:**       In works with subliminal movement, the viewer is
+forced to complete the drama. The stillness of the room demands a kinesthetic
+projection from the audience, turning the spectator into the performer.     >
+*Example:* George Rickey's *Homage to Bernini* and Len Lye's *The Loop* utilize
+distinct structural forces (knife-edge fulcrums vs. magnetic snap) to achieve
+metaphorical life.     > ![](../../images/7ff40138df7bab30225ea8b597add27acb73b3
+79108ca7bfa02f2dbed0ac611c.jpg)     > ![](../../images/252ad9a5c845b56e0899e2ed4
+ceb528c59af762c831ca16591b26f7b40f5a56f.jpg)  ### 3. Tableau, Scale, and the
+Reversal of Identity For static works that simulate environments (e.g., Segal,
+Kienholz, Oldenburg), the theatricality emerges from the viewer's navigation and
+psychological projection.  *   **Gigantism and Softness as Obstructions:**
+Oldenburg's strategies—making mundane objects massive and pliant—force an
+interaction where the object feels like flesh. *   **The "I Resemble Them"
+Heuristic:**       Unlike Surrealism, which projected the author's internal
+desires onto objects ("the object resembles me"), Oldenburg's attack forces the
+viewer to admit that their own identity is shaped by the banal objects around
+them ("I resemble them"). This destroys the comforting notion of an *a priori*
+self.     > *Example:* Oldenburg's *Giant Fag Ends* acts as a lugubrious
+obstruction, attacking the rational structure of the viewer's space through
+massive, fleshy softness.     > ![](../../images/fc242851f769339f130fa4ac74ac609
+a958c95a7dac6f3a81a261a60583edbd7.jpg)  ---  ## If/Then Troubleshooting Logic  *
+**IF** the work relies on complex internal mechanization (e.g., cybernetics,
+responsive computers like Schöffer's *CYSP 1*),       **THEN** evaluate it
+through the lens of Jack Burnham’s mimesis theory: Is it attempting to simulate
+biological life or assert technocratic control over human destiny? Use
+`graphify_query` to cross-reference cybernetic aspirations. *   **IF** the
+sculpture is a static tableau with real-world props (e.g., Segal's *Cinema* or
+Kienholz's beds),       **THEN** analyze the source of "dramatic time." Since
+the object doesn't move, identify how the viewer's physical movement and
+narrative decoding provide the temporal dimension. *   **IF** the piece presents
+itself as a colossal, soft version of a banal object,       **THEN** do not read
+it merely as Pop Art irony. Probe deeper into its structural attack on
+conventional space and how it forces a realization that the self is constructed
+via external, material experience. *   **IF** the kinetic movement feels
+unmotivated, abrupt, or aggressive toward the audience,       **THEN** classify
+it outside of conventional theatricality (which seeks to entertain/absorb) and
+align it with Artaud’s "Theater of Cruelty" (which seeks to disrupt and attack).
+---  ## Verification Checklists  ### Contextual & Temporal Assessment - [ ] Is
+the temporal experience of the work instantaneous, or does it require extended
+"real time" to unfold? - [ ] Does the work function as a surrogate actor
+(maintaining audience distance), or does it physically implicate the spectator?
+- [ ] Have you deferred deep-dive theoretical queries (e.g., Lessing's *Laocoön*
+limitations, Fried's anti-theatricality) to the `graphify_query` MCP tool?  ###
+Structural & Kinetic Heuristics - [ ] For kinetic pieces: Has the source of the
+motion (wind, motor, magnetism, audience touch) been mapped to its expressive
+outcome (rhythmic, violent, subliminal)? - [ ] For cybernetic pieces: Does the
+work react to ambient stimuli? If so, does it reinforce a technocratic worldview
+or subvert it?  ### Psychological & Environmental Impact - [ ] For environmental
+tableaux: Is the boundary between the viewer's space and the work's space
+intentionally blurred? - [ ] Does the work employ gigantism or softness to
+create physical obstructions? - [ ] Does the piece trigger an "I resemble them"
+psychological reversal regarding the viewer's constructed self? - [ ] Have all
+referenced image paths been validated as relative to the workflows directory
+(i.e., `../../images/`)?
+
+================================================================================
+

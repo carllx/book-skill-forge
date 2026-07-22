@@ -1,0 +1,3 @@
+{"timestamp": "2026-07-21T22:06:42.832785", "book_id": "meidelicheng", "recipe": "graphify_only", "recall": 1.0, "precision": 1.0, "usability": 0.8, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:06:43.020409", "book_id": "meidelicheng", "recipe": "cangjie_only", "recall": 1.0, "precision": 1.0, "usability": 0.9, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:06:43.225377", "book_id": "meidelicheng", "recipe": "parallel_hybrid", "recall": 1.0, "precision": 1.0, "usability": 1.0, "artifact_size_bytes": 0}

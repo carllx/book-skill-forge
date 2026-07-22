@@ -1,0 +1,25 @@
+> [BREADCRUMB_CTX: 《The Shape of Time》 > Fast and Slow Happening:]
+
+# Fast and Slow Happening:
+
+FAST AND SLOW HAPPENING
+
+Time has categorical varieties: each gravitational field in the cosmos has a different time varying according to mass. On earth at the same instant of celestial time, no two spots really have the same relation to the sun despite our useful convention of timezones regulating the regional concordance of clocks. When we define duration by span, the lives of men and the lives of other creatures obey different durations, and the durations of artifacts differ from those of coral reefs or chalk cliffs, by occupying different systems of intervals and periods. The conventions of language nevertheless give us only the solar year and its multiples or divisions to describe all these kinds of duration.
+
+St. Thomas Aquinas speculated in the thirteenth century upon the nature of the time of angels, and, following a neo-Platonic tradition,
+1
+he revived the old notion of the aevum
+as the duration of human souls and other divine beings. This duration was intermediate between time and eternity, having a beginning but no end. The conception is not inappropriate for the duration of many kinds of artifacts—so durable that they antedate every living creature on earth, so indestructible that their survival may, for all we know, ultimately approach infinity.
+
+Confining our attention to the history more than the future of man-made things, what conditions must we take into account to explain the variable rate of change? The social scientists describe material culture as an epiphenomenon, that is, as the necessary result of the operation of forces which the social scientists have already formulated and charted. For instance, small societies dispose of less energy than large ones, and they are consequently less able to initiate costly enterprises. Such quantitative assessments of cultural effort permeate sociology, anthropology, and economics. One example is the economic explanation of the position of the artist and designer in twentieth-century industrial life. To the 
+economist artifacts change according to the market: a falling or rising demand for an article affects the volume of production; opportunities to change the product vary with production.
+
+But our earlier distinction between prime objects and replica-masses suggests another line of argument. The existence of masses of copies testifies to a large public, which may desire or condemn change. When change is wanted, the public itself requires only improvements or extensions upon the actual product. Public demand recognizes only what exists, unlike the inventors and artists whose minds turn more upon future possibilities, whose speculations and combinations obey an altogether different rule of order, described here as a linked progression of experiments composing a formal sequence.
+
+This separation between designer and consumer of course does not hold in many kinds of society, where most objects are made in the family circle. But the division by prime objects and replica-masses holds for peasant society as well as for the tribal compound and the courts of eighteenth-century Europe. There can be no replica without an original; and the family of originals takes us back directly to the genesis of human society. If we wish to explore the nature of change, we must examine the sequence of forms.
+
+The replicas may directly reflect such magnitudes as wealth, population, and energy, but those magnitudes do not alone account for the incidence of the original or prime expressions from which the replicas derive. Prime expressions in turn occur in formal sequences. This conception supposes that inventions are not isolated events, but linked positions of which we can trace out the connections. The idea of seriation also presupposes a structural order in the sequence of inventions which exists independently of other conditions. The order of realization may be deformed, and the sequence may be stunted by outside conditions, but the order itself is not the consequence of such conditions. Under certain circumstances an inherent structural order in the sequence of new forms is easily apparent to many observers: we perceive it most clearly in the early stages of Greek figural sculpture, Gothic architecture, and Renaissance painting, where linked runs of related 
+solutions follow one another in a recognizable order as if following out the conditions of a prior program common to these various evolutions.
+
+Runs of this type are nevertheless far from common. Because of the completeness of the inventory of the European past they come into view more frequently there than on other continents. But their appearances are widely separated, as if events of this magnitude could not recur frequently. Perhaps they are like the aurora borealis
+, best noted at some latitudes rather than others, as field manifestations visible only under special conditions.

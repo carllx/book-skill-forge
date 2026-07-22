@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "domain": "Art: The Definitive Visual Guide",
+  "version": "1.0",
+  "concepts": [
+    {
+      "id": "c_art",
+      "name": "Art",
+      "aliases": [],
+      "description": "Visual expressions of human creativity",
+      "weight": 1.0,
+      "source_references": [],
+      "sub_concepts": []
+    }
+  ]
+}

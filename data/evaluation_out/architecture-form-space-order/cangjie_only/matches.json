@@ -1,0 +1,52 @@
+{
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "Primary Elements",
+      "aliases": ["基本元素", "Point", "Line", "Plane", "Volume"],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "Form and Space",
+      "aliases": ["形与空间的对立统一", "正负空间", "Positive and Negative Space"],
+      "weight": 10
+    },
+    {
+      "id": "c3",
+      "name": "Ordering Principles",
+      "aliases": ["秩序原则", "Axis", "Symmetry", "Hierarchy", "Rhythm", "Datum"],
+      "weight": 9
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "e1",
+      "name": "Form and Space Duality",
+      "evidence": "The text extensively discusses the unity of opposites in form and space, treating space as a positive entity."
+    },
+    {
+      "id": "e2",
+      "name": "Ordering Principles",
+      "evidence": "Describes how architecture uses axis, symmetry, and hierarchy to create order as core design mindsets."
+    }
+  ],
+  "mappings": [
+    {
+      "extracted_id": "e1",
+      "gt_id": "c2",
+      "is_matched": true,
+      "reasoning": "Cangjie successfully distilled the abstract principle of Form and Space as a core mindset."
+    },
+    {
+      "extracted_id": "e2",
+      "gt_id": "c3",
+      "is_matched": true,
+      "reasoning": "Cangjie captured Ordering Principles as high-level design strategies."
+    }
+  ],
+  "artifact_usability": {
+    "score": 8,
+    "reasoning": "Cangjie creates highly usable guidelines and mindsets, but glosses over the fundamental vocabulary of Primary Elements (Point, Line, etc.) as they are too granular."
+  }
+}

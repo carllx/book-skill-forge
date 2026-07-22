@@ -1,0 +1,34 @@
+{
+  "ground_truth_concepts": [
+    {"concept_id": "c_graphical_excellence", "is_matched": true, "importance": 1.0},
+    {"concept_id": "c_graphical_integrity", "is_matched": true, "importance": 1.0},
+    {"concept_id": "c_lie_factor", "is_matched": true, "importance": 0.9},
+    {"concept_id": "c_data_ink", "is_matched": true, "importance": 1.0},
+    {"concept_id": "c_data_ink_ratio", "is_matched": true, "importance": 0.9},
+    {"concept_id": "c_chartjunk", "is_matched": true, "importance": 0.9},
+    {"concept_id": "c_moire", "is_matched": true, "importance": 0.7},
+    {"concept_id": "c_grid", "is_matched": true, "importance": 0.7},
+    {"concept_id": "c_duck", "is_matched": true, "importance": 0.8},
+    {"concept_id": "c_data_density", "is_matched": true, "importance": 0.9},
+    {"concept_id": "c_small_multiples", "is_matched": true, "importance": 0.9},
+    {"concept_id": "c_multifunctioning", "is_matched": true, "importance": 0.8},
+    {"concept_id": "c_relational_graphics", "is_matched": false, "importance": 0.8},
+    {"concept_id": "c_time_series", "is_matched": false, "importance": 0.8},
+    {"concept_id": "c_space_time", "is_matched": false, "importance": 0.8}
+  ],
+  "extracted_concepts": [
+    {"name": "Graphical Excellence", "is_valid": true, "is_redundant": false},
+    {"name": "Graphical Integrity", "is_valid": true, "is_redundant": false},
+    {"name": "Lie Factor", "is_valid": true, "is_redundant": false},
+    {"name": "Data-Ink Ratio", "is_valid": true, "is_redundant": false},
+    {"name": "Chartjunk", "is_valid": true, "is_redundant": false},
+    {"name": "Small Multiples", "is_valid": true, "is_redundant": false},
+    {"name": "Data Density", "is_valid": true, "is_redundant": false},
+    {"name": "Multifunctioning Graphical Elements", "is_valid": true, "is_redundant": false}
+  ],
+  "artifact_usability": {
+    "formatting_score": 5,
+    "clarity_score": 5,
+    "logical_score": 4
+  }
+}

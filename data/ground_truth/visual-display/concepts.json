@@ -1,0 +1,145 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "domain": "The Visual Display of Quantitative Information",
+  "version": "1.0",
+  "concepts": [
+    {
+      "id": "c_graphical_excellence",
+      "name": "Graphical Excellence",
+      "aliases": [],
+      "description": "The well-designed presentation of interesting data—a matter of substance, statistics, and design.",
+      "weight": 1.0,
+      "source_references": [],
+      "sub_concepts": []
+    },
+    {
+      "id": "c_graphical_integrity",
+      "name": "Graphical Integrity",
+      "aliases": [],
+      "description": "Telling the truth about the data, ensuring representations are proportional to the quantities.",
+      "weight": 1.0,
+      "source_references": [],
+      "sub_concepts": [
+        {
+          "id": "c_lie_factor",
+          "name": "Lie Factor",
+          "aliases": [],
+          "description": "The size of an effect shown in graphic divided by the size of the effect in data.",
+          "weight": 0.9,
+          "source_references": [],
+          "sub_concepts": []
+        }
+      ]
+    },
+    {
+      "id": "c_data_ink",
+      "name": "Data-Ink",
+      "aliases": [],
+      "description": "The non-erasable core of a graphic, the non-redundant ink arranged in response to variation in the numbers represented.",
+      "weight": 1.0,
+      "source_references": [],
+      "sub_concepts": [
+        {
+          "id": "c_data_ink_ratio",
+          "name": "Data-Ink Ratio",
+          "aliases": [],
+          "description": "The proportion of a graphic's ink devoted to the non-redundant display of data-information.",
+          "weight": 0.9,
+          "source_references": [],
+          "sub_concepts": []
+        }
+      ]
+    },
+    {
+      "id": "c_chartjunk",
+      "name": "Chartjunk",
+      "aliases": [],
+      "description": "The excessive and unnecessary use of graphical effects in graphs.",
+      "weight": 0.9,
+      "source_references": [],
+      "sub_concepts": [
+        {
+          "id": "c_moire",
+          "name": "Moiré Effects (Vibrations)",
+          "aliases": [],
+          "description": "Visual distraction caused by optical art patterns.",
+          "weight": 0.7,
+          "source_references": [],
+          "sub_concepts": []
+        },
+        {
+          "id": "c_grid",
+          "name": "The Grid",
+          "aliases": [],
+          "description": "Heavy grid lines that compete with the data.",
+          "weight": 0.7,
+          "source_references": [],
+          "sub_concepts": []
+        },
+        {
+          "id": "c_duck",
+          "name": "The Duck",
+          "aliases": [],
+          "description": "When a graphic is taken over by decorative forms or computer debris.",
+          "weight": 0.8,
+          "source_references": [],
+          "sub_concepts": []
+        }
+      ]
+    },
+    {
+      "id": "c_data_density",
+      "name": "Data Density",
+      "aliases": [],
+      "description": "The proportion of the total size of the graph that is dedicated to displaying data.",
+      "weight": 0.9,
+      "source_references": [],
+      "sub_concepts": []
+    },
+    {
+      "id": "c_small_multiples",
+      "name": "Small Multiples",
+      "aliases": [],
+      "description": "Series of graphics showing the same combination of variables, indexed by changes in another variable.",
+      "weight": 0.9,
+      "source_references": [],
+      "sub_concepts": []
+    },
+    {
+      "id": "c_multifunctioning",
+      "name": "Multifunctioning Graphical Elements",
+      "aliases": [],
+      "description": "Graphical elements that convey multiple pieces of information simultaneously.",
+      "weight": 0.8,
+      "source_references": [],
+      "sub_concepts": []
+    },
+    {
+      "id": "c_relational_graphics",
+      "name": "Relational Graphics",
+      "aliases": [],
+      "description": "Graphics that link at least two variables.",
+      "weight": 0.8,
+      "source_references": [],
+      "sub_concepts": []
+    },
+    {
+      "id": "c_time_series",
+      "name": "Time-Series Displays",
+      "aliases": [],
+      "description": "Graphics that show data ordered by time.",
+      "weight": 0.8,
+      "source_references": [],
+      "sub_concepts": []
+    },
+    {
+      "id": "c_space_time",
+      "name": "Space-Time Narrative Designs",
+      "aliases": [],
+      "description": "Graphics that represent spatial relationships over time.",
+      "weight": 0.8,
+      "source_references": [],
+      "sub_concepts": []
+    }
+  ]
+}

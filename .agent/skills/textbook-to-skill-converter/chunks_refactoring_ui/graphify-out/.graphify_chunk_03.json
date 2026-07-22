@@ -1,0 +1,340 @@
+{
+  "nodes": [
+    {
+      "id": "chunks_refactoring_ui_chapter_36_creating_depth_emulate_light_source",
+      "label": "Emulate a light source",
+      "file_type": "rationale",
+      "source_file": "chapter_36_Creating_Depth.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_36_creating_depth_raised_elements",
+      "label": "Raised elements",
+      "file_type": "concept",
+      "source_file": "chapter_36_Creating_Depth.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_36_creating_depth_inset_elements",
+      "label": "Inset elements",
+      "file_type": "concept",
+      "source_file": "chapter_36_Creating_Depth.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_37_use_shadows_to_convey_elevation_elevation_system",
+      "label": "Elevation system",
+      "file_type": "concept",
+      "source_file": "chapter_37_Use_shadows_to_convey_elevation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_37_use_shadows_to_convey_elevation_use_shadows",
+      "label": "Use shadows to convey elevation",
+      "file_type": "rationale",
+      "source_file": "chapter_37_Use_shadows_to_convey_elevation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_38_shadows_can_have_two_parts_two_part_shadows",
+      "label": "Two-part shadows",
+      "file_type": "concept",
+      "source_file": "chapter_38_Shadows_can_have_two_parts.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_39_even_flat_designs_can_have_depth_flat_depth",
+      "label": "Depth in flat designs",
+      "file_type": "rationale",
+      "source_file": "chapter_39_Even_flat_designs_can_have_depth.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_40_overlap_elements_to_create_layers_overlap_elements",
+      "label": "Overlap elements to create layers",
+      "file_type": "rationale",
+      "source_file": "chapter_40_Overlap_elements_to_create_layers.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_41_working_with_images_use_good_photos",
+      "label": "Use good photos",
+      "file_type": "rationale",
+      "source_file": "chapter_41_Working_with_Images.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_42_text_needs_consistent_contrast_consistent_contrast",
+      "label": "Text needs consistent contrast",
+      "file_type": "rationale",
+      "source_file": "chapter_42_Text_needs_consistent_contrast.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_42_text_needs_consistent_contrast_add_an_overlay",
+      "label": "Add an overlay",
+      "file_type": "concept",
+      "source_file": "chapter_42_Text_needs_consistent_contrast.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_42_text_needs_consistent_contrast_add_a_text_shadow",
+      "label": "Add a text shadow",
+      "file_type": "concept",
+      "source_file": "chapter_42_Text_needs_consistent_contrast.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_43_everything_has_an_intended_size_intended_size",
+      "label": "Everything has an intended size",
+      "file_type": "rationale",
+      "source_file": "chapter_43_Everything_has_an_intended_size.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_44_beware_user_uploaded_content_user_uploaded_content",
+      "label": "Beware user-uploaded content",
+      "file_type": "rationale",
+      "source_file": "chapter_44_Beware_user_uploaded_content.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_45_finishing_touches_supercharge_defaults",
+      "label": "Supercharge the defaults",
+      "file_type": "rationale",
+      "source_file": "chapter_45_Finishing_Touches.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_46_add_color_with_accent_borders_accent_borders",
+      "label": "Accent borders",
+      "file_type": "concept",
+      "source_file": "chapter_46_Add_color_with_accent_borders.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_47_decorate_your_backgrounds_decorate_backgrounds",
+      "label": "Decorate your backgrounds",
+      "file_type": "rationale",
+      "source_file": "chapter_47_Decorate_your_backgrounds.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_48_don_t_overlook_empty_states_empty_states",
+      "label": "Empty states",
+      "file_type": "concept",
+      "source_file": "chapter_48_Don_t_overlook_empty_states.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_49_use_fewer_borders_use_fewer_borders",
+      "label": "Use fewer borders",
+      "file_type": "rationale",
+      "source_file": "chapter_49_Use_fewer_borders.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_50_think_outside_the_box_think_outside_the_box",
+      "label": "Think outside the box",
+      "file_type": "rationale",
+      "source_file": "chapter_50_Think_outside_the_box.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_chapter_51_leveling_up_rebuild_favorite_interfaces",
+      "label": "Rebuild your favorite interfaces",
+      "file_type": "rationale",
+      "source_file": "chapter_51_Leveling_Up.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "chunks_refactoring_ui_index_table_of_contents",
+      "label": "Table of Contents",
+      "file_type": "document",
+      "source_file": "index.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "chunks_refactoring_ui_chapter_37_use_shadows_to_convey_elevation_use_shadows",
+      "target": "chunks_refactoring_ui_chapter_37_use_shadows_to_convey_elevation_elevation_system",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "chapter_37_Use_shadows_to_convey_elevation.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_38_shadows_can_have_two_parts_two_part_shadows",
+      "target": "chunks_refactoring_ui_chapter_37_use_shadows_to_convey_elevation_use_shadows",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "chapter_38_Shadows_can_have_two_parts.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_49_use_fewer_borders_use_fewer_borders",
+      "target": "chunks_refactoring_ui_chapter_37_use_shadows_to_convey_elevation_use_shadows",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "chapter_49_Use_fewer_borders.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_42_text_needs_consistent_contrast_add_an_overlay",
+      "target": "chunks_refactoring_ui_chapter_42_text_needs_consistent_contrast_consistent_contrast",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "chapter_42_Text_needs_consistent_contrast.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_42_text_needs_consistent_contrast_add_a_text_shadow",
+      "target": "chunks_refactoring_ui_chapter_42_text_needs_consistent_contrast_consistent_contrast",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "chapter_42_Text_needs_consistent_contrast.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "chunks_refactoring_ui_chapter_39_even_flat_designs_can_have_depth_flat_depth",
+      "target": "chunks_refactoring_ui_chapter_36_creating_depth_emulate_light_source",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "chapter_39_Even_flat_designs_can_have_depth.md",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "chunks_refactoring_ui_depth_creation_techniques",
+      "label": "Depth Creation Techniques",
+      "nodes": [
+        "chunks_refactoring_ui_chapter_36_creating_depth_emulate_light_source",
+        "chunks_refactoring_ui_chapter_37_use_shadows_to_convey_elevation_use_shadows",
+        "chunks_refactoring_ui_chapter_38_shadows_can_have_two_parts_two_part_shadows",
+        "chunks_refactoring_ui_chapter_39_even_flat_designs_can_have_depth_flat_depth",
+        "chunks_refactoring_ui_chapter_40_overlap_elements_to_create_layers_overlap_elements"
+      ],
+      "relation": "participate_in",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "chapter_36_Creating_Depth.md"
+    },
+    {
+      "id": "chunks_refactoring_ui_consistent_contrast_techniques",
+      "label": "Consistent Contrast Techniques",
+      "nodes": [
+        "chunks_refactoring_ui_chapter_42_text_needs_consistent_contrast_consistent_contrast",
+        "chunks_refactoring_ui_chapter_42_text_needs_consistent_contrast_add_an_overlay",
+        "chunks_refactoring_ui_chapter_42_text_needs_consistent_contrast_add_a_text_shadow"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "chapter_42_Text_needs_consistent_contrast.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

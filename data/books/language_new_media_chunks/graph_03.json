@@ -1,0 +1,25 @@
+{
+  "nodes": [
+    {"id": "n1", "label": "Cultural Interfaces", "description": "Human-computer-culture interfaces used for distributing and interacting with cultural data.", "model": "The Language of Cultural Interfaces"},
+    {"id": "n2", "label": "Human-Computer Interface (HCI)", "description": "General-purpose tool and metaphors (like the desktop) for operating a computer.", "model": "The Language of Cultural Interfaces"},
+    {"id": "n3", "label": "Printed Word", "description": "Tradition of text organization, pages, and hyperlinking providing a model for cultural interfaces.", "model": "Printed Word"},
+    {"id": "n4", "label": "Cinema", "description": "Tradition of mobile camera, framing, and narrative spatialization, increasingly dominating cultural interfaces.", "model": "Cinema"},
+    {"id": "n5", "label": "Screen", "description": "A flat, rectangular surface positioned at a distance from the viewer, acting as a window into virtual spaces.", "model": "The Screen and the User"},
+    {"id": "n6", "label": "Classical Screen", "description": "Displays a static image separated from reality by a frame, like a painting.", "model": "A Screen's Genealogy"},
+    {"id": "n7", "label": "Dynamic Screen", "description": "Displays a changing image of the past, capturing viewer's attention, like cinema.", "model": "A Screen's Genealogy"},
+    {"id": "n8", "label": "Real-Time Screen", "description": "Displays an image updated in real time tracking a referent, like radar.", "model": "A Screen's Genealogy"},
+    {"id": "n9", "label": "Interactive Screen", "description": "A screen where user actions can change computer memory and affect reality, like modern HCI.", "model": "A Screen's Genealogy"},
+    {"id": "n10", "label": "Spatialization", "description": "The flattening of time into a navigable spatial landscape, common in new media.", "model": "The Language of Cultural Interfaces"}
+  ],
+  "edges": [
+    {"source": "n1", "target": "n2", "label": "combines elements of"},
+    {"source": "n1", "target": "n3", "label": "combines elements of"},
+    {"source": "n1", "target": "n4", "label": "combines elements of"},
+    {"source": "n2", "target": "n5", "label": "relies on"},
+    {"source": "n5", "target": "n6", "label": "has historical form"},
+    {"source": "n6", "target": "n7", "label": "evolves into"},
+    {"source": "n7", "target": "n8", "label": "evolves into"},
+    {"source": "n8", "target": "n9", "label": "evolves into"},
+    {"source": "n4", "target": "n10", "label": "leads to"}
+  ]
+}

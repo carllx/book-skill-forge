@@ -1,0 +1,2396 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "file_b1277289",
+      "label": "建构文化研究",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_003_建构文化研究.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8c44bcd3",
+      "label": "图书在版编目 (CIP) 数据",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_002_图书在版编目__CIP__数据.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f53d100a",
+      "label": "建构文化研究论19世纪和20世纪建筑中的建造诗学",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_004_建构文化研究论19世纪和20世纪建筑中的建造诗学.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_dac7d6fb",
+      "label": "第一章绪论： 建构的视野",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_005_第一章绪论__建构的视野.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a8d11a3c",
+      "label": "建构的词源学考察",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_006_建构的词源学考察.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_afc0f3c7",
+      "label": "建构与地形 (topography)",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_007_建构与地形__topography_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_bacf4153",
+      "label": "建构与身体的隐喻",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_008_建构与身体的隐喻.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_526cea36",
+      "label": "建构与文化人类学 （ethnography)",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_009_建构与文化人类学__ethnography_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4bd9da71",
+      "label": "再现与本体 (Representational versus Ontological)",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_010_再现与本体__Representational_versus.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4e4661ed",
+      "label": "建构与非建构",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_011_建构与非建构.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_14291140",
+      "label": "建构与技术",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_012_建构与技术.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_985d990a",
+      "label": "传统与创造",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_013_传统与创造.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f3edeb73",
+      "label": "Introduction: Refiections on the Scope of the Tectonic",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_014_Introduction__Refiections_on_t.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_59dcf9b3",
+      "label": "13",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_081_13.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_40de2b1e",
+      "label": "15",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_108_15.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_43e24fb9",
+      "label": "16",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_131_16.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ad3fee55",
+      "label": "23",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_135_23.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_aeded8d1",
+      "label": "24",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_136_24.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f04be517",
+      "label": "25",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_116_25.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7d4a13bc",
+      "label": "26",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_137_26.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_37cbfac1",
+      "label": "27",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_138_27.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f09f2314",
+      "label": "28",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_139_28.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_57e60466",
+      "label": "30",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_121_30.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1b8fc108",
+      "label": "33",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_123_33.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_bb1bd222",
+      "label": "35",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_124_35.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8ced2492",
+      "label": "38",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_126_38.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_848f65c5",
+      "label": "39",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_127_39.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a8ed2767",
+      "label": "40",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_128_40.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_37f15cb0",
+      "label": "46",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_098_46.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_08c3f64a",
+      "label": "50",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_100_50.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_472458ee",
+      "label": "53",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_032_53.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_bf1d96ca",
+      "label": "54",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_103_54.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e00e09f2",
+      "label": "55",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_034_55.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_14c5c991",
+      "label": "60",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_036_60.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d5abb34f",
+      "label": "第二章希腊哥特与新哥特： 建构形式的盎格鲁一一法兰西起源",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_037_第二章希腊哥特与新哥特__建构形式的盎格鲁一一法兰西起源_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_52b32e3d",
+      "label": "book space poetics true chunk 037 第二章希腊哥特与新哥特  建构形式的盎格鲁一一法兰西起源 2",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_037_第二章希腊哥特与新哥特__建构形式的盎格鲁一一法兰西起源_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_96aa815a",
+      "label": "book space poetics true chunk 037 第二章希腊哥特与新哥特  建构形式的盎格鲁一一法兰西起源 3",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_037_第二章希腊哥特与新哥特__建构形式的盎格鲁一一法兰西起源_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3371005d",
+      "label": "book space poetics true chunk 037 第二章希腊哥特与新哥特  建构形式的盎格鲁一一法兰西起源 4",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_037_第二章希腊哥特与新哥特__建构形式的盎格鲁一一法兰西起源_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1b4f482c",
+      "label": "book space poetics true chunk 037 第二章希腊哥特与新哥特  建构形式的盎格鲁一一法兰西起源 5",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_037_第二章希腊哥特与新哥特__建构形式的盎格鲁一一法兰西起源_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4b7dd73b",
+      "label": "116 英尺和 180 英尺。",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_038_116_英尺和_180_英尺_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_bde5f935",
+      "label": "2 Greco-Gothic and Neo-Gothic: The Anglo-French Origins of Tectonic Form",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_039_2_Greco_Gothic_and_Neo_Gothic_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b779ee6a",
+      "label": "22",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_113_22.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6f2f1a2c",
+      "label": "第三章建构的兴起： 1750—1870 年间德国启蒙运动时期的核心形式和艺术形式",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_044_第三章建构的兴起__1750_1870_年间德国启蒙运动时期_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6e0a8709",
+      "label": "book space poetics true chunk 044 第三章建构的兴起  1750 1870 年间德国启蒙运动时期 2",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_044_第三章建构的兴起__1750_1870_年间德国启蒙运动时期_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_65adcb62",
+      "label": "book space poetics true chunk 044 第三章建构的兴起  1750 1870 年间德国启蒙运动时期 3",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_044_第三章建构的兴起__1750_1870_年间德国启蒙运动时期_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_70368e16",
+      "label": "图3.26",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_045_图3_26_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_cb3f2746",
+      "label": "book space poetics true chunk 045 图3 26 2",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_045_图3_26_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_18658783",
+      "label": "book space poetics true chunk 045 图3 26 3",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_045_图3_26_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_da81e22b",
+      "label": "book space poetics true chunk 045 图3 26 4",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_045_图3_26_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9a51d586",
+      "label": "14",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_046_14.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6fa252a0",
+      "label": "31",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_056_31.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_82020807",
+      "label": "36",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_125_36.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_0b41fcca",
+      "label": "41",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_058_41_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_38db78e5",
+      "label": "book space poetics true chunk 058 41 2",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_058_41_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8b0b8a47",
+      "label": "book space poetics true chunk 058 41 3",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_058_41_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_221d5b2d",
+      "label": "book space poetics true chunk 058 41 4",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_058_41_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_568a3937",
+      "label": "book space poetics true chunk 058 41 5",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_058_41_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e5d6e718",
+      "label": "Claude Humbert, Islamic Omamental Design (New York: Hastings House, 1980), pp. 13, 16, 17.",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_058_41_6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_aa57467b",
+      "label": "29",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_120_29.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6fb1a1da",
+      "label": "第五章奥古斯特·佩雷与古典理性主义",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_064_第五章奥古斯特_佩雷与古典理性主义_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9ffc755d",
+      "label": "book space poetics true chunk 064 第五章奥古斯特 佩雷与古典理性主义 2",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_064_第五章奥古斯特_佩雷与古典理性主义_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_45d976b3",
+      "label": "book space poetics true chunk 064 第五章奥古斯特 佩雷与古典理性主义 3",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_064_第五章奥古斯特_佩雷与古典理性主义_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1531cc87",
+      "label": "book space poetics true chunk 064 第五章奥古斯特 佩雷与古典理性主义 4",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_064_第五章奥古斯特_佩雷与古典理性主义_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_02825e6a",
+      "label": "book space poetics true chunk 064 第五章奥古斯特 佩雷与古典理性主义 5",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_064_第五章奥古斯特_佩雷与古典理性主义_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3ab43ad0",
+      "label": "5 Auguste Perret and Classical Rationalism",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_065_5_Auguste_Perret_and_Classical_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_772052d4",
+      "label": "book space poetics true chunk 065 5 Auguste Perret and Classical 2",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_065_5_Auguste_Perret_and_Classical_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_da8a33e4",
+      "label": "book space poetics true chunk 066 27 2",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_066_27_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_caf1458e",
+      "label": "book space poetics true chunk 066 27 3",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_066_27_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_20daa8d7",
+      "label": "book space poetics true chunk 066 27 4",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_066_27_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a79a1b51",
+      "label": "图6.30",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_067_图6_30_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d28db5bc",
+      "label": "book space poetics true chunk 067 图6 30 2",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_067_图6_30_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_db85d7d5",
+      "label": "book space poetics true chunk 067 图6 30 3",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_067_图6_30_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c75ac7d1",
+      "label": "图6.68",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_068_图6_68.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_eedbbd86",
+      "label": "B Mies van der Rohe: Avant-Garde and Continulty",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_069_B_Mies_van_der_Rohe__Avant_Gar.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ba9d3328",
+      "label": "1",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_106_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c9687ae1",
+      "label": "17",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_132_17.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_797b373a",
+      "label": "3",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_073_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3c223d3f",
+      "label": "32",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_122_32.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_49b7f2e3",
+      "label": "34",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_077_34.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_98a279da",
+      "label": "第七章路易·康： 1944—1972 年间的现代化与新纪念性",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_078_第七章路易_康__1944_1972_年间的现代化与新纪念性_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e41049c3",
+      "label": "book space poetics true chunk 078 第七章路易 康  1944 1972 年间的现代化与新纪念性 2",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_078_第七章路易_康__1944_1972_年间的现代化与新纪念性_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f95206a9",
+      "label": "book space poetics true chunk 078 第七章路易 康  1944 1972 年间的现代化与新纪念性 3",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_078_第七章路易_康__1944_1972_年间的现代化与新纪念性_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_da61efed",
+      "label": "book space poetics true chunk 078 第七章路易 康  1944 1972 年间的现代化与新纪念性 4",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_078_第七章路易_康__1944_1972_年间的现代化与新纪念性_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ee70fab1",
+      "label": "book space poetics true chunk 078 第七章路易 康  1944 1972 年间的现代化与新纪念性 5",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_078_第七章路易_康__1944_1972_年间的现代化与新纪念性_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_624d9499",
+      "label": "book space poetics true chunk 078 第七章路易 康  1944 1972 年间的现代化与新纪念性 6",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_078_第七章路易_康__1944_1972_年间的现代化与新纪念性_6.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3dfbd25b",
+      "label": "book space poetics true chunk 078 第七章路易 康  1944 1972 年间的现代化与新纪念性 7",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_078_第七章路易_康__1944_1972_年间的现代化与新纪念性_7.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_360d9bbe",
+      "label": "1 Louis Kahn: Modernization and the New Monumentality, 1944-1972",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_079_1_Louis_Kahn__Modernization_an.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_57b22a2f",
+      "label": "10",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_107_10.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9ca76e9f",
+      "label": "19",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_134_19.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5a671fc7",
+      "label": "21",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_112_21.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_304851a7",
+      "label": "第八章约恩·伍重： 跨文化形式与建构的意喻",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_086_第八章约恩_伍重__跨文化形式与建构的意喻_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_36d30158",
+      "label": "book space poetics true chunk 086 第八章约恩 伍重  跨文化形式与建构的意喻 2",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_086_第八章约恩_伍重__跨文化形式与建构的意喻_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_bb75776d",
+      "label": "book space poetics true chunk 086 第八章约恩 伍重  跨文化形式与建构的意喻 3",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_086_第八章约恩_伍重__跨文化形式与建构的意喻_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3c214780",
+      "label": "book space poetics true chunk 086 第八章约恩 伍重  跨文化形式与建构的意喻 4",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_086_第八章约恩_伍重__跨文化形式与建构的意喻_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_89d18454",
+      "label": "图8.49",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_087_图8_49_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f16b6385",
+      "label": "book space poetics true chunk 087 图8 49 2",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_087_图8_49_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_67a0dc7f",
+      "label": "1 元 E",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_088_1_元_E_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_79516079",
+      "label": "book space poetics true chunk 088 1 元 E 2",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_088_1_元_E_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9f17386f",
+      "label": "图8.79",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_089_图8_79.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_83af13f8",
+      "label": "37",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_095_37.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7473ce2f",
+      "label": "45",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_097_45.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_909ad11e",
+      "label": "48",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_099_48.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a7424518",
+      "label": "51",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_101_51.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ea55d1fd",
+      "label": "52",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_102_52.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1512e70c",
+      "label": "第九章卡洛·斯卡帕与节点崇拜",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_104_第九章卡洛_斯卡帕与节点崇拜_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c08c6110",
+      "label": "book space poetics true chunk 104 第九章卡洛 斯卡帕与节点崇拜 2",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_104_第九章卡洛_斯卡帕与节点崇拜_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_78d11f74",
+      "label": "book space poetics true chunk 104 第九章卡洛 斯卡帕与节点崇拜 3",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_104_第九章卡洛_斯卡帕与节点崇拜_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_62aabf11",
+      "label": "book space poetics true chunk 104 第九章卡洛 斯卡帕与节点崇拜 4",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_104_第九章卡洛_斯卡帕与节点崇拜_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f11950ed",
+      "label": "book space poetics true chunk 104 第九章卡洛 斯卡帕与节点崇拜 5",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_104_第九章卡洛_斯卡帕与节点崇拜_5.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6cf87185",
+      "label": "9 Carlo Scarpa and the Adoration of the Joint",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_105_9_Carlo_Scarpa_and_the_Adorati.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a932e192",
+      "label": "18",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_110_18.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_577dd2ae",
+      "label": "20",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_111_20.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3032915e",
+      "label": "第十章后记： 1903—1994 年间的建构之路",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_129_第十章后记__1903_1994_年间的建构之路_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_460788fd",
+      "label": "book space poetics true chunk 129 第十章后记  1903 1994 年间的建构之路 2",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_129_第十章后记__1903_1994_年间的建构之路_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_47f7465b",
+      "label": "book space poetics true chunk 129 第十章后记  1903 1994 年间的建构之路 3",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_129_第十章后记__1903_1994_年间的建构之路_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1c805197",
+      "label": "book space poetics true chunk 129 第十章后记  1903 1994 年间的建构之路 4",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_129_第十章后记__1903_1994_年间的建构之路_4.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c34f2de1",
+      "label": "图10.36",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_130_图10_36_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_589e69b6",
+      "label": "book space poetics true chunk 130 图10 36 2",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_130_图10_36_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_69440c80",
+      "label": "Per Olaf Fjeld, Sverre Fehn:The Thought ofConstruction (New York: Rizzoli,1983), pp.46-47.",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_130_图10_36_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e4492ed6",
+      "label": "8",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_133_8.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_985024a7",
+      "label": "密涅瓦的猫头鹰①：尾声",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_140_密涅瓦的猫头鹰__尾声_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8c903db5",
+      "label": "book space poetics true chunk 140 密涅瓦的猫头鹰  尾声 2",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_140_密涅瓦的猫头鹰__尾声_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ec44b046",
+      "label": "The Owl of Minerva: An Epilogue",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_141_The_Owl_of_Minerva__An_Epilogu_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_765953dc",
+      "label": "book space poetics true chunk 141 The Owl of Minerva  An Epilogu 2",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_141_The_Owl_of_Minerva__An_Epilogu_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5ea16aee",
+      "label": "book space poetics true chunk 141 The Owl of Minerva  An Epilogu 3",
+      "file_type": "concept",
+      "source_file": "book_space_poetics_true_chunk_141_The_Owl_of_Minerva__An_Epilogu_3.md",
+      "description": "Primary concept extracted from chunk"
+    }
+  ],
+  "links": [
+    {
+      "source": "file_b1277289",
+      "target": "file_b1277289",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_001_建构文化研究.md"
+    },
+    {
+      "source": "file_b1277289",
+      "target": "file_8c44bcd3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_002_图书在版编目__CIP__数据.md"
+    },
+    {
+      "source": "file_8c44bcd3",
+      "target": "file_b1277289",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_003_建构文化研究.md"
+    },
+    {
+      "source": "file_b1277289",
+      "target": "file_f53d100a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_004_建构文化研究论19世纪和20世纪建筑中的建造诗学.md"
+    },
+    {
+      "source": "file_f53d100a",
+      "target": "file_dac7d6fb",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_005_第一章绪论__建构的视野.md"
+    },
+    {
+      "source": "file_dac7d6fb",
+      "target": "file_a8d11a3c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_006_建构的词源学考察.md"
+    },
+    {
+      "source": "file_a8d11a3c",
+      "target": "file_afc0f3c7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_007_建构与地形__topography_.md"
+    },
+    {
+      "source": "file_afc0f3c7",
+      "target": "file_bacf4153",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_008_建构与身体的隐喻.md"
+    },
+    {
+      "source": "file_bacf4153",
+      "target": "file_526cea36",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_009_建构与文化人类学__ethnography_.md"
+    },
+    {
+      "source": "file_526cea36",
+      "target": "file_4bd9da71",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_010_再现与本体__Representational_versus.md"
+    },
+    {
+      "source": "file_4bd9da71",
+      "target": "file_4e4661ed",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_011_建构与非建构.md"
+    },
+    {
+      "source": "file_4e4661ed",
+      "target": "file_14291140",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_012_建构与技术.md"
+    },
+    {
+      "source": "file_14291140",
+      "target": "file_985d990a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_013_传统与创造.md"
+    },
+    {
+      "source": "file_985d990a",
+      "target": "file_f3edeb73",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_014_Introduction__Refiections_on_t.md"
+    },
+    {
+      "source": "file_f3edeb73",
+      "target": "file_59dcf9b3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_015_13.md"
+    },
+    {
+      "source": "file_59dcf9b3",
+      "target": "file_40de2b1e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_016_15.md"
+    },
+    {
+      "source": "file_40de2b1e",
+      "target": "file_43e24fb9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_017_16.md"
+    },
+    {
+      "source": "file_43e24fb9",
+      "target": "file_ad3fee55",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_018_23.md"
+    },
+    {
+      "source": "file_ad3fee55",
+      "target": "file_aeded8d1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_019_24.md"
+    },
+    {
+      "source": "file_aeded8d1",
+      "target": "file_f04be517",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_020_25.md"
+    },
+    {
+      "source": "file_f04be517",
+      "target": "file_7d4a13bc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_021_26.md"
+    },
+    {
+      "source": "file_7d4a13bc",
+      "target": "file_37cbfac1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_022_27.md"
+    },
+    {
+      "source": "file_37cbfac1",
+      "target": "file_f09f2314",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_023_28.md"
+    },
+    {
+      "source": "file_f09f2314",
+      "target": "file_57e60466",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_024_30.md"
+    },
+    {
+      "source": "file_57e60466",
+      "target": "file_1b8fc108",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_025_33.md"
+    },
+    {
+      "source": "file_1b8fc108",
+      "target": "file_bb1bd222",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_026_35.md"
+    },
+    {
+      "source": "file_bb1bd222",
+      "target": "file_8ced2492",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_027_38.md"
+    },
+    {
+      "source": "file_8ced2492",
+      "target": "file_848f65c5",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_028_39.md"
+    },
+    {
+      "source": "file_848f65c5",
+      "target": "file_a8ed2767",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_029_40.md"
+    },
+    {
+      "source": "file_a8ed2767",
+      "target": "file_37f15cb0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_030_46.md"
+    },
+    {
+      "source": "file_37f15cb0",
+      "target": "file_08c3f64a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_031_50.md"
+    },
+    {
+      "source": "file_08c3f64a",
+      "target": "file_472458ee",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_032_53.md"
+    },
+    {
+      "source": "file_472458ee",
+      "target": "file_bf1d96ca",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_033_54.md"
+    },
+    {
+      "source": "file_bf1d96ca",
+      "target": "file_e00e09f2",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_034_55.md"
+    },
+    {
+      "source": "file_e00e09f2",
+      "target": "file_08c3f64a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_035_50.md"
+    },
+    {
+      "source": "file_08c3f64a",
+      "target": "file_14c5c991",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_036_60.md"
+    },
+    {
+      "source": "file_14c5c991",
+      "target": "file_d5abb34f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_037_第二章希腊哥特与新哥特__建构形式的盎格鲁一一法兰西起源_1.md"
+    },
+    {
+      "source": "file_d5abb34f",
+      "target": "file_52b32e3d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_037_第二章希腊哥特与新哥特__建构形式的盎格鲁一一法兰西起源_2.md"
+    },
+    {
+      "source": "file_52b32e3d",
+      "target": "file_96aa815a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_037_第二章希腊哥特与新哥特__建构形式的盎格鲁一一法兰西起源_3.md"
+    },
+    {
+      "source": "file_96aa815a",
+      "target": "file_3371005d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_037_第二章希腊哥特与新哥特__建构形式的盎格鲁一一法兰西起源_4.md"
+    },
+    {
+      "source": "file_3371005d",
+      "target": "file_1b4f482c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_037_第二章希腊哥特与新哥特__建构形式的盎格鲁一一法兰西起源_5.md"
+    },
+    {
+      "source": "file_1b4f482c",
+      "target": "file_4b7dd73b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_038_116_英尺和_180_英尺_.md"
+    },
+    {
+      "source": "file_4b7dd73b",
+      "target": "file_bde5f935",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_039_2_Greco_Gothic_and_Neo_Gothic_.md"
+    },
+    {
+      "source": "file_bde5f935",
+      "target": "file_59dcf9b3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_040_13.md"
+    },
+    {
+      "source": "file_59dcf9b3",
+      "target": "file_b779ee6a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_041_22.md"
+    },
+    {
+      "source": "file_b779ee6a",
+      "target": "file_ad3fee55",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_042_23.md"
+    },
+    {
+      "source": "file_ad3fee55",
+      "target": "file_aeded8d1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_043_24.md"
+    },
+    {
+      "source": "file_aeded8d1",
+      "target": "file_6f2f1a2c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_044_第三章建构的兴起__1750_1870_年间德国启蒙运动时期_1.md"
+    },
+    {
+      "source": "file_6f2f1a2c",
+      "target": "file_6e0a8709",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_044_第三章建构的兴起__1750_1870_年间德国启蒙运动时期_2.md"
+    },
+    {
+      "source": "file_6e0a8709",
+      "target": "file_65adcb62",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_044_第三章建构的兴起__1750_1870_年间德国启蒙运动时期_3.md"
+    },
+    {
+      "source": "file_65adcb62",
+      "target": "file_70368e16",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_045_图3_26_1.md"
+    },
+    {
+      "source": "file_70368e16",
+      "target": "file_cb3f2746",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_045_图3_26_2.md"
+    },
+    {
+      "source": "file_cb3f2746",
+      "target": "file_18658783",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_045_图3_26_3.md"
+    },
+    {
+      "source": "file_18658783",
+      "target": "file_da81e22b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_045_图3_26_4.md"
+    },
+    {
+      "source": "file_da81e22b",
+      "target": "file_9a51d586",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_046_14.md"
+    },
+    {
+      "source": "file_9a51d586",
+      "target": "file_40de2b1e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_047_15.md"
+    },
+    {
+      "source": "file_40de2b1e",
+      "target": "file_43e24fb9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_048_16.md"
+    },
+    {
+      "source": "file_43e24fb9",
+      "target": "file_b779ee6a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_049_22.md"
+    },
+    {
+      "source": "file_b779ee6a",
+      "target": "file_ad3fee55",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_050_23.md"
+    },
+    {
+      "source": "file_ad3fee55",
+      "target": "file_aeded8d1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_051_24.md"
+    },
+    {
+      "source": "file_aeded8d1",
+      "target": "file_f04be517",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_052_25.md"
+    },
+    {
+      "source": "file_f04be517",
+      "target": "file_7d4a13bc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_053_26.md"
+    },
+    {
+      "source": "file_7d4a13bc",
+      "target": "file_f09f2314",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_054_28.md"
+    },
+    {
+      "source": "file_f09f2314",
+      "target": "file_57e60466",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_055_30.md"
+    },
+    {
+      "source": "file_57e60466",
+      "target": "file_6fa252a0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_056_31.md"
+    },
+    {
+      "source": "file_6fa252a0",
+      "target": "file_82020807",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_057_36.md"
+    },
+    {
+      "source": "file_82020807",
+      "target": "file_0b41fcca",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_058_41_1.md"
+    },
+    {
+      "source": "file_0b41fcca",
+      "target": "file_38db78e5",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_058_41_2.md"
+    },
+    {
+      "source": "file_38db78e5",
+      "target": "file_8b0b8a47",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_058_41_3.md"
+    },
+    {
+      "source": "file_8b0b8a47",
+      "target": "file_221d5b2d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_058_41_4.md"
+    },
+    {
+      "source": "file_221d5b2d",
+      "target": "file_568a3937",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_058_41_5.md"
+    },
+    {
+      "source": "file_568a3937",
+      "target": "file_e5d6e718",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_058_41_6.md"
+    },
+    {
+      "source": "file_e5d6e718",
+      "target": "file_b779ee6a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_059_22.md"
+    },
+    {
+      "source": "file_b779ee6a",
+      "target": "file_ad3fee55",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_060_23.md"
+    },
+    {
+      "source": "file_ad3fee55",
+      "target": "file_aeded8d1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_061_24.md"
+    },
+    {
+      "source": "file_aeded8d1",
+      "target": "file_aa57467b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_062_29.md"
+    },
+    {
+      "source": "file_aa57467b",
+      "target": "file_57e60466",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_063_30.md"
+    },
+    {
+      "source": "file_57e60466",
+      "target": "file_6fb1a1da",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_064_第五章奥古斯特_佩雷与古典理性主义_1.md"
+    },
+    {
+      "source": "file_6fb1a1da",
+      "target": "file_9ffc755d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_064_第五章奥古斯特_佩雷与古典理性主义_2.md"
+    },
+    {
+      "source": "file_9ffc755d",
+      "target": "file_45d976b3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_064_第五章奥古斯特_佩雷与古典理性主义_3.md"
+    },
+    {
+      "source": "file_45d976b3",
+      "target": "file_1531cc87",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_064_第五章奥古斯特_佩雷与古典理性主义_4.md"
+    },
+    {
+      "source": "file_1531cc87",
+      "target": "file_02825e6a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_064_第五章奥古斯特_佩雷与古典理性主义_5.md"
+    },
+    {
+      "source": "file_02825e6a",
+      "target": "file_3ab43ad0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_065_5_Auguste_Perret_and_Classical_1.md"
+    },
+    {
+      "source": "file_3ab43ad0",
+      "target": "file_772052d4",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_065_5_Auguste_Perret_and_Classical_2.md"
+    },
+    {
+      "source": "file_772052d4",
+      "target": "file_37cbfac1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_066_27_1.md"
+    },
+    {
+      "source": "file_37cbfac1",
+      "target": "file_da8a33e4",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_066_27_2.md"
+    },
+    {
+      "source": "file_da8a33e4",
+      "target": "file_caf1458e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_066_27_3.md"
+    },
+    {
+      "source": "file_caf1458e",
+      "target": "file_20daa8d7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_066_27_4.md"
+    },
+    {
+      "source": "file_20daa8d7",
+      "target": "file_a79a1b51",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_067_图6_30_1.md"
+    },
+    {
+      "source": "file_a79a1b51",
+      "target": "file_d28db5bc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_067_图6_30_2.md"
+    },
+    {
+      "source": "file_d28db5bc",
+      "target": "file_db85d7d5",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_067_图6_30_3.md"
+    },
+    {
+      "source": "file_db85d7d5",
+      "target": "file_c75ac7d1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_068_图6_68.md"
+    },
+    {
+      "source": "file_c75ac7d1",
+      "target": "file_eedbbd86",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_069_B_Mies_van_der_Rohe__Avant_Gar.md"
+    },
+    {
+      "source": "file_eedbbd86",
+      "target": "file_ba9d3328",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_070_1.md"
+    },
+    {
+      "source": "file_ba9d3328",
+      "target": "file_40de2b1e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_071_15.md"
+    },
+    {
+      "source": "file_40de2b1e",
+      "target": "file_c9687ae1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_072_17.md"
+    },
+    {
+      "source": "file_c9687ae1",
+      "target": "file_797b373a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_073_3.md"
+    },
+    {
+      "source": "file_797b373a",
+      "target": "file_57e60466",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_074_30.md"
+    },
+    {
+      "source": "file_57e60466",
+      "target": "file_3c223d3f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_075_32.md"
+    },
+    {
+      "source": "file_3c223d3f",
+      "target": "file_1b8fc108",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_076_33.md"
+    },
+    {
+      "source": "file_1b8fc108",
+      "target": "file_49b7f2e3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_077_34.md"
+    },
+    {
+      "source": "file_49b7f2e3",
+      "target": "file_98a279da",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_078_第七章路易_康__1944_1972_年间的现代化与新纪念性_1.md"
+    },
+    {
+      "source": "file_98a279da",
+      "target": "file_e41049c3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_078_第七章路易_康__1944_1972_年间的现代化与新纪念性_2.md"
+    },
+    {
+      "source": "file_e41049c3",
+      "target": "file_f95206a9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_078_第七章路易_康__1944_1972_年间的现代化与新纪念性_3.md"
+    },
+    {
+      "source": "file_f95206a9",
+      "target": "file_da61efed",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_078_第七章路易_康__1944_1972_年间的现代化与新纪念性_4.md"
+    },
+    {
+      "source": "file_da61efed",
+      "target": "file_ee70fab1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_078_第七章路易_康__1944_1972_年间的现代化与新纪念性_5.md"
+    },
+    {
+      "source": "file_ee70fab1",
+      "target": "file_624d9499",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_078_第七章路易_康__1944_1972_年间的现代化与新纪念性_6.md"
+    },
+    {
+      "source": "file_624d9499",
+      "target": "file_3dfbd25b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_078_第七章路易_康__1944_1972_年间的现代化与新纪念性_7.md"
+    },
+    {
+      "source": "file_3dfbd25b",
+      "target": "file_360d9bbe",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_079_1_Louis_Kahn__Modernization_an.md"
+    },
+    {
+      "source": "file_360d9bbe",
+      "target": "file_57b22a2f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_080_10.md"
+    },
+    {
+      "source": "file_57b22a2f",
+      "target": "file_59dcf9b3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_081_13.md"
+    },
+    {
+      "source": "file_59dcf9b3",
+      "target": "file_40de2b1e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_082_15.md"
+    },
+    {
+      "source": "file_40de2b1e",
+      "target": "file_c9687ae1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_083_17.md"
+    },
+    {
+      "source": "file_c9687ae1",
+      "target": "file_9ca76e9f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_084_19.md"
+    },
+    {
+      "source": "file_9ca76e9f",
+      "target": "file_5a671fc7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_085_21.md"
+    },
+    {
+      "source": "file_5a671fc7",
+      "target": "file_304851a7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_086_第八章约恩_伍重__跨文化形式与建构的意喻_1.md"
+    },
+    {
+      "source": "file_304851a7",
+      "target": "file_36d30158",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_086_第八章约恩_伍重__跨文化形式与建构的意喻_2.md"
+    },
+    {
+      "source": "file_36d30158",
+      "target": "file_bb75776d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_086_第八章约恩_伍重__跨文化形式与建构的意喻_3.md"
+    },
+    {
+      "source": "file_bb75776d",
+      "target": "file_3c214780",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_086_第八章约恩_伍重__跨文化形式与建构的意喻_4.md"
+    },
+    {
+      "source": "file_3c214780",
+      "target": "file_89d18454",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_087_图8_49_1.md"
+    },
+    {
+      "source": "file_89d18454",
+      "target": "file_f16b6385",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_087_图8_49_2.md"
+    },
+    {
+      "source": "file_f16b6385",
+      "target": "file_67a0dc7f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_088_1_元_E_1.md"
+    },
+    {
+      "source": "file_67a0dc7f",
+      "target": "file_79516079",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_088_1_元_E_2.md"
+    },
+    {
+      "source": "file_79516079",
+      "target": "file_9f17386f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_089_图8_79.md"
+    },
+    {
+      "source": "file_9f17386f",
+      "target": "file_c9687ae1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_090_17.md"
+    },
+    {
+      "source": "file_c9687ae1",
+      "target": "file_9ca76e9f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_091_19.md"
+    },
+    {
+      "source": "file_9ca76e9f",
+      "target": "file_7d4a13bc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_092_26.md"
+    },
+    {
+      "source": "file_7d4a13bc",
+      "target": "file_f09f2314",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_093_28.md"
+    },
+    {
+      "source": "file_f09f2314",
+      "target": "file_bb1bd222",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_094_35.md"
+    },
+    {
+      "source": "file_bb1bd222",
+      "target": "file_83af13f8",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_095_37.md"
+    },
+    {
+      "source": "file_83af13f8",
+      "target": "file_8ced2492",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_096_38.md"
+    },
+    {
+      "source": "file_8ced2492",
+      "target": "file_7473ce2f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_097_45.md"
+    },
+    {
+      "source": "file_7473ce2f",
+      "target": "file_37f15cb0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_098_46.md"
+    },
+    {
+      "source": "file_37f15cb0",
+      "target": "file_909ad11e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_099_48.md"
+    },
+    {
+      "source": "file_909ad11e",
+      "target": "file_08c3f64a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_100_50.md"
+    },
+    {
+      "source": "file_08c3f64a",
+      "target": "file_a7424518",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_101_51.md"
+    },
+    {
+      "source": "file_a7424518",
+      "target": "file_ea55d1fd",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_102_52.md"
+    },
+    {
+      "source": "file_ea55d1fd",
+      "target": "file_bf1d96ca",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_103_54.md"
+    },
+    {
+      "source": "file_bf1d96ca",
+      "target": "file_1512e70c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_104_第九章卡洛_斯卡帕与节点崇拜_1.md"
+    },
+    {
+      "source": "file_1512e70c",
+      "target": "file_c08c6110",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_104_第九章卡洛_斯卡帕与节点崇拜_2.md"
+    },
+    {
+      "source": "file_c08c6110",
+      "target": "file_78d11f74",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_104_第九章卡洛_斯卡帕与节点崇拜_3.md"
+    },
+    {
+      "source": "file_78d11f74",
+      "target": "file_62aabf11",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_104_第九章卡洛_斯卡帕与节点崇拜_4.md"
+    },
+    {
+      "source": "file_62aabf11",
+      "target": "file_f11950ed",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_104_第九章卡洛_斯卡帕与节点崇拜_5.md"
+    },
+    {
+      "source": "file_f11950ed",
+      "target": "file_6cf87185",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_105_9_Carlo_Scarpa_and_the_Adorati.md"
+    },
+    {
+      "source": "file_6cf87185",
+      "target": "file_ba9d3328",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_106_1.md"
+    },
+    {
+      "source": "file_ba9d3328",
+      "target": "file_57b22a2f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_107_10.md"
+    },
+    {
+      "source": "file_57b22a2f",
+      "target": "file_40de2b1e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_108_15.md"
+    },
+    {
+      "source": "file_40de2b1e",
+      "target": "file_43e24fb9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_109_16.md"
+    },
+    {
+      "source": "file_43e24fb9",
+      "target": "file_a932e192",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_110_18.md"
+    },
+    {
+      "source": "file_a932e192",
+      "target": "file_577dd2ae",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_111_20.md"
+    },
+    {
+      "source": "file_577dd2ae",
+      "target": "file_5a671fc7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_112_21.md"
+    },
+    {
+      "source": "file_5a671fc7",
+      "target": "file_b779ee6a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_113_22.md"
+    },
+    {
+      "source": "file_b779ee6a",
+      "target": "file_ad3fee55",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_114_23.md"
+    },
+    {
+      "source": "file_ad3fee55",
+      "target": "file_aeded8d1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_115_24.md"
+    },
+    {
+      "source": "file_aeded8d1",
+      "target": "file_f04be517",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_116_25.md"
+    },
+    {
+      "source": "file_f04be517",
+      "target": "file_7d4a13bc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_117_26.md"
+    },
+    {
+      "source": "file_7d4a13bc",
+      "target": "file_37cbfac1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_118_27.md"
+    },
+    {
+      "source": "file_37cbfac1",
+      "target": "file_f09f2314",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_119_28.md"
+    },
+    {
+      "source": "file_f09f2314",
+      "target": "file_aa57467b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_120_29.md"
+    },
+    {
+      "source": "file_aa57467b",
+      "target": "file_57e60466",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_121_30.md"
+    },
+    {
+      "source": "file_57e60466",
+      "target": "file_3c223d3f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_122_32.md"
+    },
+    {
+      "source": "file_3c223d3f",
+      "target": "file_1b8fc108",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_123_33.md"
+    },
+    {
+      "source": "file_1b8fc108",
+      "target": "file_bb1bd222",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_124_35.md"
+    },
+    {
+      "source": "file_bb1bd222",
+      "target": "file_82020807",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_125_36.md"
+    },
+    {
+      "source": "file_82020807",
+      "target": "file_8ced2492",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_126_38.md"
+    },
+    {
+      "source": "file_8ced2492",
+      "target": "file_848f65c5",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_127_39.md"
+    },
+    {
+      "source": "file_848f65c5",
+      "target": "file_a8ed2767",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_128_40.md"
+    },
+    {
+      "source": "file_a8ed2767",
+      "target": "file_3032915e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_129_第十章后记__1903_1994_年间的建构之路_1.md"
+    },
+    {
+      "source": "file_3032915e",
+      "target": "file_460788fd",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_129_第十章后记__1903_1994_年间的建构之路_2.md"
+    },
+    {
+      "source": "file_460788fd",
+      "target": "file_47f7465b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_129_第十章后记__1903_1994_年间的建构之路_3.md"
+    },
+    {
+      "source": "file_47f7465b",
+      "target": "file_1c805197",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_129_第十章后记__1903_1994_年间的建构之路_4.md"
+    },
+    {
+      "source": "file_1c805197",
+      "target": "file_c34f2de1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_130_图10_36_1.md"
+    },
+    {
+      "source": "file_c34f2de1",
+      "target": "file_589e69b6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_130_图10_36_2.md"
+    },
+    {
+      "source": "file_589e69b6",
+      "target": "file_69440c80",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_130_图10_36_3.md"
+    },
+    {
+      "source": "file_69440c80",
+      "target": "file_43e24fb9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_131_16.md"
+    },
+    {
+      "source": "file_43e24fb9",
+      "target": "file_c9687ae1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_132_17.md"
+    },
+    {
+      "source": "file_c9687ae1",
+      "target": "file_e4492ed6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_133_8.md"
+    },
+    {
+      "source": "file_e4492ed6",
+      "target": "file_9ca76e9f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_134_19.md"
+    },
+    {
+      "source": "file_9ca76e9f",
+      "target": "file_ad3fee55",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_135_23.md"
+    },
+    {
+      "source": "file_ad3fee55",
+      "target": "file_aeded8d1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_136_24.md"
+    },
+    {
+      "source": "file_aeded8d1",
+      "target": "file_7d4a13bc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_137_26.md"
+    },
+    {
+      "source": "file_7d4a13bc",
+      "target": "file_37cbfac1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_138_27.md"
+    },
+    {
+      "source": "file_37cbfac1",
+      "target": "file_f09f2314",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_139_28.md"
+    },
+    {
+      "source": "file_f09f2314",
+      "target": "file_985024a7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_140_密涅瓦的猫头鹰__尾声_1.md"
+    },
+    {
+      "source": "file_985024a7",
+      "target": "file_8c903db5",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_140_密涅瓦的猫头鹰__尾声_2.md"
+    },
+    {
+      "source": "file_8c903db5",
+      "target": "file_ec44b046",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_141_The_Owl_of_Minerva__An_Epilogu_1.md"
+    },
+    {
+      "source": "file_ec44b046",
+      "target": "file_765953dc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_141_The_Owl_of_Minerva__An_Epilogu_2.md"
+    },
+    {
+      "source": "file_765953dc",
+      "target": "file_5ea16aee",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "book_space_poetics_true_chunk_141_The_Owl_of_Minerva__An_Epilogu_3.md"
+    },
+    {
+      "source": "file_43e24fb9",
+      "target": "file_afc0f3c7",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "book_space_poetics_true_chunk_017_16.md"
+    }
+  ]
+}

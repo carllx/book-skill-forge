@@ -1,0 +1,47 @@
+{
+  "book": "Architecture: Form, Space, & Order",
+  "distillation": {
+    "mindsets": [
+      {
+        "name": "图底共生 (Figure-Ground Symbiosis)",
+        "description": "空间不是被动的虚无，而是与形式（实体）同等重要的积极要素。建筑设计是图（形式）与底（空间）的双向塑造。"
+      },
+      {
+        "name": "原型衍生 (Archetypal Transformation)",
+        "description": "一切复杂的建筑与空间形态，其底层逻辑皆可拆解并溯源至最基础的几何原点：点、线、面、体。"
+      },
+      {
+        "name": "动态时空观 (Kinetic Experience)",
+        "description": "建筑不仅仅是静态的雕塑，它必须在时间的推移和人的运动（流线）中被体验，流线是展开空间叙事的轴线。"
+      }
+    ],
+    "principles": [
+      {
+        "name": "秩序法则 (Ordering Principles)",
+        "description": "通过轴线(Axis)、对称(Symmetry)、层级(Hierarchy)、基准(Datum)、韵律(Rhythm)和变换(Transformation)等语法，将杂乱的元素统合为一个连贯的整体。"
+      },
+      {
+        "name": "尺度与比例协和 (Proportion and Scale Harmony)",
+        "description": "形式的推敲必须回归到人体的度量尺度，并通过数学或几何的比例系统（如黄金分割、模度）在各部分之间建立内在的视觉和谐。"
+      },
+      {
+        "name": "空间组织拓扑 (Spatial Organization Topology)",
+        "description": "依据内在逻辑选择空间阵列模式（集中式、线式、放射式、组团式、网格），而非盲目堆砌。"
+      }
+    ],
+    "anti_patterns": [
+      {
+        "name": "图底失调 / 孤岛化建筑 (Figure-Ground Disassociation)",
+        "description": "将建筑视作随意摆放在场地上的孤立物体，忽视了建筑对外部负空间（如庭院、街道）的界定与包裹，导致内外割裂。"
+      },
+      {
+        "name": "层级迷失 (Loss of Hierarchy)",
+        "description": "在复杂的空间组合中未能通过尺寸、形状或位置的区别来凸显核心空间，导致整体均质化、平庸化，失去焦点和视觉意义。"
+      },
+      {
+        "name": "基准缺失 (Datumless Fragmentation)",
+        "description": "在处理多样性和复杂性时，缺乏一根明确的线、面或体积作为参照“基准(Datum)”，导致各元素散落无序，无法收拢为整体。"
+      }
+    ]
+  }
+}

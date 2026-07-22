@@ -1,0 +1,34 @@
+{
+  "ground_truth_concepts": [
+    {"id": "principles_of_new_media", "name": "Principles of New Media", "importance": 10, "is_matched": true},
+    {"id": "numerical_representation", "name": "Numerical Representation", "importance": 9, "is_matched": true},
+    {"id": "modularity", "name": "Modularity", "importance": 9, "is_matched": true},
+    {"id": "automation", "name": "Automation", "importance": 8, "is_matched": true},
+    {"id": "variability", "name": "Variability", "importance": 8, "is_matched": true},
+    {"id": "transcoding", "name": "Transcoding", "importance": 10, "is_matched": true},
+    {"id": "the_interface", "name": "The Interface", "importance": 8, "is_matched": true},
+    {"id": "cultural_interfaces", "name": "Cultural Interfaces", "importance": 8, "is_matched": true},
+    {"id": "the_screen", "name": "The Screen", "importance": 7, "is_matched": false},
+    {"id": "the_operations", "name": "The Operations", "importance": 8, "is_matched": true},
+    {"id": "compositing", "name": "Compositing", "importance": 8, "is_matched": true},
+    {"id": "teleaction", "name": "Teleaction", "importance": 6, "is_matched": true},
+    {"id": "menus_filters", "name": "Menus and Filters", "importance": 7, "is_matched": false},
+    {"id": "the_illusions", "name": "The Illusions", "importance": 7, "is_matched": true},
+    {"id": "synthetic_realism", "name": "Synthetic Realism", "importance": 8, "is_matched": false},
+    {"id": "the_forms", "name": "The Forms", "importance": 9, "is_matched": true},
+    {"id": "database", "name": "Database", "importance": 10, "is_matched": true},
+    {"id": "navigable_space", "name": "Navigable Space", "importance": 9, "is_matched": true},
+    {"id": "digital_cinema", "name": "Digital Cinema", "importance": 8, "is_matched": true}
+  ],
+  "extracted_concepts": [
+    {"id": "historical_trajectories", "name": "两条历史轨迹的必然融合", "is_valid": true, "is_redundant": false},
+    {"id": "the_myth_of_interactivity", "name": "交互性的虚假神话", "is_valid": true, "is_redundant": false},
+    {"id": "equating_new_media_with_distribution", "name": "数字化分发的片面等号", "is_valid": true, "is_redundant": false},
+    {"id": "the_myth_of_the_digital", "name": "混淆离散与数字", "is_valid": true, "is_redundant": false}
+  ],
+  "artifact_usability": {
+    "formatting_score": 5,
+    "clarity_score": 5,
+    "logical_score": 5
+  }
+}

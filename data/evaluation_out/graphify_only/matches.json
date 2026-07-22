@@ -1,0 +1,42 @@
+{
+  "ground_truth_concepts": [
+    {"id": "principles_of_new_media", "name": "Principles of New Media", "importance": 10, "is_matched": true},
+    {"id": "numerical_representation", "name": "Numerical Representation", "importance": 9, "is_matched": true},
+    {"id": "modularity", "name": "Modularity", "importance": 9, "is_matched": true},
+    {"id": "automation", "name": "Automation", "importance": 8, "is_matched": true},
+    {"id": "variability", "name": "Variability", "importance": 8, "is_matched": true},
+    {"id": "transcoding", "name": "Transcoding", "importance": 10, "is_matched": true},
+    {"id": "the_interface", "name": "The Interface", "importance": 8, "is_matched": true},
+    {"id": "cultural_interfaces", "name": "Cultural Interfaces", "importance": 8, "is_matched": true},
+    {"id": "the_screen", "name": "The Screen", "importance": 7, "is_matched": false},
+    {"id": "the_operations", "name": "The Operations", "importance": 8, "is_matched": true},
+    {"id": "compositing", "name": "Compositing", "importance": 8, "is_matched": true},
+    {"id": "teleaction", "name": "Teleaction", "importance": 6, "is_matched": true},
+    {"id": "menus_filters", "name": "Menus and Filters", "importance": 7, "is_matched": false},
+    {"id": "the_illusions", "name": "The Illusions", "importance": 7, "is_matched": true},
+    {"id": "synthetic_realism", "name": "Synthetic Realism", "importance": 8, "is_matched": true},
+    {"id": "the_forms", "name": "The Forms", "importance": 9, "is_matched": true},
+    {"id": "database", "name": "Database", "importance": 10, "is_matched": true},
+    {"id": "navigable_space", "name": "Navigable Space", "importance": 9, "is_matched": true},
+    {"id": "digital_cinema", "name": "Digital Cinema", "importance": 8, "is_matched": true}
+  ],
+  "extracted_concepts": [
+    {"id": "numerical_representation", "name": "Numerical Representation", "is_valid": true, "is_redundant": false},
+    {"id": "modularity", "name": "Modularity", "is_valid": true, "is_redundant": false},
+    {"id": "automation", "name": "Automation", "is_valid": true, "is_redundant": false},
+    {"id": "variability", "name": "Variability", "is_valid": true, "is_redundant": false},
+    {"id": "transcoding", "name": "Transcoding", "is_valid": true, "is_redundant": false},
+    {"id": "database_logic", "name": "Database Logic", "is_valid": true, "is_redundant": false},
+    {"id": "navigable_space", "name": "Navigable Space", "is_valid": true, "is_redundant": false},
+    {"id": "cultural_interfaces", "name": "Cultural Interfaces", "is_valid": true, "is_redundant": false},
+    {"id": "compositing", "name": "Compositing / Spatial Montage", "is_valid": true, "is_redundant": false},
+    {"id": "synthetic_realism", "name": "Synthetic Realism", "is_valid": true, "is_redundant": false},
+    {"id": "teleaction", "name": "Teleaction", "is_valid": true, "is_redundant": false},
+    {"id": "digital_cinema", "name": "Digital Cinema", "is_valid": true, "is_redundant": false}
+  ],
+  "artifact_usability": {
+    "formatting_score": 5, 
+    "clarity_score": 5,    
+    "logical_score": 5     
+  }
+}

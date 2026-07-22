@@ -1,0 +1,3 @@
+{"timestamp": "2026-07-21T22:06:42.240284", "book_id": "envisioning-information", "recipe": "graphify_only", "recall": 0.5277777777777778, "precision": 1.0, "usability": 0.8, "artifact_size_bytes": 195}
+{"timestamp": "2026-07-21T22:06:42.426587", "book_id": "envisioning-information", "recipe": "cangjie_only", "recall": 0.4722222222222222, "precision": 1.0, "usability": 0.85, "artifact_size_bytes": 204}
+{"timestamp": "2026-07-21T22:06:42.630354", "book_id": "envisioning-information", "recipe": "parallel_hybrid", "recall": 1.0, "precision": 1.0, "usability": 0.95, "artifact_size_bytes": 403}

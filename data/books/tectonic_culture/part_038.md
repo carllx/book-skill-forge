@@ -1,0 +1,40 @@
+## Part 38
+
+> [BREADCRUMB_CTX: 《tectonic_culture》 > Part 38]
+
+Perret's career has its origin in two antithetical experiences: the stimulating and challenging reality of his father's building business and the privileged education that he received in the Ecole des Beaux-Arts, above all from his theory teacher Julien Guadet, whose encyclopedic Elements et theories de I'architecture was published in 1902.² This age-old opposition between _practice and theory in architectural education was to be decided quite precipitousiy in Perret's case in favor of practice, for while he dutifully entered the Ecole des Beaux-Arts in 1891 and gained seven medailles and the Prix des Architectes Americains during his course of study there, he left abruptly in 1897 without submitting a project for his final diploma.
+
+![](images/9703146b86759d3903d8169e4bb2c6f9ca8dbf9def1f8c653e832c3895c9f694.jpg)
+
+For Perret, reinforced concrete was the perfect homogeneous system with which to reconcile the two-hundred-year-old schism lying at the very heart of the Greco-Gothic ideal, that is to say, to combine the asperities of Platonic form with the tectonic expressivity of structural rationalism. Three seminal buildings testify to Perret's synthetic approach, as he passes from a brilliant adaptation of the precepts of Viollet-le-Duc to the more idealized forms of classicized rationalism in which he would, nonetheless, remain committed to the primacy of the frame. The three buildings in succession are the Casino at St.-Malo (1899), an apartment block at 25 bis rue Franklin, Paris (1903), and a four-story parking garage completed in the rue Ponthieu, Paris, in 1905.
+
+The general availability of reinforced concrete as a universal technique, which came into being with Paul Christophe's Le Betonarme et sesapplications of 1902, serves to separate the first of these buildings from the other two, since the casino was built from load-bearing stonework and a timber superstructure. Perret's adoption of reinforced concrete as the primary if not the sole material of his practice would distance him from the more articulate constructed modes of structural rationalism advocated by Viollet-le-Duc. Like Frank Lloyd Wright, who attempted fair-faced, reinforced concrete construction at virtually the same time, Perret knew that this material did not lend itself to the poetic manifestation of W1 construction as an articulate syntax. Nor could its mode of resisting gravity be made precisely expressive, at least not in the Greco-Gothic approach of Perret, who, save for utilitarian work, always chose to dispense with the typical haunched beam of the Hennebique frame, preferring to express his trabeated joints as having a uniform section throughout. This architectonic repression of the moment of maximum stress appeared even when Hennebique himself acted as consultant, as in the rue Franklin apartment; such a formal choice, made surely at the behest of the architect, seems all the more ironic given Hennebique's personal taste for an orientalized Gothic, as is evident from his own house completed in Bourg-la-Reine in 1904, where the haunched brackets of the cantilevered roofs, terraces, and balconies are fairly prominent, as are the fretted precast concrete balconies and the water tower minaret (fig. 5.2).
+
+Where Perret's St.-Malo casino remains a structural rationalist exercise in a manner uncannily close to the work of his American contemporary Frank Furness, 25 bis rue Franklin is a polemical celebration of the reinforced concrete frame,
+
+![](images/b47d4dcd4e0de823990ff1fe65bf33e0fa335ab8b414fa414766bf436bc4a062.jpg)
+
+![](images/4459b91be198745704d3c41b1f9c238355736a36ac2f101dd7e2ab5ee9f4d83b.jpg)
+
+5.3   
+Auguste Perret, 25 bis rue Franklin, Paris, 1902-1903. Axonometric.
+
+# 5.4
+
+Auguste Perret, 25 bis rue Franklin, elevation and sectional setback in relation to 1903 bylaw limits.
+
+# 5.5
+
+Auguste Perret, 25 bis rue Franklin, sunflower ceramic infill and terra-cotta cladding to the framework. Note the carpentry-like boss applied to the cantilever.
+
+for here the frame is seen in its entirety, much like a traditional half-timbered skeleton, rather than being masked under an overriding stone revetment, as was the standard practice of the period (figs. 5.3, 5.4). Apart from the elimination of the haunch, the frame itself is directly expressed as an assertion of the basic structure, particularly since a distinction between frame and infill is maintained throughout. However, concrete as such is not apparent since the skeleton is faced throughout with Alexandre Bigot's patent ceramic tiles. Given that this revetment discriminates between frame and infill (fig. 5.5), we may say that the overall expression is representational not only because of the articulation of the frame but also because of 日 certain referential ambiguity in its detailing. am alluding to the decorative newels that terminate the vertical members of the cantilevered bays at the first floor. The carpentry look of these elements encourages a reading of the frame as though it were made out of wood, an analogical treatment that surely derived in some measure from Auguste Choisy's Histoire de l'architecture of 1899. We need to remark here on Choisy's subscription to the theory that the classical Greek entablature was a transposition of archaic temple prototypes in timber, the skeletonal form being retained in order to sustain symbolic continuity (see fig. 2.31).3 This, together with similar theories advanced by Guadet, is surely the fundamental basis of Perret's lifelong obsession with the expression of the skeleton or charpente. As he was to put it in his Contribution a une theorie de l'architecture of 1952: "In the beginning architecture is only
+
+![](images/b95d4ea0797af9ef724b771dc8450dc95e36fed7ce18fa113c08d3bb4ac25afc.jpg)
+
+![](images/c714b1099d97c5fb093e5a219e5a60611ae5ceb0fd2736449401a6a32a48711d.jpg)
+
+wooden framework. In order to overcome fire one builds in hard material. And the prestige of the wooden frame is such that one reproduces all the traits, including the heads of the nails."4 Perret's stress on the charpente evokes the same high status accorded to the carpenter or tekton as in the antique Greek world.
+
+In spite of the symmetry of its plan, one can hardly interpret 25 bis rue Franklin as a crypto-classical work, for as we have already seen the building would appear to be more Gothic in its affinities than Greek. However, Perret will soon change his attitude in this regard with the rue Ponthieu garage, built by the newly constituted firm of Perret Freres in 1905 (figs. 5.6, 5.7). In this work, the exposed concrete frame is manipulated in such a way as to allude to traditional classical elements; above all, the giant order implied by the two projecting piers situated on either side of the central aisle and the fourth-floor attic clerestory, which, together with its rudimentary projecting cornice, appears to be a conscious simulation of a classical entablature. This Greek feeling is mediated by the neo-Gothic, proto-Art Deco "rose window" that fills the spandrel of the central nave. On balance, however, despite the utilitarian character of the aisles, dedicated to the storage of automobiles, the work makes an overall allusion to 'the French classical tradition. Peter Collins's acute analysis of the facade tends to confirm this affinity. 38
+
+The wider spacing of the central bay, the sharp projection of the principal co/- umns, the quickened rhythm of the topmost story and the variations in the depths of beams, have all been introduced or exploited as deliberate aesthetic devices for producing contrasting proportions of a calculated emotional value, whilst the entasis of the main columns and the method of joining the beams to them with intermediate frames or alettes betokeneda regard for the finer subtleties of trabeated articulation seldom seen since the ancien régime.5

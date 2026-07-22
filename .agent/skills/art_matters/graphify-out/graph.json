@@ -1,0 +1,2019 @@
+{
+  "directed": true,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "file_1ee1dad5",
+      "label": "Art Matters",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_000_Art_Matters.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_aa310054",
+      "label": "IN COOPERATION WITHTHE CENTER FOR ADVANCED RESEARCH IN PHENOMENOLOGY",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_001_IN_COOPERATION_WITHTHE_CENTER_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a7538f28",
+      "label": "A Critical Commentary on Heidegger’s “The Origin of the Work of Art”",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_002_A_Critical_Commentary_on_Heide.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f86179e0",
+      "label": "Springer",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_003_Springer.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2355d0dd",
+      "label": "Preface",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_004_Preface.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e376365d",
+      "label": "Contents",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_005_Contents.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_57947ff0",
+      "label": "2. In Search of a Hero 17",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_006_2__In_Search_of_a_Hero_17.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_53acfc40",
+      "label": "3. Leaders and Followers 31",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_007_3__Leaders_and_Followers_31.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_fae6c451",
+      "label": "4. Origins 53",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_008_4__Origins_53.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a39fc681",
+      "label": "5. Art Work and Thing 69",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_009_5__Art_Work_and_Thing_69.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8eb03330",
+      "label": "6. A Pair of Shoes 83",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_010_6__A_Pair_of_Shoes_83.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7c25e97b",
+      "label": "7. Work and World 95",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_011_7__Work_and_World_95.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e1efdfe9",
+      "label": "8. World and Earth 109",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_012_8__World_and_Earth_109.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_388f8701",
+      "label": "9. The Essence of Truth 125",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_013_9__The_Essence_of_Truth_125.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6fa40efa",
+      "label": "10. Truth and Art 139",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_014_10__Truth_and_Art_139.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_668aa123",
+      "label": "11. Creators and Preservers 155",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_015_11__Creators_and_Preservers_15.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_05da855c",
+      "label": "Abbreviations",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_016_Abbreviations.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_60dc83e5",
+      "label": "1. Questioning Aesthetics",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_017_1__Questioning_Aesthetics.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d2ee01cd",
+      "label": "2. Heidegger Contra Hegel",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_018_2__Heidegger_Contra_Hegel_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7a74a7ad",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 018 2  Heidegger Contra Hegel 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_018_2__Heidegger_Contra_Hegel_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_885da0f1",
+      "label": "3. The Aesthetic Approach",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_019_3__The_Aesthetic_Approach.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_edd82529",
+      "label": "4. Art and Truth",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_020_4__Art_and_Truth_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c58effb2",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 020 4  Art and Truth 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_020_4__Art_and_Truth_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_450664b7",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 020 4  Art and Truth 3",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_020_4__Art_and_Truth_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_af2547c9",
+      "label": "5. The Advent of Truth",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_021_5__The_Advent_of_Truth.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1aeae7c0",
+      "label": "Notes",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_105_Notes.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_75ebb509",
+      "label": "1. Authenticity and Art",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_023_1__Authenticity_and_Art.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_89a924de",
+      "label": "2. Authenticity and Silence",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_024_2__Authenticity_and_Silence_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2f143c9f",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 024 2  Authenticity and Silence 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_024_2__Authenticity_and_Silence_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_28e6001b",
+      "label": "3. Guilt and Conscience",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_025_3__Guilt_and_Conscience.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_46e75660",
+      "label": "4. Resoluteness and Responsibility",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_026_4__Resoluteness_and_Responsibi_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5ecde702",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 026 4  Resoluteness and Responsibi 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_026_4__Resoluteness_and_Responsibi_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b4228559",
+      "label": "5. Looking for a Hero",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_027_5__Looking_for_a_Hero.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e2198e6e",
+      "label": "1. Choosing a Hero",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_029_1__Choosing_a_Hero.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3236177f",
+      "label": "2. The Rectorate",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_030_2__The_Rectorate_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5373ffa6",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 030 2  The Rectorate 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_030_2__The_Rectorate_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f73c7dc2",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 030 2  The Rectorate 3",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_030_2__The_Rectorate_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_94b3656d",
+      "label": "3. A “Private National Socialism”",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_031_3__A__Private_National_Sociali.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_8d3312b6",
+      "label": "4. The Greek Origin of Science",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_032_4__The_Greek_Origin_of_Science_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2c24f38d",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 032 4  The Greek Origin of Science 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_032_4__The_Greek_Origin_of_Science_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7053517d",
+      "label": "5. Holy Earth",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_033_5__Holy_Earth.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_75577d94",
+      "label": "6. Polemos",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_034_6__Polemos_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_243c58b0",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 034 6  Polemos 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_034_6__Polemos_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3c88cbac",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 034 6  Polemos 3",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_034_6__Polemos_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5776832f",
+      "label": "7. “All that is Great Stands in the Storm”",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_035_7___All_that_is_Great_Stands_i.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5daa6314",
+      "label": "8. A Letter",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_036_8__A_Letter.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a6290cce",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 037 Notes 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_037_Notes_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_755c4b37",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 037 Notes 3",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_037_Notes_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_33ab296e",
+      "label": "1. Roots",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_038_1__Roots.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_0127e2bb",
+      "label": "2. Disintegration and Renewal",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_039_2__Disintegration_and_Renewal.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_65fbc97a",
+      "label": "3. Metaphysics and the Loss of Meaning",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_040_3__Metaphysics_and_the_Loss_of_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_adcb1127",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 040 3  Metaphysics and the Loss of 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_040_3__Metaphysics_and_the_Loss_of_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a1b44284",
+      "label": "4. The Need for Art",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_041_4__The_Need_for_Art.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a0808e4e",
+      "label": "5. The Origin of Metaphysics",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_042_5__The_Origin_of_Metaphysics.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_28671ec6",
+      "label": "6. Art as Origin",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_043_6__Art_as_Origin_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9c363847",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 043 6  Art as Origin 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_043_6__Art_as_Origin_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_6109cdc9",
+      "label": "1. The Work of Art as a Thing",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_045_1__The_Work_of_Art_as_a_Thing_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5169ae4e",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 045 1  The Work of Art as a Thing 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_045_1__The_Work_of_Art_as_a_Thing_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9fe410a6",
+      "label": "2. What is a Thing?",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_046_2__What_is_a_Thing_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2aff1da1",
+      "label": "3. First Inadequate Answer: The Thing as Bearer of Properties",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_047_3__First_Inadequate_Answer__Th_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c8239ac4",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 047 3  First Inadequate Answer  Th 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_047_3__First_Inadequate_Answer__Th_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f08acb76",
+      "label": "4. Second Inadequate Answer: The Thing as Object of Perception",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_048_4__Second_Inadequate_Answer__T.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e783f52e",
+      "label": "5. Third Inadequate Answer: The Thing as Formed Matter",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_049_5__Third_Inadequate_Answer__Th.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f2c1a68a",
+      "label": "6. Looking to a Work of Art for an Answer",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_050_6__Looking_to_a_Work_of_Art_fo.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_9bf905c0",
+      "label": "1. Peasant Shoes",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_052_1__Peasant_Shoes.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3c06f2db",
+      "label": "2. A Willful Interpretation?",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_053_2__A_Willful_Interpretation_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d61a6942",
+      "label": "3. Seeing a World in a Pair of Shoes",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_054_3__Seeing_a_World_in_a_Pair_of.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_342d2a3a",
+      "label": "4. The Being of Equipment",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_055_4__The_Being_of_Equipment.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4f0117e6",
+      "label": "5. A “Happening of Truth”?",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_056_5__A__Happening_of_Truth__.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ed60980f",
+      "label": "6. Beauty and Truth",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_057_6__Beauty_and_Truth.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1ac1451d",
+      "label": "1. The Counterplay of World and Earth",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_059_1__The_Counterplay_of_World_an.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_18647fbf",
+      "label": "2. The Self-Subsistence of the Work of Art",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_060_2__The_Self_Subsistence_of_the_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1484776f",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 060 2  The Self Subsistence of the 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_060_2__The_Self_Subsistence_of_the_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_2a5f301a",
+      "label": "3. A Greek Temple",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_061_3__A_Greek_Temple_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4f4a42d9",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 061 3  A Greek Temple 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_061_3__A_Greek_Temple_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_05085685",
+      "label": "What Temple?",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_062_What_Temple__1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_19cf8e07",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 062 What Temple  2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_062_What_Temple__2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b06324aa",
+      "label": "5. House of God and Gate of Heaven",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_063_5__House_of_God_and_Gate_of_He.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_fef1a34d",
+      "label": "1. On the Way to the Ereignis",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_065_1__On_the_Way_to_the_Ereignis_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_66c655fc",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 065 1  On the Way to the Ereignis 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_065_1__On_the_Way_to_the_Ereignis_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b57ea03c",
+      "label": "2. Heidegger’s “World”",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_066_2__Heidegger_s__World_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_72cedebc",
+      "label": "3. Heidegger’s “Earth”",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_067_3__Heidegger_s__Earth__1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_48c4d6aa",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 067 3  Heidegger s  Earth  2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_067_3__Heidegger_s__Earth__2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a521b9c3",
+      "label": "4. The Strife of Earth and World",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_068_4__The_Strife_of_Earth_and_Wor.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_168bfe03",
+      "label": "5. The Place of Art in a “Needy Age”",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_069_5__The_Place_of_Art_in_a__Need.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4cfa921e",
+      "label": "1. Art and Truth",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_071_1__Art_and_Truth.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e7a9dff2",
+      "label": "2. The Meaning of “Truth”",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_072_2__The_Meaning_of__Truth__1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a8693746",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 072 2  The Meaning of  Truth  2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_072_2__The_Meaning_of__Truth__2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f83c4029",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 072 2  The Meaning of  Truth  3",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_072_2__The_Meaning_of__Truth__3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4daa27d4",
+      "label": "3. Truth as Unconcealedness",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_073_3__Truth_as_Unconcealedness_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_778b9246",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 073 3  Truth as Unconcealedness 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_073_3__Truth_as_Unconcealedness_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5338bcde",
+      "label": "4. “The Nature of Truth is Untruth”",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_074_4___The_Nature_of_Truth_is_Unt.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_59228b39",
+      "label": "5. Art as One Way in which Truth Happens",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_075_5__Art_as_One_Way_in_which_Tru.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_e0c44624",
+      "label": "1. Art and Techne",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_077_1__Art_and_Techne_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f8d23f77",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 077 1  Art and Techne 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_077_1__Art_and_Techne_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_28b33f27",
+      "label": "2. Craftsman and Artist",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_078_2__Craftsman_and_Artist.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_669024f8",
+      "label": "3. The Happening of Truth in Art",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_079_3__The_Happening_of_Truth_in_A_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_75ec2a33",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 079 3  The Happening of Truth in A 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_079_3__The_Happening_of_Truth_in_A_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_7b178c61",
+      "label": "4. The Happening of Truth in the Founding of a State",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_080_4__The_Happening_of_Truth_in_t_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ac47de41",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 080 4  The Happening of Truth in t 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_080_4__The_Happening_of_Truth_in_t_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_f02f9ebe",
+      "label": "5. The Happening of Truth in Faith",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_081_5__The_Happening_of_Truth_in_F.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_a37ad91f",
+      "label": "6. The Happening of Truth in Sacrifice",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_082_6__The_Happening_of_Truth_in_S.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_1613c57e",
+      "label": "7. The Happening of Truth in Thought",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_083_7__The_Happening_of_Truth_in_T.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3e3f0bbb",
+      "label": "1. The Rift of World and Earth",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_085_1__The_Rift_of_World_and_Earth_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_4ff7329d",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 085 1  The Rift of World and Earth 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_085_1__The_Rift_of_World_and_Earth_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_820f10a3",
+      "label": "2. The Work of Art as Something Created",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_086_2__The_Work_of_Art_as_Somethin.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_24488950",
+      "label": "3. Creators and Preservers",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_087_3__Creators_and_Preservers.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ea96876f",
+      "label": "4. Binding Freedom",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_088_4__Binding_Freedom.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5710dec1",
+      "label": "5. Art as Origin of Creators and Preservers",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_089_5__Art_as_Origin_of_Creators_a.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5976f76d",
+      "label": "1. Poetry: The Essence of Art",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_091_1__Poetry__The_Essence_of_Art.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_0d642e19",
+      "label": "2. Poetry and Poesy",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_092_2__Poetry_and_Poesy_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ccbfa0dc",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 092 2  Poetry and Poesy 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_092_2__Poetry_and_Poesy_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_fbb024c6",
+      "label": "3. The Creativity of Preserving",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_093_3__The_Creativity_of_Preservin.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_02c9766d",
+      "label": "3.1 Founding as Bestowing",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_094_3_1_Founding_as_Bestowing.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d475918c",
+      "label": "3.2 Founding as Grounding",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_095_3_2_Founding_as_Grounding.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_c3cc6303",
+      "label": "3.3 Founding as Beginning",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_096_3_3_Founding_as_Beginning.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_5ea255a9",
+      "label": "4. Art as the Origin of Truth",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_097_4__Art_as_the_Origin_of_Truth.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_b1fc3e2d",
+      "label": "1. The Riddle of the Beautiful",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_099_1__The_Riddle_of_the_Beautiful.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_3fa511a9",
+      "label": "2. Art and Boredom",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_100_2__Art_and_Boredom.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ce0102e1",
+      "label": "3. Hegel or Ho¨lderlin?",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_101_3__Hegel_or_Ho_lderlin_.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_965ae5f4",
+      "label": "4. Truth and Beauty",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_102_4__Truth_and_Beauty.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_d8600b69",
+      "label": "5. Three Final Thoughts",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_103_5__Three_Final_Thoughts_1.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_bebb93fd",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 103 5  Three Final Thoughts 2",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_103_5__Three_Final_Thoughts_2.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_ed31de66",
+      "label": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art chunk 103 5  Three Final Thoughts 3",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_103_5__Three_Final_Thoughts_3.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_68ecfb19",
+      "label": "6. Coda: A Chinese Tale",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_104_6__Coda__A_Chinese_Tale.md",
+      "description": "Primary concept extracted from chunk"
+    },
+    {
+      "id": "file_0ed78bdf",
+      "label": "Index",
+      "file_type": "concept",
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_106_Index.md",
+      "description": "Primary concept extracted from chunk"
+    }
+  ],
+  "links": [
+    {
+      "source": "file_1ee1dad5",
+      "target": "file_aa310054",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_001_IN_COOPERATION_WITHTHE_CENTER_.md"
+    },
+    {
+      "source": "file_aa310054",
+      "target": "file_a7538f28",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_002_A_Critical_Commentary_on_Heide.md"
+    },
+    {
+      "source": "file_a7538f28",
+      "target": "file_f86179e0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_003_Springer.md"
+    },
+    {
+      "source": "file_f86179e0",
+      "target": "file_2355d0dd",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_004_Preface.md"
+    },
+    {
+      "source": "file_2355d0dd",
+      "target": "file_e376365d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_005_Contents.md"
+    },
+    {
+      "source": "file_e376365d",
+      "target": "file_57947ff0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_006_2__In_Search_of_a_Hero_17.md"
+    },
+    {
+      "source": "file_57947ff0",
+      "target": "file_53acfc40",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_007_3__Leaders_and_Followers_31.md"
+    },
+    {
+      "source": "file_53acfc40",
+      "target": "file_fae6c451",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_008_4__Origins_53.md"
+    },
+    {
+      "source": "file_fae6c451",
+      "target": "file_a39fc681",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_009_5__Art_Work_and_Thing_69.md"
+    },
+    {
+      "source": "file_a39fc681",
+      "target": "file_8eb03330",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_010_6__A_Pair_of_Shoes_83.md"
+    },
+    {
+      "source": "file_8eb03330",
+      "target": "file_7c25e97b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_011_7__Work_and_World_95.md"
+    },
+    {
+      "source": "file_7c25e97b",
+      "target": "file_e1efdfe9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_012_8__World_and_Earth_109.md"
+    },
+    {
+      "source": "file_e1efdfe9",
+      "target": "file_388f8701",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_013_9__The_Essence_of_Truth_125.md"
+    },
+    {
+      "source": "file_388f8701",
+      "target": "file_6fa40efa",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_014_10__Truth_and_Art_139.md"
+    },
+    {
+      "source": "file_6fa40efa",
+      "target": "file_668aa123",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_015_11__Creators_and_Preservers_15.md"
+    },
+    {
+      "source": "file_668aa123",
+      "target": "file_05da855c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_016_Abbreviations.md"
+    },
+    {
+      "source": "file_05da855c",
+      "target": "file_60dc83e5",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_017_1__Questioning_Aesthetics.md"
+    },
+    {
+      "source": "file_60dc83e5",
+      "target": "file_d2ee01cd",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_018_2__Heidegger_Contra_Hegel_1.md"
+    },
+    {
+      "source": "file_d2ee01cd",
+      "target": "file_7a74a7ad",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_018_2__Heidegger_Contra_Hegel_2.md"
+    },
+    {
+      "source": "file_7a74a7ad",
+      "target": "file_885da0f1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_019_3__The_Aesthetic_Approach.md"
+    },
+    {
+      "source": "file_885da0f1",
+      "target": "file_edd82529",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_020_4__Art_and_Truth_1.md"
+    },
+    {
+      "source": "file_edd82529",
+      "target": "file_c58effb2",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_020_4__Art_and_Truth_2.md"
+    },
+    {
+      "source": "file_c58effb2",
+      "target": "file_450664b7",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_020_4__Art_and_Truth_3.md"
+    },
+    {
+      "source": "file_450664b7",
+      "target": "file_af2547c9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_021_5__The_Advent_of_Truth.md"
+    },
+    {
+      "source": "file_af2547c9",
+      "target": "file_1aeae7c0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_022_Notes.md"
+    },
+    {
+      "source": "file_1aeae7c0",
+      "target": "file_75ebb509",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_023_1__Authenticity_and_Art.md"
+    },
+    {
+      "source": "file_75ebb509",
+      "target": "file_89a924de",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_024_2__Authenticity_and_Silence_1.md"
+    },
+    {
+      "source": "file_89a924de",
+      "target": "file_2f143c9f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_024_2__Authenticity_and_Silence_2.md"
+    },
+    {
+      "source": "file_2f143c9f",
+      "target": "file_28e6001b",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_025_3__Guilt_and_Conscience.md"
+    },
+    {
+      "source": "file_28e6001b",
+      "target": "file_46e75660",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_026_4__Resoluteness_and_Responsibi_1.md"
+    },
+    {
+      "source": "file_46e75660",
+      "target": "file_5ecde702",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_026_4__Resoluteness_and_Responsibi_2.md"
+    },
+    {
+      "source": "file_5ecde702",
+      "target": "file_b4228559",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_027_5__Looking_for_a_Hero.md"
+    },
+    {
+      "source": "file_b4228559",
+      "target": "file_1aeae7c0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_028_Notes.md"
+    },
+    {
+      "source": "file_1aeae7c0",
+      "target": "file_e2198e6e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_029_1__Choosing_a_Hero.md"
+    },
+    {
+      "source": "file_e2198e6e",
+      "target": "file_3236177f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_030_2__The_Rectorate_1.md"
+    },
+    {
+      "source": "file_3236177f",
+      "target": "file_5373ffa6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_030_2__The_Rectorate_2.md"
+    },
+    {
+      "source": "file_5373ffa6",
+      "target": "file_f73c7dc2",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_030_2__The_Rectorate_3.md"
+    },
+    {
+      "source": "file_f73c7dc2",
+      "target": "file_94b3656d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_031_3__A__Private_National_Sociali.md"
+    },
+    {
+      "source": "file_94b3656d",
+      "target": "file_8d3312b6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_032_4__The_Greek_Origin_of_Science_1.md"
+    },
+    {
+      "source": "file_8d3312b6",
+      "target": "file_2c24f38d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_032_4__The_Greek_Origin_of_Science_2.md"
+    },
+    {
+      "source": "file_2c24f38d",
+      "target": "file_7053517d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_033_5__Holy_Earth.md"
+    },
+    {
+      "source": "file_7053517d",
+      "target": "file_75577d94",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_034_6__Polemos_1.md"
+    },
+    {
+      "source": "file_75577d94",
+      "target": "file_243c58b0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_034_6__Polemos_2.md"
+    },
+    {
+      "source": "file_243c58b0",
+      "target": "file_3c88cbac",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_034_6__Polemos_3.md"
+    },
+    {
+      "source": "file_3c88cbac",
+      "target": "file_5776832f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_035_7___All_that_is_Great_Stands_i.md"
+    },
+    {
+      "source": "file_5776832f",
+      "target": "file_5daa6314",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_036_8__A_Letter.md"
+    },
+    {
+      "source": "file_5daa6314",
+      "target": "file_1aeae7c0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_037_Notes_1.md"
+    },
+    {
+      "source": "file_1aeae7c0",
+      "target": "file_a6290cce",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_037_Notes_2.md"
+    },
+    {
+      "source": "file_a6290cce",
+      "target": "file_755c4b37",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_037_Notes_3.md"
+    },
+    {
+      "source": "file_755c4b37",
+      "target": "file_33ab296e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_038_1__Roots.md"
+    },
+    {
+      "source": "file_33ab296e",
+      "target": "file_0127e2bb",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_039_2__Disintegration_and_Renewal.md"
+    },
+    {
+      "source": "file_0127e2bb",
+      "target": "file_65fbc97a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_040_3__Metaphysics_and_the_Loss_of_1.md"
+    },
+    {
+      "source": "file_65fbc97a",
+      "target": "file_adcb1127",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_040_3__Metaphysics_and_the_Loss_of_2.md"
+    },
+    {
+      "source": "file_adcb1127",
+      "target": "file_a1b44284",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_041_4__The_Need_for_Art.md"
+    },
+    {
+      "source": "file_a1b44284",
+      "target": "file_a0808e4e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_042_5__The_Origin_of_Metaphysics.md"
+    },
+    {
+      "source": "file_a0808e4e",
+      "target": "file_28671ec6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_043_6__Art_as_Origin_1.md"
+    },
+    {
+      "source": "file_28671ec6",
+      "target": "file_9c363847",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_043_6__Art_as_Origin_2.md"
+    },
+    {
+      "source": "file_9c363847",
+      "target": "file_1aeae7c0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_044_Notes.md"
+    },
+    {
+      "source": "file_1aeae7c0",
+      "target": "file_6109cdc9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_045_1__The_Work_of_Art_as_a_Thing_1.md"
+    },
+    {
+      "source": "file_6109cdc9",
+      "target": "file_5169ae4e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_045_1__The_Work_of_Art_as_a_Thing_2.md"
+    },
+    {
+      "source": "file_5169ae4e",
+      "target": "file_9fe410a6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_046_2__What_is_a_Thing_.md"
+    },
+    {
+      "source": "file_9fe410a6",
+      "target": "file_2aff1da1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_047_3__First_Inadequate_Answer__Th_1.md"
+    },
+    {
+      "source": "file_2aff1da1",
+      "target": "file_c8239ac4",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_047_3__First_Inadequate_Answer__Th_2.md"
+    },
+    {
+      "source": "file_c8239ac4",
+      "target": "file_f08acb76",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_048_4__Second_Inadequate_Answer__T.md"
+    },
+    {
+      "source": "file_f08acb76",
+      "target": "file_e783f52e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_049_5__Third_Inadequate_Answer__Th.md"
+    },
+    {
+      "source": "file_e783f52e",
+      "target": "file_f2c1a68a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_050_6__Looking_to_a_Work_of_Art_fo.md"
+    },
+    {
+      "source": "file_f2c1a68a",
+      "target": "file_1aeae7c0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_051_Notes.md"
+    },
+    {
+      "source": "file_1aeae7c0",
+      "target": "file_9bf905c0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_052_1__Peasant_Shoes.md"
+    },
+    {
+      "source": "file_9bf905c0",
+      "target": "file_3c06f2db",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_053_2__A_Willful_Interpretation_.md"
+    },
+    {
+      "source": "file_3c06f2db",
+      "target": "file_d61a6942",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_054_3__Seeing_a_World_in_a_Pair_of.md"
+    },
+    {
+      "source": "file_d61a6942",
+      "target": "file_342d2a3a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_055_4__The_Being_of_Equipment.md"
+    },
+    {
+      "source": "file_342d2a3a",
+      "target": "file_4f0117e6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_056_5__A__Happening_of_Truth__.md"
+    },
+    {
+      "source": "file_4f0117e6",
+      "target": "file_ed60980f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_057_6__Beauty_and_Truth.md"
+    },
+    {
+      "source": "file_ed60980f",
+      "target": "file_1aeae7c0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_058_Notes.md"
+    },
+    {
+      "source": "file_1aeae7c0",
+      "target": "file_1ac1451d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_059_1__The_Counterplay_of_World_an.md"
+    },
+    {
+      "source": "file_1ac1451d",
+      "target": "file_18647fbf",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_060_2__The_Self_Subsistence_of_the_1.md"
+    },
+    {
+      "source": "file_18647fbf",
+      "target": "file_1484776f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_060_2__The_Self_Subsistence_of_the_2.md"
+    },
+    {
+      "source": "file_1484776f",
+      "target": "file_2a5f301a",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_061_3__A_Greek_Temple_1.md"
+    },
+    {
+      "source": "file_2a5f301a",
+      "target": "file_4f4a42d9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_061_3__A_Greek_Temple_2.md"
+    },
+    {
+      "source": "file_4f4a42d9",
+      "target": "file_05085685",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_062_What_Temple__1.md"
+    },
+    {
+      "source": "file_05085685",
+      "target": "file_19cf8e07",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_062_What_Temple__2.md"
+    },
+    {
+      "source": "file_19cf8e07",
+      "target": "file_b06324aa",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_063_5__House_of_God_and_Gate_of_He.md"
+    },
+    {
+      "source": "file_b06324aa",
+      "target": "file_1aeae7c0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_064_Notes.md"
+    },
+    {
+      "source": "file_1aeae7c0",
+      "target": "file_fef1a34d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_065_1__On_the_Way_to_the_Ereignis_1.md"
+    },
+    {
+      "source": "file_fef1a34d",
+      "target": "file_66c655fc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_065_1__On_the_Way_to_the_Ereignis_2.md"
+    },
+    {
+      "source": "file_66c655fc",
+      "target": "file_b57ea03c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_066_2__Heidegger_s__World_.md"
+    },
+    {
+      "source": "file_b57ea03c",
+      "target": "file_72cedebc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_067_3__Heidegger_s__Earth__1.md"
+    },
+    {
+      "source": "file_72cedebc",
+      "target": "file_48c4d6aa",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_067_3__Heidegger_s__Earth__2.md"
+    },
+    {
+      "source": "file_48c4d6aa",
+      "target": "file_a521b9c3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_068_4__The_Strife_of_Earth_and_Wor.md"
+    },
+    {
+      "source": "file_a521b9c3",
+      "target": "file_168bfe03",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_069_5__The_Place_of_Art_in_a__Need.md"
+    },
+    {
+      "source": "file_168bfe03",
+      "target": "file_1aeae7c0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_070_Notes.md"
+    },
+    {
+      "source": "file_1aeae7c0",
+      "target": "file_4cfa921e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_071_1__Art_and_Truth.md"
+    },
+    {
+      "source": "file_4cfa921e",
+      "target": "file_e7a9dff2",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_072_2__The_Meaning_of__Truth__1.md"
+    },
+    {
+      "source": "file_e7a9dff2",
+      "target": "file_a8693746",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_072_2__The_Meaning_of__Truth__2.md"
+    },
+    {
+      "source": "file_a8693746",
+      "target": "file_f83c4029",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_072_2__The_Meaning_of__Truth__3.md"
+    },
+    {
+      "source": "file_f83c4029",
+      "target": "file_4daa27d4",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_073_3__Truth_as_Unconcealedness_1.md"
+    },
+    {
+      "source": "file_4daa27d4",
+      "target": "file_778b9246",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_073_3__Truth_as_Unconcealedness_2.md"
+    },
+    {
+      "source": "file_778b9246",
+      "target": "file_5338bcde",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_074_4___The_Nature_of_Truth_is_Unt.md"
+    },
+    {
+      "source": "file_5338bcde",
+      "target": "file_59228b39",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_075_5__Art_as_One_Way_in_which_Tru.md"
+    },
+    {
+      "source": "file_59228b39",
+      "target": "file_1aeae7c0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_076_Notes.md"
+    },
+    {
+      "source": "file_1aeae7c0",
+      "target": "file_e0c44624",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_077_1__Art_and_Techne_1.md"
+    },
+    {
+      "source": "file_e0c44624",
+      "target": "file_f8d23f77",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_077_1__Art_and_Techne_2.md"
+    },
+    {
+      "source": "file_f8d23f77",
+      "target": "file_28b33f27",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_078_2__Craftsman_and_Artist.md"
+    },
+    {
+      "source": "file_28b33f27",
+      "target": "file_669024f8",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_079_3__The_Happening_of_Truth_in_A_1.md"
+    },
+    {
+      "source": "file_669024f8",
+      "target": "file_75ec2a33",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_079_3__The_Happening_of_Truth_in_A_2.md"
+    },
+    {
+      "source": "file_75ec2a33",
+      "target": "file_7b178c61",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_080_4__The_Happening_of_Truth_in_t_1.md"
+    },
+    {
+      "source": "file_7b178c61",
+      "target": "file_ac47de41",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_080_4__The_Happening_of_Truth_in_t_2.md"
+    },
+    {
+      "source": "file_ac47de41",
+      "target": "file_f02f9ebe",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_081_5__The_Happening_of_Truth_in_F.md"
+    },
+    {
+      "source": "file_f02f9ebe",
+      "target": "file_a37ad91f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_082_6__The_Happening_of_Truth_in_S.md"
+    },
+    {
+      "source": "file_a37ad91f",
+      "target": "file_1613c57e",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_083_7__The_Happening_of_Truth_in_T.md"
+    },
+    {
+      "source": "file_1613c57e",
+      "target": "file_1aeae7c0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_084_Notes.md"
+    },
+    {
+      "source": "file_1aeae7c0",
+      "target": "file_3e3f0bbb",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_085_1__The_Rift_of_World_and_Earth_1.md"
+    },
+    {
+      "source": "file_3e3f0bbb",
+      "target": "file_4ff7329d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_085_1__The_Rift_of_World_and_Earth_2.md"
+    },
+    {
+      "source": "file_4ff7329d",
+      "target": "file_820f10a3",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_086_2__The_Work_of_Art_as_Somethin.md"
+    },
+    {
+      "source": "file_820f10a3",
+      "target": "file_24488950",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_087_3__Creators_and_Preservers.md"
+    },
+    {
+      "source": "file_24488950",
+      "target": "file_ea96876f",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_088_4__Binding_Freedom.md"
+    },
+    {
+      "source": "file_ea96876f",
+      "target": "file_5710dec1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_089_5__Art_as_Origin_of_Creators_a.md"
+    },
+    {
+      "source": "file_5710dec1",
+      "target": "file_1aeae7c0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_090_Notes.md"
+    },
+    {
+      "source": "file_1aeae7c0",
+      "target": "file_5976f76d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_091_1__Poetry__The_Essence_of_Art.md"
+    },
+    {
+      "source": "file_5976f76d",
+      "target": "file_0d642e19",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_092_2__Poetry_and_Poesy_1.md"
+    },
+    {
+      "source": "file_0d642e19",
+      "target": "file_ccbfa0dc",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_092_2__Poetry_and_Poesy_2.md"
+    },
+    {
+      "source": "file_ccbfa0dc",
+      "target": "file_fbb024c6",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_093_3__The_Creativity_of_Preservin.md"
+    },
+    {
+      "source": "file_fbb024c6",
+      "target": "file_02c9766d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_094_3_1_Founding_as_Bestowing.md"
+    },
+    {
+      "source": "file_02c9766d",
+      "target": "file_d475918c",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_095_3_2_Founding_as_Grounding.md"
+    },
+    {
+      "source": "file_d475918c",
+      "target": "file_c3cc6303",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_096_3_3_Founding_as_Beginning.md"
+    },
+    {
+      "source": "file_c3cc6303",
+      "target": "file_5ea255a9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_097_4__Art_as_the_Origin_of_Truth.md"
+    },
+    {
+      "source": "file_5ea255a9",
+      "target": "file_1aeae7c0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_098_Notes.md"
+    },
+    {
+      "source": "file_1aeae7c0",
+      "target": "file_b1fc3e2d",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_099_1__The_Riddle_of_the_Beautiful.md"
+    },
+    {
+      "source": "file_b1fc3e2d",
+      "target": "file_3fa511a9",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_100_2__Art_and_Boredom.md"
+    },
+    {
+      "source": "file_3fa511a9",
+      "target": "file_ce0102e1",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_101_3__Hegel_or_Ho_lderlin_.md"
+    },
+    {
+      "source": "file_ce0102e1",
+      "target": "file_965ae5f4",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_102_4__Truth_and_Beauty.md"
+    },
+    {
+      "source": "file_965ae5f4",
+      "target": "file_d8600b69",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_103_5__Three_Final_Thoughts_1.md"
+    },
+    {
+      "source": "file_d8600b69",
+      "target": "file_bebb93fd",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_103_5__Three_Final_Thoughts_2.md"
+    },
+    {
+      "source": "file_bebb93fd",
+      "target": "file_ed31de66",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_103_5__Three_Final_Thoughts_3.md"
+    },
+    {
+      "source": "file_ed31de66",
+      "target": "file_68ecfb19",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_104_6__Coda__A_Chinese_Tale.md"
+    },
+    {
+      "source": "file_68ecfb19",
+      "target": "file_1aeae7c0",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_105_Notes.md"
+    },
+    {
+      "source": "file_1aeae7c0",
+      "target": "file_0ed78bdf",
+      "relation": "follows",
+      "confidence": "AST",
+      "confidence_score": 1.0,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_106_Index.md"
+    },
+    {
+      "source": "file_7c25e97b",
+      "target": "file_05085685",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_011_7__Work_and_World_95.md"
+    },
+    {
+      "source": "file_668aa123",
+      "target": "file_e376365d",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_015_11__Creators_and_Preservers_15.md"
+    },
+    {
+      "source": "file_1aeae7c0",
+      "target": "file_f86179e0",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_058_Notes.md"
+    },
+    {
+      "source": "file_68ecfb19",
+      "target": "file_1ee1dad5",
+      "relation": "references",
+      "confidence": "AST",
+      "confidence_score": 0.8,
+      "source_file": "Karsten Harries - 2009 - Art Matters A Critical Commentary on Heideggers The Origin of the Work of Art_chunk_104_6__Coda__A_Chinese_Tale.md"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "e1",
+      "gt_id": "c1",
+      "is_matched": true,
+      "reasoning": "Exact match for Correspondence.",
+      "evidence": "Correspondence"
+    },
+    {
+      "extracted_id": "e2",
+      "gt_id": "c2",
+      "is_matched": true,
+      "reasoning": "Exact match for Critique of Hylomorphism.",
+      "evidence": "Critique of Hylomorphism"
+    },
+    {
+      "extracted_id": "e3",
+      "gt_id": "c3",
+      "is_matched": true,
+      "reasoning": "Exact match for Thinking through Making.",
+      "evidence": "Thinking through Making"
+    }
+  ],
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "Correspondence",
+      "importance": 10
+    },
+    {
+      "id": "c2",
+      "name": "Critique of Hylomorphism",
+      "importance": 9
+    },
+    {
+      "id": "c3",
+      "name": "Thinking through Making",
+      "importance": 9
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "e1",
+      "name": "Correspondence",
+      "is_redundant": false
+    },
+    {
+      "id": "e2",
+      "name": "Critique of Hylomorphism",
+      "is_redundant": false
+    },
+    {
+      "id": "e3",
+      "name": "Thinking through Making",
+      "is_redundant": false
+    },
+    {
+      "id": "e4",
+      "name": "Materials of Life",
+      "is_redundant": false
+    }
+  ],
+  "artifact_usability": 0.95
+}

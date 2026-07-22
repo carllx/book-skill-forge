@@ -1,0 +1,37 @@
+## Part 94
+
+> [BREADCRUMB_CTX: 《language_new_media》 > Part 94]
+
+When the avant-garde filmmakers collaged multiple images within a single frame, or painted and scratched film, or revolted against the indexical identity of cinema in other ways, they were working against "normal" filmmaking procedures and the intended uses of film technology. (Film stock was not be designed to be painted on). Thus they operated on the periphery of commercial cinema not only aesthetically but also technically.
+
+One general effect of the digital revolution is that avant-garde aesthetic strategies became embedded in the commands and interface metaphors of 364 computer software. In short, the avant-garde became materialized in a computer. Digital cinema technology is a case in point. The avant-garde strategy of collage reemerged as a "cut and paste" command, the most basic operation one can perform on digital data. The idea of painting on film became embedded in paint functions of film editing software. The avant-garde move to combine animation, printed texts and live action footage is repeated in the convergence of animation, title generation, paint, compositing and editing systems into single allin-one packages. Finally, another move to combine a number of film images together within one frame (for instance, in Leger's 1924 Ballet Mechanique or in A Man with a Movie Camera) also become legitimized by technology, since all editing software, including Photoshop, Premiere, After Effects, Flame, and Cineon, by default assumes that a digital image consists of a number of separate image layers. All in all, what used to be exceptions for traditional cinema became the normal, intended techniques of digital filmmaking, embedded in technology design itself.365
+
+From Kino-Eye to Kino-Brush
+
+In the twentieth century, cinema has played two roles at once. As a media technology, cinema's role was to capture and to store visible reality. The difficulty of modifying images once they were recorded was exactly what gave cinema its value as a document, assuring its authenticity. The same rigidity of the film image has defined the limits of cinema as defined it earlier, i.e. the super-genre of live action narrative. Although it includes within itself a variety of styles — the result of the efforts of many directors, designers and cinematographers — these styles share a strong family resemblance. They are all children of the recording process which uses lens, regular sampling of time and photographic media. They are all children of a machine vision.
+
+The mutability of digital data impairs the value of cinema recordings as a documents of reality. In retrospect, we can see that twentieth century cinema's regime of visual realism, the result of automatically recording visual reality, was only an exception, an isolated accident in the history of visual representation which has always involved, and now again involves the manual construction of images. Cinema becomes a particular branch of painting — painting in time. No 366 longer a kino-eye, but a kino-brush.
+
+The privileged role played by the manual construction of images in digital cinema is one example of a larger trend: the return of pre-cinematic moving images techniques. Marginalized by the twentieth century institution of live action narrative cinema which relegated them to the realms of animation and special effects, these techniques reemerge as the foundation of digital filmmaking. What was supplemental to cinema becomes its norm; what was at its boundaries comes into the center. Computer media returns to us the repressed of the cinema.
+
+As the examples discussed in this section suggest, the directions which were closed off at the turn of the century when cinema came to dominate the modern moving image culture are now again beginning to be explored. Moving image culture is being redefined once again; the cinematic realism is being displaced from being its dominant mode to become only one option among many.
+
+# New Language of Cinema
+
+Cinematic and Graphic: Cinegratography
+
+3D animation, compositing, mapping, paint retouching: in commercial cinema, these radical new techniques are mostly used to solve technical problems while traditional cinematic language is preserved unchanged. Frames are hand-painted to remove wires which supported an actor during shooting; a flock of birds is added to a landscape; a city street is filled with crowds of simulated extras.
+
+Although most Hollywood releases now involve digitally manipulated scenes, the 367   
+use of computers is always carefully hidden.   
+Appropriately, in Hollywood the practice of simulating traditional film language   
+received a name “invisible effects,” defined as “computer-enchanced scenes that   
+fool the audience into believing the sots were produced with live actors on   
+location, but are really composed of a mélange of digital and live action 368   
+footage.”
+
+Commercial narrative cinema still continues to hold on to the classical realist style where images function as un-retouched photographic records of some events which took place in front of the camera. So when Hollywood cinema uses computers to create fantastic, impossible reality, this is done through the introduction of various non-human characters such as aliens, mutants and robots. We never notice the pure arbitrariness of their colorful and mutating bodies, of the beams of energy emulating from their eyes, of the whirlpools of particles emulating from their wings, because they are made perceptually consistent with the set, i.e. they look like something which could have existed in a threedimensional space and therefore could have been photographed.
+
+But how do filmmakers motivate turning familiar reality such as a human body or a landscape into something phsically impossible in our world? Such transformations are motivated by the movie’ s narrative. The shiny metallic body of Terminator in Terminator 2 is possible because the Terminator is a cyborg send from the future; the rubber-like body of Jim Carrey in The Mask (Russell, 1994) is possible because his character wears a mask with magical powers. Similarly, in What Dreams May Come (PolyGram Filmed Entertainment, Ward, special effects by Mass.Illusions and others, 1998) the fantastic landscape made of swirling brushstrokes where the main hero is transported after his death is motivated by the unique status of this location.
+
+While embracing computers as a productivity tool, cinema refuses to give up its unique cinema-effect, an effect which, according to film theorist Christian Metz's penetrating analysis made in the 1970s, depends upon narrative form, the reality effect and cinema's architectural arrangement all working together. Towards the end of his essay, Metz wonders whether in the future non-narrative films may become more numerous; if this happens, he suggests that cinema will no longer need to manufacture its reality effect. Electronic and digital media have already brought about this transformation. Beginning in the 1980s, new cinematic forms have emerged which are not linear narratives, which are exhibited on a television or a computer screen, rather than in a movie theater — and which simultaneously give up cinematic realism.

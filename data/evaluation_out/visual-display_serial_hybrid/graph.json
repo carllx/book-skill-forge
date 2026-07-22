@@ -1,0 +1,51 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Graphical Excellence",
+      "description": "The well-designed presentation of interesting data—a matter of substance, of statistics, and of design. Consists of complex ideas communicated with clarity, precision, and efficiency."
+    },
+    {
+      "id": "n2",
+      "label": "Graphical Integrity",
+      "description": "Telling the truth about the data. Avoiding distortions and deceptive designs."
+    },
+    {
+      "id": "n3",
+      "label": "Lie Factor",
+      "description": "Size of effect shown in graphic divided by size of effect in data. Should be around 1.0."
+    },
+    {
+      "id": "n4",
+      "label": "Design Variation vs Data Variation",
+      "description": "Changes in the graphic should reflect changes in data, not changes in design."
+    },
+    {
+      "id": "n5",
+      "label": "Context",
+      "description": "Graphics must not quote data out of context."
+    }
+  ],
+  "edges": [
+    {
+      "source": "n1",
+      "target": "n2",
+      "relationship": "requires"
+    },
+    {
+      "source": "n2",
+      "target": "n3",
+      "relationship": "measured_by"
+    },
+    {
+      "source": "n2",
+      "target": "n4",
+      "relationship": "avoids"
+    },
+    {
+      "source": "n2",
+      "target": "n5",
+      "relationship": "relies_on"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "e_qingjing",
+      "gt_id": "c_yijing",
+      "confidence": "high",
+      "reasoning": "提取物中的“化景物为情思 (情景交融)”及其释义“主观生命情调与客观自然景象的交融互渗”严格对应了GT中“意境”的定义“fusing objective scenes with subjective emotion into an integrated whole”。"
+    },
+    {
+      "extracted_id": "e_kongjian",
+      "gt_id": "c_space_consciousness",
+      "confidence": "high",
+      "reasoning": "提取物中的“俯仰自得的空间意识”提到“有别于西方基于几何透视的单向固定视角，中国美学强调以大观小”，直接映射GT中“Space Consciousness”关于中西空间感知对比的定义。"
+    },
+    {
+      "extracted_id": "e_xushi",
+      "gt_id": "c_virtual_real",
+      "confidence": "high",
+      "reasoning": "提取物中的“虚实相生原则”及其内容“实中有虚、虚中有实，以有限暗示无限”严格符合GT中“虚实相生 (Interplay of Virtual and Real)”的概念内涵。"
+    },
+    {
+      "extracted_id": "e_jiaodian",
+      "gt_id": "c_painting_comparison",
+      "confidence": "high",
+      "reasoning": "提取物中的反模式“死守刻板焦点透视”批评了“西方绝对的焦点透视法”并推崇“散点透视或三远法”，精准命中GT中“中西画法比较” (Analysis of linear perspective vs. scatter perspective and focus)。"
+    },
+    {
+      "extracted_id": "e_xingshi",
+      "gt_id": "c_ethereal_solid",
+      "confidence": "medium",
+      "reasoning": "提取物中批评极端自然主义或形式主义，并引用“充实之谓美，充实而有光辉之谓大”，这与GT中“空灵与充实 (Ethereal and Solid)”所追求的深层丰富性 (profound richness) 形成映射。"
+    },
+    {
+      "extracted_id": "e_liubai",
+      "gt_id": "c_virtual_real",
+      "confidence": "high",
+      "reasoning": "提取物中“填实空间，拒绝留白”作为反模式，提出“实景清而空景现，懂得计白当黑”，从反面直接印证了GT中的“虚实相生 (Interplay of Virtual and Real)”。"
+    }
+  ],
+  "ground_truth_concepts": [
+    { "id": "c_yijing", "name": "意境", "importance": 5 },
+    { "id": "c_virtual_real", "name": "虚实相生", "importance": 5 },
+    { "id": "c_ethereal_solid", "name": "空灵与充实", "importance": 5 },
+    { "id": "c_poetry_painting", "name": "诗画分界", "importance": 5 },
+    { "id": "c_static_contemplation", "name": "静照", "importance": 5 },
+    { "id": "c_empathy_distance", "name": "移情与距离", "importance": 5 },
+    { "id": "c_space_consciousness", "name": "空间意识", "importance": 5 },
+    { "id": "c_painting_comparison", "name": "中西画法比较", "importance": 5 },
+    { "id": "c_dao_dance", "name": "道、舞、空白", "importance": 5 },
+    { "id": "c_zen", "name": "禅境", "importance": 5 },
+    { "id": "c_calligraphy", "name": "书法美学", "importance": 5 },
+    { "id": "c_jin_beauty", "name": "魏晋风度与晋人之美", "importance": 5 },
+    { "id": "c_music_fables", "name": "音乐寓言与音乐美学", "importance": 5 },
+    { "id": "c_greek_aesthetics", "name": "高贵的单纯与静穆的伟大", "importance": 5 },
+    { "id": "c_tang_spirit", "name": "民族精神", "importance": 5 }
+  ],
+  "extracted_concepts": [
+    { "id": "e_chufa", "name": "“初发芙蓉”胜于“错采镂金”", "is_redundant": false },
+    { "id": "e_qingjing", "name": "化景物为情思 (情景交融)", "is_redundant": false },
+    { "id": "e_kongjian", "name": "俯仰自得的空间意识", "is_redundant": false },
+    { "id": "e_xushi", "name": "虚实相生原则", "is_redundant": false },
+    { "id": "e_qiyun", "name": "气韵生动与迁想妙得", "is_redundant": false },
+    { "id": "e_quancui", "name": "全与粹的辩证统一", "is_redundant": false },
+    { "id": "e_kuangjing", "name": "空间借景与框景原则", "is_redundant": false },
+    { "id": "e_jiaodian", "name": "死守刻板焦点透视", "is_redundant": false },
+    { "id": "e_xingshi", "name": "极端自然主义或形式主义", "is_redundant": false },
+    { "id": "e_liubai", "name": "填实空间，拒绝留白", "is_redundant": false }
+  ],
+  "artifact_usability": {
+    "formatting_score": 5,
+    "clarity_score": 4,
+    "logical_score": 4
+  }
+}

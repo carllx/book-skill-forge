@@ -1,0 +1,66 @@
+{
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "Prime Objects",
+      "aliases": ["原生造物", "Prime Object", "Inventions"],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "Replications",
+      "aliases": ["复制与变异", "Mutants", "Replicas", "Variation"],
+      "weight": 9
+    },
+    {
+      "id": "c3",
+      "name": "Formal Sequences",
+      "aliases": ["形式序列", "Linked Solutions", "Form Classes"],
+      "weight": 9
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "h1",
+      "name": "Prime Objects (Original Entities)",
+      "type": "Hybrid Concept"
+    },
+    {
+      "id": "h2",
+      "name": "Replications (Replica-mass)",
+      "type": "Hybrid Concept"
+    },
+    {
+      "id": "h3",
+      "name": "Formal Sequences (Problem-Solution Chains)",
+      "type": "Hybrid Concept"
+    }
+  ],
+  "mappings": [
+    {
+      "gt_id": "c1",
+      "extracted_id": "h1",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect mapping of Prime Objects with structural and conceptual depth.",
+      "evidence": "Prime objects resemble the prime numbers of mathematics because no conclusive rule is known to govern the appearance of either..."
+    },
+    {
+      "gt_id": "c2",
+      "extracted_id": "h2",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect mapping of Replications with structural and conceptual depth.",
+      "evidence": "Prime objects and replications denote principal inventions, and the entire system of replicas, reproductions, copies, reductions, transfers, and derivations..."
+    },
+    {
+      "gt_id": "c3",
+      "extracted_id": "h3",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "Perfect mapping of Formal Sequences with structural and conceptual depth.",
+      "evidence": "Every important work of art can be regarded both as a historical event and as a hard-won solution to some problem. ... The chain of solutions nevertheless discloses the problem."
+    }
+  ],
+  "artifact_usability": 0.95
+}

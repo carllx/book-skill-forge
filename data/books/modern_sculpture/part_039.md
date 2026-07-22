@@ -1,0 +1,34 @@
+## Part 39
+
+> [BREADCRUMB_CTX: 《modern_sculpture》 > Part 39]
+
+In sorting through this confusion, one might turn to some of the prefigurations of "theatrical" sculpture in the early part of this century, to the early history of light-art, for example, as it grew out of considerations about the space of the stage. Two examples come to mind: MoholyNagy's Light Prop (fig. 153), finished in 1930, was intended to function during a performance by operating as an on-stage projector, weaving around its turning center a widening fabric of patterned light and shadow. Picabia's set for Relache (fig. 154), produced by the Ballets Suedois, was a drop curtain constructed of 370 spotlights, each backed by a metal reflector. At the beginning of the second act the audience was nearly blinded when that arsenal oflight was switched on.
+
+Both artists created work expressly for the stage and thought about the function of this work as something fused with the unfolding temporal and dramatic events upon that stage; moreover, they both considered light as energy rather than static mass and therefore as a medium which is itself temporal. Thus we might be prompted to link together what they made. Because both the Light Prop and the decor for Relache use the radiance of electric light to undermine the physicality of the object which is the source of that radiance, exploiting the fact that light projects away from its source and makes its way through space to rest at some distance from the object itself- -a place shared by the spectator-we might be tempted to judge these works to have uncovered in the same way the formal possibilities of light as a medium for sculpture. But that would be wrong. Because the Light Prop is a surrogate person, anactor in technological disguise, and Picabia's bank of370 spotlights is not.
+
+In design, the Light Prop is an elaborate version of Gabo's Column (fig. 46). Its major structure depends on the conjunction of three vertical, transparent planes to create an apparent or virtual volume. Within the three resultant sections of this scaffolding, which rotates on a central axis, are various perforated disks and planes through which a play of light creates an environment of reflections and shadow. As the Light Prop turns, there are not one but two sets of external sheathings spun around the open skeleton of the revolving machine. The first is that of the disks and wire-mesh planes, which pass in and out of view to become a changing but persistent skin completing the immediate cocoon of the work. The second is made from the projections thrown off by the Prop onto the walls of its stage, a shifting pattern that describes the volume of space in which the object sits, like a diaphanous enclosure maintained by the Light Prop's energy and presence. Like a human figure, the Light Prop has an internal structure that affects its outward appearance, and, more crucially, an internal source of energy that allows it to move. And, like a human agent, the work is meant to affect its space through the gestures which it makes over a period of time. The fact that these gestures- -the patterns of projected light and the shifting patterns that relate throughout its internal structurechange in time, and have a complex program, gives the object an even more human, because seemingly volitional, quality. Thus, no matter how abstract its forms and its function, the Light Prop is a kind of robot; the place it was meant to take on stage is that ofa mechanical actor.
+
+![](images/d9cebfaa4d66db5a8c838b11b58bee41529b30de2731e695693039874abba2bd.jpg)
+
+![](images/71b41956d2a46600ed0a023549d4f5fd1a31eefef8d7b1dec6fa3b7ac74f4e23.jpg)
+
+154. LEFT Francis Picabia (1879-1953): Setfor Relache, 1924. Cardboard stage model, 151/2" x 20" x 8" Danse   
+Museet, Stockholm. (Photo, L'Amour de l'Art, no. 12,   
+December 1924)   
+155a and 155b. ABOVE   
+Pierre Jaquet-Droz, father   
+(1721-90): The Clerk (two views), 1774.Mechanical doll. Muséed'Artetd'Histoire,   
+Neuchatel.
+
+As such, the Light Prop has a patrimony that extends back several hundred years into the history of automatons. Behind it stands a far-reaching mimetic impulse, a passion to imitate not simply the look of the living creature but to reproduce as well its animation, its discourse with the passage of time. In his book Beyond Modern Sculpture, Jack Burnham argues that the most fundaE mental ambition of sculpture, since its beginnings, is the CEET replication of life. If until very recently this ambition has had to limit itself, within the practice of the high arts, to the lifelike but static representation of human or animal figures, there have been in the minor orpopular arts early attempts to break out of the limits of this immobility. The extremely intricate clockwork automata created in the eighteenth century by Vaucanson arose from and satisfied the need to perfect the appearance of lifelikeness in the mechanical creature (figs. 155a and 155b).
+
+In describing this branch of "subsculpture, 7 Burnam says, "The history of automata has always run close to that of technology.5 And so Burnham sees the aspirations change in the creation of the robot as technology itself develops. If the robot still clothes the mechanized performance of certain functions in a shell that bears some resemblance to a human agent, there are other machines that simulate human activity for which this kind of resemblance is completely beside the point. For example, for computers, "nonanthropomorphic automata, the simulation of the living organism has been centered in the artificialization of intelligence.
+
+![](images/4872f4aa81d520d1b5153cfbce82b919d59fcac0f0c9c61d1e14d8c55394cf5a.jpg)  
+156. Nicolas Schoffer (1912-）： Microtemps 16, 1966.Chrome-plated steel andPlexiglas, (Photo, Studio YvesHervochon, courtesy of NicolasSchoffer)
+
+Burnham's thesis is that sculpture's "distant goal" is to assimilate itself into the complex technology of cybernetics. Extrapolating from his idea of the present and past aspirations of sculpture- -the ambition to imitate, simulate, and, finally, replace the human organism- -he predicts a future in which the goals are "F austian. ” He speaks of artists and scientists sharing“an unstoppable craving to wrest the secrets of natural order from Godwith the unconscious aim of controlling human destiny, ifnot in fact becoming God itself. The machine, of course, is the key to this transference of power. If it constructs our destiny, it can do no less than become the medium through which our art is realized."6
+
+![](images/b9f5e2e8215cef2392c3c294ce49fdf41919ed9876d44e6efae673591dcf1664.jpg)
+
+But is sculpture fundamentally mimetic? Is it necessarily "about" the imitation, simulation, and nonbiological re-creation of life？ And if it is not about that, what are we to think of Burnham's thesis?

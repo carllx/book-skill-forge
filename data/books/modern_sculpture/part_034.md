@@ -1,0 +1,39 @@
+## Part 34
+
+> [BREADCRUMB_CTX: 《modern_sculpture》 > Part 34]
+
+In the hands of Lipton, Ferber, and Hare, very similar themes were elaborated into sculpture, but in a way that was still dependent on the aesthetic forces that shaped their original surrealist formulation. Ferber's 1947 Surrational Zeus $I I$ (fig. 132) not only asks, by means of its name, to be understood within the context of the European movement but it has also absorbed the formal language for entrapment and containment that characterizes Giacometti's sculpture of the 1930s. With its protracted central spine encircled by the open, podlike forms of the outer flesh, the Zeus looks like a version of Giacometti's W oman with Her Throat Cut (fig. 87) lifted off the foor to become vertical. Throughout the 1950s Ferber worked with a sculptural format consisting of an openwork container with the writhing bands of metal that make up its interior explicitly set into tension against the exterior shape of the volume that encloses them. As the interior bands of metal become increasingly supple, their texture softened with applied coats of softened nickel and lead, they come to evoke ribbons of flesh. The encaged and struggling expressionism of Calligraph in Cage with Cluster No. 2 (fig. 133), and similar works of the early 1960s, re-enacts the surrealist drama of possession. Ferber's content and the formal language used to express it are visible in the work of Hare and Lipton as well. Hare's Lady-of-W aiting (1944) conceives the human body in precisely those terms of ominous enclosure that one has seen in the object fetishes of Magritte, Dali, and Giacometti, and the same is true for Lipton's The Cloak (1952).
+
+![](images/a8982af8e70e92416495c477b31d12bb1306d5b6c9ae42cf7a65544b099c697b.jpg)
+
+In The Cloak (fig. 134) the totem figure is built of a vertical assemblage of podlike forms, some of them partially split open to reveal an interior shaft at their center. The whole figure is itself sheathed by two half-cylinders, which seem to constrict or contain the figure and which call to mind the surrealist image of the cage. Yet in the work there is also a dialogue between what is contained and what is revealed, and in this sense The Cloak comes close to being an American reworking of the totemic 1925 Figure (figs. 119a and 119b) by Lipchitz ; for it has an unselfconscious combination of both surrealist imagery and the constructivist insistence that the revealed core can be understood as having generated the external shape of the work.
+
+This merging of constructivism and surrealism produced in the work of Lassaw and Lippold objects that draw an analogy between technology and magic. Geometries that radiate from a core or center are made out of wire-Lippold spinning in air a membranous, threedimensional interlacing of shapes, and Lassaw contriving volumes out of intersecting grids thickened with brazed ligaments. The two men share a fascination with cosmos (Lippold's Sun and Lassaw's Milky Way), both as a transparent presence and as an unrationalizable mystery.
+
+Smith had looked for sources of meaning in the formal condition of disjunction. For the American sculptors who followed him, in the early 1960s, the notion of disjunctiveness became a powerful generative tool. Like Smith, they tended to treat the sculpture as an irrational volume : a set of peripheral elements deprived of the
+
+![](images/a187b2dd062259bdf66596373ccd6266690d6c2570f350a673b0c1852da33ba4.jpg)
+
+131a NEAR RIGHT and 131b FARRIGHT Smith: Voltri XVII (two views),1962. Steel,95" x 31%/" $x 2 9 \% ^ { \prime \prime }$ Private collection. 132. LEFT HerbertFerber (1906- ）： Surrational Zeus II,1947. Lead $4 8 ^ { \prime \prime } \ x \ 3 0 ^ { \prime \prime }$ Collection of theartist.
+
+![](images/726d1914fd37159c350d5e256c6fc62081c855958a8ec9fe7ea19d4eb133b157.jpg)
+
+![](images/3fa72069e7df733990c8ecd4d6442c5dca633d95dfbcf7fe48484398b6d1b2fd.jpg)
+
+133. LEFT Ferber: Calligraph in Cage with Cluster No.2 (with Two Heads), 1962. Copper and brass, ca.46" x $3 2 ^ { \prime \prime } \ x \ 3 6 ^ { \prime \prime }$ 业 134. RIGHT Lipton: The Cloak, 1952. Bronze and steel, $g _ { \boldsymbol { { \delta } } ^ { \prime \prime } }$ 元 Collection, Nelson A. Rockefeller,New York. (Photo, Geoffrey Clements)
+
+![](images/9df8caa4c9c0950ac92666890069bd39414b929e6605903846006df1d6b5381e.jpg)
+
+logic of a constructive core. Mark di Suvero's Che Faro Senza Eurydice (fig. 135) of 1959, for example, is an agglomeration of heavy timbers that lean outward along three diverging axes to loom high above the viewer's head. Had di Suvero stressed the geometrical underpinnings of this structure-its form as an inverted pyramid- Che Faro would have taken on thequality of being the model of an idea about volume that conditions constructivist art. The particular size of the work and its specific materials would have been absorbed by the geometric rationale for which it would appear to be only one of many possible expressions. As it is, however, Che Faro's center seems less a point of connection between its three arms than a visual barrier or disruption, so that each of the sections appears to be disengaged and falling away from the others. One is forced, therefore, to experience the actual weight and size of the timbers and the precariousness of their relationships.
+
+Like di Suvero, David von Schlegell followed that direction within Smith's art that leads toward expressive gesture (fig. 136) . But other sculptors responded more to the possibility- -also prefigured in Smith- -of a shifting and illusive relationship between the surface of a volume and its center. Beverly Pepper writes, for example, "The works I made of highly polished stainless steel in the later 1960s achieved this kind of dualism primarily through the mirror-like finish of their surfaces. Those surfaces acted to emphasize the actual density and weight of the steel, and at the same time they made the physical bulk of the sculpture withdraw behind a smoke-screen of refections. Under certain light conditions and from certain angles this reflectivity picks up the sculpture's environment · and this causes thework almost to disappear; So that all that remains visible is the network of blue enamel line that indicates the interior faces ofthe forms. From other angles the surfaces reflect into one another, causing geometries to appear which are not part of the physical format of the work.5 Thus thepoint of a sculpture likeVenezia Blu (fig. 137), 1968, is not its selection of material from the vocabulary of an advanced metal technology but the formal language that vocabulary is made to serve.
+
+![](images/6568de68ba8808984a7a42fc92eda7b8995d047dc6493bfcd6fdbdcee6da5f0d.jpg)
+
+![](images/016fc276babee7aa7f6e023b786688172967c10ceeebea466ababd73da639187.jpg)
+
+135. Markdi Suvero (1933- ）： Che Faro Senza Eurydice, 1959. Wood and iron, 84" x 104" x 91". Scull Collection,New York. (Photo, Rudolph Burckhardt)
+
+![](images/5571f96cf567a32f34d053bfd3c5df3f273d68e8d60ab2105c17d4ea7f3a5ca1.jpg)
+
+John Chamberlain's 1962 Velvet White (fig. 138) creates a sense of irrational volume not through the agency of disorienting reflection but by ballooning surfaces of crumpled steel into massive, three-dimensional shells. The obvious hollowness of the sculpture insures that one will not see its material surface as the outward manifestation of an internal armature or core. Donald Judd described this effect as “something about the volume exceeding the structure. The structure sort of rattles around in this big space." Thus, like di Suvero's timbers, Chamberlain's ripped sheets of steel are not supplied with a constructive rationale. They are not provided with theaesthetic justification of an object made lucid through the visual procedures of analysis.

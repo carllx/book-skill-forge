@@ -1,0 +1,97 @@
+# The Shape of Time
+
+**作者**: Kubler, George
+
+## 🎯 智能路由面板
+本文档是针对 Agent 阅读优化的知识索引。为避免上下文超载，请根据下方的树状目录按需读取对应章节的 Markdown 文件。
+
+## 🔍 Agent 检索指南
+- **精准定位**: 如果寻找特定的领域概念或术语，请优先使用 `grep_search` 工具在当前目录下全文搜索 `*.md`，而非猜测章节。
+- **连贯阅读**: 当需要深入理解某个话题时，请沿着目录的嵌套层级（从父章节到子小节）依次阅读；如果是被拆分的子章节（`part1`, `part2`），请按序号顺序连续读取。
+
+## 目录导航
+
+- [Cover Page](001_Cover_Page.md)
+- [Title Page](002_Title_Page.md)
+- [Copyright Page](003_Copyright_Page.md)
+- [Contents](004_Contents.md)
+- [PREAMBLE: Symbol, Form, and Duration](005_PREAMBLE_Symbol,_Form,_and_Duration.md)
+- [ONE. THE HISTORY OF THINGS](006_ONE._THE_HISTORY_OF_THINGS.md)
+  - [The Limitations of Biography:](007_The_Limitations_of_Biography.md)
+    - [Individual Entrances](008_Individual_Entrances.md)
+    - [Talent and Genius](009_Talent_and_Genius.md)
+    - [Biological and Physical Metaphors](010_Biological_and_Physical_Metaphors.md)
+    - [Scientists and Artists](011_Scientists_and_Artists.md)
+  - [The Historian’s Commitment:](012_The_Historian’s_Commitment.md)
+    - [The Divisions of the Arts](013_The_Divisions_of_the_Arts.md)
+  - [The Nature of Actuality:](014_The_Nature_of_Actuality.md)
+    - [Of Arts and Stars](015_Of_Arts_and_Stars.md)
+    - [Signals](016_Signals.md)
+    - [Relays](017_Relays.md)
+  - [Self-Signals and Adherent Signals:](018_Self-Signals_and_Adherent_Signals.md)
+    - [Iconographic Studies](019_Iconographic_Studies.md)
+    - [Configurational Analysis](020_Configurational_Analysis.md)
+    - [The Taxonomy of Meaning](021_The_Taxonomy_of_Meaning.md)
+- [TWO. THE CLASSING OF THINGS](022_TWO._THE_CLASSING_OF_THINGS.md)
+  - [Formal Sequences:](023_Formal_Sequences.md)
+    - [Linked Solutions](024_Linked_Solutions.md)
+    - [Open and Closed Sequences](025_Open_and_Closed_Sequences.md)
+    - [Fashions](026_Fashions.md)
+  - [Prime Objects and Replications:](027_Prime_Objects_and_Replications.md)
+    - [Mutants](028_Mutants.md)
+    - Diagnostic Difficulties
+      - [Part 1](029_Diagnostic_Difficulties_part1.md)
+      - [Part 2](029_Diagnostic_Difficulties_part2.md)
+    - [Serial Appreciation](030_Serial_Appreciation.md)
+    - [Technical Renewals](031_Technical_Renewals.md)
+    - [The Invisible Chain](032_The_Invisible_Chain.md)
+    - [Solitary and Gregarious Artists](033_Solitary_and_Gregarious_Artists.md)
+  - [Serial Position, Age, and Change:](034_Serial_Position,_Age,_and_Change.md)
+    - [The Rule of Series](035_The_Rule_of_Series.md)
+    - [Systematic Age](036_Systematic_Age.md)
+    - [A Mexican Paradigm](037_A_Mexican_Paradigm.md)
+    - [Linguistic Change](038_Linguistic_Change.md)
+- [THREE. THE PROPAGATION OF THINGS](039_THREE._THE_PROPAGATION_OF_THINGS.md)
+  - [Invention and Variation:](040_Invention_and_Variation.md)
+    - [Artistic Invention](041_Artistic_Invention.md)
+    - [Convention and Invention](042_Convention_and_Invention.md)
+  - [Replication:](043_Replication.md)
+    - [Permanence and Change](044_Permanence_and_Change.md)
+    - [The Anatomy of Routine](045_The_Anatomy_of_Routine.md)
+    - [Historical Drift](046_Historical_Drift.md)
+  - [Discard and Retention:](047_Discard_and_Retention.md)
+    - [Obsolescence and Ritual](048_Obsolescence_and_Ritual.md)
+    - [Aesthetic Fatigue](049_Aesthetic_Fatigue.md)
+- [FOUR. SOME KINDS OF DURATION](050_FOUR._SOME_KINDS_OF_DURATION.md)
+  - [Fast and Slow Happening:](051_Fast_and_Slow_Happening.md)
+    - The Typology of Artists’ Lives
+      - [Part 1](052_The_Typology_of_Artists’_Lives_part1.md)
+      - [Part 2](052_The_Typology_of_Artists’_Lives_part2.md)
+    - [Tribes, Courts, and Cities](053_Tribes,_Courts,_and_Cities.md)
+  - [The Shapes of Time:](054_The_Shapes_of_Time.md)
+  - [Positional Values](055_Positional_Values.md)
+    - [Periods and Their Lengths](056_Periods_and_Their_Lengths.md)
+    - The Indiction as Module
+      - [Part 1](057_The_Indiction_as_Module_part1.md)
+      - [Part 2](057_The_Indiction_as_Module_part2.md)
+    - [Intermittent Classes](058_Intermittent_Classes.md)
+    - [Arrested Classes](059_Arrested_Classes.md)
+    - [Extended Series](060_Extended_Series.md)
+    - [Wandering Series](061_Wandering_Series.md)
+    - Simultaneous Series
+      - [Part 1](062_Simultaneous_Series_part1.md)
+      - [Part 2](062_Simultaneous_Series_part2.md)
+    - [Lenses vs. Fibers of Duration](063_Lenses_vs._Fibers_of_Duration.md)
+- [CONCLUSION](064_CONCLUSION.md)
+  - [Finite Invention:](065_Finite_Invention.md)
+    - [The Purist Reduction of Knowledge](066_The_Purist_Reduction_of_Knowledge.md)
+    - [Widening the Gate](067_Widening_the_Gate.md)
+    - [The Finite World](068_The_Finite_World.md)
+  - [The Equivalence of Form and Expression:](069_The_Equivalence_of_Form_and_Expression.md)
+    - [Iconological Diminutions](070_Iconological_Diminutions.md)
+    - [The Deficiencies of Style](071_The_Deficiencies_of_Style.md)
+    - [The Plural Present](072_The_Plural_Present.md)
+- NOTES
+  - [Part 1](073_NOTES_part1.md)
+  - [Part 2](073_NOTES_part2.md)
+  - [Part 3](073_NOTES_part3.md)

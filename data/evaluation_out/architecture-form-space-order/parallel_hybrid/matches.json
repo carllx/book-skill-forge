@@ -1,0 +1,63 @@
+{
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "Primary Elements",
+      "aliases": ["基本元素", "Point", "Line", "Plane", "Volume"],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "Form and Space",
+      "aliases": ["形与空间的对立统一", "正负空间", "Positive and Negative Space"],
+      "weight": 10
+    },
+    {
+      "id": "c3",
+      "name": "Ordering Principles",
+      "aliases": ["秩序原则", "Axis", "Symmetry", "Hierarchy", "Rhythm", "Datum"],
+      "weight": 9
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "e1",
+      "name": "Primary Elements",
+      "evidence": "Graphify extracted Point, Line, Plane, Volume as fundamental physical graph nodes."
+    },
+    {
+      "id": "e2",
+      "name": "Form and Space",
+      "evidence": "Cangjie distilled the philosophical mindset of positive and negative space duality."
+    },
+    {
+      "id": "e3",
+      "name": "Ordering Principles",
+      "evidence": "Extracted as both structural nodes by Graphify and overarching rules by Cangjie."
+    }
+  ],
+  "mappings": [
+    {
+      "extracted_id": "e1",
+      "gt_id": "c1",
+      "is_matched": true,
+      "reasoning": "Graphify handled the physical entities effectively, filling the gap of Cangjie."
+    },
+    {
+      "extracted_id": "e2",
+      "gt_id": "c2",
+      "is_matched": true,
+      "reasoning": "Cangjie captured the abstract dualism that Graphify missed."
+    },
+    {
+      "extracted_id": "e3",
+      "gt_id": "c3",
+      "is_matched": true,
+      "reasoning": "Both engines contributed evidence mapping directly to Ordering Principles."
+    }
+  ],
+  "artifact_usability": {
+    "score": 10,
+    "reasoning": "The hybrid pipeline beautifully stitches together micro-structural entities (Graphify) and macro-philosophical principles (Cangjie), achieving maximum fidelity to the book."
+  }
+}

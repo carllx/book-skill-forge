@@ -1,0 +1,78 @@
+{
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "宁古无时，宁朴无巧",
+      "aliases": [
+        "雅俗之辨",
+        "崇尚古朴",
+        "抵制庸俗"
+      ],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "随方制象，各有所宜",
+      "aliases": [
+        "因地制宜",
+        "恰到好处",
+        "适宜"
+      ],
+      "weight": 9
+    },
+    {
+      "id": "c3",
+      "name": "幽人韵士之居",
+      "aliases": [
+        "借景",
+        "造境",
+        "精神栖息",
+        "造园"
+      ],
+      "weight": 8
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "cj1",
+      "name": "宁古无时，宁朴无巧的雅俗之辨",
+      "type": "Mindset"
+    },
+    {
+      "id": "cj2",
+      "name": "随方制象与因地制宜",
+      "type": "Principle"
+    },
+    {
+      "id": "cj3",
+      "name": "幽人韵士之居的造境理念",
+      "type": "Mental Model"
+    },
+    {
+      "id": "cj4",
+      "name": "忌俗反模式",
+      "type": "Anti-pattern"
+    }
+  ],
+  "mappings": [
+    {
+      "gt_id": "c1",
+      "extracted_id": "cj1",
+      "is_match": true,
+      "reasoning": "Direct match with the exact wording and core meaning of GT concept 1."
+    },
+    {
+      "gt_id": "c2",
+      "extracted_id": "cj2",
+      "is_match": true,
+      "reasoning": "Direct match with GT concept 2 regarding '随方制象'."
+    },
+    {
+      "gt_id": "c3",
+      "extracted_id": "cj3",
+      "is_match": true,
+      "reasoning": "Direct match with GT concept 3 regarding '幽人韵士之居'."
+    }
+  ],
+  "artifact_usability": 0.95
+}

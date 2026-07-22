@@ -1,0 +1,6 @@
+{"timestamp": "2026-07-21T22:01:55.510787", "book_id": "making-anthropology", "recipe": "graphify_only", "recall": 0.6785714285714286, "precision": 0.5, "usability": 0.7, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:01:55.716318", "book_id": "making-anthropology", "recipe": "cangjie_only", "recall": 1.0, "precision": 0.75, "usability": 0.9, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:01:55.899305", "book_id": "making-anthropology", "recipe": "parallel_hybrid", "recall": 1.0, "precision": 0.75, "usability": 0.95, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:03:05.473401", "book_id": "making-anthropology", "recipe": "graphify_only", "recall": 0.6785714285714286, "precision": 0.5, "usability": 0.7, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:03:05.894372", "book_id": "making-anthropology", "recipe": "cangjie_only", "recall": 1.0, "precision": 0.75, "usability": 0.9, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:03:06.102841", "book_id": "making-anthropology", "recipe": "parallel_hybrid", "recall": 1.0, "precision": 0.75, "usability": 0.95, "artifact_size_bytes": 0}

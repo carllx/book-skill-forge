@@ -1,0 +1,64 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "e_qingjing_jiaorong",
+      "gt_id": "c_yijing",
+      "confidence": "high",
+      "reasoning": "作品中「意境的创生：化景物为情思」与标准答案「意境 (Yijing)」严格对应，均强调主观生命情调与客观自然景象的交融。"
+    },
+    {
+      "extracted_id": "e_kongjian_yishi",
+      "gt_id": "c_space_consciousness",
+      "confidence": "high",
+      "reasoning": "作品中「空间与视角的解放：俯仰自得的空间意识」严格对应标准答案的「空间意识 (Space Consciousness)」，明确指出了流动的时空观。"
+    },
+    {
+      "extracted_id": "e_xushi_xiangsheng",
+      "gt_id": "c_virtual_real",
+      "confidence": "high",
+      "reasoning": "作品中明确提出「虚实相生：“无画处皆成妙境”」，对应标准答案中意境的子概念「虚实相生 (Interplay of Virtual and Real)」，强调实中有虚的互动。"
+    },
+    {
+      "extracted_id": "e_zhongxi_touji",
+      "gt_id": "c_painting_comparison",
+      "confidence": "high",
+      "reasoning": "作品在空间意识部分提及「有别于西方基于几何透视的单向固定视角」，严格对应了标准答案中的「中西画法比较」考点。"
+    },
+    {
+      "extracted_id": "e_gufa_yongbi",
+      "gt_id": "c_calligraphy",
+      "confidence": "low",
+      "reasoning": "作品中提及了「骨法用笔」，一定程度上触及了标准答案中的「书法美学（用笔）」，但缺乏对书法结构的系统展开，属于弱命中。"
+    }
+  ],
+  "ground_truth_concepts": [
+    {"id": "c_yijing", "name": "意境", "importance": 5},
+    {"id": "c_virtual_real", "name": "虚实相生", "importance": 5},
+    {"id": "c_ethereal_solid", "name": "空灵与充实", "importance": 5},
+    {"id": "c_poetry_painting", "name": "诗画分界", "importance": 5},
+    {"id": "c_static_contemplation", "name": "静照", "importance": 5},
+    {"id": "c_empathy_distance", "name": "移情与距离", "importance": 5},
+    {"id": "c_space_consciousness", "name": "空间意识", "importance": 5},
+    {"id": "c_painting_comparison", "name": "中西画法比较", "importance": 5},
+    {"id": "c_dao_dance", "name": "道、舞、空白", "importance": 5},
+    {"id": "c_zen", "name": "禅境", "importance": 5},
+    {"id": "c_calligraphy", "name": "书法美学", "importance": 5},
+    {"id": "c_jin_beauty", "name": "魏晋风度与晋人之美", "importance": 5},
+    {"id": "c_music_fables", "name": "音乐寓言与音乐美学", "importance": 5},
+    {"id": "c_greek_aesthetics", "name": "高贵的单纯与静穆的伟大", "importance": 5},
+    {"id": "c_tang_spirit", "name": "民族精神", "importance": 5}
+  ],
+  "extracted_concepts": [
+    {"id": "e_chufa_furong", "name": "初发芙蓉胜过错采镂金", "is_redundant": false},
+    {"id": "e_qingjing_jiaorong", "name": "化景物为情思", "is_redundant": false},
+    {"id": "e_kongjian_yishi", "name": "俯仰自得的空间意识", "is_redundant": false},
+    {"id": "e_xushi_xiangsheng", "name": "虚实相生", "is_redundant": false},
+    {"id": "e_zhongxi_touji", "name": "中西透视差异", "is_redundant": false},
+    {"id": "e_gufa_yongbi", "name": "迁想妙得与骨法用笔", "is_redundant": false}
+  ],
+  "artifact_usability": {
+    "formatting_score": 5,
+    "clarity_score": 5,
+    "logical_score": 4
+  }
+}

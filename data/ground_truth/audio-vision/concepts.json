@@ -1,0 +1,36 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "name": "Audiovisual Contract",
+      "aliases": [
+        "视听契约",
+        "Added Value",
+        "附加值",
+        "Audiovisual illusion"
+      ],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "Synchresis",
+      "aliases": [
+        "同步离散",
+        "声画同步错觉",
+        "Synchronism and synthesis"
+      ],
+      "weight": 10
+    },
+    {
+      "id": "c3",
+      "name": "Acousmatic Sound",
+      "aliases": [
+        "无源声",
+        "幕后音",
+        "Acousmêtre",
+        "Acousmatic"
+      ],
+      "weight": 9
+    }
+  ]
+}

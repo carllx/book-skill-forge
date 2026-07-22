@@ -1,0 +1,78 @@
+{
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "宁古无时，宁朴无巧",
+      "aliases": [
+        "雅俗之辨",
+        "崇尚古朴",
+        "抵制庸俗"
+      ],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "随方制象，各有所宜",
+      "aliases": [
+        "因地制宜",
+        "恰到好处",
+        "适宜"
+      ],
+      "weight": 9
+    },
+    {
+      "id": "c3",
+      "name": "幽人韵士之居",
+      "aliases": [
+        "借景",
+        "造境",
+        "精神栖息",
+        "造园"
+      ],
+      "weight": 8
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "ext1",
+      "name": "宁古无时",
+      "type": "Principle"
+    },
+    {
+      "id": "ext2",
+      "name": "因地制宜",
+      "type": "Method"
+    },
+    {
+      "id": "ext3",
+      "name": "文人居所",
+      "type": "Concept"
+    },
+    {
+      "id": "ext4",
+      "name": "室庐",
+      "type": "Entity"
+    }
+  ],
+  "mappings": [
+    {
+      "gt_id": "c1",
+      "extracted_id": "ext1",
+      "is_match": true,
+      "reasoning": "Extracted '宁古无时' directly matches the GT concept '宁古无时，宁朴无巧'."
+    },
+    {
+      "gt_id": "c2",
+      "extracted_id": "ext2",
+      "is_match": true,
+      "reasoning": "Extracted '因地制宜' matches alias of '随方制象，各有所宜'."
+    },
+    {
+      "gt_id": "c3",
+      "extracted_id": "ext3",
+      "is_match": true,
+      "reasoning": "Extracted '文人居所' conceptually matches '幽人韵士之居'."
+    }
+  ],
+  "artifact_usability": 0.8
+}

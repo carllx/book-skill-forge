@@ -1,0 +1,96 @@
+{
+  "concepts": [
+    {
+      "id": "c1",
+      "name": "Narrative Time",
+      "aliases": ["Theatrical Time", "Sequential Time"],
+      "weight": 9,
+      "sub_concepts": [
+        {
+          "id": "c1_1",
+          "name": "Rodin's Surfaces",
+          "aliases": ["Process over Product", "Fragment"],
+          "weight": 8
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "name": "Cubist Sculpture",
+      "aliases": ["Cubism"],
+      "weight": 9,
+      "sub_concepts": [
+        {
+          "id": "c2_1",
+          "name": "Analytic Cubism",
+          "aliases": ["Transparency", "Surface Analysis"],
+          "weight": 8
+        },
+        {
+          "id": "c2_2",
+          "name": "Synthetic Cubism",
+          "aliases": ["Assemblage", "Collage"],
+          "weight": 8
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "name": "Constructivism",
+      "aliases": ["Russian Constructivism", "Spatial Construction"],
+      "weight": 9
+    },
+    {
+      "id": "c4",
+      "name": "Readymades",
+      "aliases": ["Duchampian Readymade", "Found Object"],
+      "weight": 10,
+      "sub_concepts": [
+        {
+          "id": "c4_1",
+          "name": "Index",
+          "aliases": ["Indexical Sign"],
+          "weight": 8
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "name": "Surrealist Object",
+      "aliases": ["Fetish Object", "Psychological Space"],
+      "weight": 8
+    },
+    {
+      "id": "c6",
+      "name": "Minimalism",
+      "aliases": ["Minimal Art", "Literalist Art"],
+      "weight": 10,
+      "sub_concepts": [
+        {
+          "id": "c6_1",
+          "name": "Theatricality",
+          "aliases": ["Michael Fried's Critique", "Objecthood"],
+          "weight": 9
+        },
+        {
+          "id": "c6_2",
+          "name": "Specific Objects",
+          "aliases": ["Judd's Specific Objects"],
+          "weight": 9
+        },
+        {
+          "id": "c6_3",
+          "name": "Gestalt",
+          "aliases": ["Holistic Form"],
+          "weight": 8
+        }
+      ]
+    },
+    {
+      "id": "c7",
+      "name": "Site-Specificity",
+      "aliases": ["Earthworks", "Land Art", "Expanded Field"],
+      "weight": 10
+    }
+  ]
+}

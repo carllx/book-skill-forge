@@ -1,0 +1,282 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "cj_1",
+      "gt_id": "c3",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.95,
+      "reasoning": "Tectonic identified as a core poetics of construction mindset.",
+      "evidence": "Mindset: Poetics of Construction / Tectonic."
+    },
+    {
+      "extracted_id": "cj_2",
+      "gt_id": "c4",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.95,
+      "reasoning": "Stereotomic identified as the opposing mindset to tectonic.",
+      "evidence": "Mindset: Stereotomic compressive mass."
+    },
+    {
+      "extracted_id": "cj_3",
+      "gt_id": "c5",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.9,
+      "reasoning": "Shintai identified as the experiential framework.",
+      "evidence": "Framework: Shintai corporeal experience."
+    },
+    {
+      "extracted_id": "cj_4",
+      "gt_id": "c5_1",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.85,
+      "reasoning": "Tactility extracted as a sensory principle.",
+      "evidence": "Principle: Tactile perception."
+    },
+    {
+      "extracted_id": "cj_5",
+      "gt_id": "c5_2",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.85,
+      "reasoning": "Kinesthetics extracted as a movement principle.",
+      "evidence": "Principle: Kinesthetic experience in architecture."
+    },
+    {
+      "extracted_id": "cj_6",
+      "gt_id": "c6",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.88,
+      "reasoning": "Stoffwechseltheorie identified as material transposition concept.",
+      "evidence": "Methodology: Stoffwechseltheorie."
+    },
+    {
+      "extracted_id": "cj_7",
+      "gt_id": "c3_1",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.8,
+      "reasoning": "Kernform extracted as structural core principle.",
+      "evidence": "Principle: Kernform (Structural core)."
+    },
+    {
+      "extracted_id": "cj_8",
+      "gt_id": "c3_2",
+      "is_matched": true,
+      "is_redundant": false,
+      "confidence": 0.8,
+      "reasoning": "Kunstform extracted as representational expression.",
+      "evidence": "Principle: Kunstform (Art Form)."
+    }
+  ],
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "Topos",
+      "aliases": [
+        "Site",
+        "Topography"
+      ],
+      "weight": 8,
+      "importance": 8
+    },
+    {
+      "id": "c2",
+      "name": "Typos",
+      "aliases": [
+        "Type",
+        "Cultural form"
+      ],
+      "weight": 7,
+      "importance": 7
+    },
+    {
+      "id": "c3",
+      "name": "Tectonic",
+      "aliases": [
+        "Frame",
+        "Lightweight tensile structure",
+        "Poetics of Construction"
+      ],
+      "weight": 10,
+      "sub_concepts": [
+        {
+          "id": "c3_1",
+          "name": "Kernform",
+          "aliases": [
+            "Core Form",
+            "Structural core"
+          ],
+          "weight": 9
+        },
+        {
+          "id": "c3_2",
+          "name": "Kunstform",
+          "aliases": [
+            "Art Form",
+            "Symbolic expression",
+            "Representational expression"
+          ],
+          "weight": 9
+        }
+      ],
+      "importance": 10
+    },
+    {
+      "id": "c4",
+      "name": "Stereotomic",
+      "aliases": [
+        "Earthwork",
+        "Compressive mass",
+        "Heavyweight structure"
+      ],
+      "weight": 10,
+      "importance": 10
+    },
+    {
+      "id": "c5",
+      "name": "Shintai",
+      "aliases": [
+        "Sentient body",
+        "Corporeal experience",
+        "Kinetic experience"
+      ],
+      "weight": 8,
+      "sub_concepts": [
+        {
+          "id": "c5_1",
+          "name": "Tactility",
+          "aliases": [
+            "Hand-finish",
+            "Texture"
+          ],
+          "weight": 7
+        },
+        {
+          "id": "c5_2",
+          "name": "Kinesthetics",
+          "aliases": [
+            "Gait",
+            "Circulation paths"
+          ],
+          "weight": 7
+        },
+        {
+          "id": "c5_3",
+          "name": "Psycho-Acoustics",
+          "aliases": [
+            "Reverberation",
+            "Acoustic absorption"
+          ],
+          "weight": 7
+        }
+      ],
+      "importance": 8
+    },
+    {
+      "id": "c6",
+      "name": "Stoffwechseltheorie",
+      "aliases": [
+        "Material transposition"
+      ],
+      "weight": 8,
+      "importance": 8
+    },
+    {
+      "id": "c7",
+      "name": "Semper's Four Elements",
+      "aliases": [
+        "Four Elements"
+      ],
+      "weight": 9,
+      "sub_concepts": [
+        {
+          "id": "c7_1",
+          "name": "Earthwork",
+          "aliases": [
+            "Stereotomic base"
+          ],
+          "weight": 8
+        },
+        {
+          "id": "c7_2",
+          "name": "Hearth",
+          "aliases": [
+            "Fire",
+            "Social center"
+          ],
+          "weight": 8
+        },
+        {
+          "id": "c7_3",
+          "name": "Framework/Roof",
+          "aliases": [
+            "Tectonic frame"
+          ],
+          "weight": 8
+        },
+        {
+          "id": "c7_4",
+          "name": "Lightweight Enclosing Membrane",
+          "aliases": [
+            "Textile",
+            "Woven materials"
+          ],
+          "weight": 8
+        }
+      ],
+      "importance": 9
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "cj_1",
+      "name": "cj_1",
+      "is_redundant": false
+    },
+    {
+      "id": "cj_2",
+      "name": "cj_2",
+      "is_redundant": false
+    },
+    {
+      "id": "cj_3",
+      "name": "cj_3",
+      "is_redundant": false
+    },
+    {
+      "id": "cj_4",
+      "name": "cj_4",
+      "is_redundant": false
+    },
+    {
+      "id": "cj_5",
+      "name": "cj_5",
+      "is_redundant": false
+    },
+    {
+      "id": "cj_6",
+      "name": "cj_6",
+      "is_redundant": false
+    },
+    {
+      "id": "cj_7",
+      "name": "cj_7",
+      "is_redundant": false
+    },
+    {
+      "id": "cj_8",
+      "name": "cj_8",
+      "is_redundant": false
+    }
+  ],
+  "artifact_usability": {
+    "formatting_score": 4.0,
+    "clarity_score": 4.0,
+    "logical_score": 4.0
+  }
+}

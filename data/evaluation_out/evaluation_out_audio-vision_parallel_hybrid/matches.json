@@ -1,0 +1,114 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "audiovisual_contract",
+      "gt_id": "audiovisual_contract",
+      "confidence": "high",
+      "reasoning": "SKILL.md中明确列出了'影音契约 (The Audiovisual Contract)'，与GT中的Audiovisual Contract严格对应。"
+    },
+    {
+      "extracted_id": "added_value",
+      "gt_id": "added_value",
+      "confidence": "high",
+      "reasoning": "SKILL.md中提到了'Added value (附加价值)'，阐述了声音赋予图像表现力的作用，与GT严格对应。"
+    },
+    {
+      "extracted_id": "synchresis",
+      "gt_id": "synchresis",
+      "confidence": "high",
+      "reasoning": "SKILL.md中定义了'Synchresis (同步聚合)'作为大脑自发融合的现象，与GT对应。"
+    },
+    {
+      "extracted_id": "vococentrism",
+      "gt_id": "vococentrism",
+      "confidence": "high",
+      "reasoning": "SKILL.md中提到了'Vococentrism (人声中心主义)'结构化影音关系，与GT对应。"
+    },
+    {
+      "extracted_id": "acousmatic",
+      "gt_id": "acousmatic",
+      "confidence": "high",
+      "reasoning": "SKILL.md中提到了'Acousmatic (无相之音)'，与GT严格对应。"
+    },
+    {
+      "extracted_id": "acousmetre",
+      "gt_id": "acousmetre",
+      "confidence": "high",
+      "reasoning": "SKILL.md中提到了'听觉幽灵 (Acousmêtre)'，与GT对应。"
+    },
+    {
+      "extracted_id": "de_acousmatization",
+      "gt_id": "de-acousmatization",
+      "confidence": "high",
+      "reasoning": "SKILL.md中提到了'面孔一旦曝光（去听觉幽灵化）'，对应GT的De-acousmatization。"
+    },
+    {
+      "extracted_id": "visualized_sound",
+      "gt_id": "visualized_sound",
+      "confidence": "high",
+      "reasoning": "SKILL.md提到了'Visualized (视觉化声音)'对应Onscreen，与GT对应。"
+    },
+    {
+      "extracted_id": "empathetic_sound",
+      "gt_id": "empathetic_sound",
+      "confidence": "high",
+      "reasoning": "SKILL.md明确定义了'共情 (Empathetic Sound)'，与GT对应。"
+    },
+    {
+      "extracted_id": "anempathetic_sound",
+      "gt_id": "anempathetic_sound",
+      "confidence": "high",
+      "reasoning": "SKILL.md提到了'非共情 (Anempathetic Sound)'，与GT对应。"
+    }
+  ],
+  "ground_truth_concepts": [
+    {"id": "audiovisual_contract", "name": "Audiovisual Contract", "importance": 10},
+    {"id": "added_value", "name": "Added Value", "importance": 10},
+    {"id": "empathetic_sound", "name": "Empathetic Sound", "importance": 8},
+    {"id": "anempathetic_sound", "name": "Anempathetic Sound", "importance": 9},
+    {"id": "synchresis", "name": "Synchresis", "importance": 10},
+    {"id": "vococentrism", "name": "Vococentrism", "importance": 8},
+    {"id": "acousmatic", "name": "Acousmatic", "importance": 9},
+    {"id": "acousmetre", "name": "Acousmêtre", "importance": 10},
+    {"id": "de-acousmatization", "name": "De-acousmatization", "importance": 7},
+    {"id": "visualized_sound", "name": "Visualized Sound", "importance": 8},
+    {"id": "spatial_magnetization", "name": "Spatial Magnetization", "importance": 7},
+    {"id": "materializing_sound_indices", "name": "Materializing Sound Indices", "importance": 8},
+    {"id": "extension", "name": "Extension", "importance": 8},
+    {"id": "null_extension", "name": "Null Extension", "importance": 6},
+    {"id": "vast_extension", "name": "Vast Extension", "importance": 6},
+    {"id": "point_of_audition", "name": "Point of Audition", "importance": 9},
+    {"id": "subjective_sound", "name": "Subjective Sound", "importance": 7},
+    {"id": "soundscape", "name": "Soundscape", "importance": 7},
+    {"id": "rendering", "name": "Rendering", "importance": 9}
+  ],
+  "extracted_concepts": [
+    {"id": "audiovisual_contract", "name": "The Audiovisual Contract", "is_redundant": false},
+    {"id": "added_value", "name": "Added value", "is_redundant": false},
+    {"id": "synchresis", "name": "Synchresis", "is_redundant": false},
+    {"id": "vococentrism", "name": "Vococentrism", "is_redundant": false},
+    {"id": "acousmatic", "name": "Acousmatic", "is_redundant": false},
+    {"id": "acousmetre", "name": "Acousmêtre", "is_redundant": false},
+    {"id": "de_acousmatization", "name": "de-acousmatization", "is_redundant": false},
+    {"id": "visualized_sound", "name": "Visualized", "is_redundant": false},
+    {"id": "empathetic_sound", "name": "Empathetic Sound", "is_redundant": false},
+    {"id": "anempathetic_sound", "name": "Anempathetic Sound", "is_redundant": false},
+    {"id": "mutism", "name": "Mutism", "is_redundant": false},
+    {"id": "onscreen", "name": "Onscreen", "is_redundant": false},
+    {"id": "offscreen", "name": "Offscreen", "is_redundant": false},
+    {"id": "eas", "name": "EAS", "is_redundant": false},
+    {"id": "nondiegetic", "name": "Nondiegetic", "is_redundant": false},
+    {"id": "temporalization", "name": "Temporalization", "is_redundant": false},
+    {"id": "animation", "name": "Animation", "is_redundant": false},
+    {"id": "linearization", "name": "Linearization", "is_redundant": false},
+    {"id": "vectorization", "name": "Vectorization", "is_redundant": false},
+    {"id": "causal_listening", "name": "Causal Listening", "is_redundant": false},
+    {"id": "codal_listening", "name": "Codal Listening", "is_redundant": false},
+    {"id": "reduced_listening", "name": "Reduced Listening", "is_redundant": false}
+  ],
+  "artifact_usability": {
+    "formatting_score": 5,
+    "clarity_score": 5,
+    "logical_score": 5
+  }
+}

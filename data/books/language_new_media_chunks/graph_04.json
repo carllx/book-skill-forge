@@ -1,0 +1,81 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Screen-based Apparatuses",
+      "description": "Technologies like camera obscura, photography, and cinema that separate virtual and physical spaces and require viewer immobility. Belongs to Representation Tradition."
+    },
+    {
+      "id": "n2",
+      "label": "Virtual Reality (VR)",
+      "description": "A screen-less apparatus that requires viewer movement while physically tethering them, blending or overriding physical space. Belongs to Simulation Tradition."
+    },
+    {
+      "id": "n3",
+      "label": "Simulation Tradition",
+      "description": "A representational logic that blends virtual and physical spaces without a separating frame, allowing continuous scale (e.g., frescoes, VR)."
+    },
+    {
+      "id": "n4",
+      "label": "Representation Tradition",
+      "description": "A logic that separates physical and virtual spaces with a screen/frame, splitting the subject's identity (e.g., Renaissance painting, cinema)."
+    },
+    {
+      "id": "n5",
+      "label": "New Media Operations",
+      "description": "General techniques for working with computer media, such as selection, compositing, and teleaction, which become cognitive strategies."
+    },
+    {
+      "id": "n6",
+      "label": "Logic of Selection",
+      "description": "A model of authorship based on choosing from pre-defined menus, libraries, and databases rather than authentic creation from scratch."
+    },
+    {
+      "id": "n7",
+      "label": "Electronic Signal Mutability",
+      "description": "The inherent mutability of electronic signals that can be modified in real-time through filters, acting as a precursor to new media variability."
+    },
+    {
+      "id": "n8",
+      "label": "Digital Compositing",
+      "description": "The operation of assembling disparate modular elements into a single seamless object, hiding their diverse origins."
+    },
+    {
+      "id": "n9",
+      "label": "Modular Media",
+      "description": "Media formats (like 3D scenes, QuickTime) that maintain independent elements/layers, contrasting with traditional single-stream media."
+    }
+  ],
+  "edges": [
+    {
+      "source": "n1",
+      "target": "n4",
+      "label": "belongs to"
+    },
+    {
+      "source": "n2",
+      "target": "n3",
+      "label": "continues"
+    },
+    {
+      "source": "n5",
+      "target": "n6",
+      "label": "includes"
+    },
+    {
+      "source": "n5",
+      "target": "n8",
+      "label": "includes"
+    },
+    {
+      "source": "n8",
+      "target": "n9",
+      "label": "relies on"
+    },
+    {
+      "source": "n7",
+      "target": "n9",
+      "label": "precursor to"
+    }
+  ]
+}

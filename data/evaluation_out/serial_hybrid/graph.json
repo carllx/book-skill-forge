@@ -1,0 +1,141 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "New Media",
+      "description": "The overarching subject of the book, defined by digital medium's material and logical organization."
+    },
+    {
+      "id": "n2",
+      "label": "Numerical Representation",
+      "description": "First principle of new media: all new media objects are composed of digital code."
+    },
+    {
+      "id": "n3",
+      "label": "Modularity",
+      "description": "Second principle of new media: fractal structure of new media objects."
+    },
+    {
+      "id": "n4",
+      "label": "Automation",
+      "description": "Third principle of new media: removal of human intentionality from the creative process."
+    },
+    {
+      "id": "n5",
+      "label": "Variability",
+      "description": "Fourth principle of new media: a new media object can exist in different, potentially infinite versions."
+    },
+    {
+      "id": "n6",
+      "label": "Transcoding",
+      "description": "Fifth principle of new media: translating something into another format, combining computer and cultural layers."
+    },
+    {
+      "id": "n7",
+      "label": "The Interface",
+      "description": "The human-computer interface, shaped by traditions of print, cinema, and HCI."
+    },
+    {
+      "id": "n8",
+      "label": "The Operations",
+      "description": "Software applications which run on top of the OS, their interfaces and typical operations like compositing and teleaction."
+    },
+    {
+      "id": "n9",
+      "label": "The Illusions",
+      "description": "Appearance, and the new logic of digital images created and accessed using software applications."
+    },
+    {
+      "id": "n10",
+      "label": "The Forms",
+      "description": "The commonly used conventions for organizing a new media object as a whole, such as Database and Navigable space."
+    },
+    {
+      "id": "n11",
+      "label": "Cinema",
+      "description": "A key cultural form of the twentieth century that serves as the conceptual lens to look at new media."
+    },
+    {
+      "id": "n12",
+      "label": "Database",
+      "description": "A new media form representing the logic of organizing information, often contrasted with narrative."
+    },
+    {
+      "id": "n13",
+      "label": "Navigable Space",
+      "description": "A new media form centered on movement through a simulated 3D space."
+    },
+    {
+      "id": "n14",
+      "label": "Dziga Vertov's A Man With a Movie Camera",
+      "description": "An early avant-garde film serving as a visual index and precursor to the language of new media and database imagination."
+    }
+  ],
+  "edges": [
+    {
+      "source": "n2",
+      "target": "n1",
+      "relationship": "is_principle_of"
+    },
+    {
+      "source": "n3",
+      "target": "n1",
+      "relationship": "is_principle_of"
+    },
+    {
+      "source": "n4",
+      "target": "n1",
+      "relationship": "is_principle_of"
+    },
+    {
+      "source": "n5",
+      "target": "n1",
+      "relationship": "is_principle_of"
+    },
+    {
+      "source": "n6",
+      "target": "n1",
+      "relationship": "is_principle_of"
+    },
+    {
+      "source": "n7",
+      "target": "n1",
+      "relationship": "is_level_of"
+    },
+    {
+      "source": "n8",
+      "target": "n1",
+      "relationship": "is_level_of"
+    },
+    {
+      "source": "n9",
+      "target": "n1",
+      "relationship": "is_level_of"
+    },
+    {
+      "source": "n10",
+      "target": "n1",
+      "relationship": "is_level_of"
+    },
+    {
+      "source": "n12",
+      "target": "n10",
+      "relationship": "is_form_of"
+    },
+    {
+      "source": "n13",
+      "target": "n10",
+      "relationship": "is_form_of"
+    },
+    {
+      "source": "n11",
+      "target": "n7",
+      "relationship": "provides_conventions_for"
+    },
+    {
+      "source": "n14",
+      "target": "n12",
+      "relationship": "is_precursor_to"
+    }
+  ]
+}

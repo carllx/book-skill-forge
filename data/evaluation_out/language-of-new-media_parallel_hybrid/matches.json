@@ -1,0 +1,109 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "digital_materialism_transcoding",
+      "gt_id": "transcoding",
+      "confidence": "high",
+      "reasoning": "SKILL.md中'计算机与文化的双层重构'部分明确指出了'互相转码（Transcoding）'与'文化层与计算机层'的概念，对应Ground Truth中的'Transcoding'。"
+    },
+    {
+      "extracted_id": "database_vs_narrative",
+      "gt_id": "database",
+      "confidence": "high",
+      "reasoning": "SKILL.md中提到了'数据库与叙事的张力 (Database vs. Narrative)'，这直接映射到Ground Truth的'Database'。"
+    },
+    {
+      "extracted_id": "variability",
+      "gt_id": "variability",
+      "confidence": "high",
+      "reasoning": "SKILL.md中'常量变体化与空间化 (Variability & Spatialization)'提及了'无数变体'，直接对应Ground Truth的'Variability'。"
+    },
+    {
+      "extracted_id": "navigable_space",
+      "gt_id": "navigable_space",
+      "confidence": "high",
+      "reasoning": "SKILL.md提到了'可导航的空间（Navigable Space）'，对应Ground Truth的'Navigable Space'。"
+    },
+    {
+      "extracted_id": "teleaction",
+      "gt_id": "teleaction",
+      "confidence": "high",
+      "reasoning": "SKILL.md中'远距行动的工具 (Teleaction)'直接等同于Ground Truth中的'Teleaction'。"
+    },
+    {
+      "extracted_id": "modularity",
+      "gt_id": "modularity",
+      "confidence": "high",
+      "reasoning": "SKILL.md中提到了'模块化与自动化 (Modularity & Automation)'，其中'离散的、独立的模块'对应了'Modularity'。"
+    },
+    {
+      "extracted_id": "automation",
+      "gt_id": "automation",
+      "confidence": "high",
+      "reasoning": "SKILL.md中同节提到'计算自动化'和算法操作，对应了'Automation'。"
+    },
+    {
+      "extracted_id": "cultural_interfaces",
+      "gt_id": "cultural_interfaces",
+      "confidence": "high",
+      "reasoning": "SKILL.md中有'文化界面（Cultural Interfaces）'和'印刷、电影、HCI传统'的内容，对应'Cultural Interfaces'。"
+    },
+    {
+      "extracted_id": "compositing",
+      "gt_id": "compositing",
+      "confidence": "high",
+      "reasoning": "SKILL.md中提到了'无缝合成 (Digital Compositing & Continuity)'，直接对应'Compositing'。"
+    },
+    {
+      "extracted_id": "synthetic_realism",
+      "gt_id": "synthetic_realism",
+      "confidence": "high",
+      "reasoning": "SKILL.md中提到创造'合成逼真感（Synthetic Realism）'，映射至'Synthetic Realism'。"
+    },
+    {
+      "extracted_id": "digital_cinema",
+      "gt_id": "digital_cinema",
+      "confidence": "high",
+      "reasoning": "SKILL.md中提到了电影传统(Cinema)在三源融合中的作用以及蒙太奇，部分覆盖了Digital Cinema。"
+    }
+  ],
+  "ground_truth_concepts": [
+    {"id": "principles_of_new_media", "name": "Principles of New Media", "importance": 10},
+    {"id": "numerical_representation", "name": "Numerical Representation", "importance": 9},
+    {"id": "modularity", "name": "Modularity", "importance": 9},
+    {"id": "automation", "name": "Automation", "importance": 8},
+    {"id": "variability", "name": "Variability", "importance": 8},
+    {"id": "transcoding", "name": "Transcoding", "importance": 10},
+    {"id": "the_interface", "name": "The Interface", "importance": 8},
+    {"id": "cultural_interfaces", "name": "Cultural Interfaces", "importance": 8},
+    {"id": "the_screen", "name": "The Screen", "importance": 7},
+    {"id": "the_operations", "name": "The Operations", "importance": 8},
+    {"id": "compositing", "name": "Compositing", "importance": 8},
+    {"id": "teleaction", "name": "Teleaction", "importance": 6},
+    {"id": "menus_filters", "name": "Menus and Filters", "importance": 7},
+    {"id": "the_illusions", "name": "The Illusions", "importance": 7},
+    {"id": "synthetic_realism", "name": "Synthetic Realism", "importance": 8},
+    {"id": "the_forms", "name": "The Forms", "importance": 9},
+    {"id": "database", "name": "Database", "importance": 10},
+    {"id": "navigable_space", "name": "Navigable Space", "importance": 9},
+    {"id": "digital_cinema", "name": "Digital Cinema", "importance": 8}
+  ],
+  "extracted_concepts": [
+    {"id": "digital_materialism_transcoding", "name": "计算机与文化的双层重构 (Transcoding)", "is_redundant": false},
+    {"id": "database_vs_narrative", "name": "数据库与叙事的张力 (Database)", "is_redundant": false},
+    {"id": "variability", "name": "常量变体化 (Variability)", "is_redundant": false},
+    {"id": "navigable_space", "name": "空间化 (Navigable Space)", "is_redundant": false},
+    {"id": "teleaction", "name": "远距行动的工具 (Teleaction)", "is_redundant": false},
+    {"id": "modularity", "name": "碎形结构原则 (Modularity)", "is_redundant": false},
+    {"id": "automation", "name": "计算自动化 (Automation)", "is_redundant": false},
+    {"id": "cultural_interfaces", "name": "文化界面 (Cultural Interfaces)", "is_redundant": false},
+    {"id": "compositing", "name": "无缝合成 (Compositing)", "is_redundant": false},
+    {"id": "synthetic_realism", "name": "合成逼真感 (Synthetic Realism)", "is_redundant": false},
+    {"id": "digital_cinema", "name": "电影传统与蒙太奇 (Digital Cinema)", "is_redundant": false}
+  ],
+  "artifact_usability": {
+    "formatting_score": 5,
+    "clarity_score": 5,
+    "logical_score": 5
+  }
+}

@@ -1,0 +1,39 @@
+## Part 28
+
+> [BREADCRUMB_CTX: 《design_real_world》 > Part 28]
+
+Meanwhile, back inStuttgart, Cerman Kodak quietly built and sold theircontinental version, called theCarousel-S. This model issafely wired, had itsownremote focusingand slideselection cables, and, to top it all, includes a built-in stepdown and step-up transformer thatmadeit usable anywhere in theworld,regardless oflocal voltage. Itsold (in Germany) at a very low price. Kodak ofRochester, New York, actively attempted todiscourageAmericansfrom buyingitbyrefusing to answer inquiries about it and hinting that partsmight be difficult to obtain or thatit was somehow unsafe orunsuitable. This was, of course, untrue.
+
+The German model communicated simple, safe,and accident-free function both through performanceand looks. Automatic timing and other features were simple plug-in components thatcould bebought separately. Accessories that went with theGerman version, such as slide trays and extra lenses, were better designed, more solidly built, aesthetically pleasing,and farless expensive. TheGermans used that good old American know-how: true mass production. Theymade justoneprojector with different plug-in options, whereas in the United Statesmore than a dozen projectors (countingthe Ektagraphic line) were made all slightly different, neatly trapping the buyer. Oursystem isdesigned for consumer dissatisfaction and forced obsolescence. That itis alsoexpensive and not as safe has been demonstrated. By 1984 thingshave changed radically once more. The German Kodak projector (now named 2000 S-AV) has become fairly expensive and is machined from asolid cast-aluminum block. But even the earliest Germanversion holds up amazingly well: bothJim Hennessey andI have used oursprofessionally (inour design officesand atour university) forseventeen yearswithout malfunction.
+
+American consumer resistance in 1984 seems to show that you can't trick a new doginold ways. Instead of anyof the flimsyU.S. KodakCarousels,serious photographersare buying the new Cerman Leitz Pradolux 300 projector. Leitz decided to combine their well known optical excellence with Kodak's onereal contribution: the round gravity-feed slide tray. A logical synthesis without sales gimmickry, the Pradoluxsells inNew YorkcamerastoresforlessthanU.S.Kodak projectors.
+
+In order to work more directly forpeople, the whole field ofdesign has to emphasize the role of the designer as an advocate. A new secretarial chair, forinstance, isdesigned becausea furnituremanufacturerfeelsthattheremay beaprofit in putting a new chair on the market. Thedesign staff is then told thata new chair is needed and what particular price structure itshould fitinto.
+
+Atthis stage,ergonomics (orhuman factorsdesign) isused, and designers consult their librariesofvitalmeasurements in thefield. Most secretaries in the United States arefemale, and most human factors design data are unfortunately based on whitemales between theages ofeighteen andtwenty-five. As the few books in theBibliography thatdeal with ergonomics show, the datahavebeengathered almost entirely from draftees inducted into the Army (McCormick), Navy personnel (Tufts University), or Dutch Air Force personnel (Butterworth). Aside from some interesting charts in Henry Dreyfuss'sDesigningForPeople, until recently thereexisted nodata concerningvital measurementsand statistics of women,children, the elderly, babies, and the handicapped.
+
+1 am delighted that this situation has changed in the last tenyears. Niels Diffrient, AlvinTilley, and David Harmanall from the Henry Dreyfuss office-and others have developedsuperb booksthat deal withchildren,men, women, and thehandicapped. Through a seriesofchartshundreds ofcritical dimensions, unavailable to designers before, are supplied in clear form: Humanscale 1/2/3, Humanscale 4/5/6, Humanscale 7/8/9 (Cambridge. M.I.T. Press, 1974-1981),
+
+A former student and coworker ofmine, Harald Kubelka, of Vienna, hasworked with vital measurements of school-age children in Austria. This excellent workbook, heavily illustrated with pictures and graphs, has formed a precious data base for manufacturers of school furniture, clothes, school bags, etc., in Austria.
+
+To return to our discussion of the secretarial chair, based on amanufacturer's hunch thata newsecretarial chairmight sell, substantiated by extrapolating and intrapolating the measurements of Dutch pilots during World War II, and fleshed out by whatever stylistic extravaganzas the designer performs, theprototype chairis ready. Now begins consumer testing and market research. Stripping thisresearch of all the mystical clap-trapsupplied toit by the snake-oil brigade from Madison Avenue, this meansthata few chairs areeithertested or sold under highly controlled circumstances in five test cities. (These are cities of medium population and average income, towns in which money isusually alleged to be ready for new ideas. San Francisco; Los Angeles; Phoenix, Arizona; Madison,Wisconsin；and Cambridge, Massachusetts, are five out of a long list.) So much for market research. If it sells, swell.
+
+When designing a better typist's chair, the secretaries them
+
+T 福 □
+
+Secretarlal posture chair, designed by"Team Design, Bohl, Kunze, Scheel, and Grunschloss of Stuttgart. Courtesy: Infordestgn magazine, Brussels.
+
+selvesmust bepartof the team. Too oftenan"average typist is asked tosit in thecompleted new chair(sometimes even for five minutes) and then asked: "Well, what doyou think?" When she replies, "Gee, theredupholstery isrealdifferentl" we takethis for a significant evaluation andgo into massproduction. But typing involves eight hours a day, longstretches of work. And even if secretaries wereintelligently tested on these chairs, how can we see to it that it is the secretaries themselves whomake thedecision astowhich chairisbought? Usually that decision ismade by the boss, the architect, Or (God save us) the interior decorator.
+
+A typist's chair has been designed in which secretaries formed part ofthe planning team and tested it thoroughly. The chair was designed bya team called Umweltgestaltung, ofStuttgart. Ergonomicswas handled byUlrich Burandt and the Institute for Hygieneand Worker'sPhysiology in Zurich, Switzerland, and the chair ismanufactured by Drabert and Sons of Minden, Germany. It is thoroughly documented in Infordesign(No. 34, 1970, Brussels). But, as I feared in 1970, when itreached theU.S. marketplace it wasgreatlyoutsold bywhat Americandesignersliketocall 'sexed-up" chairs. And remember again: secretaries havelittlesay in their employers' purchase of chairs.
+
+TheHerman Miller Furniture Company ofZeeland, Michigan, hasdeveloped a series ofexcellent secretarial andworking chairs during the early and mid-seventies and is still continuing to do so. Other ergonomically sound secretarial seating has been designed by Knoll International and Ettore Sottsass in Italy. However, all thisseating is fairly expensive (inthecase ofEuropean imports, middlemen sometimes arbitrarilyraise prices by as much as300percent for"designer" chairs in New York), and, in any case, thesecretarystill has nosay inthe matter,
+
+Another example shows that design and judgmentsaboutit stillhave farto go: during1970-1971,anall-Europeandesign competition of table settingswas held in West Germany under the name "Tisch 80-Bord80. The most ecologically respon
+
+![](images/a58fffdd23a5fd3f183e16eea2e3e99ebd55ced683cb9ac505c38c43d445b9ea.jpg)
+
+Drawing of aerated washing, drying, and storage container for recyclable dishes designed by Barbro Kulvik-Siltavuori of Finland. Courtesy: Barbro Kulvik-Siltavuori and Gruppe 21.
+
+sible entry was submitted by Mrs. Barbro Kulvik-Siltavuori of Finland. Whereall other entriesattempted to pander to styleconsciousness and consumerism, her submission concerned itself with recycling.

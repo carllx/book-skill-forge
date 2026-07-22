@@ -1,0 +1,9 @@
+{"timestamp": "2026-07-21T17:25:21.755655", "book_id": "architecture-form-space-order", "recipe": "Graphify Only", "recall": 1.0, "precision": 1.0, "usability": 0.9333333333333333, "artifact_size_bytes": 112003}
+{"timestamp": "2026-07-21T17:31:06.390142", "book_id": "architecture-form-space-order", "recipe": "Cangjie Only", "recall": 0.8198198198198198, "precision": 0.7, "usability": 1.0, "artifact_size_bytes": 3591}
+{"timestamp": "2026-07-21T17:34:11.151079", "book_id": "architecture-form-space-order", "recipe": "Parallel Hybrid", "recall": 0.4601449275362319, "precision": 1.0, "usability": 1.0, "artifact_size_bytes": 120766}
+{"timestamp": "2026-07-21T22:04:47.980106", "book_id": "architecture-form-space-order", "recipe": "graphify_only", "recall": 0.6551724137931034, "precision": 1.0, "usability": 0.0, "artifact_size_bytes": 112003}
+{"timestamp": "2026-07-21T22:04:48.207210", "book_id": "architecture-form-space-order", "recipe": "cangjie_only", "recall": 0.6551724137931034, "precision": 1.0, "usability": 0.0, "artifact_size_bytes": 3591}
+{"timestamp": "2026-07-21T22:04:48.413734", "book_id": "architecture-form-space-order", "recipe": "parallel_hybrid", "recall": 1.0, "precision": 1.0, "usability": 0.0, "artifact_size_bytes": 120766}
+{"timestamp": "2026-07-21T22:05:33.345402", "book_id": "architecture-form-space-order", "recipe": "graphify_only", "recall": 0.6551724137931034, "precision": 1.0, "usability": 0.7, "artifact_size_bytes": 112003}
+{"timestamp": "2026-07-21T22:05:33.529216", "book_id": "architecture-form-space-order", "recipe": "cangjie_only", "recall": 0.6551724137931034, "precision": 1.0, "usability": 0.8, "artifact_size_bytes": 3591}
+{"timestamp": "2026-07-21T22:05:33.712379", "book_id": "architecture-form-space-order", "recipe": "parallel_hybrid", "recall": 1.0, "precision": 1.0, "usability": 1.0, "artifact_size_bytes": 120766}

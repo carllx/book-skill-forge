@@ -1,0 +1,6 @@
+{"timestamp": "2026-07-21T22:04:46.934188", "book_id": "audio-vision", "recipe": "graphify_only", "recall": 0.6551724137931034, "precision": 1.0, "usability": 0.8, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:04:47.529001", "book_id": "audio-vision", "recipe": "cangjie_only", "recall": 0.6551724137931034, "precision": 1.0, "usability": 0.75, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:04:47.759889", "book_id": "audio-vision", "recipe": "parallel_hybrid", "recall": 1.0, "precision": 1.0, "usability": 0.95, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:05:32.772352", "book_id": "audio-vision", "recipe": "graphify_only", "recall": 0.6551724137931034, "precision": 1.0, "usability": 0.8, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:05:32.963482", "book_id": "audio-vision", "recipe": "cangjie_only", "recall": 0.6551724137931034, "precision": 1.0, "usability": 0.75, "artifact_size_bytes": 0}
+{"timestamp": "2026-07-21T22:05:33.160510", "book_id": "audio-vision", "recipe": "parallel_hybrid", "recall": 1.0, "precision": 1.0, "usability": 0.95, "artifact_size_bytes": 0}

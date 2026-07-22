@@ -1,0 +1,53 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "e_contract",
+      "gt_id": "c1",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "The extracted mindset 'The Audiovisual Contract' aligns with 'Audiovisual Contract' (c1). Both relate to the perceptual illusion and added value.",
+      "evidence": "The challenge Chion takes up in the first six chapters of Audio-Vision in the form of an Audiovisual Contract"
+    },
+    {
+      "extracted_id": "e_acousm",
+      "gt_id": "c3",
+      "is_matched": true,
+      "is_redundant": false,
+      "reasoning": "The extracted anti-pattern 'The phantom Acousmetre' matches the 'Acousmatic Sound' concept (c3).",
+      "evidence": "One of Chion's most original observations—the phantom Acousmetre—depends for its effect on delaying the fusion of sound and image"
+    }
+  ],
+  "ground_truth_concepts": [
+    {
+      "id": "c1",
+      "name": "Audiovisual Contract",
+      "aliases": ["视听契约", "Added Value", "附加值", "Audiovisual illusion"],
+      "weight": 10
+    },
+    {
+      "id": "c2",
+      "name": "Synchresis",
+      "aliases": ["同步离散", "声画同步错觉", "Synchronism and synthesis"],
+      "weight": 10
+    },
+    {
+      "id": "c3",
+      "name": "Acousmatic Sound",
+      "aliases": ["无源声", "幕后音", "Acousmêtre", "Acousmatic"],
+      "weight": 9
+    }
+  ],
+  "extracted_concepts": [
+    {
+      "id": "e_contract",
+      "name": "The Audiovisual Contract",
+      "type": "principle"
+    },
+    {
+      "id": "e_acousm",
+      "name": "The phantom Acousmetre",
+      "type": "anti-pattern"
+    }
+  ],
+  "artifact_usability": 0.75
+}

@@ -1,0 +1,37 @@
+## Part 90
+
+> [BREADCRUMB_CTX: 《tectonic_culture》 > Part 90]
+
+With its elevated superstructure and its inundated undercroft, the Brion Cemetery seems, in many ways, to be an oriental reflection on the acceptance of mortality, and it would be hard to find another contemporary commemorative work that is so removed from the morbidity commonly associated with death in the West. Instead, Scarpa sought a transcultural, ecumenical expression that would transcend the Christian preoccupation with guilt and redemption. The idea of death as a joyous (re)union, indissolubly linked to the erotic, is subtly confirmed in this instance by Scarpa's cunning use of the Chinese character "double happiness"\~-a character traditionally employed on the occasion of a wedding-that is ingeniously incorporated into the form of the concrete lattice window cast into the only open corner of the cemetery compound.29
+
+![](images/5432594532cbc1799654aad499f2d7d39546c7ee6db12ed5a8048068aa2edac1.jpg)
+
+9.31 Carlo Scarpa, Brion Cemetery, corridor.
+
+9.32 Carlo Scarpa, Brion Cemetery, railing.
+
+9.33 Carlo Scarpa, Brion Cemetery, mechanism operating the plate glass door.
+
+The principle of enigmatic displacement is ever present in Scarpa's architecture and never more so than in the Brion Cemetery, where ostensibly light and heavy P   
+modes of construction are mixed in ways that often seem perverse, as in the steel doors that serve respectively to close the openings to the chapel and an adjacent storeroom. Where the one is filled with white lacquered plasterwork, H   
+the other is loaded up with the ballast of concrete panels, cast in situ. Where the first finish is surely appropriate to a formal entrance, the second is the improbable paneling of a utilitarian opening. Since the reference in both instances is to lightweight Japanese walling, the one seems appropriately light and dematerialized, while the other is inexplicably heavy and opaque. One can hardly help being reminded at this juncture of Semper's Stoffwechseltheorie, although here the shift from light to heavy has little to do with the preservation of symbolic form. A similar enigmatic allusion is evident in the treatment of the large horizontal, concrete walls that serve to separate the existing cemetery from the Brion compound. These beton brut planes are filled with beige-colored plaster panels that occupy the best part of the available surface. However, since these panels do not run uninterruptedly for the full height of the wall, they are in effect treated as blank friezes, where the tectonic allusion would end were it not for 了   
+the cryptic application of ornamental metal disks at the four corners of each panel, implying that the panels are some kind of petrified Semperian fabric stretched across the surface of the concrete.30
+
+Boundary, datum, measure, and ornament, these are the themes that come to mind in experiencing Scarpa's architecture, and never more so than in the two penultimate works of his life, the Brion Cemetery and the Banca Popolare di Verona. Thus, in the cemetery, as in the Querini garden, the raising of the general datum is the principal device by which the space is guaranteed its remoteness, its sense of being apart (fig. 9.35). In each instance, from a midaxial approach people in the garden are perceived as elevated figures who are at once remote and paradoxically accessible. As Francesco Dal Co has remarked of the Brion Cemetery, the elevated eye level finds itself at a new datum removed from the ordinary world.
+
+The sloping wall with its dummy buttresses seves to mark out the difference in /evel between the flat surrounding countryside and the lawn which the built structures of the tomb either rise above or sink beneath. To a viewer on the outside the wall forms a barrier. On its skyline stand out the coping of the chape/ and the silhouette of the cypresses, while from the inside the wall appears as a slender line merely denoting a drop in the level of the ground.31
+
+Thus we come to realize that a ground floor for Scarpa was never merely a serviceable covering laid over an abstract plane, but rather it was an elevated artificial datum to be read as a tactile palimpsest (fig. 9.36). At the same time, as Dal Co remarks, measure itself, far from being an expedient and arbitrary delimitation of size, is in fact inseparable from the coming into being of form. After Coomaraswamy, Dal Co observes that, according to its etymology, the Sanskrit word matra means both "measure" and "matter." 32 Thus, making matter manifest, one might say, is the prime function of measure, that is to say, the creation of artificial order from natural chaos through the presence of geometry and the constructional joint. The act of realization is thus a reciprocal process in which measure simultaneously reveals both the material and itself. A very similar argument is to be found in Heino Engel's study of the Japanese house:
+
+![](images/46f5db7d0bb1bf6ee2e3f3ed5c4f392df57bd4fd75534f9058be66ab04b7e967.jpg)
+
+美
+
+9.35   
+Carlo Scarpa, Brion Cemetery, corner detail of boundary wall.
+
+Measure in building precedes construction. Before man could build, he had to conceive of measuring. Measuring is one of man's first intellectual achievements; it distinguishes man's house from the animal's den. Measure then, is the instrument by which man masters the basic fabric of the building. Thus, it is his "measure" to organize the elements of building into an entirety. 33
+
+The French word encadrement is suggestive in this regard, since its etymology indicates how framing, far from being dispensable, is an essential boundary that arises out of material through measurement. Thus, again, as Dal Co remarks, "The forms of order cannot be manifested or described without indicating their measure, i.e., without individualizing their ornaments."34 And yet, despite Scarpa's preoccupation with constructed ornament, he was by no means indifferent to function. On the contrary, functional purpose was a requirement that would always be given priority in his work. Thus, his tectonic expression oscillated constantly between the instrumentality of function and the sensuality of ornament, so that, as in Pierre Chareau's Maison de Verre of 1932, one could no longer tell where the one began and the other ended.35
+
+Both Marco Frascari and Manfredo Tafuri have stressed the fragmentary nature of Scarpa's architecture-the former by comparing it to the Beaux-Arts exercise of the analytique wherein the overall composition and its details are unified at different scales within the format of a single drawing,36 the latter by seeing it as "a perverse dialectic between the celebration of the form and the scattering of its parts. Scarpa's work may also be perceived in a more cognitive and critical discursive light. This is surely nevermore evident than in the restoration and adaptation of the Museo di Castelvecchio in Verona, which he would work on intermittently between 1953 and 1965. Scarpa elected to treat the building as a continuously. unfolding promenade that would mark its progress through space by the discrete articulation of different elements. Here his constructional poetic becomes manifest over a wide range, from the all but imperceptible movement of water in the ornamental pools of the forecourt, their surfaces gently agitated by submerged outflows, to the deft deployment of freestanding radiators that, as in the Querini Stampalia, are used to quicken and deflect the circulation through the space (fig. 9.37).

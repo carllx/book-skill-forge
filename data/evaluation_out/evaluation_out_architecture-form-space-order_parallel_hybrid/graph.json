@@ -1,0 +1,2986 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Cover",
+      "description": "---"
+    },
+    {
+      "id": "n2",
+      "label": "Architecture",
+      "description": ""
+    },
+    {
+      "id": "n3",
+      "label": "Form, Space, & Order",
+      "description": "Fourth Edition Francis D.K. Ching ---"
+    },
+    {
+      "id": "n4",
+      "label": "Copyright",
+      "description": "Copyright © 2015 by John Wiley & Sons, Inc. All rights reserved. Published by John Wiley & Sons, Inc., Hoboken, New Jersey Published simultaneously in Canada No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechan..."
+    },
+    {
+      "id": "n5",
+      "label": "PREFACE",
+      "description": "The original edition of this study introduced the student of architecture to form and space and the principles that guide their ordering in the built environment. Form and space are the critical means of architecture comprising a design vocabulary that is both elemental and timeless. The second e..."
+    },
+    {
+      "id": "n6",
+      "label": "ACKNOWLEDGMENTS",
+      "description": "I will always be indebted to the following people for their invaluable contributions to the original edition of this work: Forrest Wilson, whose insights into the communication of design principles helped clarify the organization of the material, and whose support made its initial publication pos..."
+    },
+    {
+      "id": "n7",
+      "label": "Dedication",
+      "description": "To Debra, Emily, and Andrew, whose love of life it is ultimately the role of architecture to nourish. ---"
+    },
+    {
+      "id": "n8",
+      "label": "INTRODUCTION",
+      "description": "Architecture is generally conceived—designed—realized—built—in response to an existing set of conditions. These conditions may be purely functional in nature, or they may also reflect in varying degrees the social, political, and economic climate. In any case, it is assumed that the existing set ..."
+    },
+    {
+      "id": "n9",
+      "label": "Architectural Systems",
+      "description": "Villa Savoye, Poissy, east of Paris, 1923–31, Le Corbusier This graphic analysis illustrates the way architecture embodies the harmonious integration of interacting and interrelated parts into a complex and unified whole."
+    },
+    {
+      "id": "n10",
+      "label": "Spatial System",
+      "description": " The three-dimensional integration of program elements and spaces accommodates the multiple functions and relationships of a house."
+    },
+    {
+      "id": "n11",
+      "label": "Structural System",
+      "description": " A grid of columns supports horizontal beams and slabs.  The cantilever acknowledges the direction of approach along the longitudinal axis."
+    },
+    {
+      "id": "n12",
+      "label": "Enclosure System",
+      "description": " Four exterior wall planes define a rectangular volume that contains the program elements and spaces."
+    },
+    {
+      "id": "n13",
+      "label": "Circulation System",
+      "description": " The stair and ramp penetrate and link the three levels, and heighten the viewer’s perception of forms in space and light.  The curved form of the entrance foyer reflects the movement of the automobile."
+    },
+    {
+      "id": "n14",
+      "label": "Context",
+      "description": " A simple exterior form wraps around a complex interior organization of forms and spaces.  Elevating the main floor provides a better view and avoids the humidity of the ground.  A garden terrace distributes sunlight to the spaces gathered around it. “Its severe, almost square exterior surrounds ..."
+    },
+    {
+      "id": "n15",
+      "label": "Chapter 1 Primary Elements",
+      "description": "> “All pictorial form begins with the point that sets itself in motion… The point moves … and the line comes into being—the first dimension. If the line shifts to form a plane, we obtain a two-dimensional element. In the movement from plane to spaces, the clash of planes gives rise to body (three..."
+    },
+    {
+      "id": "n16",
+      "label": "PRIMARY ELEMENTS",
+      "description": "This opening chapter presents the primary elements of form in the order of their growth from the point to a one-dimensional line, from the line to a two-dimensional plane, and from the plane to a three-dimensional volume. Each element is first considered as a conceptual element, then as a visual ..."
+    },
+    {
+      "id": "n17",
+      "label": "POINT",
+      "description": "A point marks a position in space. Conceptually, it has no length, width, or depth, and is therefore static, centralized, and directionless. As the prime element in the vocabulary of form, a point can serve to mark:  the two ends of a line  the intersection of two lines  the meeting of lines at t..."
+    },
+    {
+      "id": "n18",
+      "label": "POINT ELEMENTS",
+      "description": "Piazza del Campidoglio, Rome, c. 1544, Michelangelo Buonarroti. The equestrian statue of Marcus Aurelius marks the center of this urban space. A point has no dimension. To visibly mark a position in space or on the ground plane, a point must be projected vertically into a linear form, as a column..."
+    },
+    {
+      "id": "n19",
+      "label": "TWO POINTS",
+      "description": "Two points describe a line that connects them. Although the points give this line finite length, the line can also be considered a segment of an infinitely longer path. Two points further suggest an axis perpendicular to the line they describe and about which they are symmetrical. Because this ax..."
+    },
+    {
+      "id": "n20",
+      "label": "LINE",
+      "description": "Although a line theoretically has only one dimension, it must have some degree of thickness to become visible. It is seen as a line simply because its length dominates its width. The character of a line, whether taut or limp, bold or tentative, graceful or ragged, is determined by our perception ..."
+    },
+    {
+      "id": "n21",
+      "label": "LINEAR ELEMENTS",
+      "description": "Vertical linear elements, such as columns, obelisks, and towers, have been used throughout history to commemorate significant events and establish particular points in space. Bell Tower, Church at Vuoksenniska, Imatra, Finland, 1956, Alvar Aalto Vertical linear elements can also define a transpar..."
+    },
+    {
+      "id": "n22",
+      "label": "FROM LINE TO PLANE",
+      "description": "Two parallel lines have the ability to visually describe a plane. A transparent spatial membrane can be stretched between them to acknowledge their visual relationship. The closer these lines are to each other, the stronger will be the sense of plane they convey. A series of parallel lines, throu..."
+    },
+    {
+      "id": "n23",
+      "label": "LINEAR ELEMENTS DEFINING PLANES",
+      "description": "Altes Museum, Berlin, 1823–1830, Karl Friedrich Schinkel A row of columns supporting an entablature—a colonnade—is often used to define the public face or facade of a building, especially one that fronts on a major civic space. A colonnaded facade can be penetrated easily for entry, offers a degr..."
+    },
+    {
+      "id": "n24",
+      "label": "PLANE",
+      "description": "A line extended in a direction other than its intrinsic direction becomes a plane. Conceptually, a plane has length and width, but no depth. Shape is the primary identifying characteristic of a plane. It is determined by the contour of the line forming the edges of a plane. Because our perception..."
+    },
+    {
+      "id": "n25",
+      "label": "PLANAR ELEMENTS",
+      "description": "Scala de Spagna (Spanish Steps), Rome, 1721–1725. Alessandro Specchi designed this civic project to connect the Piazza di Spagna with SS. Trinita de’ Monti; completed by Francesco de Sanctis. The ground plane ultimately supports all architectural construction. Along with climate and other environ..."
+    },
+    {
+      "id": "n26",
+      "label": "VOLUME",
+      "description": "A plane extended in a direction other than its intrinsic direction becomes a volume. Conceptually, a volume has three dimensions: length, width, and depth. All volumes can be analyzed and understood to consist of: Form is the primary identifying characteristic of a volume. It is established by th..."
+    },
+    {
+      "id": "n27",
+      "label": "Plan and Section",
+      "description": "Space defined by wall, floor, and ceiling or roof planes In architecture, a volume can be seen to be either a portion of space contained and defined by wall, floor, and ceiling or roof planes, or a quantity of space displaced by the mass of a building. It is important to perceive this duality, es..."
+    },
+    {
+      "id": "n28",
+      "label": "Elevation",
+      "description": "Space displaced by the mass of a building Notre Dame Du Haut, Ronchamp, France, 1950–1955, Le Corbusier ---"
+    },
+    {
+      "id": "n29",
+      "label": "VOLUMETRIC ELEMENTS",
+      "description": "Building forms that stand as objects in the landscape can be read as occupying volumes in space. Villa Garches, Vaucresson, France, 1926–1927, Le Corbusier Doric Temple at Segesta, Sicily, c. 424–416 B.C. Barn in Ontario, Canada Building forms that serve as containers can be read as masses that d..."
+    },
+    {
+      "id": "n30",
+      "label": "Chapter 2 Form",
+      "description": "> “Architectural form is the point of contact between mass and space … Architectural forms, textures, materials, modulation of light and shade, color, all combine to inject a quality or spirit that articulates space. The quality of the architecture will be determined by the skill of the designer ..."
+    },
+    {
+      "id": "n31",
+      "label": "FORM",
+      "description": "Form is an inclusive term that has several meanings. It may refer to an external appearance that can be recognized, as that of a chair or the human body that sits in it. It may also allude to a particular condition in which something acts or manifests itself, as when we speak of water in the form..."
+    },
+    {
+      "id": "n32",
+      "label": "Shape",
+      "description": "The characteristic outline or surface configuration of a particular form. Shape is the principal aspect by which we identify and categorize forms. In addition to shape, forms have visual properties of:"
+    },
+    {
+      "id": "n33",
+      "label": "Size",
+      "description": "The physical dimensions of length, width, and depth of a form. While these dimensions determine the proportions of a form, its scale is determined by its size relative to other forms in its context."
+    },
+    {
+      "id": "n34",
+      "label": "Color",
+      "description": "A phenomenon of light and visual perception that may be described in terms of an individual’s perception of hue, saturation, and tonal value. Color is the attribute that most clearly distinguishes a form from its environment. It also affects the visual weight of a form."
+    },
+    {
+      "id": "n35",
+      "label": "Texture",
+      "description": "The visual and especially tactile quality given to a surface by the size, shape, arrangement, and proportions of the parts. Texture also determines the degree to which the surfaces of a form reflect or absorb incident light. ---"
+    },
+    {
+      "id": "n36",
+      "label": "PROPERTIES OF FORM",
+      "description": "Forms also have relational properties that govern the pattern and composition of elements:"
+    },
+    {
+      "id": "n37",
+      "label": "Position",
+      "description": "The location of a form relative to its environment or the visual field within which it is seen."
+    },
+    {
+      "id": "n38",
+      "label": "Orientation",
+      "description": "The direction of a form relative to the ground plane, the compass points, other forms, or to the person viewing the form."
+    },
+    {
+      "id": "n39",
+      "label": "Visual Inertia",
+      "description": "The degree of concentration and stability of a form. The visual inertia of a form depends on its geometry as well as its orientation relative to the ground plane, the pull of gravity, and our line of sight. All of these properties of form are in reality affected by the conditions under which we v..."
+    },
+    {
+      "id": "n40",
+      "label": "SHAPE",
+      "description": "Shape refers to the characteristic outline of a plane figure or the surface configuration of a volumetric form. It is the primary means by which we recognize, identify, and categorize particular figures and forms. Our perception of shape depends on the degree of visual contrast that exists along ..."
+    },
+    {
+      "id": "n41",
+      "label": "PRIMARY SHAPES",
+      "description": "Gestalt psychology affirms that the mind will simplify the visual environment in order to understand it. Given any composition of forms, we tend to reduce the subject matter in our visual field to the simplest and most regular shapes. The simpler and more regular a shape is, the easier it is to p..."
+    },
+    {
+      "id": "n42",
+      "label": "Circle",
+      "description": "A plane curve every point of which is equidistant from a fixed point within the curve"
+    },
+    {
+      "id": "n43",
+      "label": "Triangle",
+      "description": "A plane figure bounded by three sides and having three angles"
+    },
+    {
+      "id": "n44",
+      "label": "Square",
+      "description": "A plane figure having four equal sides and four right angles ---"
+    },
+    {
+      "id": "n45",
+      "label": "CIRCLE",
+      "description": "Compositions of circles and circular segments Plan of the Ideal City of Sforzinda, 1464, Antonio Filarete The circle is a centralized, introverted figure that is normally stable and self-centering in its environment. Placing a circle in the center of a field reinforces its inherent centrality. As..."
+    },
+    {
+      "id": "n46",
+      "label": "TRIANGLE",
+      "description": "The triangle signifies stability. When resting on one of its sides, the triangle is an extremely stable figure. When tipped to stand on one of its vertices, however, it can either be balanced in a precarious state of equilibrium or be unstable and tend to fall over onto one of its sides. Modern A..."
+    },
+    {
+      "id": "n47",
+      "label": "SQUARE",
+      "description": "Compositions resulting from the rotation and modification of the square The square represents the pure and the rational. It is a bilaterally symmetrical figure having two equal and perpendicular axes. All other rectangles can be considered variations of the square—deviations from the norm by the ..."
+    },
+    {
+      "id": "n48",
+      "label": "SURFACES",
+      "description": "In the transition from the shapes of planes to the forms of volumes is situated the realm of surfaces. Surface first refers to any figure having only two dimensions, such as a flat plane. The term, however, can also allude to a curved two-dimensional locus of points defining the boundary of a thr..."
+    },
+    {
+      "id": "n49",
+      "label": "CURVED SURFACES",
+      "description": "Saddle surfaces have an upward curvature in one direction and a downward curvature in the perpendicular direction. Regions of downward curvature exhibit archlike action while regions of upward curvature behave as a cable structure. If the edges of a saddle surface are not supported, beam behavior..."
+    },
+    {
+      "id": "n50",
+      "label": "PRIMARY SOLIDS",
+      "description": "“…cubes, cones, spheres, cylinders, or pyramids are the great primary forms that light reveals to advantage; the image of these is distinct and tangible within us and without ambiguity. It is for this reason that these are beautiful forms, the most beautiful forms.” Le Corbusier The primary shape..."
+    },
+    {
+      "id": "n51",
+      "label": "Sphere",
+      "description": "A solid generated by the revolution of a semicircle about its diameter, whose surface is at all points equidistant from the center. A sphere is a centralized and highly concentrated form. Like the circle from which it is generated, it is self-centering and normally stable in its environment. It c..."
+    },
+    {
+      "id": "n52",
+      "label": "Cylinder",
+      "description": "A solid generated by the revolution of a rectangle about one of its sides. A cylinder is centralized about the axis passing through the centers of its two circular faces. Along this axis, it can be easily extended. The cylinder is stable if it rests on one of its circular faces; it becomes unstab..."
+    },
+    {
+      "id": "n53",
+      "label": "Cone",
+      "description": "A solid generated by the revolution of a right triangle about one of its sides. Like the cylinder, the cone is a highly stable form when resting on its circular base, and unstable when its vertical axis is tipped or overturned. It can also rest on its apex in a precarious state of balance."
+    },
+    {
+      "id": "n54",
+      "label": "Pyramid",
+      "description": "A polyhedron having a polygonal base and triangular faces meeting at a common point or vertex. The pyramid has properties similar to those of the cone. Because all of its surfaces are flat planes, however, the pyramid can rest in a stable manner on any of its faces. While the cone is a soft form,..."
+    },
+    {
+      "id": "n55",
+      "label": "Cube",
+      "description": "A prismatic solid bounded by six equal square sides, the angle between any two adjacent faces being a right angle. Because of the equality of its dimensions, the cube is a static form that lacks apparent movement or direction. It is a stable form except when it stands on one of its edges or corne..."
+    },
+    {
+      "id": "n56",
+      "label": "REGULAR & IRREGULAR FORMS",
+      "description": "Regular forms refer to those whose parts are related to one another in a consistent and orderly manner. They are generally stable in nature and symmetrical about one or more axes. The sphere, cylinder, cone, cube, and pyramid are prime examples of regular forms. Forms can retain their regularity ..."
+    },
+    {
+      "id": "n57",
+      "label": "TRANSFORMATION OF FORM",
+      "description": "All other forms can be understood to be transformations of the primary solids, variations which are generated by the manipulation of one or more dimensions or by the addition or subtraction of elements."
+    },
+    {
+      "id": "n58",
+      "label": "Dimensional Transformation",
+      "description": "A form can be transformed by altering one or more of its dimensions and still retain its identity as a member of a family of forms. A cube, for example, can be transformed into similar prismatic forms through discrete changes in height, width, or length. It can be compressed into a planar form or..."
+    },
+    {
+      "id": "n59",
+      "label": "Subtractive Transformation",
+      "description": "A form can be transformed by subtracting a portion of its volume. Depending on the extent of the subtractive process, the form can retain its initial identity or be transformed into a form of another family. For example, a cube can retain its identity as a cube even though a portion of it is remo..."
+    },
+    {
+      "id": "n60",
+      "label": "Additive Transformation",
+      "description": "A form can be transformed by the addition of elements to its volume. The nature of the additive process and the number and relative sizes of the elements being attached determine whether the identity of the initial form is altered or retained. Dimensional Transformation of a Cube into a Vertical ..."
+    },
+    {
+      "id": "n61",
+      "label": "DIMENSIONAL TRANSFORMATION",
+      "description": "A sphere can be transformed into any number of ovoid or ellipsoidal forms by elongating it along an axis. A pyramid can be transformed by altering the dimensions of the base, modifying the height of the apex, or tilting the normally vertical axis. A cube can be transformed into similar prismatic ..."
+    },
+    {
+      "id": "n62",
+      "label": "SUBTRACTIVE FORM",
+      "description": "We search for regularity and continuity in the forms we see within our field of vision. If any of the primary solids is partially hidden from our view, we tend to complete its form and visualize it as if it were whole because the mind fills in what the eyes do not see. In a similar manner, when r..."
+    },
+    {
+      "id": "n63",
+      "label": "SUBTRACTIVE & ADDITIVE FORMS",
+      "description": "--- Le Corbusier comments on form: “Cumulative Composition  additive form  a rather easy type  picturesque; full of movement  can be completely disciplined by classification and hierarchy” La Roche-Jeanneret Houses, Paris “Cubic Compositions (Pure Prisms)  very difficult (to satisfy the spirit)” ..."
+    },
+    {
+      "id": "n64",
+      "label": "ADDITIVE FORM",
+      "description": "While a subtractive form results from the removal of a portion of its original volume, an additive form is produced by relating or physically attaching one or more subordinate forms to its volume. The basic possibilities for grouping two or more forms are by:"
+    },
+    {
+      "id": "n65",
+      "label": "Spatial Tension",
+      "description": "This type of relationship relies on the close proximity of the forms or their sharing of a common visual trait, such as shape, color, or material."
+    },
+    {
+      "id": "n66",
+      "label": "Edge-to-Edge Contact",
+      "description": "In this type of relationship, the forms share a common edge and can pivot about that edge."
+    },
+    {
+      "id": "n67",
+      "label": "Face-to-Face Contact",
+      "description": "This type of relationship requires that the two forms have corresponding planar surfaces which are parallel to each other."
+    },
+    {
+      "id": "n68",
+      "label": "Interlocking Volumes",
+      "description": "In this type of relationship, the forms interpenetrate each other’s space. The forms need not share any visual traits. Additive forms resulting from the accretion of discrete elements can be characterized by their ability to grow and merge with other forms. For us to perceive additive groupings a..."
+    },
+    {
+      "id": "n69",
+      "label": "Centralized Form",
+      "description": "A number of secondary forms clustered about a dominant, central parent-form"
+    },
+    {
+      "id": "n70",
+      "label": "Linear Form",
+      "description": "A series of forms arranged sequentially in a row"
+    },
+    {
+      "id": "n71",
+      "label": "Radial Form",
+      "description": "A composition of linear forms extending outward from a central form in a radial manner"
+    },
+    {
+      "id": "n72",
+      "label": "Clustered Form",
+      "description": "A collection of forms grouped together by proximity or the sharing of a common visual trait"
+    },
+    {
+      "id": "n73",
+      "label": "Grid Form",
+      "description": "A set of modular forms related and regulated by a three-dimensional grid ---"
+    },
+    {
+      "id": "n74",
+      "label": "CENTRALIZED FORM",
+      "description": "St. Maria Della Salute, Venice, 1631–1682, Baldassare Longhena Beth Sholom Synagogue, Elkins Park, Pennsylvania, 1959, Frank Lloyd Wright Villa Capra (The Rotunda), Vicenza, Italy, 1552–1567, Andrea Palladio Tempietto, S. Pietro in Montorio, Rome, 1502, Donato Bramante Centralized forms require t..."
+    },
+    {
+      "id": "n75",
+      "label": "LINEAR FORM",
+      "description": " A linear form can result from a proportional change in a form’s dimensions or the arrangement of a series of discrete forms along a line. In the latter case, the series of forms may be either repetitive or dissimilar in nature and organized by a separate and distinct element such as a wall or pa..."
+    },
+    {
+      "id": "n76",
+      "label": "Linear Forms Fronting on or Defining Exterior Space",
+      "description": "Queen’s College, Cambridge, England, 1709–1738, Nicholas Hawksmoor 18th-century buildings fronting a tree-lined canal in Kampen, Holland Henry Babson House, Riverside, Illinois, 1907, Louis Sullivan"
+    },
+    {
+      "id": "n77",
+      "label": "Linear Organizations of Space",
+      "description": "Mile-High Illinois Skyscraper Project, Chicago, Illinois, 1956, Frank Lloyd Wright ---"
+    },
+    {
+      "id": "n78",
+      "label": "RADIAL FORM",
+      "description": "A radial form consists of linear forms that extend outward from a centrally located core element in a radiating manner. It combines the aspects of centrality and linearity into a single composition. The core is either the symbolic or functional center of the organization. Its central position can..."
+    },
+    {
+      "id": "n79",
+      "label": "CLUSTERED FORM",
+      "description": "While a centralized organization has a strong geometric basis for the ordering of its forms, a clustered organization groups its forms according to functional requirements of size, shape, or proximity. While it lacks the geometric regularity and introverted nature of centralized forms, a clustere..."
+    },
+    {
+      "id": "n80",
+      "label": "GRID FORM",
+      "description": "A grid is a system of two or more intersecting sets of regularly spaced parallel lines. It generates a geometric pattern of regularly spaced points at the intersections of the grid lines and regularly shaped fields defined by the grid lines themselves. The most common grid is based on the geometr..."
+    },
+    {
+      "id": "n81",
+      "label": "FORMAL COLLISIONS OF GEOMETRY",
+      "description": "When two forms differing in geometry or orientation collide and interpenetrate each other’s boundaries, each will vie for visual supremacy and dominance. In these situations, the following forms can evolve: Circle and Square Rotated Grid  The two forms can subvert their individual identities and ..."
+    },
+    {
+      "id": "n82",
+      "label": "CIRCLE & SQUARE",
+      "description": "Plan for an Ideal City, 1615, Vincenzo Scamozzi A circular form can be freestanding in its context to express its ideal shape and still incorporate a more functional, rectilinear geometry within its boundaries. The centrality of a circular form enables it to act as a hub and unify forms of contra..."
+    },
+    {
+      "id": "n83",
+      "label": "ROTATED GRID",
+      "description": "Plan of the Ideal City of Sforzinda, 1464, Antonio Filarete Pearl Mosque, within the Red Fort, an imperial palace at Agra, India, 1658–1707. The interior space of this mosque is oriented exactly with the cardinal points so that the quibla wall faces in the direction of the holy city of Mecca, whi..."
+    },
+    {
+      "id": "n84",
+      "label": "ARTICULATION OF FORM",
+      "description": "Palacio Güell, Barcelona, 1885–1889, Antonio Gaudi Articulation refers to the manner in which the surfaces of a form come together to define its shape and volume. An articulated form clearly reveals the precise nature of its parts and their relationships to each other and to the whole. Its surfac..."
+    },
+    {
+      "id": "n85",
+      "label": "EDGES & CORNERS",
+      "description": "Since the articulation of a form depends to a great degree on how its surfaces meet each other at corners, how these edge conditions are resolved is critical to the definition and clarity of a form. While a corner can be articulated by simply contrasting the surface qualities of the adjoining pla..."
+    },
+    {
+      "id": "n86",
+      "label": "CORNERS",
+      "description": "Corners define the meeting of two planes. If the two planes simply touch and the corner remains unadorned, the presence of the corner will depend on the visual treatment of the adjoining surfaces. This corner condition emphasizes the volume of a form. A corner condition can be visually reinforced..."
+    },
+    {
+      "id": "n87",
+      "label": "SURFACE ARTICULATION",
+      "description": "Our perception of the shape, size, scale, proportion, and visual weight of a plane is influenced by its surface properties as well as its visual context.  A distinct contrast between the surface color of a plane and that of the surrounding field can clarify its shape, while modifying its tonal va..."
+    },
+    {
+      "id": "n88",
+      "label": "Chapter 3 Form & Space",
+      "description": "> “We put thirty spokes together and call it a wheel; but it is on the space where there is nothing that the utility of the wheel depends. We turn clay to make a vessel; but it is on the space where there is nothing that the utility of the vessel depends. We pierce doors and windows to make a hou..."
+    },
+    {
+      "id": "n89",
+      "label": "FORM & SPACE",
+      "description": "Space constantly encompasses our being. Through the volume of space, we move, see forms, hear sounds, feel breezes, smell the fragrances of a flower garden in bloom. It is a material substance like wood or stone. Yet it is an inherently formless vapor. Its visual form, its dimensions and scale, t..."
+    },
+    {
+      "id": "n90",
+      "label": "FORM & SPACE: THE UNITY OF OPPOSITES",
+      "description": "Our visual field normally consists of heterogeneous elements that differ in shape, size, color, or orienta-tion. To better comprehend the structure of a visual field, we tend to organize its elements into two opposing groups: positive elements, which are perceived as figures and negative elements..."
+    },
+    {
+      "id": "n91",
+      "label": "FORM DEFINING SPACE",
+      "description": "Square in Giron, Colombia, South America When we place a two-dimensional figure on a piece of paper, it influences the shape of the white space around it. In a similar manner, any three-dimensional form naturally articulates the volume of space surrounding it and generates a field of influence or..."
+    },
+    {
+      "id": "n92",
+      "label": "HORIZONTAL ELEMENTS DEFINING SPACE",
+      "description": ""
+    },
+    {
+      "id": "n93",
+      "label": "Base Plane",
+      "description": "A horizontal plane laying as a figure on a contrasting background defines a simple field of space. This field can be visually reinforced in the following ways."
+    },
+    {
+      "id": "n94",
+      "label": "Elevated Base Plane",
+      "description": "A horizontal plane elevated above the ground plane establishes vertical surfaces along its edges that reinforce the visual separation between its field and the surrounding ground."
+    },
+    {
+      "id": "n95",
+      "label": "Depressed Base Plane",
+      "description": "A horizontal plane depressed into the ground plane utilizes the vertical surfaces of the lowered area to define a volume of space."
+    },
+    {
+      "id": "n96",
+      "label": "Overhead Plane",
+      "description": "A horizontal plane located overhead defines a volume of space between itself and the ground plane. ---"
+    },
+    {
+      "id": "n97",
+      "label": "BASE PLANE",
+      "description": "For a horizontal plane to be seen as a figure, there must be a perceptible change in color, tone, or texture between its surface and that of the surrounding area. The stronger the edge definition of a horizontal plane is, the more distinct will be its field. Although there is a continuous flow of..."
+    },
+    {
+      "id": "n98",
+      "label": "ELEVATED BASE PLANE",
+      "description": "Elevating a portion of the base plane creates a specific domain within a larger spatial context. The changes in level that occur along the edges of the elevated plane define the boundaries of its field and interrupt the flow of space across its surface. If the surface characteristics of the base ..."
+    },
+    {
+      "id": "n99",
+      "label": "DEPRESSED BASE PLANE",
+      "description": "Lowering a portion of the base plane isolates a field of space from a larger context. The vertical surfaces of the depression establish the boundaries of the field. These boundaries are not implied as in the case of an elevated plane, but visible edges that begin to form the walls of the space. T..."
+    },
+    {
+      "id": "n100",
+      "label": "OVERHEAD PLANE",
+      "description": "Similar to the manner in which a shade tree offers a sense of enclosure beneath its umbrella structure, an overhead plane defines a field of space between itself and the ground plane. Since the edges of the overhead plane establish the boundaries of this field, its shape, size, and height above t..."
+    },
+    {
+      "id": "n101",
+      "label": "Wood Truss",
+      "description": ""
+    },
+    {
+      "id": "n102",
+      "label": "Steel Joist",
+      "description": ""
+    },
+    {
+      "id": "n103",
+      "label": "Masonry Vault",
+      "description": "Tensile Structure, National Garden Show, Cologne, Germany, 1957, Frei Otto and Peter Stromeyer Chinese painting illustrating the use of a pavilion structure to define a shaded resting place within an encampment. Totsuka Country Club, Yokohama, Japan, Kenzo Tange, 1960–1961 Convention Hall for Chi..."
+    },
+    {
+      "id": "n104",
+      "label": "VERTICAL ELEMENTS DEFINING SPACE",
+      "description": "In the previous section of this chapter, horizontal planes defined fields of space in which the vertical boundaries were implied rather than explicitly described. The following section discusses the critical role vertical elements of form play in firmly establishing the visual limits of a spatial..."
+    },
+    {
+      "id": "n105",
+      "label": "Vertical Linear Elements",
+      "description": "Vertical linear elements define the perpendicular edges of a volume of space."
+    },
+    {
+      "id": "n106",
+      "label": "Single Vertical Plane",
+      "description": "A single vertical plane articulates the space on which it fronts."
+    },
+    {
+      "id": "n107",
+      "label": "L-shaped Plane",
+      "description": "An L-shaped configuration of vertical planes generates a field of space from its corner outward along a diagonal axis."
+    },
+    {
+      "id": "n108",
+      "label": "Parallel Planes",
+      "description": "Two parallel vertical planes define a volume of space between them that is oriented axially toward both open ends of the configuration."
+    },
+    {
+      "id": "n109",
+      "label": "U-shaped Plane",
+      "description": "A U-shaped configuration of vertical planes defines a volume of space that is oriented primarily toward the open end of the configuration."
+    },
+    {
+      "id": "n110",
+      "label": "Four Planes: Closure",
+      "description": "Four vertical planes establish the boundaries of an introverted space and influence the field of space around the enclosure. ---"
+    },
+    {
+      "id": "n111",
+      "label": "VERTICAL LINEAR ELEMENTS",
+      "description": "A vertical linear element, such as a column, obelisk, or tower, establishes a point on the ground plane and makes it visible in space. Standing upright and alone, a slender linear element is nondirectional except for the path that would lead us to its position in space. Any number of horizontal a..."
+    },
+    {
+      "id": "n112",
+      "label": "SINGLE VERTICAL PLANE",
+      "description": "A single vertical plane, standing alone in space, has visual qualities uniquely different from those of a freestanding column. A round column has no preferred direction except for its vertical axis. A square column has two equivalent sets of faces and therefore two identical axes. A rectangular c..."
+    },
+    {
+      "id": "n113",
+      "label": "L-SHAPED CONFIGURATION OF PLANES",
+      "description": "An L-shaped configuration of vertical planes defines a field of space along a diagonal from its corner outward. While this field is strongly defined and enclosed at the corner of the configuration, it dissipates rapidly as it moves away from the corner. The introverted field at the interior corne..."
+    },
+    {
+      "id": "n114",
+      "label": "L-SHAPED PLANES",
+      "description": "A building form can have an L-shaped configuration and be subject to the following readings. One of the arms of the configuration can be a linear form that incorporates the corner within its boundaries while the other arm is seen as an appendage to it. Or the corner can be articulated as an indep..."
+    },
+    {
+      "id": "n115",
+      "label": "PARALLEL VERTICAL PLANES",
+      "description": "A pair of parallel vertical planes defines a field of space between them. The open ends of the field, established by the vertical edges of the planes, give the space a strong directional quality. Its primary orientation is along the axis about which the planes are symmetrical. Since the parallel ..."
+    },
+    {
+      "id": "n116",
+      "label": "PARALLEL PLANES",
+      "description": "Various elements in architecture can be seen as parallel planes that define a field of space:  a pair of parallel interior walls within a building  a street space formed by the facades of two facing buildings  a colonnaded arbor or pergola  a promenade or allée bordered by rows of trees or hedges..."
+    },
+    {
+      "id": "n117",
+      "label": "U-SHAPED PLANES",
+      "description": "A U-shaped configuration of vertical planes defines a field of space that has an inward focus as well as an outward orientation. At the closed end of the configuration, the field is well defined. Toward the open end of the configuration, the field becomes extroverted in nature. The open end is th..."
+    },
+    {
+      "id": "n118",
+      "label": "FOUR PLANES: CLOSURE",
+      "description": "Four vertical planes encompassing a field of space is probably the most typical, and certainly the strongest, type of spatial definition in architecture. Since the field is completely enclosed, its space is naturally introverted. To achieve visual dominance within a space or become its primary fa..."
+    },
+    {
+      "id": "n119",
+      "label": "FOUR PLANES: ENCLOSURE",
+      "description": "Willis, Faber & Dumas Headquarters, Ipswich, England, 1971–1975, Foster + Partners How the overhead or roof plane can dominate the form of a building is illustrated on pages 129–131. In contrast, other buildings can be seen to be dominated by the form of their exterior, enclosing wall planes. Ext..."
+    },
+    {
+      "id": "n120",
+      "label": "OPENINGS IN SPACE-DEFINING ELEMENTS",
+      "description": "No spatial or visual continuity is possible with adjacent spaces without openings in the enclosing planes of a spatial field. Doors offer entry into a room and influence the patterns of movement and use within it. Windows allow light to penetrate the space and illuminate the surfaces of a room, o..."
+    },
+    {
+      "id": "n121",
+      "label": "Within Planes",
+      "description": "An opening can be located wholly within a wall or ceiling plane and be surrounded on all sides by the surface of the plane."
+    },
+    {
+      "id": "n122",
+      "label": "At Corners",
+      "description": "An opening can be located along one edge or at a corner of a wall or ceiling plane. In either case, the opening will be at a corner of a space."
+    },
+    {
+      "id": "n123",
+      "label": "Between Planes",
+      "description": "An opening can extend vertically between the floor and ceiling planes or horizontally between two wall planes. It can grow in size to occupy an entire wall of a space. ---"
+    },
+    {
+      "id": "n124",
+      "label": "OPENINGS WITHIN PLANES",
+      "description": "An opening located wholly within a wall or ceiling plane often appears as a bright figure on a contrasting field or background. If centered within the plane, the opening will appear stable and visually organize the surface around it. Moving the opening off-center will create a degree of visual te..."
+    },
+    {
+      "id": "n125",
+      "label": "OPENINGS AT CORNERS",
+      "description": "Openings that are located at corners give a space and the planes in which they are located a diagonal orientation. This directional effect may be desirable for compositional reasons, or the corner opening may be established to capture a desirable view or brighten a dark corner of a space. A corne..."
+    },
+    {
+      "id": "n126",
+      "label": "OPENINGS BETWEEN PLANES",
+      "description": "A vertical opening that extends from the floor to the ceiling plane of a space visually separates and articulates the edges of the adjacent wall planes. If located at a corner, the vertical opening will erode the definition of the space and allow it to extend beyond the corner to the adjacent spa..."
+    },
+    {
+      "id": "n127",
+      "label": "QUALITIES OF ARCHITECTURAL SPACE",
+      "description": "The basic patterns of linear and planar elements that define discrete volumes of space, and the varieties of openings that serve to connect these spatial volumes to one another and their context are presented on pages 158–159 and 161. The qualities of an architectural space, however, are much ric..."
+    },
+    {
+      "id": "n128",
+      "label": "DEGREE OF ENCLOSURE",
+      "description": "The degree of enclosure of a space, as determined by the configuration of its defining elements and the pattern of its openings, has a significant impact on our perception of its form and orientation. From within a space, we see only the surface of a wall. It is this thin layer of material that f..."
+    },
+    {
+      "id": "n129",
+      "label": "LIGHT",
+      "description": "“Architecture is the masterly, correct and magnificent play of masses brought together in light. Our eyes are made to see forms in light; light and shade reveal these forms…” Le Corbusier: Towards a New Architecture Notre Dame Du Haut, Ronchamp, France, 1950–1955, Le Corbusier The sun is the rich..."
+    },
+    {
+      "id": "n130",
+      "label": "VIEW",
+      "description": "Another quality of space that must be considered in establishing openings in the enclosure of a room is its focus and orientation. While some rooms have an internal focus, such as a fireplace, others have an outward orientation given to them by a view to the outdoors or an adjacent space. Window ..."
+    },
+    {
+      "id": "n131",
+      "label": "Chapter 4 Organization",
+      "description": "> “… A good house is a single thing, as well as a collection of many, and to make it requires a conceptual leap from the individual components to a vision of the whole. The choices … represent ways of assembling the parts. > … the basic parts of a house can be put together to make more than just ..."
+    },
+    {
+      "id": "n132",
+      "label": "ORGANIZATION OF FORM & SPACE",
+      "description": "The last chapter laid out how various configurations of form could be manipulated to define a solitary field or volume of space, and how their patterns of solids and voids affected the visual qualities of the defined space. Few buildings, however, consist of a solitary space. They are normally co..."
+    },
+    {
+      "id": "n133",
+      "label": "SPATIAL RELATIONSHIPS",
+      "description": "Two spaces may be related to each other in several fundamental ways. Space within a Space A space may be contained within the volume of a larger space. Interlocking Spaces The field of a space may overlap the volume of another space. Adjacent Spaces Two spaces may abut each other or share a commo..."
+    },
+    {
+      "id": "n134",
+      "label": "SPACE WITHIN A SPACE",
+      "description": "A large space can envelop and contain a smaller space within its volume. Visual and spatial continuity between the two spaces can be easily accommodated, but the smaller, contained space depends on the larger, enveloping space for its relationship to the exterior environment. In this type of spat..."
+    },
+    {
+      "id": "n135",
+      "label": "INTERLOCKING SPACES",
+      "description": "An interlocking spatial relationship results from the overlapping of two spatial fields and the emergence of a zone of shared space. When two spaces interlock their volumes in this manner, each retains its identity and definition as a space. But the resulting configuration of the two interlocking..."
+    },
+    {
+      "id": "n136",
+      "label": "ADJACENT SPACES",
+      "description": "Adjacency is the most common type of spatial relationship. It allows each space to be clearly defined and to respond, each in its own way, to specific functional or symbolic requirements. The degree of visual and spatial continuity that occurs between two adjacent spaces depends on the nature of ..."
+    },
+    {
+      "id": "n137",
+      "label": "SPACES LINKED BY A COMMON SPACE",
+      "description": "Two spaces that are separated by distance can be linked or related to each other by a third, intermediate, space. The visual and spatial relationship between the two spaces depends on the nature of the third space with which they share a common bond. The intermediate space can differ in form and ..."
+    },
+    {
+      "id": "n138",
+      "label": "SPATIAL ORGANIZATIONS",
+      "description": "Compositions of Nine Squares: A Bauhaus Study The following section lays out the basic ways we can arrange and organize the spaces of a building. In a typical building program, there are usually requirements for various kinds of spaces. There may be requirements for spaces that:  have specific fu..."
+    },
+    {
+      "id": "n139",
+      "label": "CENTRALIZED ORGANIZATIONS",
+      "description": "A centralized organization is a stable, concentrated composition that consists of a number of secondary spaces grouped around a large, dominant, central space. The central, unifying space of the organization is generally regular in form and large enough in size to gather a number of secondary spa..."
+    },
+    {
+      "id": "n140",
+      "label": "LINEAR ORGANIZATIONS",
+      "description": "A linear organization consists essentially of a series of spaces. These spaces can either be directly related to one another or be linked through a separate and distinct linear space. A linear organization usually consists of repetitive spaces which are alike in size, form, and function. It may a..."
+    },
+    {
+      "id": "n141",
+      "label": "Linear Sequences of Spaces",
+      "description": "Typical Apartment Floor, Unité d’Habitation, Marseilles, 1946–1952, Le Corbusier Second Floor Plan, Main Building, Sheffield University (Project), England, 1953, James Stirling Lord Derby’s House, London, 1777 Robert Adam Pearson House (Project), 1957, Robert Venturi"
+    },
+    {
+      "id": "n142",
+      "label": "Linear Sequences of Rooms…",
+      "description": "Lloyd Lewis House, Libertyville, Illinois, 1940, Frank Lloyd Wright Romano House, Kentfield, California, 1970, Esherick Homsey Dodge & Davis"
+    },
+    {
+      "id": "n143",
+      "label": "Adapting to Function and Site",
+      "description": "Marcus House (Project), Dallas, Texas, 1935, Frank Lloyd Wright Town Center for Castrop-Rauxel, Germany, (Competition Entry), 1965, Alvar Aalto"
+    },
+    {
+      "id": "n144",
+      "label": "Introducing Hierarchy to Linear Sequences…",
+      "description": "Interama, Project for an Inter-American Community, Florida, 1964–1967, Louis Kahn Bridge House (Project), Christopher Owen"
+    },
+    {
+      "id": "n145",
+      "label": "and Expressing Movement",
+      "description": "House 10 (Project), 1966, John Hejduk Scarborough College, Westhill, Ontario, 1964, John Andrews Housing Development, Pavia, Italy, 1966, Alvar Aalto"
+    },
+    {
+      "id": "n146",
+      "label": "Linear Organizations Adapting to Site…",
+      "description": "Typical Upper-Floor Plan, Baker House, Massachusetts Institute of Technology, Cambridge, Massachusetts, 1948, Alvar Aalto Plan for the Circus (1754, John Wood, Sr.) and the Royal Crescent (1767–1775, John Wood) at Bath, England"
+    },
+    {
+      "id": "n147",
+      "label": "and Shaping Exterior Space",
+      "description": "---"
+    },
+    {
+      "id": "n148",
+      "label": "RADIAL ORGANIZATIONS",
+      "description": "A radial organization of space combines elements of both centralized and linear organizations. It consists of a dominant central space from which a number of linear organizations extend in a radial manner. Whereas a centralized organization is an introverted scheme that focuses inward on its cent..."
+    },
+    {
+      "id": "n149",
+      "label": "CLUSTERED ORGANIZATIONS",
+      "description": "A clustered organization relies on physical proximity to relate its spaces to one another. It often consists of repetitive, cellular spaces that have similar functions and share a common visual trait such as shape or orientation. A clustered organization can also accept within its composition spa..."
+    },
+    {
+      "id": "n150",
+      "label": "Spaces Organized by Geometry",
+      "description": "Yeni-Kaplica (Thermal Bath), Bursa,Turkey Traditional Japanese House Nuraghe at Palmavera, Sardinia, typical of the ancient stone towers of the Nuraghic culture, 18th–16th century B.C. Meeting House, Salk Institute of Biological Studies (Project), La Jolla, California, 1959–1965, Louis Kahn"
+    },
+    {
+      "id": "n151",
+      "label": "Spaces Organized Around a Dominant Space",
+      "description": "Karuizawa House, Country Retreat, 1974, Kisho Kurokawa Palace of King Minos, Knossos, Crete, c. 1500 B.C. Rajarajeshwara Temple, Thanjavur, India, 11th century Vadakkunnathan Temple, Trichur, India, 11th century House for Mrs. Robert Venturi, Chestnut Hill, Pennsylvania, 1962–1964, Venturi and Short"
+    },
+    {
+      "id": "n152",
+      "label": "Spaces Organized within a Spatial Field",
+      "description": "St. Carlo alle Quattro Fontane, Rome, 1633–1641, Francesco Borromini Soane House, London, England, 1812–1834, Sir John Soane Bank of England, London, England, 1788–1833, Sir John Soane"
+    },
+    {
+      "id": "n153",
+      "label": "Spaces Organized by Axial Symmetries",
+      "description": "Mercer’s Castle (Fonthill), Doylestown, Pennsylvania, 1908–1910, Henry Mercer Friedman House, Pleasantville, N.Y., 1950, Frank Lloyd Wright Wyntoon, Country Estate for the Hearst Family in Northern California,1903, Bernard Maybeck"
+    },
+    {
+      "id": "n154",
+      "label": "Spaces Organized by Site Conditions",
+      "description": "Fallingwater (Kaufmann House), near Ohiopyle, Pennsylvania, 1936–1937, Frank Lloyd Wright Morris House (Project), Mount Kisco, New York, 1958, Louis Kahn"
+    },
+    {
+      "id": "n155",
+      "label": "Spaces Organized by Geometric Pattern",
+      "description": "Gamble House, Pasadena, California, 1908, Greene & Greene ---"
+    },
+    {
+      "id": "n156",
+      "label": "GRID ORGANIZATIONS",
+      "description": "A grid organization consists of forms and spaces whose positions in space and relationships with one another are regulated by a three-dimensional grid pattern or field. A grid is created by two, usually perpendicular, sets of parallel lines that establish a regular pattern of points at their inte..."
+    },
+    {
+      "id": "n157",
+      "label": "Chapter 5 Circulation",
+      "description": "> “… we have been observing that the human body, which is our most fundamental three-dimensional possession, has not itself been a central concern in the understanding of architectural form; that architecture, to the extent that it is considered an art, is characterized in its design stages as an..."
+    },
+    {
+      "id": "n158",
+      "label": "CIRCULATION: MOVEMENT THROUGH SPACE",
+      "description": "The path of our movement can be conceived as the perceptual thread that links the spaces of a building, or any series of interior or exterior spaces, together. Since we move in Time through a Sequence of Spaces, we experience a space in relation to where we’ve been and where we anticipate going. ..."
+    },
+    {
+      "id": "n159",
+      "label": "CIRCULATION ELEMENTS",
+      "description": ""
+    },
+    {
+      "id": "n160",
+      "label": "Approach",
+      "description": " The Distant View"
+    },
+    {
+      "id": "n161",
+      "label": "Entrance",
+      "description": " From Outside to Inside"
+    },
+    {
+      "id": "n162",
+      "label": "Configuration of the Path",
+      "description": " The Sequence of Spaces"
+    },
+    {
+      "id": "n163",
+      "label": "Path-Space Relationships",
+      "description": " Edges, Nodes, and Terminations of the Path"
+    },
+    {
+      "id": "n164",
+      "label": "Form of the Circulation Space",
+      "description": " Corridors, Halls, Galleries, Stairways, and Rooms ---"
+    },
+    {
+      "id": "n165",
+      "label": "APPROACH",
+      "description": "Approach to Notre Dame Du Haut, Ronchamp, France, 1950–1955, Le Corbusier Prior to actually passing into the interior of a building, we approach its entrance along a path. This is the first phase of the circulation system, during which we are prepared to see, experience, and use the spaces within..."
+    },
+    {
+      "id": "n166",
+      "label": "Frontal",
+      "description": "A frontal approach leads directly to the entrance of a building along a straight, axial path. The visual goal that terminates the approach is clear; it may be the entire front facade of a building or an elaborated entrance within the plane."
+    },
+    {
+      "id": "n167",
+      "label": "Oblique",
+      "description": "An oblique approach enhances the effect of perspective on the front facade and form of a building. The path can be redirected one or more times to delay and prolong the sequence of the approach. If a building is approached at an extreme angle, its entrance can project beyond its facade to be more..."
+    },
+    {
+      "id": "n168",
+      "label": "Spiral",
+      "description": "A spiral path prolongs the sequence of the approach and emphasizes the three-dimensional form of a building as we move around its perimeter. The building entrance might be viewed intermittently during the approach to clarify its position or it may be hidden until the point of arrival. Villa Barba..."
+    },
+    {
+      "id": "n169",
+      "label": "ENTRANCE",
+      "description": "Entering a building, a room within a building, or a defined field of exterior space, involves the act of penetrating a vertical plane that distinguishes one space from another and separates ”here” from “there.” The act of entering can be signified in more subtle ways than punching a hole in a wal..."
+    },
+    {
+      "id": "n170",
+      "label": "CONFIGURATION OF THE PATH",
+      "description": "All paths of movement, whether of people, cars, goods, or services, are linear in nature. And all paths have a starting point, from which we are taken through a sequence of spaces to our destination. The contour of a path depends on our mode of transportation. While we as pedestrians can turn, pa..."
+    },
+    {
+      "id": "n171",
+      "label": "Linear Paths as Organizing Elements",
+      "description": "First Floor Plan, Hines House, Sea Ranch, California, 1966, MLTW/Moore and Turnbull Shodhan House, Ahmedabad, India, 1956, Le Corbusier Section through ramp and stair Carpenter Center for the Visual Arts, Harvard University, Cambridge, Massachusetts, 1961–1964, Le Corbusier Scarborough College, W..."
+    },
+    {
+      "id": "n172",
+      "label": "Radial Configurations",
+      "description": "Plans of Ideal Cities, 1451–1464, Francesco di Giorgi Martini Eastern State Penitentiary, Philadelphia, 1829, John Haviland Pope House, Salisbury, Connecticut, 1974–1976, John M. Johansen University Art Museum, University of California–Berkeley, 1971, Mario J. Ciampi and Associates"
+    },
+    {
+      "id": "n173",
+      "label": "Spiral Configurations",
+      "description": "Museum of Western Art, Tokyo, 1957–1959, Le Corbusier Museum of Endless Growth (Project), Philippeville, Algeria, 1939, Le Corbusier Borobodur, the Buddhist stupa monument built A.D. 750–850 in the Indonesian province of central Java. In circumambulating the monument, pilgrims passed walls orname..."
+    },
+    {
+      "id": "n174",
+      "label": "Grid Configurations",
+      "description": "Typical layout for a Roman Camp, c. 1st century A.D. Hospital Project, Venice, 1964–1966, Le Corbusier Priene, founded 4th century B.C. Plan of an Ideal City, 1451–1464, Frances di Giorgio Martini Jaipur, India, 1728 Manhattan, New York City Paris in the age of Louis XIV"
+    },
+    {
+      "id": "n175",
+      "label": "Network Configurations",
+      "description": "Plan of Pope Sixtus V for Rome, 1585 Yi Yuan (Garden of Contentment), Suzhou, China, Qing Dynasty, 19th century Plan for Washington, D.C., 1792, Pierre L’Enfant ---"
+    },
+    {
+      "id": "n176",
+      "label": "PATH–SPACE RELATIONSHIPS",
+      "description": "Paths may be related to the spaces they link in the following ways. They may:"
+    },
+    {
+      "id": "n177",
+      "label": "Pass by Spaces",
+      "description": " The integrity of each space is maintained.  The configuration of the path is flexible.  Mediating spaces can be used to link the path with the spaces."
+    },
+    {
+      "id": "n178",
+      "label": "Pass through Spaces",
+      "description": " The path may pass though a space axially, obliquely, or along its edge.  In cutting through a space, the path creates patterns of rest and movement within it."
+    },
+    {
+      "id": "n179",
+      "label": "Terminate in a Space",
+      "description": " The location of the space establishes the path.  This path-space relationship is used to approach and enter functionally or symbolically important spaces. Mortuary Temple of Rameses III, Medînet-Habu, 1198 B.C. Stern House, Woodbridge, Connecticut, 1970, Charles Moore Associates Traditional Japa..."
+    },
+    {
+      "id": "n180",
+      "label": "FORM OF THE CIRCULATION SPACE",
+      "description": "A vaulted staircase, after a drawing by William R. Ware Spaces for movement form an integral part of any building organization and occupy a significant amount of the volume of a building. If considered merely as functional linking devices, then circulation paths would be endless, corridor-like sp..."
+    },
+    {
+      "id": "n181",
+      "label": "Enclosed",
+      "description": "forming a public galleria or private corridor that relates to the spaces it links though entrances in a wall plane;"
+    },
+    {
+      "id": "n182",
+      "label": "Open on One Side",
+      "description": "forming a balcony or gallery that provides visual and spatial continuity with the spaces it links;"
+    },
+    {
+      "id": "n183",
+      "label": "Open on Both Sides",
+      "description": "forming a colonnaded passageway that becomes a physical extension of the space it passes through. The width and height of a circulation space should be proportionate with the type and amount of movement it must handle. A distinction in scale should be established between a public promenade, a mor..."
+    },
+    {
+      "id": "n184",
+      "label": "Chapter 6 Proportion & Scale",
+      "description": "> “…Within the Villa Foscari you are aware of the thickness of the walls that separate the rooms, each of which has been given definitive and precise form. At either end of the cross-arm of the central hall is a square room measuring 16 x 16 feet. It lies between a larger and a smaller rectangula..."
+    },
+    {
+      "id": "n185",
+      "label": "PROPORTION & SCALE",
+      "description": "This chapter discusses the interrelated issues of proportion and scale. While scale alludes to the size of something compared to a reference standard or to the size of something else, proportion refers to the proper or harmonious relation of one part to another or to the whole. This relationship ..."
+    },
+    {
+      "id": "n186",
+      "label": "MATERIAL PROPORTIONS",
+      "description": "All building materials in architecture have distinct properties of elasticity, hardness, and durability. And they all have an ultimate strength beyond which they cannot extend themselves without fracturing, breaking, or collapsing. Since the stresses in a material resulting from the force of grav..."
+    },
+    {
+      "id": "n187",
+      "label": "STRUCTURAL PROPORTIONS",
+      "description": "In the construction of architecture, structural elements are called upon to span spaces and transmit their loads through vertical supports to the foundation system of a building. The size and proportion of these elements are directly related to the structural tasks they perform and can therefore ..."
+    },
+    {
+      "id": "n188",
+      "label": "MANUFACTURED PROPORTIONS",
+      "description": "Many architectural elements are sized and proportioned not only according to their structural properties and function, but also by the process through which they are manufactured. Because these elements are mass-produced in factories, they have standard sizes and proportions imposed on them by th..."
+    },
+    {
+      "id": "n189",
+      "label": "PROPORTIONING SYSTEMS",
+      "description": "Even considering the proportional constraints imposed on a form by the nature of its material, its structural function, or by the manufacturing process, the designer still has the ability to control the proportion of the forms and spaces within and around a building. The decision to make a room s..."
+    },
+    {
+      "id": "n190",
+      "label": "Theories of Proportion:",
+      "description": " Golden Section  Classical Orders  Renaissance Theories  Modulor  Ken  Anthropometry  Scale A fixed proportion used in determining measurements and dimensions"
+    },
+    {
+      "id": "n191",
+      "label": "Types of Proportion:",
+      "description": "---"
+    },
+    {
+      "id": "n192",
+      "label": "GOLDEN SECTION",
+      "description": "Mathematical systems of proportion originate from the Pythagorean concept of “all is number” and the belief that certain numerical relationships manifest the harmonic structure of the universe. One of these relationships that has been in use ever since the days of antiquity is the proportion know..."
+    },
+    {
+      "id": "n193",
+      "label": "REGULATING LINES",
+      "description": "Palazzo Farnese, Rome, 1515, Antonio da Sangallo the Younger The Pantheon, Rome, A.D. 120–124 If the diagonals of two rectangles are either parallel or perpendicular to each other, they indicate that the two rectangles have similar proportions. These diagonals, as well as lines that indicate the ..."
+    },
+    {
+      "id": "n194",
+      "label": "CLASSICAL ORDERS",
+      "description": "Ionic Order, from the Temple on the Ilissus, Athens, 449 B.C., Callicrates. After a drawing by William R. Ware. To the Greeks and Romans of classical antiquity, the Orders represented in their proportioning of elements the perfect expression of beauty and harmony. The basic unit of dimension was ..."
+    },
+    {
+      "id": "n195",
+      "label": "RENAISSANCE THEORIES",
+      "description": "St. Maria Novella, Florence, Italy. Alberti designed the Renaissance facade (1456–1470) to complete a Gothic church (1278–1350). Pythagoras discovered that the consonances of the Greek musical system could be expressed by the simple numerical progression—1, 2, 3, 4—and their ratios, 1:2, 1:3, 2:3..."
+    },
+    {
+      "id": "n196",
+      "label": "MODULOR",
+      "description": "Le Corbusier developed his proportioning system, the Modulor, to order “the dimensions of that which contains and that which is contained.” He saw the measuring tools of the Greeks, Egyptians, and other high civilizations as being “infinitely rich and subtle because they formed part of the mathem..."
+    },
+    {
+      "id": "n197",
+      "label": "KEN",
+      "description": "The traditional Japanese unit of measure, the shaku, was originally imported from China. It is almost equivalent to the English foot and divisible into decimal units. Another unit of measure, the ken, was introduced in the latter half of Japan’s Middle Ages. Although it was originally used simply..."
+    },
+    {
+      "id": "n198",
+      "label": "ANTHROPOMETRY",
+      "description": "Anthropometry refers to the measurement of the size and proportions of the human body. While the architects of the Renaissance saw the proportions of the human figure as a reaffirmation that certain mathematical ratios reflected the harmony of their universe, anthropometric proportioning methods ..."
+    },
+    {
+      "id": "n199",
+      "label": "SCALE",
+      "description": "While proportion pertains to an ordered set of mathematical relationships among the dimensions of a form or space, scale refers to how we perceive or judge the size of something in relation to something else. In dealing with the issue of scale, therefore, we are always comparing one thing to anot..."
+    },
+    {
+      "id": "n200",
+      "label": "VISUAL SCALE",
+      "description": "Of particular interest to designers is the notion of visual scale, which refers not to the actual dimensions of things, but rather to how small or large something appears to be in relation to its normal size or to the size of other things in its context. When we say something is small-scale or mi..."
+    },
+    {
+      "id": "n201",
+      "label": "HUMAN SCALE",
+      "description": "Human scale in architecture is based on the dimensions and proportions of the human body. It has already been mentioned in the section on anthropometric proportioning that our dimensions vary from individual to individual and should not be used as an absolute measuring device. We can, however, ga..."
+    },
+    {
+      "id": "n202",
+      "label": "A SCALAR COMPARISON",
+      "description": "On these two pages are architectural structures from various historic periods and places drawn to the same or similar scale. Our perception of how big something or someplace is is always relative to its context and to the size of what we are familar with, such as the length of a Boeing 747 airlin..."
+    },
+    {
+      "id": "n203",
+      "label": "Chapter 7 Principles",
+      "description": "> “…Nothing but confusion can result when order is considered a quality that can equally well be accepted or abandoned, something that can be forgone and replaced by something else. Order must be understood as indispensable to the functioning of any organized system, whether its function be physi..."
+    },
+    {
+      "id": "n204",
+      "label": "ORDERING PRINCIPLES",
+      "description": "While Chapter 4 employed a geometric basis for organizing the forms and spaces of a building, this chapter discusses additional principles that can be utilized to create order in an architectural composition. Order refers not simply to geometric regularity, but rather to a condition in which each..."
+    },
+    {
+      "id": "n205",
+      "label": "Axis",
+      "description": "A line established by two points in space, about which forms and spaces can be arranged in a symmetrical or balanced manner."
+    },
+    {
+      "id": "n206",
+      "label": "Symmetry",
+      "description": "The balanced distribution and arrangement of equivalent forms and spaces on opposite sides of a dividing line or plane, or about a center or axis."
+    },
+    {
+      "id": "n207",
+      "label": "Hierarchy",
+      "description": "The articulation of the importance or significance of a form or space by its size, shape, or placement relative to the other forms and spaces of the organization."
+    },
+    {
+      "id": "n208",
+      "label": "Rhythm",
+      "description": "A unifying movement characterized by a patterned repetition or alternation of formal elements or motifs in the same or a modified form."
+    },
+    {
+      "id": "n209",
+      "label": "Datum",
+      "description": "A line, plane, or volume that, by its continuity and regularity, serves to gather, measure, and organize a pattern of forms and spaces."
+    },
+    {
+      "id": "n210",
+      "label": "Transformation",
+      "description": "The principle that an architectural concept, structure, or organization can be altered through a series of discrete manipulations and permutations in response to a specific context or set of conditions without a loss of identity or concept. ---"
+    },
+    {
+      "id": "n211",
+      "label": "AXIS",
+      "description": "The axis is perhaps the most elementary means of organizing forms and spaces in architecture. It is a line established by two points in space, about which forms and spaces can be arranged in a regular or irregular manner. Although imaginary and not visible except to the mind’s eye, an axis can be..."
+    },
+    {
+      "id": "n212",
+      "label": "SYMMETRY",
+      "description": "While an axial condition can exist without a symmetrical condition being simultaneously present, a symmetrical condition cannot exist without implying the existence of an axis or center about which it is structured. An axis is established by two points; a symmetrical condition requires the balanc..."
+    },
+    {
+      "id": "n213",
+      "label": "Radial Symmetry",
+      "description": "Great Stupa at Sanchi, India, c. 100 B.C."
+    },
+    {
+      "id": "n214",
+      "label": "Bilateral Symmetry",
+      "description": "Ritual Complex at Fengchu, Shaanxi Province, China, c. 1100–1000 B.C. Mortuary Temple of Rameses III, Medînet-Habu, 1198 B.C. Palazzo No. 52, Andrea Palladio Monticello, near Charlottesville, Virginia, 1770-1808, Thomas Jefferson Baths of Caracalla, Rome, A.D. 211-217 Nathaniel Russell House, Cha..."
+    },
+    {
+      "id": "n215",
+      "label": "HIERARCHY",
+      "description": "The principle of hierarchy implies that in most if not all architectural compositions, real differences exist among their forms and spaces. These differences reflect the degree of importance of these forms and spaces, as well as the functional, formal, and symbolic roles they play in the organiza..."
+    },
+    {
+      "id": "n216",
+      "label": "Hierarchy by Size",
+      "description": "A form or space may dominate an architectural composition by being significantly different in size from all the other elements in the composition. Normally, this dominance is made visible by the sheer size of an element. In some cases, an element can dominate by being significantly smaller than t..."
+    },
+    {
+      "id": "n217",
+      "label": "Hierarchy by Shape",
+      "description": "A form or space can be made visually dominant and thus important by clearly differentiating its shape from that of the other elements in the composition. A discernible contrast in shape is critical, whether the differentiation is based on a change in geometry or regularity. Of course, it is also ..."
+    },
+    {
+      "id": "n218",
+      "label": "Hierarchy by Placement",
+      "description": "A form or space may be strategically placed to call attention to itself as being the most important element in a composition. Hierarchically important locations for a form or space include:  the termination of a linear sequence or axial organization  the centerpiece of a symmetrical organization ..."
+    },
+    {
+      "id": "n219",
+      "label": "DATUM",
+      "description": "Excerpt from Gavotte I, Sixth Cello Suite, by Johann Sebastian Bach (1685–1750). Transcribed for classical guitar by Jerry Snyder. A datum refers to a line, plane, or volume of reference to which other elements in a composition can relate. It organizes a random pattern of elements through its reg..."
+    },
+    {
+      "id": "n220",
+      "label": "Line",
+      "description": "A line can cut through or form a common edge for the pattern, while a grid of lines can form a neutral, unifying field for the pattern."
+    },
+    {
+      "id": "n221",
+      "label": "Plane",
+      "description": "A plane can gather the pattern of elements beneath it or serve as an encompassing background for the elements and frame them in its field."
+    },
+    {
+      "id": "n222",
+      "label": "Volume",
+      "description": "A volume can collect the pattern of elements within its boundaries or organize them along its perimeter. Nalanda Mahavihara, Bihar, India, 6th–7th century A.D."
+    },
+    {
+      "id": "n223",
+      "label": "Datum",
+      "description": "Social Science Research Center, Berlin, Germany, 1981, James Stirling Koshino House, Ashiya, Hyogo Prefecture, Japan, 1979–1984, Tadao Ando West Precinct, Horyu-Ji Temple, Nara Prefecture, Japan, A.D. 607–746 Arcades unify the facades of houses that front the town square of Telo, Czechoslovakia. ..."
+    },
+    {
+      "id": "n224",
+      "label": "RHYTHM",
+      "description": "Column Details, Notre Dame la Grande, Poitiers, France, 1130–1145 Rhythm refers to any movement characterized by a patterned recurrence of elements or motifs at regular or irregular intervals. The movement may be of our eyes as we follow recurring elements in a composition, or of our bodies as we..."
+    },
+    {
+      "id": "n225",
+      "label": "REPETITION",
+      "description": "We tend to group elements in a random composition according to:  their closeness or proximity to one another  the visual characteristics they share in common The principle of repetition utilizes both of these concepts of visual perception to order recurring elements in a composition. The simplest..."
+    },
+    {
+      "id": "n226",
+      "label": "• Size",
+      "description": ""
+    },
+    {
+      "id": "n227",
+      "label": "• Shape",
+      "description": ""
+    },
+    {
+      "id": "n228",
+      "label": "• Detail Characteristics",
+      "description": "Classification of Temples according to the arrangements of the colonnades. From Book III, Chapter II of Vitruvius’ Ten Books on Architecture. Structural patterns often incorporate the repetition of vertical supports at regular or harmonious intervals which define modular bays or divisions of spac..."
+    },
+    {
+      "id": "n229",
+      "label": "TRANSFORMATION",
+      "description": "The study of architecture, as with other disciplines, should legitimately involve the study of its past, of prior experiences, endeavors, and accom-plishments from which much can be learned and emulated. The principle of transformation accepts this notion; this book, and all of the examples it co..."
+    },
+    {
+      "id": "n230",
+      "label": "CONCLUSION",
+      "description": ""
+    },
+    {
+      "id": "n231",
+      "label": "Meaning in Architecture",
+      "description": "This book, throughout its presentation of the elements of form and space, has been concerned primarily with the visual aspects of their physical reality in architecture. Points, moving through space and defining lines, lines defining planes, planes defining volumes of form and space. Beyond these..."
+    },
+    {
+      "id": "n232",
+      "label": "A SELECTED BIBLIOGRAPHY",
+      "description": "1. Aalto, Alvar. Complete Works. 2 volumes. Zurich: Les Editions d’Architecture Artemis, 1963. 2. Allen, Edward and Joseph Iano. The Architect’s Studio Companion: Rules of Thumb for Preliminary Design, 5th ed. Hoboken, New Jersey: John Wiley and Sons, 2011. 3. Arnheim, Rudolf. Art and Visual Perc..."
+    },
+    {
+      "id": "n233",
+      "label": "GLOSSARY",
+      "description": "abacus :   The flat slab forming the top of a column capital, plain in the Doric style, but molded or otherwise enriched in other styles. abbey :   A monastery under the supervision of an abbot, or a convent under the supervision of an abbess, belonging to the highest rank of such institutions. a..."
+    },
+    {
+      "id": "n234",
+      "label": "INDEX OF BUILDINGS",
+      "description": ""
+    },
+    {
+      "id": "n235",
+      "label": "A",
+      "description": "1. Abbey Church at Alpirsbach, Germany 2. Abu Simbel, Great Temple of Rameses II 3. The Acropolis, Athens 4. Administration Building, Johnson Wax Co., Racine, Wisconsin 5. A.E. Bingham House, Santa Barbara, California 6. Agora at Priene 7. Agora of Assos, Asia Minor 8. Agora of Ephesus, Asia Mino..."
+    },
+    {
+      "id": "n236",
+      "label": "B",
+      "description": "1. Bacardi Office Building, Santiago de Cuba 2. Baker House, MIT, Cambridge, Massachusetts 3. Bakong Temple, Cambodia 4. Bandung Institute of Technology, Indonesia 5. Banff Community Recreation Center, Alberta, Canada 6. Bank of England, London 7. Baptistery at Pisa, Italy 8. Barn in Ontario, Can..."
+    },
+    {
+      "id": "n237",
+      "label": "C",
+      "description": "1. Ca d’Oro, Venice 2. Canberra, Australia, Plan for 3. Canterbury Cathedral, England 4. Capitol Complex (Project), Islamabad, Pakistan 5. Capitol Complex at Dacca, Bangladesh 6. Caplin House, Venice, California 7. Carpenter Center for the Visual Arts, Harvard University, Cambridge, Massachusetts..."
+    },
+    {
+      "id": "n238",
+      "label": "D",
+      "description": "1. Darwin D. Martin House and Estate, Buffalo, New York 2. Des Moines Public Library, Iowa 3. DeVore House (Project), Montgomery County, Pennsylvania 4. Dilwara Jain Temples, Mt. Abu, India 5. Diwan-i-Khas, Fatehpur Sikri 6. Doge’s Palace, Venice 7. Dogon Housing Cluster, Mali 8. Dolmen 9. Dom-in..."
+    },
+    {
+      "id": "n239",
+      "label": "E",
+      "description": "1. Early Megaron Space 2. East Building, National Gallery of Art, Washington, D. C. 3. Eastern State Penitentiary, Philadelphia, Pennsylvania 4. East Harlem Preschool, New York, New York 5. Edwin Cheney House, Oak Park, Illinois 6. Einstein Tower, Potsdam, Germany 7. Empire State Building, New Yo..."
+    },
+    {
+      "id": "n240",
+      "label": "F",
+      "description": "1. Fallingwater (Kaufmann House), Pennsylvania 2. Farnsworth House, Plano, Illinois 3. Fatehpur Sikri, Palace Complex of Akbar the Great 4. Federation Square, Melbourne, Australia 5. Finnish Pavilion, New York World’s Fair 6. Fire Temple at Sarvistan, Iran 7. First Unitarian Church, Rochester, Ne..."
+    },
+    {
+      "id": "n241",
+      "label": "G",
+      "description": "1. Gagarin House, Peru, Vermont 2. Galleria Vittorio Emanuelle II, Milan 3. Gamble House, Pasadena, California 4. Gandhi Ashram Museum, Ahmedabad, India 5. Gavotte I, Sixth Cello Suite 6. George Blossom House, Chicago, Illinois 7. German Pavilion, Montreal World Exposition 8. German Pavilion (Bar..."
+    },
+    {
+      "id": "n242",
+      "label": "H",
+      "description": "1. Habitat Israel, Jerusalem 2. Habitat Montreal, Canada 3. Hadrian’s Villa, The Island Villa (Teatro Marittimo), Tivoli 4. Hagia Sophia, Constantinople (Istanbul), Turkey 5. Hale County Animal Shelter, Greensboro, Alabama 6. Hallway of Okusu Residence, Tokyo, Japan 7. Hangar, Design I 8. Hanselm..."
+    },
+    {
+      "id": "n243",
+      "label": "I",
+      "description": "1. IBM Research Center, La Guade, Var, France 2. Ibrahim Rauza, Tomb of Sultan Ibrahim II, Bijapur, India 3. Ideal Church Plan (Da Vinci) 4. Ideal Church Plan (Filarete) 5. Ideal City Plan (Martini) 6. Ideal City Plan (Scamozzi) 7. Ideal City Plan (Sforzinda) 8. Iglesia San Josemaría Escrivá, Alv..."
+    },
+    {
+      "id": "n244",
+      "label": "J",
+      "description": "1. Jaipur (India) city plan 2. Jami Masjid, Gulbarga, India 3. Jami Masjid of Ahmedabad, India 4. Japanese Residence 5. Japanese traditional house 6. Jasper Place Branch Library, Edmonton, Canada 7. Jester House (Project), Palos Verdes, California 8. Jewish Community Center, Trenton, New Jersey 9..."
+    },
+    {
+      "id": "n245",
+      "label": "K",
+      "description": "1. Karlsruhe, Germany 2. Karuizawa House, Country Retreat 3. Katsura Imperial Villa, Kyoto, Japan 4. Kaufmann Desert House, Palm Springs, California 5. Kaufmann House (Fallingwater), Pennsylvania 6. Kauwi Interpretive Center, Lonsdale, Australia 7. Khasneh al Faroun, Petra 8. Kimball Art Museum, ..."
+    },
+    {
+      "id": "n246",
+      "label": "L",
+      "description": "1. La Roche-Jeanneret Houses, Paris 2. Lawrence House, Sea Ranch, California 3. Legislative Assembly Building, Chandigarh, India 4. Library, Rovaniemi, Finland 5. Library, Seinäjoki, Finland 6. Library, Wolfsburg Cultural Center, Germany 7. Library in Rovaniemi Plan, Finland 8. Library of Mount A..."
+    },
+    {
+      "id": "n247",
+      "label": "M",
+      "description": "1. M9 (Memorial 9), Santiago, Chile 2. Machu Picchu, Peru 3. Maison de Force (Prison), Belgium 4. The Mall, Washington, D. C. 5. Manabe Residence, Osaka, Japan 6. Manhattan (New York) city plan 7. Marcus House (Project), Dallas, Texas 8. Marin County Civic Center, San Rafael, California 9. Massac..."
+    },
+    {
+      "id": "n248",
+      "label": "N",
+      "description": "1. Naigu, the inner shrine, Ise Shrine, Japan 2. Nakagin Capsule Tower, Tokyo, Japan 3. Nalanda Mahavihara, Bihar, India 4. Nathaniel Russell House, Charleston, South Carolina 5. National Assembly Building, Capitol Complex at Dacca, Bangladesh 6. National Gallery of Art, Washington, D. C. 7. Nati..."
+    },
+    {
+      "id": "n249",
+      "label": "O",
+      "description": "1. Obelisk of Luxor, Place de la Concorde, Paris 2. O’Keefe Residence, Santa Fe, New Mexico 3. Okusu Residence, Tokyo, Japan 4. Olivetti Headquarters, Milton Keynes, England 5. Olivetti Training School, Haslemere, England 6. Olympic Arena, Tokyo, Japan 7. Olympic Sculpture Park, Seattle Art Museu..."
+    },
+    {
+      "id": "n250",
+      "label": "P",
+      "description": "1. Palace of Charles V, Granada 2. Palace of Diocletian, Spalato 3. Palace of King Minos, Crete 4. Palace of the Soviets (Competition) 5. Palacio Güell, Barcelona, Spain 6. Palafolls Public Library, Palafolls, Spain 7. Palazzo Antonini, Udine 8. Palazzo Chiericati, Vicenza 9. Palazzo Farnese, Rom..."
+    },
+    {
+      "id": "n251",
+      "label": "Q",
+      "description": "1. Qian Men 2. Queen’s College, Cambridge, England"
+    },
+    {
+      "id": "n252",
+      "label": "R",
+      "description": "1. Rajarajeshwara Temple, India 2. Ramp-in-a-Square 3. Red Fort, Pearl Mosque, Agra, India 4. Reims Cathedral, France 5. Residence in Morris County, New Jersey 6. Residential Care Unit, Hokkaido, Japan 7. Restaurant Los Manantiales, Xochimilco, Mexico 8. Ritual Complex at Fengchu, China 9. Robert..."
+    },
+    {
+      "id": "n253",
+      "label": "S",
+      "description": "1. The Sacred Enclosure, Ise Shrine, Japan 2. Sacred Precinct of Athena, Pergamon 3. Salginatobel Bridge, Switzerland 4. Salisbury Cathedral, England 5. Salk Institute of Biological Studies (Project), California 6. Salvation Army Hostel, Paris 7. Samuel Freeman House, Los Angeles, California 8. S..."
+    },
+    {
+      "id": "n254",
+      "label": "T",
+      "description": "1. Taj Mahal, Agra, India 2. Taliesin West, Scottsdale, Arizona 3. Taos Pueblo, New Mexico 4. Teatro Marittimo (The Island Villa), Hadrian’s Villa, Tivoli 5. Tempietto, S. Pietro in Montorio, Rome 6. Temple B, Selinus 7. Temple Mountain at Bakong Temple, Cambodia 8. Temple of Amun at Karnak, Egyp..."
+    },
+    {
+      "id": "n255",
+      "label": "U",
+      "description": "1. Uffizi Palace, Florence 2. Underground village near Loyang, China 3. UNESCO Headquarters, Paris 4. Unité d’Habitation, Firminy-Vert, France 5. Unité d’Habitation, Marseilles, France 6. United States Capitol Building, Washington, D.C. 7. Unity Temple, Oak Park, Illinois 8. University Art Museum..."
+    },
+    {
+      "id": "n256",
+      "label": "V",
+      "description": "1. Vacation House, Sea Ranch, California 2. Vadakkunnathan Temple, India 3. Valhalla, Regensburg, Germany 4. Vegetation Forming L-shaped Windscreens, Japan 5. Victorian faces 6. Vigo Sundt House, Madison, Wisconsin 7. Villa Aldobrandini, Italy 8. Villa at Carthage, Tunisia 9. Villa Barbaro, Maser..."
+    },
+    {
+      "id": "n257",
+      "label": "W",
+      "description": "1. W.A. Glasner House, Glencoe, Illinois 2. Walt Disney Concert Hall, Los Angeles, California 3. Ward Willitts House, Highland Park, Illinois 4. Washington D.C. city plan 5. Washington Monument, Washington, D. C. 6. Westendinhelmi Housing, Espoo, Finland 7. West Precinct, Horyu-Ji Temple, Nara, J..."
+    },
+    {
+      "id": "n258",
+      "label": "Y",
+      "description": "1. Yahara Boat Club Project, Madison, Wisconsin 2. Yeni-Kaplica (Thermal Bath), Bursa, Turkey 3. Yingxian Timber Pagoda, China 4. Yi Yuan (Garden of Contentment), China 5. Yume-Dono, Eastern precinct of Horyu-Ji Temple, Nara, Japan ---"
+    },
+    {
+      "id": "n259",
+      "label": "INDEX OF DESIGNERS",
+      "description": ""
+    },
+    {
+      "id": "n260",
+      "label": "A",
+      "description": "1. Aalto, Alvar 2. Abramovitz, Max 3. Adam, Robert 4. Adams, Maurice 5. Alberti, Leon Battista 6. Ando, Tadao 7. Andrews, John 8. Anthemius of Tralles 9. Architecture Workshop 10. Asplund, Gunnar 11. Atelier 5 12. Auer + Weber Associates"
+    },
+    {
+      "id": "n261",
+      "label": "B",
+      "description": "1. Bach, Johann Sebastian 2. Barnes, Edward Larrabee 3. Bates Smart, Architects 4. Bauhaus Study 5. Bernini, Giovanni 6. Boffrand, Germain 7. Borromini, Francesco 8. Botta, Mario 9. Boullée, Étienne-Louis 10. Boyle, Richard (Lord Burlington) 11. Bramante, Donato 12. Breuer, Marcel 13. Brunellesch..."
+    },
+    {
+      "id": "n262",
+      "label": "C",
+      "description": "1. Calatrava, Santiago 2. Cambio, Arnolfo di 3. Candela, Felix 4. Ciampi, Mario J. 5. COOP Himmelb(l)au 6. Correa, Charles 7. Courtonne, Jean"
+    },
+    {
+      "id": "n263",
+      "label": "D",
+      "description": "1. David Chipperfield Architects 2. Della Porta, Giacomo 3. Denti, Paolo 4. Design Development Drawings 5. Dick and Bauer 6. Dieste, Eladio 7. Diotisalvi 8. Dub Architects"
+    },
+    {
+      "id": "n264",
+      "label": "E",
+      "description": "1. EAA-Emre Arolat Architects 2. Eero Saarinen and Associates 3. Eisenman, Peter 4. Erlach, Fischer von 5. Esherick, Joseph 6. Esherick Homsey Dodge & Davis"
+    },
+    {
+      "id": "n265",
+      "label": "F",
+      "description": "1. Filarete, Antonio 2. Fisher, Frederick 3. Fitzpatrick + Partners 4. Foster, Norman 5. Foster + Partners 6. Francois, Edouard 7. Frank O. Gehry & Partners 8. Fujimoto, Sou"
+    },
+    {
+      "id": "n266",
+      "label": "G",
+      "description": "1. Garnier, Charles 2. Gaudi, Antonio 3. GEC Architecture 4. Gehry, Frank O. 5. Ghiyas, Mirak Mirza 6. Giorgi, Francesco 7. Gluck, Peter L. 8. Goodwin, E. W. 9. Gowan, James 10. Graves, Michael 11. Greene & Greene 12. Gutbrod, Rolf 13. Gwathmey, Charles 14. Gwathmey Siegel & Associates"
+    },
+    {
+      "id": "n267",
+      "label": "H",
+      "description": "1. Hammel, Green & Abrahamson 2. Harrison, Wallace K. 3. Haviland, John 4. Hawksmoor, Nicholas 5. Hejduk, John 6. Herrmann, Heinrich 7. Hoesli, Bernhard 8. Hughes Condon Marier Architects"
+    },
+    {
+      "id": "n268",
+      "label": "I",
+      "description": "1. Isidorus of Miletus 2. Isozaki, Arata"
+    },
+    {
+      "id": "n269",
+      "label": "J",
+      "description": "1. Jefferson, Thomas 2. JMA Architects 3. Johansen, John M. 4. Johnson, Philip"
+    },
+    {
+      "id": "n270",
+      "label": "K",
+      "description": "1. Kahler, Heine 2. Kahn, Albert 3. Kahn, Louis 4. Kallmann, McKinnell & Knowles 5. Kappe, Raymond 6. Kent, William 7. Klenze, Leon von 8. Koolhaas, Rem 9. Kotera, Jan 10. Kurokawa, Kisho"
+    },
+    {
+      "id": "n271",
+      "label": "L",
+      "description": "1. LAB Architecture Studio 2. Lacombe-De Florinier 3. Latrobe, Benjamin Henry 4. Le Corbusier 5. Ledoux, Claude-Nicolas 6. L’Enfant, Pierre 7. Le Nôtre, André 8. Le Pautre, Antoine 9. Longhena, Baldassare 10. Lucas & Niemeyer 11. Lutyens, Edwin"
+    },
+    {
+      "id": "n272",
+      "label": "M",
+      "description": "1. Machuca, Pedro 2. Macintosh, Charles Rennie 3. Maderno, Carlo 4. Maillart, Robert 5. Malfaison and Kluchman 6. Matsaetsi, Oton 7. May, E. J. 8. Maybeck, Bernard 9. Meier, Richard 10. Mengoni, Giuseppe 11. Mercer, Henry 12. Michelangelo 13. Michelozzi 14. Mies van der Rohe 15. Miralles, Enric 1..."
+    },
+    {
+      "id": "n273",
+      "label": "N",
+      "description": "1. Nervi, Pier Luigi 2. Neski, Barbara 3. Neski, Julian 4. Neumann, Balthasar 5. Neutra, Richard 6. Niemeyer, Oscar 7. Nolli, Giambattista 8. Norri, Marja–Ritta"
+    },
+    {
+      "id": "n274",
+      "label": "O",
+      "description": "1. Oglethrope, James 2. OMA 3. Otto, Frei 4. Owen, Christopher"
+    },
+    {
+      "id": "n275",
+      "label": "P",
+      "description": "1. Palladio, Andrea 2. Paxton, Joseph 3. Peabody & Stearns 4. Pei, I. M. 5. Peruzzi, Baldassare 6. Petit, Antoine 7. Pietrasanta, Giacomo da 8. Polycleitos 9. Pont, Henri Maclaine 10. Prix, Wolf D. 11. Pythius"
+    },
+    {
+      "id": "n276",
+      "label": "R",
+      "description": "1. Rietveld, Gerrit Thomas 2. Rosselino, Bernardo 3. Rural Studio, Auburn University"
+    },
+    {
+      "id": "n277",
+      "label": "S",
+      "description": "1. Saarinen, Eero 2. Safdie, Moshe 3. Sanctis, Francesco de 4. Sandal, Malik 5. Sangallo the Younger, Antonio da 6. Sanzio, Raphael 7. Scamozzi, Vincenzo 8. Scharoun, Hans 9. Scheeren, Ole 10. Schinkel, Karl Friedrich 11. Scott, George Gilbert 12. Sean Godsell Architects 13. Senmut 14. Serlio, Se..."
+    },
+    {
+      "id": "n278",
+      "label": "T",
+      "description": "1. Tagliabue, Benedetta 2. Tange, Kenzo 3. Thornton, John T. 4. Toyo Ito and Associates"
+    },
+    {
+      "id": "n279",
+      "label": "U",
+      "description": "1. Utzon, Jørn"
+    },
+    {
+      "id": "n280",
+      "label": "V",
+      "description": "1. Van Doesburg, Theo 2. Van Doesburg and Van Esteren 3. Van Eesteren, Cornels 4. Van Eyck, Aldo 5. van Zuuk, René 6. Vasari, Giorgio 7. Venturi, Robert 8. Venturi and Short 9. Vignola, Giacomo da 10. Vinci, Leonardo da 11. Vitruvius 12. Viviani, Gonzalo Mardones"
+    },
+    {
+      "id": "n281",
+      "label": "W",
+      "description": "1. Ware, William R. 2. Weiss/Manfredi Architecture/Landscape/Urbanism 3. Wilford, Michael 4. Wood, John, Jr. 5. Wood, John, Sr. 6. Woodhead 7. Wright, Frank Lloyd"
+    },
+    {
+      "id": "n282",
+      "label": "Z",
+      "description": "1. Zuccari, Federico ---"
+    },
+    {
+      "id": "n283",
+      "label": "INDEX OF SUBJECT MATTER",
+      "description": ""
+    },
+    {
+      "id": "n284",
+      "label": "A",
+      "description": "1. acoustics 2. additive form 3. additive transformation 4. adjacent spaces 5. Alberti, Leon Battista 6. allée 7. Allen, Gerald 8. American Institute of Steel Construction 9. amphiprostyle 10. amphitheater 11. anthropometry 12. approach. See also entrance 13. araeostyle 14. arbor 15. arcade 16. a..."
+    },
+    {
+      "id": "n285",
+      "label": "B",
+      "description": "1. background 2. Bacon, Edmund N. 3. barrel vault 4. base plane 5. bay window 6. beam 7. bearing wall. See also load transfer 8. bearing-wall constructions 9. bending stress 10. bermed ground plane 11. bicycle 12. bilateral symmetry 13. boundaries 14. brick 15. building material 16. building scal..."
+    },
+    {
+      "id": "n286",
+      "label": "C",
+      "description": "1. CAD software 2. car 3. carved ground plane 4. ceiling plane 5. centered entrance 6. centered opening 7. centralized form 8. centralized forms 9. centralized organization 10. China 11. circle 12. circle and square 13. circular stair 14. circulation. See also approach; entrance; movement; path c..."
+    },
+    {
+      "id": "n287",
+      "label": "D",
+      "description": "1. datum 2. daylight. See also light 3. deep-set opening 4. degree of enclosure 5. density 6. depressed base plane 7. depth-to-span ratio 8. de Stijl school 9. detail characteristic 10. diagrid structures 11. diastyle 12. digital modeling 13. dimension. see proportion; scale 14. dimensional trans..."
+    },
+    {
+      "id": "n288",
+      "label": "E",
+      "description": "1. edges and corners. See also corner(s) 2. edge definition 3. edge opening 4. edge-to-edge contact 5. elevated base plane 6. elevated floor plane 7. elevated ground plane 8. elevation 9. elevation and section 10. enclosed circulation space 11. enclosed spatial field 12. enclosure 13. enclosure s..."
+    },
+    {
+      "id": "n289",
+      "label": "F",
+      "description": "1. facades 2. face-to-face contact 3. Fibonacci Series 4. figure 5. figure-ground relationship 6. fire protection 7. flooring material 8. floor plane 9. floor slab 10. flush entrance 11. forecourt 12. form 13. formal collisions of geometry 14. form and space 15. four planes: closure 16. four plan..."
+    },
+    {
+      "id": "n290",
+      "label": "G",
+      "description": "1. galleries 2. gallery space 3. gateway 4. geometric proportion. See also proportion 5. geometry 6. Gestalt psychology 7. glare 8. golden rectangle 9. golden section 10. gravity 11. Greece (ancient) 12. Greek musical system 13. Greek shrine 14. Greek temple 15. greenhouse space 16. grid form 17...."
+    },
+    {
+      "id": "n291",
+      "label": "H",
+      "description": "1. halls 2. harmonic proportion. See also proportion 3. heating 4. hedges 5. height 6. hierarchy 7. horizon 8. horizontal elements 9. horizontal line 10. horizontal opening 11. horizontal plane 12. housing complex layouts 13. human form 14. human scale. See also proportion; scale 15. hyperbolic p..."
+    },
+    {
+      "id": "n292",
+      "label": "I",
+      "description": "1. Inaka-ma method 2. intercolumniation 3. interior design elements 4. interior openings 5. interior wall plane 6. interlocking spaces 7. interlocking volume 8. intermediate space 9. International Metric System 10. intersection 11. Ionic order 12. irregular forms 13. Italian palazzo"
+    },
+    {
+      "id": "n293",
+      "label": "J",
+      "description": "1. Jahan (Shah) 2. Japan 3. Japanese farmers 4. joist"
+    },
+    {
+      "id": "n294",
+      "label": "K",
+      "description": "1. Kampen, Holland 2. ken (measurement unit) 3. Klee, Paul 4. Kyo-ma method"
+    },
+    {
+      "id": "n295",
+      "label": "L",
+      "description": "1. landings 2. landscapes 3. Lao-tzu 4. Le Corbusier 5. length 6. light. See also openings; skylight; windows; specific types of windows 7. line 8. linear elements 9. linear form 10. linear organization 11. linear path 12. linear sequences of rooms 13. linear sequences of spaces 14. line to plane..."
+    },
+    {
+      "id": "n296",
+      "label": "M",
+      "description": "1. Mahal, Muntaz 2. manufactured proportion 3. map of Rome 4. marquee 5. masonry 6. masonry vault 7. masonry wall 8. mass 9. material proportion 10. mathematical proportion 11. mausoleum structure 12. meaning 13. measurement units 14. mechanical scale 15. membrane structure 16. minarets 17. Moden..."
+    },
+    {
+      "id": "n297",
+      "label": "N",
+      "description": "1. natural light. see daylight 2. Nefertiti (queen of Egypt) 3. network path 4. niche 5. non-load bearing walls"
+    },
+    {
+      "id": "n298",
+      "label": "O",
+      "description": "1. obelisk 2. oblique approach 3. oblique line 4. off-center entrance 5. off-center opening 6. off-center point 7. open circulation space 8. openings. See also doorway; light; skylight; windows; specific types of windows 9. openings at corners 10. openings between planes 11. openings in space-def..."
+    },
+    {
+      "id": "n299",
+      "label": "P",
+      "description": "1. Palladian villa 2. paraboloid 3. parallel lines 4. parallel planes 5. path configuration 6. path-space relationship 7. pattern. See also grid organization; repetition; rhythm 8. pavilion structure 9. pedestrians 10. perception 11. pergola 12. peripteral 13. perpendicular axis 14. perpendicular..."
+    },
+    {
+      "id": "n300",
+      "label": "Q",
+      "description": "1. qualities of architectural space"
+    },
+    {
+      "id": "n301",
+      "label": "R",
+      "description": "1. radial form 2. radial organization 3. radial path 4. radial symmetry 5. ramp 6. ramped ground plane 7. Rasmussen, Steen Eiler 8. ratio 9. rational forms 10. recessed entrance 11. rectangle 12. rectangular column 13. regular form 14. regulating line 15. Renaissance theories of proportion 16. re..."
+    },
+    {
+      "id": "n302",
+      "label": "S",
+      "description": "1. saddle surface 2. Salzburg, Austria 3. scalar comparison 4. scale. See also human scale; proportion 5. section 6. semiotics 7. Serlio, Sebastiano 8. shaku (measurement unit) 9. shape 10. sheathing material 11. shell structures 12. Siena, Italy 13. sightlines 14. single vertical plane 15. site ..."
+    },
+    {
+      "id": "n303",
+      "label": "T",
+      "description": "1. technics 2. technology 3. temple classification 4. temples 5. tensile structure 6. terraced floor plane 7. terraced ground plane 8. texture 9. The Smitheum 10. thickness 11. 3D printing 12. three-dimensional form 13. three-dimensional grid 14. three-dimensional space 15. three-dimensional volu..."
+    },
+    {
+      "id": "n304",
+      "label": "U",
+      "description": "1. unity of opposites 2. urban scale 3. urban space 4. U.S. Customary System 5. U-shaped plane 6. U-shaped stair"
+    },
+    {
+      "id": "n305",
+      "label": "V",
+      "description": "1. vault 2. vaulted staircase 3. ventilation 4. Venturi, Robert 5. vernacular architecture 6. Verona, Italy 7. vertical elements 8. vertical line 9. vertical linear elements 10. vertical opening 11. vertical plane 12. vertical slab 13. view 14. Vignola, Giacomo da 15. Villa Foscari (subject) 16. ..."
+    },
+    {
+      "id": "n306",
+      "label": "W",
+      "description": "1. wall. See also bearing wall 2. wall plane 3. weather protection 4. wheel 5. windows. See also openings; skylight 6. window unit 7. window-wall opening 8. windscreens 9. wood 10. wood truss"
+    },
+    {
+      "id": "n307",
+      "label": "Y",
+      "description": "1. Yarbus, Alfred L. 2. Yudell, Robert ---"
+    },
+    {
+      "id": "n308",
+      "label": "WILEY END USER LICENSE AGREEMENT",
+      "description": "Go to [www.wiley.com/go/eula](http://www.wiley.com/go/eula) to access Wiley's ebook EULA."
+    }
+  ],
+  "edges": [
+    {
+      "source": "n2",
+      "target": "n3",
+      "relation": "includes"
+    },
+    {
+      "source": "n8",
+      "target": "n9",
+      "relation": "includes"
+    },
+    {
+      "source": "n8",
+      "target": "n10",
+      "relation": "includes"
+    },
+    {
+      "source": "n8",
+      "target": "n11",
+      "relation": "includes"
+    },
+    {
+      "source": "n8",
+      "target": "n12",
+      "relation": "includes"
+    },
+    {
+      "source": "n8",
+      "target": "n13",
+      "relation": "includes"
+    },
+    {
+      "source": "n8",
+      "target": "n14",
+      "relation": "includes"
+    },
+    {
+      "source": "n15",
+      "target": "n16",
+      "relation": "includes"
+    },
+    {
+      "source": "n15",
+      "target": "n17",
+      "relation": "includes"
+    },
+    {
+      "source": "n15",
+      "target": "n18",
+      "relation": "includes"
+    },
+    {
+      "source": "n15",
+      "target": "n19",
+      "relation": "includes"
+    },
+    {
+      "source": "n15",
+      "target": "n20",
+      "relation": "includes"
+    },
+    {
+      "source": "n15",
+      "target": "n21",
+      "relation": "includes"
+    },
+    {
+      "source": "n15",
+      "target": "n22",
+      "relation": "includes"
+    },
+    {
+      "source": "n15",
+      "target": "n23",
+      "relation": "includes"
+    },
+    {
+      "source": "n15",
+      "target": "n24",
+      "relation": "includes"
+    },
+    {
+      "source": "n15",
+      "target": "n25",
+      "relation": "includes"
+    },
+    {
+      "source": "n15",
+      "target": "n26",
+      "relation": "includes"
+    },
+    {
+      "source": "n26",
+      "target": "n27",
+      "relation": "includes"
+    },
+    {
+      "source": "n26",
+      "target": "n28",
+      "relation": "includes"
+    },
+    {
+      "source": "n15",
+      "target": "n29",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n31",
+      "relation": "includes"
+    },
+    {
+      "source": "n31",
+      "target": "n32",
+      "relation": "includes"
+    },
+    {
+      "source": "n31",
+      "target": "n33",
+      "relation": "includes"
+    },
+    {
+      "source": "n31",
+      "target": "n34",
+      "relation": "includes"
+    },
+    {
+      "source": "n31",
+      "target": "n35",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n36",
+      "relation": "includes"
+    },
+    {
+      "source": "n36",
+      "target": "n37",
+      "relation": "includes"
+    },
+    {
+      "source": "n36",
+      "target": "n38",
+      "relation": "includes"
+    },
+    {
+      "source": "n36",
+      "target": "n39",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n40",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n41",
+      "relation": "includes"
+    },
+    {
+      "source": "n41",
+      "target": "n42",
+      "relation": "includes"
+    },
+    {
+      "source": "n41",
+      "target": "n43",
+      "relation": "includes"
+    },
+    {
+      "source": "n41",
+      "target": "n44",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n45",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n46",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n47",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n48",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n49",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n50",
+      "relation": "includes"
+    },
+    {
+      "source": "n50",
+      "target": "n51",
+      "relation": "includes"
+    },
+    {
+      "source": "n50",
+      "target": "n52",
+      "relation": "includes"
+    },
+    {
+      "source": "n50",
+      "target": "n53",
+      "relation": "includes"
+    },
+    {
+      "source": "n50",
+      "target": "n54",
+      "relation": "includes"
+    },
+    {
+      "source": "n50",
+      "target": "n55",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n56",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n57",
+      "relation": "includes"
+    },
+    {
+      "source": "n57",
+      "target": "n58",
+      "relation": "includes"
+    },
+    {
+      "source": "n57",
+      "target": "n59",
+      "relation": "includes"
+    },
+    {
+      "source": "n57",
+      "target": "n60",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n61",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n62",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n63",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n64",
+      "relation": "includes"
+    },
+    {
+      "source": "n64",
+      "target": "n65",
+      "relation": "includes"
+    },
+    {
+      "source": "n64",
+      "target": "n66",
+      "relation": "includes"
+    },
+    {
+      "source": "n64",
+      "target": "n67",
+      "relation": "includes"
+    },
+    {
+      "source": "n64",
+      "target": "n68",
+      "relation": "includes"
+    },
+    {
+      "source": "n64",
+      "target": "n69",
+      "relation": "includes"
+    },
+    {
+      "source": "n64",
+      "target": "n70",
+      "relation": "includes"
+    },
+    {
+      "source": "n64",
+      "target": "n71",
+      "relation": "includes"
+    },
+    {
+      "source": "n64",
+      "target": "n72",
+      "relation": "includes"
+    },
+    {
+      "source": "n64",
+      "target": "n73",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n74",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n75",
+      "relation": "includes"
+    },
+    {
+      "source": "n75",
+      "target": "n76",
+      "relation": "includes"
+    },
+    {
+      "source": "n75",
+      "target": "n77",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n78",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n79",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n80",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n81",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n82",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n83",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n84",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n85",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n86",
+      "relation": "includes"
+    },
+    {
+      "source": "n30",
+      "target": "n87",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n89",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n90",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n91",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n92",
+      "relation": "includes"
+    },
+    {
+      "source": "n92",
+      "target": "n93",
+      "relation": "includes"
+    },
+    {
+      "source": "n92",
+      "target": "n94",
+      "relation": "includes"
+    },
+    {
+      "source": "n92",
+      "target": "n95",
+      "relation": "includes"
+    },
+    {
+      "source": "n92",
+      "target": "n96",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n97",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n98",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n99",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n100",
+      "relation": "includes"
+    },
+    {
+      "source": "n100",
+      "target": "n101",
+      "relation": "includes"
+    },
+    {
+      "source": "n100",
+      "target": "n102",
+      "relation": "includes"
+    },
+    {
+      "source": "n100",
+      "target": "n103",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n104",
+      "relation": "includes"
+    },
+    {
+      "source": "n104",
+      "target": "n105",
+      "relation": "includes"
+    },
+    {
+      "source": "n104",
+      "target": "n106",
+      "relation": "includes"
+    },
+    {
+      "source": "n104",
+      "target": "n107",
+      "relation": "includes"
+    },
+    {
+      "source": "n104",
+      "target": "n108",
+      "relation": "includes"
+    },
+    {
+      "source": "n104",
+      "target": "n109",
+      "relation": "includes"
+    },
+    {
+      "source": "n104",
+      "target": "n110",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n111",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n112",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n113",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n114",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n115",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n116",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n117",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n118",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n119",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n120",
+      "relation": "includes"
+    },
+    {
+      "source": "n120",
+      "target": "n121",
+      "relation": "includes"
+    },
+    {
+      "source": "n120",
+      "target": "n122",
+      "relation": "includes"
+    },
+    {
+      "source": "n120",
+      "target": "n123",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n124",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n125",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n126",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n127",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n128",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n129",
+      "relation": "includes"
+    },
+    {
+      "source": "n88",
+      "target": "n130",
+      "relation": "includes"
+    },
+    {
+      "source": "n131",
+      "target": "n132",
+      "relation": "includes"
+    },
+    {
+      "source": "n131",
+      "target": "n133",
+      "relation": "includes"
+    },
+    {
+      "source": "n131",
+      "target": "n134",
+      "relation": "includes"
+    },
+    {
+      "source": "n131",
+      "target": "n135",
+      "relation": "includes"
+    },
+    {
+      "source": "n131",
+      "target": "n136",
+      "relation": "includes"
+    },
+    {
+      "source": "n131",
+      "target": "n137",
+      "relation": "includes"
+    },
+    {
+      "source": "n131",
+      "target": "n138",
+      "relation": "includes"
+    },
+    {
+      "source": "n131",
+      "target": "n139",
+      "relation": "includes"
+    },
+    {
+      "source": "n131",
+      "target": "n140",
+      "relation": "includes"
+    },
+    {
+      "source": "n140",
+      "target": "n141",
+      "relation": "includes"
+    },
+    {
+      "source": "n140",
+      "target": "n142",
+      "relation": "includes"
+    },
+    {
+      "source": "n140",
+      "target": "n143",
+      "relation": "includes"
+    },
+    {
+      "source": "n140",
+      "target": "n144",
+      "relation": "includes"
+    },
+    {
+      "source": "n140",
+      "target": "n145",
+      "relation": "includes"
+    },
+    {
+      "source": "n140",
+      "target": "n146",
+      "relation": "includes"
+    },
+    {
+      "source": "n140",
+      "target": "n147",
+      "relation": "includes"
+    },
+    {
+      "source": "n131",
+      "target": "n148",
+      "relation": "includes"
+    },
+    {
+      "source": "n131",
+      "target": "n149",
+      "relation": "includes"
+    },
+    {
+      "source": "n149",
+      "target": "n150",
+      "relation": "includes"
+    },
+    {
+      "source": "n149",
+      "target": "n151",
+      "relation": "includes"
+    },
+    {
+      "source": "n149",
+      "target": "n152",
+      "relation": "includes"
+    },
+    {
+      "source": "n149",
+      "target": "n153",
+      "relation": "includes"
+    },
+    {
+      "source": "n149",
+      "target": "n154",
+      "relation": "includes"
+    },
+    {
+      "source": "n149",
+      "target": "n155",
+      "relation": "includes"
+    },
+    {
+      "source": "n131",
+      "target": "n156",
+      "relation": "includes"
+    },
+    {
+      "source": "n157",
+      "target": "n158",
+      "relation": "includes"
+    },
+    {
+      "source": "n157",
+      "target": "n159",
+      "relation": "includes"
+    },
+    {
+      "source": "n159",
+      "target": "n160",
+      "relation": "includes"
+    },
+    {
+      "source": "n159",
+      "target": "n161",
+      "relation": "includes"
+    },
+    {
+      "source": "n159",
+      "target": "n162",
+      "relation": "includes"
+    },
+    {
+      "source": "n159",
+      "target": "n163",
+      "relation": "includes"
+    },
+    {
+      "source": "n159",
+      "target": "n164",
+      "relation": "includes"
+    },
+    {
+      "source": "n157",
+      "target": "n165",
+      "relation": "includes"
+    },
+    {
+      "source": "n165",
+      "target": "n166",
+      "relation": "includes"
+    },
+    {
+      "source": "n165",
+      "target": "n167",
+      "relation": "includes"
+    },
+    {
+      "source": "n165",
+      "target": "n168",
+      "relation": "includes"
+    },
+    {
+      "source": "n157",
+      "target": "n169",
+      "relation": "includes"
+    },
+    {
+      "source": "n157",
+      "target": "n170",
+      "relation": "includes"
+    },
+    {
+      "source": "n170",
+      "target": "n171",
+      "relation": "includes"
+    },
+    {
+      "source": "n170",
+      "target": "n172",
+      "relation": "includes"
+    },
+    {
+      "source": "n170",
+      "target": "n173",
+      "relation": "includes"
+    },
+    {
+      "source": "n170",
+      "target": "n174",
+      "relation": "includes"
+    },
+    {
+      "source": "n170",
+      "target": "n175",
+      "relation": "includes"
+    },
+    {
+      "source": "n157",
+      "target": "n176",
+      "relation": "includes"
+    },
+    {
+      "source": "n176",
+      "target": "n177",
+      "relation": "includes"
+    },
+    {
+      "source": "n176",
+      "target": "n178",
+      "relation": "includes"
+    },
+    {
+      "source": "n176",
+      "target": "n179",
+      "relation": "includes"
+    },
+    {
+      "source": "n157",
+      "target": "n180",
+      "relation": "includes"
+    },
+    {
+      "source": "n180",
+      "target": "n181",
+      "relation": "includes"
+    },
+    {
+      "source": "n180",
+      "target": "n182",
+      "relation": "includes"
+    },
+    {
+      "source": "n180",
+      "target": "n183",
+      "relation": "includes"
+    },
+    {
+      "source": "n184",
+      "target": "n185",
+      "relation": "includes"
+    },
+    {
+      "source": "n184",
+      "target": "n186",
+      "relation": "includes"
+    },
+    {
+      "source": "n184",
+      "target": "n187",
+      "relation": "includes"
+    },
+    {
+      "source": "n184",
+      "target": "n188",
+      "relation": "includes"
+    },
+    {
+      "source": "n184",
+      "target": "n189",
+      "relation": "includes"
+    },
+    {
+      "source": "n189",
+      "target": "n190",
+      "relation": "includes"
+    },
+    {
+      "source": "n189",
+      "target": "n191",
+      "relation": "includes"
+    },
+    {
+      "source": "n184",
+      "target": "n192",
+      "relation": "includes"
+    },
+    {
+      "source": "n184",
+      "target": "n193",
+      "relation": "includes"
+    },
+    {
+      "source": "n184",
+      "target": "n194",
+      "relation": "includes"
+    },
+    {
+      "source": "n184",
+      "target": "n195",
+      "relation": "includes"
+    },
+    {
+      "source": "n184",
+      "target": "n196",
+      "relation": "includes"
+    },
+    {
+      "source": "n184",
+      "target": "n197",
+      "relation": "includes"
+    },
+    {
+      "source": "n184",
+      "target": "n198",
+      "relation": "includes"
+    },
+    {
+      "source": "n184",
+      "target": "n199",
+      "relation": "includes"
+    },
+    {
+      "source": "n184",
+      "target": "n200",
+      "relation": "includes"
+    },
+    {
+      "source": "n184",
+      "target": "n201",
+      "relation": "includes"
+    },
+    {
+      "source": "n184",
+      "target": "n202",
+      "relation": "includes"
+    },
+    {
+      "source": "n203",
+      "target": "n204",
+      "relation": "includes"
+    },
+    {
+      "source": "n204",
+      "target": "n205",
+      "relation": "includes"
+    },
+    {
+      "source": "n204",
+      "target": "n206",
+      "relation": "includes"
+    },
+    {
+      "source": "n204",
+      "target": "n207",
+      "relation": "includes"
+    },
+    {
+      "source": "n204",
+      "target": "n208",
+      "relation": "includes"
+    },
+    {
+      "source": "n204",
+      "target": "n209",
+      "relation": "includes"
+    },
+    {
+      "source": "n204",
+      "target": "n210",
+      "relation": "includes"
+    },
+    {
+      "source": "n203",
+      "target": "n211",
+      "relation": "includes"
+    },
+    {
+      "source": "n203",
+      "target": "n212",
+      "relation": "includes"
+    },
+    {
+      "source": "n212",
+      "target": "n213",
+      "relation": "includes"
+    },
+    {
+      "source": "n212",
+      "target": "n214",
+      "relation": "includes"
+    },
+    {
+      "source": "n203",
+      "target": "n215",
+      "relation": "includes"
+    },
+    {
+      "source": "n215",
+      "target": "n216",
+      "relation": "includes"
+    },
+    {
+      "source": "n215",
+      "target": "n217",
+      "relation": "includes"
+    },
+    {
+      "source": "n215",
+      "target": "n218",
+      "relation": "includes"
+    },
+    {
+      "source": "n203",
+      "target": "n219",
+      "relation": "includes"
+    },
+    {
+      "source": "n219",
+      "target": "n220",
+      "relation": "includes"
+    },
+    {
+      "source": "n219",
+      "target": "n221",
+      "relation": "includes"
+    },
+    {
+      "source": "n219",
+      "target": "n222",
+      "relation": "includes"
+    },
+    {
+      "source": "n219",
+      "target": "n223",
+      "relation": "includes"
+    },
+    {
+      "source": "n203",
+      "target": "n224",
+      "relation": "includes"
+    },
+    {
+      "source": "n203",
+      "target": "n225",
+      "relation": "includes"
+    },
+    {
+      "source": "n225",
+      "target": "n226",
+      "relation": "includes"
+    },
+    {
+      "source": "n225",
+      "target": "n227",
+      "relation": "includes"
+    },
+    {
+      "source": "n225",
+      "target": "n228",
+      "relation": "includes"
+    },
+    {
+      "source": "n203",
+      "target": "n229",
+      "relation": "includes"
+    },
+    {
+      "source": "n203",
+      "target": "n230",
+      "relation": "includes"
+    },
+    {
+      "source": "n230",
+      "target": "n231",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n235",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n236",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n237",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n238",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n239",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n240",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n241",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n242",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n243",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n244",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n245",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n246",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n247",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n248",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n249",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n250",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n251",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n252",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n253",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n254",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n255",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n256",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n257",
+      "relation": "includes"
+    },
+    {
+      "source": "n234",
+      "target": "n258",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n260",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n261",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n262",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n263",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n264",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n265",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n266",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n267",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n268",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n269",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n270",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n271",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n272",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n273",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n274",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n275",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n276",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n277",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n278",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n279",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n280",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n281",
+      "relation": "includes"
+    },
+    {
+      "source": "n259",
+      "target": "n282",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n284",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n285",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n286",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n287",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n288",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n289",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n290",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n291",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n292",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n293",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n294",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n295",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n296",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n297",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n298",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n299",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n300",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n301",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n302",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n303",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n304",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n305",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n306",
+      "relation": "includes"
+    },
+    {
+      "source": "n283",
+      "target": "n307",
+      "relation": "includes"
+    }
+  ]
+}

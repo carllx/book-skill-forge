@@ -1,0 +1,108 @@
+{
+  "mappings": [
+    {
+      "extracted_id": "n1",
+      "gt_id": "c1_1",
+      "confidence": "high",
+      "reasoning": "节点'美学 (Aesthetics)'指出了将艺术视为感官对象的现代范式，对应标准答案中'Aesthetics vs Ontology'（美学与本体论之争）中的美学维度。"
+    },
+    {
+      "extracted_id": "n3",
+      "gt_id": "c1",
+      "confidence": "high",
+      "reasoning": "节点'艺术的终结 (The End of Art)'在名称与核心内涵（黑格尔命题）上，与标准答案'The End of Art'（别名'Hegel's End of Art'）完全一致。"
+    },
+    {
+      "extracted_id": "n4",
+      "gt_id": "c1_1",
+      "confidence": "high",
+      "reasoning": "节点'本体论艺术观 (Ontological Approach to Art)'的名称与标准答案'Aesthetics vs Ontology'的别名'Ontological Approach'形成了一字不差的完美对应。"
+    },
+    {
+      "extracted_id": "n5",
+      "gt_id": "c7",
+      "confidence": "high",
+      "reasoning": "节点'真理作为无蔽 (Truth as Unconcealedness/Aletheia)'与标准答案'The Happening of Truth'的别名'Truth as Unconcealedness'和'Aletheia'完全契合。"
+    },
+    {
+      "extracted_id": "n6",
+      "gt_id": "c4",
+      "confidence": "high",
+      "reasoning": "节点'物 (Thing)'阐述了物的存在形态及其三种传统观点，精准对应标准答案'The Thingliness of the Thing'（别名'Thing'）。"
+    },
+    {
+      "extracted_id": "n7",
+      "gt_id": "c5",
+      "confidence": "high",
+      "reasoning": "节点'器具 (Equipment)'描述了具有有用性和可靠性的存在者，在概念名称与内涵上与标准答案'Equipment'完全重合。"
+    },
+    {
+      "extracted_id": "n8",
+      "gt_id": "c6_2",
+      "confidence": "high",
+      "reasoning": "节点'大地 (Earth)'提炼了其幽暗、自我封闭的基础属性，完美对应标准答案'Earth'（别名'Self-secluding Earth'）。"
+    },
+    {
+      "extracted_id": "n9",
+      "gt_id": "c6_1",
+      "confidence": "high",
+      "reasoning": "节点'世界 (World)'描述了充满意义和关联的开放语境，与标准答案'World'（别名'Openness'）在核心要义上完全一致。"
+    },
+    {
+      "extracted_id": "n10",
+      "gt_id": "c6",
+      "confidence": "high",
+      "reasoning": "节点'世界与大地的争执 (The Strife of Earth and World)'的名称与内容，与标准答案'World and Earth'的别名'Strife of World and Earth'分毫不差。"
+    },
+    {
+      "extracted_id": "n11",
+      "gt_id": "c1_2",
+      "confidence": "high",
+      "reasoning": "节点'伟大艺术 (Great Art)'强调艺术是促成真理发生的载体，这与标准答案'Art and Truth'（别名'Happening of Truth'）探讨的艺术与真理的发生机制紧密映射。"
+    }
+  ],
+  "ground_truth_concepts": [
+    {"id": "c1", "name": "The End of Art", "importance": 9},
+    {"id": "c1_1", "name": "Aesthetics vs Ontology", "importance": 8},
+    {"id": "c1_2", "name": "Art and Truth", "importance": 10},
+    {"id": "c2", "name": "Authenticity and Silence", "importance": 8},
+    {"id": "c2_1", "name": "Guilt and Conscience", "importance": 7},
+    {"id": "c2_2", "name": "Resoluteness", "importance": 8},
+    {"id": "c3", "name": "Metaphysics and the Loss of Meaning", "importance": 8},
+    {"id": "c3_1", "name": "The Origin of Metaphysics", "importance": 7},
+    {"id": "c4", "name": "The Thingliness of the Thing", "importance": 10},
+    {"id": "c4_1", "name": "Thing as Bearer of Properties", "importance": 6},
+    {"id": "c4_2", "name": "Thing as Object of Perception", "importance": 6},
+    {"id": "c4_3", "name": "Thing as Formed Matter", "importance": 6},
+    {"id": "c5", "name": "Equipment", "importance": 9},
+    {"id": "c5_1", "name": "Van Gogh's Peasant Shoes", "importance": 8},
+    {"id": "c6", "name": "World and Earth", "importance": 10},
+    {"id": "c6_1", "name": "World", "importance": 9},
+    {"id": "c6_2", "name": "Earth", "importance": 9},
+    {"id": "c6_3", "name": "The Rift", "importance": 8},
+    {"id": "c7", "name": "The Happening of Truth", "importance": 10},
+    {"id": "c7_1", "name": "The Nature of Truth is Untruth", "importance": 8},
+    {"id": "c8", "name": "Art as Origin", "importance": 9},
+    {"id": "c8_1", "name": "Creators and Preservers", "importance": 8},
+    {"id": "c8_2", "name": "Founding", "importance": 7},
+    {"id": "c9", "name": "Art Is Poetry", "importance": 8}
+  ],
+  "extracted_concepts": [
+    {"id": "n1", "name": "美学 (Aesthetics)", "is_redundant": false},
+    {"id": "n2", "name": "体验 (Experience)", "is_redundant": false},
+    {"id": "n3", "name": "艺术的终结 (The End of Art)", "is_redundant": false},
+    {"id": "n4", "name": "本体论艺术观 (Ontological Approach to Art)", "is_redundant": false},
+    {"id": "n5", "name": "真理作为无蔽 (Truth as Unconcealedness/Aletheia)", "is_redundant": false},
+    {"id": "n6", "name": "物 (Thing)", "is_redundant": false},
+    {"id": "n7", "name": "器具 (Equipment)", "is_redundant": false},
+    {"id": "n8", "name": "大地 (Earth)", "is_redundant": false},
+    {"id": "n9", "name": "世界 (World)", "is_redundant": false},
+    {"id": "n10", "name": "世界与大地的争执 (The Strife of Earth and World)", "is_redundant": false},
+    {"id": "n11", "name": "伟大艺术 (Great Art)", "is_redundant": false}
+  ],
+  "artifact_usability": {
+    "formatting_score": 5,
+    "clarity_score": 5,
+    "logical_score": 4
+  }
+}

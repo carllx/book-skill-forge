@@ -1,0 +1,39 @@
+## Part 109
+
+> [BREADCRUMB_CTX: 《tectonic_culture》 > Part 109]
+
+For all that Rice's tone is technocratic, he patently alludes to a poetic formal dimension that is capable of transcending instrumentality as an end in itself. He is thus concerned with the revelation of the human spirit, through the specific manner in which a work comes to be collectively developed and realized. As an engineer he understood only too well that a technological device is a cultural choice and not simply amatter of reductive logic. This surely is the stand of the critical intellect against the mindless optimizing process of our "spectacular" bureaucracies, against the current tendency to maximize any one single value irrespective of the costs involved, whether environmental or otherwise. Truth, as Le Corbusier wrote, does not now lie in extremes; it lies, as he put it with self-deprecating irony, in a constant struggle to maintain a state of equilibrium whatever one's metier. Hence the wider ideological implications of his beautiful metaphor of the architect as acrobat. "Nobody asked him to do this. Nobody owes him any thanks. He lives in the extraordinary world of the acrobat."18
+
+But are we not all in the last analysis acrobats, that is to say, is not the species as a whole caught on its technological high wire from which if it finally falls it will be impossible to recover? In the meantime the culture of the tectonic still persists as a testament to the spirit: the poetics of construction. All the rest, including our much-vaunted manipulation of space, is mixed up with the lifeworld, and in this it belongs as much to society as to ourselves.
+
+# Notes
+
+# Foreword
+
+1 Phillip Lopate, The Rug Merchant (New York: Penguin, 1988).
+
+# 1 Introduction: Reflections on the Scope of the Tectonic
+
+Epigraph: Manfredo Tafuri and Francesco Dal Co, Modern Architecture (New York: Abrams, 1979), p. 9. (First published as L'architettura contemporanea, Milan: Electa Editrice, 1976.)
+
+#
+
+See Eugene-Emmanuel Viollet-le-Duc, Discourses on Architecture, 2 vols., trans. Benjamin Bucknall (New York: Grove Press, 1959; reprint of first American edition of 1889). While Viollet-le-Duc alludes to the experience of perspectival foreshortening in depth (Lecture VIll, p. 334 and following) and to space as necessary volume, there is no notion of modern space in his writing, save perhaps for his advocacy of liberating the ground floor through use of glazed partitions and freestanding pillars (Lecture XVIll, p. 320).
+
+# 2
+
+This was Schmarsow's inaugural lecture as professor of art history at the University of Leipzig in 893. This lecture, like Konrad Fiedler's of fifteen yearsearlier, was a critique and an expansion of Semper's Bekleidung theory. Schmarsow was opposed to the stress that Semper gave to architecture as an art of "dressing,' since he felt that this reduced architecture toa triviality. To counter this aesthetic from without, Schmarsow proposed an aesthetic from within, an aesthetic of interior space form versus the exterior "form feeling”championed by Heinrich Wolfflin. While an affinity clearly obtained between Schmarsow's spatial concept and Robert Vischer's idea of empathy, Schmarsow would distinguish in an interesting way between Raumwissenschaft, or the mathematical science of space,and Raumkunst, the architectural art of space. Later, in 1905, he would also discriminate among the arts of sculpture, painting, and architecture.
+
+#
+
+As far as the evolution of our modern space consciousness is concerned, 1893 can be considered the annus mirabilis since it saw the all but simultaneous publication of three seminal works: Schmarsow's Das Wesen derarchitektonischen Schopfung, Theodor Lipps's “Ranästhetik und geometrisch-optische Tauschungen" in the collection of the Gesellschaft fur psychologische Forschungsschriften (second collection, vol. IX-X, Leipzig), and last but not least Adolf von Hildebrand's DasProblem der Form in derbildenden Kunst, published in Leipzig in 1893 and translated into English as The Problemof Form in Painting and Sculpture in 1907. For further details on the evolution of modern spatiality in the work of these theorists see Cornelis van de Ven, Space in Architecture (Assen, The Netherlands: Van Gorcum, 1978).
+
+While phenomenological spatial perception was first developed by Schmarsow, an awareness of space as a transformational continuum in architecture had emerged in the last half ofthe seventeenth century. This new consciousness was in part due to the geometrical methods that had been devised for the cutting and setting-out of vaulted stonework as these were compiled in Abraham Bosse'streatise of 1643, La Practique du train apreuves de Mr Desargues Lyonnois, pour la coupe despierres en l'architecture. In the second half of the century the emergingscience of stereotomy was to arouse the interest of architects and mathematiciansalike, beginning with Girard Desargues, whose work on the planar intersections of a cone, published in 1639, led to the transformational space forms of Guarino Guarini.
+
+It is no accident perhaps that in the second decade of this present century Sigfried Giedion should become preoccupied with transformational space of a somewhat different kind in his doctoral thesis under Heinrich Wolfflin, Spatbarocker undromantischer Klassizismus, published in Munich in 1922.
+
+In his seminal Space, Timeand Architecture (Cambridge, Mass.: Harvard University Press, 1941,with subsequent revised editions), Sigfried Giedion discusses the parallel development of Cubist aesthetics and modern theoretical physics. As Giedion notes, Renaissance space was literally contained by three-dimensional perspective and hence already onented toward theabstraction of spatial infinity-the paradox of the vanishing point. Giedion is particularly impressed by the relationship in the Baroque between architecture and mathematics. He argues that both Guanni's San Lorenzo in Turin and Balthasar Neumann's Vierzehnheiligen in Bavaria employ three-dimensional curves that could not have been imagined without calculus. About 1830, Giedion notes, mathematics developed geometries ofmore than three dimensions, thereby preparing the ground for both the “simultaneity" of Cubist painting and Einstein's general theory of relativity, as developed in 1905.
+
+In his "Cubist Aesthetic Theories" (Ph.D dissertation, Harvard University, 1951), Christopher Gray shows that the Cubists were indeed interested in modern mathematical ideas of space,even though they possessed only a superficial understanding of these ideas. Gleizes and Metzinger wrote in Du cubisme of 1921 that geometry in Cubist painting should be referred to non-Euclidean geometries, particularly of the kind that was proposed by the Germanmathematician Georg Riemann. Such geometries emerged when mathematicians began to question Euclid's basic assumptions. Particularly important was the work of the Russian mathematician Nikolai lvanovich Lobachevsky,who challenged Euclid's fundamental axiom that parallel lines never meet. Drawing from visual experience and assuming that the surface of the lines would meet at infinity, aswas assumed in the development of perspective through qualitative rather than algorithmic analysis, Riemann proposed a notion of curved space not contained in other space,in which the curvature would bean internal feature of the space and not a result of surrounding conditions Riemann's geometry wasnot concerned with time in the sense of the "fourth dimension, as was commonly supposed by the Cubists. His geometry is significant, nonetheless, because it became the frameworkwithin which Einstein developed his general theory of relativity. For further elaboration of this complex issue, see Linda Dalrymple Henderson, The Fourth Dimensionand NonEuclidean Geometry in Modern Art (Princeton: Princeton University Press, 1983).
+
+#

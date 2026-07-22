@@ -1,0 +1,101 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Cinema as Information Space",
+      "description": "The interpretation of cinema as an interface to events taking place in 3D space, similar to how new media interfaces present dense information."
+    },
+    {
+      "id": "n2",
+      "label": "Aesthetics of Density",
+      "description": "A visual style characterized by a high density of information or objects, evident in web portals, GUI interfaces, and multi-layered digital films."
+    },
+    {
+      "id": "n3",
+      "label": "Dutch Painting (17th Century)",
+      "description": "A historical precursor to the aesthetics of density, focused on detailed description and cataloging objects rather than hierarchical narration."
+    },
+    {
+      "id": "n4",
+      "label": "Christian Boustani's Films",
+      "description": "Computer films that develop the aesthetics of density through digital compositing, using hundreds of layers to achieve unprecedented information density in cinema."
+    },
+    {
+      "id": "n5",
+      "label": "Digital Compositing",
+      "description": "A digital technique that enables the seamless combination of numerous layers and allows every detail to be in focus, overcoming the depth-of-field limits of analog cinema."
+    },
+    {
+      "id": "n6",
+      "label": "Spatial Montage",
+      "description": "A technique presenting multiple audio-visual streams simultaneously, akin to modern computer multi-tasking, challenging traditional temporal montage."
+    },
+    {
+      "id": "n7",
+      "label": "Cinema as a Code",
+      "description": "The realization that in the computer age, cinema and other cultural forms become digital code (data) used to communicate experiences."
+    },
+    {
+      "id": "n8",
+      "label": "ASCII Films (Vuk Cosic)",
+      "description": "Artworks that perform the new status of media as digital data by visibly displaying the ASCII code alongside the film image."
+    },
+    {
+      "id": "n9",
+      "label": "Media Translation",
+      "description": "The continuous process of translating media content between formats, often resurrected as obsolete media in net.art."
+    },
+    {
+      "id": "n10",
+      "label": "Cultural Open Source",
+      "description": "The effect of computerization that opens up traditional cultural techniques for redefinition, such as database challenging narrative and spatial montage challenging temporal montage."
+    }
+  ],
+  "edges": [
+    {
+      "source": "n1",
+      "target": "n2",
+      "label": "utilizes"
+    },
+    {
+      "source": "n3",
+      "target": "n2",
+      "label": "is a historical precursor to"
+    },
+    {
+      "source": "n4",
+      "target": "n2",
+      "label": "exemplifies"
+    },
+    {
+      "source": "n4",
+      "target": "n5",
+      "label": "achieved via"
+    },
+    {
+      "source": "n6",
+      "target": "n2",
+      "label": "is a spatial realization of"
+    },
+    {
+      "source": "n8",
+      "target": "n7",
+      "label": "stages and performs"
+    },
+    {
+      "source": "n8",
+      "target": "n9",
+      "label": "is an artistic example of"
+    },
+    {
+      "source": "n7",
+      "target": "n10",
+      "label": "enables"
+    },
+    {
+      "source": "n10",
+      "target": "n6",
+      "label": "promotes"
+    }
+  ]
+}

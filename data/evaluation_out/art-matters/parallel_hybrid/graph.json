@@ -1,0 +1,122 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "美学 (Aesthetics)",
+      "description": "将艺术作品视为感官把握对象的现代思维范式，导致艺术沦为纯粹的主观体验。",
+      "category": "思维模型: 现代派艺术观"
+    },
+    {
+      "id": "n2",
+      "label": "体验 (Experience)",
+      "description": "美学视角下对艺术的主观感悟，将艺术降级为供人消遣和自我享受的客体。",
+      "category": "原则: 审美沉思"
+    },
+    {
+      "id": "n3",
+      "label": "艺术的终结 (The End of Art)",
+      "description": "黑格尔的命题，认为在现代精神发展中，艺术已不再是真理展现其存在的最高形式。",
+      "category": "原则: 绝对精神的演进"
+    },
+    {
+      "id": "n4",
+      "label": "本体论艺术观 (Ontological Approach to Art)",
+      "description": "海德格尔对抗美学的观点，认为艺术的核心功能是揭示存在者的真理，而非提供审美愉悦。",
+      "category": "思维模型: 存在主义真理观"
+    },
+    {
+      "id": "n5",
+      "label": "真理作为无蔽 (Truth as Unconcealedness/Aletheia)",
+      "description": "真理并非仅仅是命题的符合，而是存在者自身敞开、去蔽的发生过程。",
+      "category": "思维模型: Aletheia真理观"
+    },
+    {
+      "id": "n6",
+      "label": "物 (Thing)",
+      "description": "艺术作品的基础存在形态。海德格尔批判了将物视为特征载体、感知对象或赋形质料的三种传统观点。",
+      "category": "思维模型: 物的本体论"
+    },
+    {
+      "id": "n7",
+      "label": "器具 (Equipment)",
+      "description": "以有用性和可靠性为特征的存在者（如农具鞋），其本质在艺术作品中被真正揭示。",
+      "category": "思维模型: 器具的存在"
+    },
+    {
+      "id": "n8",
+      "label": "大地 (Earth)",
+      "description": "幽暗、自我封闭、拒绝被完全解析的根基，是世界得以建立的基础。",
+      "category": "思维模型: 艺术的双重结构"
+    },
+    {
+      "id": "n9",
+      "label": "世界 (World)",
+      "description": "充满意义和关联的开放语境，人类在其中栖居和存在。",
+      "category": "思维模型: 艺术的双重结构"
+    },
+    {
+      "id": "n10",
+      "label": "世界与大地的争执 (The Strife of Earth and World)",
+      "description": "艺术作品内部的动态张力：世界试图敞开一切，而大地试图将一切拉回封闭的庇护之中。真理正是发生在这种争执中。",
+      "category": "思维模型: 艺术作品的内在动力"
+    },
+    {
+      "id": "n11",
+      "label": "伟大艺术 (Great Art)",
+      "description": "决定人类历史性存在、促成真理发生的艺术，超越了简单的消遣与装饰。",
+      "category": "原则: 艺术的最高天职"
+    }
+  ],
+  "edges": [
+    {
+      "source": "n3",
+      "target": "n1",
+      "relation": "导致了 (leads to)"
+    },
+    {
+      "source": "n1",
+      "target": "n2",
+      "relation": "以...为核心基础 (relies on)"
+    },
+    {
+      "source": "n4",
+      "target": "n1",
+      "relation": "批判与对抗 (critiques and opposes)"
+    },
+    {
+      "source": "n4",
+      "target": "n11",
+      "relation": "定义了 (defines)"
+    },
+    {
+      "source": "n11",
+      "target": "n5",
+      "relation": "促成了...的发生 (brings about)"
+    },
+    {
+      "source": "n11",
+      "target": "n10",
+      "relation": "体现为 (is embodied in)"
+    },
+    {
+      "source": "n10",
+      "target": "n9",
+      "relation": "建立了 (sets up)"
+    },
+    {
+      "source": "n10",
+      "target": "n8",
+      "relation": "揭示/回归于 (sets back into)"
+    },
+    {
+      "source": "n11",
+      "target": "n6",
+      "relation": "建立在...基础上 (is based on)"
+    },
+    {
+      "source": "n7",
+      "target": "n6",
+      "relation": "不同于 (is distinguished from)"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+[BREADCRUMB_CTX: 《Nicolas Bourriaud 1998 Relational Aesthetics》]
+
+![](images/91d186f4137313a11594619436df42a0ae20e9bb16f85f686b3ab5274e5400fe.jpg)
+
+![](images/aed8310d41195d79178e32bce2bbe64647da9827985bd049bbbbfafd837b7579.jpg)
+The theoretical Joint legacy tpresenceand ofFelix availability: Gonzalez-Torres
+
+![](images/513d0f9728d26ba1593634dc1f45e2ceca14bb9dc5141b75319be0695d77c0d0.jpg)
+
+![](images/f2270874c9c46319c1845644b095d7713d2844a6630920e2d466ca3b71ac9669.jpg)
+
+![](images/7f0035c16024e888ba85049e0fd26968a3504f75be3bbdbbf9712eb3309135a8.jpg)
+
+![](images/85a218fbfa8b44f167912c408708e67b8b4f7db0b0136cca27cf2d22afda3b21.jpg)
+
+![](images/cefd7adbb6d15be2a7138c23a7198bc39fc56b0901ed6467632ec322d5061362.jpg)
+
+![](images/eb4e27d9a22a71df6e08f13fc8d9a5780bc7acc44cbabb533d587ef233ac3879.jpg)
+
+![](images/d2ead0fb14d7beba4f3aa64625629ca89230b4d029fab568020825bf69a37475.jpg)
+
+![](images/369f6ad824cc7c161bba38d4f3ed1b9a67c7b5e57237315905a518ceec9ef69d.jpg)
+
+![](images/01b9a1113d0633eb7cb89df1c854678b1a8572cc524ec6487fc9fe912c8249db.jpg)
+
+![](images/53e63a2950d44ad50b3dcf2b729921989efd677a05475b7391c8849a1ed9019d.jpg)
+
+![](images/4cb8921d80c6b655a66b43e1b2aeec0537e8df949cc4cc03907838ae5bd43d4b.jpg)
+
+![](images/3e9f0131c0adca8679d9c0ccb9adab0e9a710a9be3681109161f8691ebd01949.jpg)
+
+![](images/2d430e2a2dc1ce68cf58846f0e299d2113dbd481c9c8519a7c53374a8b393f10.jpg)
+
+![](images/71a76530b4e43d1c5c1bb5639b2a3ae818d75e7fce6dd66437c8d4715ea5b539.jpg)

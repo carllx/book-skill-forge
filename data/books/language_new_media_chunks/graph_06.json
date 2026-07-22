@@ -1,0 +1,95 @@
+{
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Synthetic Realism",
+      "description": "The realistic representation of a different reality (cyborg/computer vision) rather than natural reality; conceptually pioneered by Georges Méliès.",
+      "mental_model": "Visual Illusionism"
+    },
+    {
+      "id": "n2",
+      "label": "Photorealism (Computer Graphics)",
+      "description": "The ability of computer imagery to simulate the photographic lens (including its artifacts like depth of field, motion blur) rather than direct human perception.",
+      "mental_model": "Visual Illusionism"
+    },
+    {
+      "id": "n3",
+      "label": "Jurassic Park (Aesthetic)",
+      "description": "The technique of artificially degrading perfect computer-generated graphics to match the grain and flaws of traditional film. Compared to Socialist Realism.",
+      "mental_model": "Aesthetics of Integration"
+    },
+    {
+      "id": "n4",
+      "label": "Socialist Realism",
+      "description": "The superimposition of a perfect, idealized future onto the flawed, everyday present, analogous to Jurassic Park blending perfect CG with grainy film.",
+      "mental_model": "Aesthetics of Integration"
+    },
+    {
+      "id": "n5",
+      "label": "Meta-realism",
+      "description": "A new realism based on the cyclical oscillation between an illusion and its suspension or destruction, typical of interactive media.",
+      "mental_model": "Interactivity and Illusion"
+    },
+    {
+      "id": "n6",
+      "label": "Phatic Function (Contact)",
+      "description": "Communication dominated by the physical channel and act of connection, evident in web delays and loading sequences where the machine reveals itself.",
+      "mental_model": "Interactivity and Illusion"
+    },
+    {
+      "id": "n7",
+      "label": "Cognitive Multitasking",
+      "description": "The rapid alternation between different kinds of attention and mental sets demanded by modern human-computer interfaces and interactive media.",
+      "mental_model": "Human-Computer Interaction"
+    },
+    {
+      "id": "n8",
+      "label": "Cinematic Realism",
+      "description": "A historical standard of illusionism striving for a total approximation of reality (Bazin) or a substitution of codes (Comolli) driven by industrial aims (Bordwell & Staiger).",
+      "mental_model": "Visual Illusionism"
+    },
+    {
+      "id": "n9",
+      "label": "Image-Interface / Image-Instrument",
+      "description": "Images transformed from passive representations into active tools that the user interacts with or uses to control reality.",
+      "mental_model": "Interactivity and Illusion"
+    }
+  ],
+  "edges": [
+    {
+      "source": "n1",
+      "target": "n2",
+      "label": "is realized through"
+    },
+    {
+      "source": "n2",
+      "target": "n8",
+      "label": "aims to simulate"
+    },
+    {
+      "source": "n3",
+      "target": "n4",
+      "label": "shares aesthetic logic with"
+    },
+    {
+      "source": "n3",
+      "target": "n1",
+      "label": "masks the perfection of"
+    },
+    {
+      "source": "n5",
+      "target": "n6",
+      "label": "incorporates"
+    },
+    {
+      "source": "n5",
+      "target": "n7",
+      "label": "requires from the user"
+    },
+    {
+      "source": "n9",
+      "target": "n5",
+      "label": "creates conditions for"
+    }
+  ]
+}

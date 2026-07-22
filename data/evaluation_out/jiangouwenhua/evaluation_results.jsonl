@@ -1,0 +1,3 @@
+{"timestamp": "2026-07-21T16:26:38.012878", "book_id": "jiangouwenhua", "recipe": "Graphify Only", "recall": 0.4, "precision": 0.35294117647058826, "usability": 0.8, "artifact_size_bytes": 4625}
+{"timestamp": "2026-07-21T16:41:44.792734", "book_id": "jiangouwenhua", "recipe": "Cangjie Only", "recall": 0.28125, "precision": 0.3333333333333333, "usability": 0.8666666666666666, "artifact_size_bytes": 3521}
+{"timestamp": "2026-07-21T16:42:33.162401", "book_id": "jiangouwenhua", "recipe": "Parallel Hybrid", "recall": 0.3898305084745763, "precision": 0.5714285714285714, "usability": 1.0, "artifact_size_bytes": 4719}
