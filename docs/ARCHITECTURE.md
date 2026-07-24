@@ -6,6 +6,7 @@ Book-Skill-Forge (BSF) 现已全面升级至 **V6 Native IDE Architecture**。
 
 ## 2. 核心目录规范 (V6 Native)
 本节为 V6 目录结构的**单一事实来源 (SSOT)**，严禁在其他文档重复解释。
+- **`src/ast_engine/`**: 基于 `markdown-it-py` 的 AST Runtime 引擎。采用访问者模式（包含 `BookToSkillVisitor`、`CangjieVisitor`、`GraphifyVisitor` 等），精准解析带有物理页码（如 `**[Page X]**`）的单文件 Markdown，实现结构化语义流的分离解析。
 - **`.agent/rules/`**: 沙盒隔离防线与反作弊约束规则库。强制锁定每个任务的访问边界。
 - **`.agent/workflows/`**: 声明式 LLM 驱动工作流目录，采用 `// turbo` 语法驱动并行和串行流水线，如 BSF 的主控调度器。
 - **`.agent/skills/`**: 存放所有按需懒加载 (Lazy Loading) 的专职智能体技能，包含：
